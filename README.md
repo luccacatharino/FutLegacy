@@ -59,4 +59,5 @@ Os torneios são históricos fictícios: misturam equipes de anos diferentes, n�
 
 O draft agora mostra um campo vertical clicável com posições específicas para 4-3-3, 4-4-2 e 3-5-2, ofertas em lista e resumo do time. Clique em uma vaga livre antes de escolher um jogador. As fotos de Messi, Cristiano Ronaldo, Mbappé e Neymar e as logos das competições ficam em `assets/`, sem chamadas externas para jogar. Fontes e licenças estão em `docs/CREDITOS.html` e `docs/asset-sources.json`.
 
-Pasta local principal desta entrega: `outputs/projetos/futlegacy/jogo`. Referências e versões anteriores ficam em pastas irmãs dentro de `projetos/futlegacy`.
+Pasta local principal desta entrega: `outputs/projetos/futlegacy`. Referências e versões anteriores ficam em subpastas dentro de `projetos/futlegacy`.
+
