@@ -1,4 +1,0 @@
-const fs=require('fs'),path=require('path');const teams=JSON.parse(fs.readFileSync(path.join(__dirname,'data/wc.json'))),root='C:/Users/lucca/OneDrive/Desktop/projetos/futlegacy/referencias/reformulacao/copa';
-const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’‘`]/g,"'");let issues=[];
-for(const t of teams){const title=decodeURIComponent(t.source.split('/wiki/')[1].split('#')[0]),file=path.join(root,title+'.json');if(!fs.existsSync(file)){issues.push({team:t.name,year:t.year,unavailable:true});continue}const api=JSON.parse(fs.readFileSync(file,'utf8').replace(/^\uFEFF/,''));let html=api.parse?.text?.['*']||'';let text=norm(html.replace(/<[^>]*>/g,' '));let missing=t.players.filter(p=>!text.includes(norm(p.name))).map(p=>p.name);if(missing.length)issues.push({team:t.name,year:t.year,missing})}
-console.log(JSON.stringify(issues,null,2));

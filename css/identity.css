@@ -8,3 +8,5 @@
 .roster-scope{grid-column:1/-1;margin:0 0 5px;font-size:9px}.roster-scope a{color:var(--ice)}
 
 @media(max-width:740px){.competition-grid{grid-template-columns:1fr}.competition{display:grid;grid-template-columns:68px 1fr;min-height:195px;gap:0 10px}.competition-top{grid-column:1/-1}.competition .icon{grid-column:1;grid-row:2/5;align-self:center;margin:10px 0}.competition-kicker,.competition>b,.competition>small{grid-column:2}.competition>b{font-size:24px}.competition>small{min-height:0}.competition-meta{grid-column:1/-1;margin-top:12px}}
+
+.portrait-glow{display:none}

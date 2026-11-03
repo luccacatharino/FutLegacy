@@ -4,7 +4,7 @@ Foram visitados o 7a0 e o ScoreFut pelo navegador, sem importar código ou arqui
 
 No 7a0, foram examinados o menu, as oito formações, o sorteio seleção/edição, as posições alternativas, a escolha de atleta seguida de posição, a montagem de onze e o início da campanha jogo a jogo com controle de velocidade. A oferta é liberada após posicionar; a revisão permite mexer nas posições.
 
-No ScoreFut, foram examinados o menu e suas contagens de conteúdo, os modos, a prévia de formação, o sorteio, a ficha dos onze, a escolha de atleta seguida das vagas compatíveis e a liberação da próxima rodada de escolha. A lista usa onze nomes por recorte em várias ofertas.
+No ScoreFut, foram examinados o menu e suas contagens de conteúdo, os modos, a prévia de formação, o sorteio, a ficha dos onze, a escolha de atleta seguida das vagas compatíveis e a liberação da próxima rodada de escolha. Um draft foi completado e a revisão, o início da competição, o campo animado, o placar e o grupo da Copa foram observados. A lista usa onze nomes por recorte em várias ofertas.
 
 O FutLegacy usa a praticidade de atleta → posição → novo elenco. Sua identidade usa composição própria, campo à esquerda, cartas em grade à direita, resumo em faixa inferior, cores de tinta/azul-gelo/cobre, tipografia do sistema e uma transmissão Canvas própria. O acervo e a ordenação são próprios, com fontes históricas independentes; as notas não foram copiadas dos jogos de referência.
 
