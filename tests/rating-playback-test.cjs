@@ -13,6 +13,7 @@ for(const p of FL.cards){let ceiling={lib:91,ucl:93,wc:93}[p.comp];
 }
 for(const [comp,year,name,ovr]of [['lib',1962,'Pelé',97],['lib',1963,'Pelé',97],['lib',2000,'Juan Román Riquelme',95],['ucl',2011,'Lionel Messi',99],['ucl',2017,'Cristiano Ronaldo',99],['wc',1970,'Pelé',99],['wc',1986,'Diego Maradona',99],['wc',2022,'Lionel Messi',98],['wc',2014,'Lionel Messi',93]])assert.equal(get(comp,year,name).ovr,ovr);
 assert.equal(FL.averageOvr([{ovr:80},{ovr:90},null]),85);assert.equal(FL.averageOvr([]),0);
+const leaders=FL.leaders({results:[{ids:['me','historical'],result:{goals:[{side:0,name:'Jogador',playerId:'same-card',assist:'Colega',assistId:'same-assist'},{side:1,name:'Jogador',playerId:'same-card',assist:'Colega',assistId:'same-assist'}]}}]});assert.equal(leaders.length,4);assert.equal(leaders.filter(p=>p.team==='me'&&p.goals===1).length,1);assert.equal(leaders.filter(p=>p.team==='historical'&&p.assists===1).length,1);
 assert.deepEqual([1,2,4].map(s=>FL.playback.duration(s)),[160,80,40]);
 const team=FL.teams.find(t=>t.comp==='ucl'&&t.year===2011),a={...team,...FL.matchLineup(team)},b={...a,id:'opponent'};
 const full=FL.simulate(a,b,123,'Equilibrado',true),skip=FL.simulate(a,b,123,'Equilibrado',false);assert.deepEqual(full.score,skip.score);assert.deepEqual(full.goals,skip.goals);assert.deepEqual(full.stats,skip.stats);
