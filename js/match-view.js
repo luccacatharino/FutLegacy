@@ -1,0 +1,17 @@
+'use strict';
+/* Canvas playback only. All destinations and actions come from the match engine. */
+FL.MatchView=class{
+ constructor(canvas,teams){this.canvas=canvas;this.ctx=canvas.getContext('2d');this.teams=teams;this.old=teams.map((t,s)=>FL.layouts[t.formation||'4-3-3'].map(([y,x])=>({x:s?x/100:1-x/100,y:y/100})));this.now=this.old;this.ball={x:.5,y:.5};this.from=this.ball;this.to=this.ball;this.started=performance.now();this.duration=500;this.live=true;this.loop()}
+ update(e,duration){this.old=this.current||this.now;this.now=e.positions;this.from=this.ball;this.to=e.to;this.event=e;this.started=performance.now();this.duration=duration}
+ stop(){this.live=false;cancelAnimationFrame(this.raf)}
+ loop(){if(!this.live)return;const ctx=this.ctx,w=this.canvas.width=1100,h=this.canvas.height=660,pad=48,fw=w-pad*2,fh=h-pad*2,X=x=>pad+x*fw,Y=y=>pad+y*fh;
+  ctx.fillStyle='#08131f';ctx.fillRect(0,0,w,h);for(let i=0;i<10;i++){ctx.fillStyle=i%2?'#153344':'#193b4d';ctx.fillRect(pad+i*fw/10,pad,fw/10,fh)}
+  ctx.strokeStyle='#b7d9e166';ctx.lineWidth=2;ctx.strokeRect(pad,pad,fw,fh);ctx.beginPath();ctx.moveTo(w/2,pad);ctx.lineTo(w/2,h-pad);ctx.arc(w/2,h/2,fh*.15,0,Math.PI*2);ctx.stroke();
+  for(const right of [false,true]){let x=right?w-pad:pad,dir=right?-1:1;ctx.strokeRect(x,Y(.20),dir*fw*.16,fh*.60);ctx.strokeRect(x,Y(.36),dir*fw*.055,fh*.28);ctx.strokeStyle='#ecf4f2aa';ctx.strokeRect(x,Y(.41),-dir*24,fh*.18);ctx.strokeStyle='#b7d9e144';for(let a=1;a<5;a++){ctx.beginPath();ctx.moveTo(x-dir*a*5,Y(.41));ctx.lineTo(x-dir*a*5,Y(.59));ctx.stroke()}for(let a=0;a<7;a++){ctx.beginPath();ctx.moveTo(x,Y(.41+a*.03));ctx.lineTo(x-dir*24,Y(.41+a*.03));ctx.stroke()}ctx.beginPath();ctx.arc(x+dir*fw*.11,h/2,3,0,7);ctx.fillStyle='#c6e7e5';ctx.fill();ctx.strokeStyle='#b7d9e166'}
+  const p=Math.min(1,(performance.now()-this.started)/this.duration),ease=p*p*(3-2*p);this.current=this.now.map((team,s)=>team.map((n,i)=>{let o=this.old[s][i];return {x:o.x+(n.x-o.x)*ease,y:o.y+(n.y-o.y)*ease}}));
+  this.current.forEach((team,s)=>team.forEach((pt,i)=>{let x=X(pt.x),y=Y(pt.y),gk=FL.positions(this.teams[s].cards[i]).includes('GOL');ctx.shadowColor='#0008';ctx.shadowBlur=8;ctx.shadowOffsetY=4;ctx.beginPath();ctx.arc(x,y,17,0,7);ctx.fillStyle=gk?'#dab976':s?'#ec856e':'#7bbfee';ctx.fill();ctx.shadowBlur=0;ctx.shadowOffsetY=0;ctx.strokeStyle='#f8f5ebcc';ctx.lineWidth=2;ctx.stroke();ctx.fillStyle='#09131f';ctx.font='bold 13px system-ui';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(gk?'G':i+1,x,y);if(this.event?.side===s&&this.event?.actor===i){ctx.strokeStyle='#f9edb5';ctx.lineWidth=2;ctx.beginPath();ctx.arc(x,y,23,0,7);ctx.stroke();ctx.fillStyle='#eff6f9';ctx.font='12px system-ui';ctx.fillText(this.teams[s].cards[i].name,x,y+33)}}));
+  let curve=this.event?.type==='Cruzamento'?Math.sin(p*Math.PI)*-.10:0;this.ball={x:this.from.x+(this.to.x-this.from.x)*ease,y:this.from.y+(this.to.y-this.from.y)*ease+curve};const bx=X(this.ball.x),by=Y(this.ball.y);ctx.fillStyle='#0005';ctx.beginPath();ctx.ellipse(bx,by+7,7,3,0,0,7);ctx.fill();ctx.fillStyle='#fff';ctx.beginPath();ctx.arc(bx,by,6,0,7);ctx.fill();ctx.fillStyle='#17232a';ctx.beginPath();ctx.arc(bx+Math.sin(p*10)*2,by,2.3,0,7);ctx.fill();
+  if(this.event?.type==='Gol'&&p<1){ctx.fillStyle='#e9c881';ctx.font='900 55px system-ui';ctx.textAlign='center';ctx.fillText('GOL!',w/2,90);for(let i=0;i<16;i++){ctx.fillStyle=i%2?'#7bbfee':'#e9c881';ctx.fillRect(bx+Math.cos(i*2.4)*p*100,by+Math.sin(i*2.4)*p*80,5,5)}}
+  this.raf=requestAnimationFrame(()=>this.loop())
+ }
+};
