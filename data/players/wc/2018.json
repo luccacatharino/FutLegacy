@@ -4,20 +4,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 79,
-      "dri": 45,
-      "def": 31,
-      "fis": 84,
-      "ref": 97,
-      "han": 93,
-      "pos": 94,
-      "div": 95,
-      "kic": 79,
-      "one": 92
+      "pas": 74,
+      "dri": 40,
+      "def": 26,
+      "fis": 79,
+      "ref": 92,
+      "han": 88,
+      "pos": 89,
+      "div": 90,
+      "kic": 74,
+      "one": 87
     },
     "id": "wc-franca-2018-hugo-lloris",
     "team": "França",
@@ -30,14 +30,14 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 92,
-      "fin": 66,
-      "pas": 90,
-      "dri": 87,
-      "def": 91,
-      "fis": 83
+      "vel": 86,
+      "fin": 60,
+      "pas": 84,
+      "dri": 81,
+      "def": 85,
+      "fis": 77
     },
     "id": "wc-franca-2018-benjamin-pavard",
     "team": "França",
@@ -49,14 +49,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 96,
+    "ovr": 91,
     "attrs": {
-      "vel": 78,
-      "fin": 61,
-      "pas": 78,
-      "dri": 66,
-      "def": 96,
-      "fis": 97
+      "vel": 73,
+      "fin": 56,
+      "pas": 73,
+      "dri": 61,
+      "def": 91,
+      "fis": 92
     },
     "id": "wc-franca-2018-raphael-varane",
     "team": "França",
@@ -68,14 +68,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 76,
-      "fin": 59,
-      "pas": 76,
-      "dri": 64,
-      "def": 94,
-      "fis": 95
+      "vel": 71,
+      "fin": 54,
+      "pas": 71,
+      "dri": 59,
+      "def": 89,
+      "fis": 90
     },
     "id": "wc-franca-2018-samuel-umtiti",
     "team": "França",
@@ -88,14 +88,14 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 95,
-      "fin": 69,
-      "pas": 86,
-      "dri": 90,
-      "def": 87,
-      "fis": 86
+      "vel": 89,
+      "fin": 63,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
     "id": "wc-franca-2018-lucas-hernandez",
     "team": "França",
@@ -108,14 +108,14 @@
       "VOL",
       "MC"
     ],
-    "ovr": 96,
+    "ovr": 91,
     "attrs": {
-      "vel": 85,
-      "fin": 75,
-      "pas": 99,
-      "dri": 88,
-      "def": 98,
-      "fis": 91
+      "vel": 80,
+      "fin": 70,
+      "pas": 94,
+      "dri": 83,
+      "def": 93,
+      "fis": 86
     },
     "id": "wc-franca-2018-n-golo-kante",
     "team": "França",
@@ -128,14 +128,14 @@
       "MC",
       "MEI"
     ],
-    "ovr": 95,
+    "ovr": 90,
     "attrs": {
-      "vel": 93,
-      "fin": 82,
-      "pas": 99,
-      "dri": 93,
-      "def": 79,
-      "fis": 83
+      "vel": 88,
+      "fin": 77,
+      "pas": 96,
+      "dri": 88,
+      "def": 74,
+      "fis": 78
     },
     "id": "wc-franca-2018-paul-pogba",
     "team": "França",
@@ -148,14 +148,14 @@
       "PD",
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 94,
     "attrs": {
       "vel": 99,
-      "fin": 95,
-      "pas": 94,
-      "dri": 98,
-      "def": 49,
-      "fis": 86
+      "fin": 92,
+      "pas": 91,
+      "dri": 95,
+      "def": 46,
+      "fis": 83
     },
     "id": "wc-franca-2018-kylian-mbappe",
     "team": "França",
@@ -168,14 +168,14 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 94,
     "attrs": {
-      "vel": 93,
-      "fin": 95,
-      "pas": 99,
-      "dri": 99,
-      "def": 52,
-      "fis": 82
+      "vel": 90,
+      "fin": 92,
+      "pas": 96,
+      "dri": 98,
+      "def": 49,
+      "fis": 79
     },
     "id": "wc-franca-2018-antoine-griezmann",
     "team": "França",
@@ -188,14 +188,14 @@
       "ME",
       "MC"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 96,
-      "fin": 81,
-      "pas": 90,
-      "dri": 96,
-      "def": 62,
-      "fis": 83
+      "vel": 90,
+      "fin": 75,
+      "pas": 84,
+      "dri": 90,
+      "def": 56,
+      "fis": 77
     },
     "id": "wc-franca-2018-blaise-matuidi",
     "team": "França",
@@ -207,14 +207,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 82,
-      "fin": 91,
-      "pas": 71,
-      "dri": 81,
-      "def": 42,
-      "fis": 83
+      "vel": 76,
+      "fin": 85,
+      "pas": 65,
+      "dri": 75,
+      "def": 36,
+      "fis": 77
     },
     "id": "wc-franca-2018-olivier-giroud",
     "team": "França",
@@ -226,20 +226,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 73,
-      "dri": 46,
-      "def": 25,
-      "fis": 85,
-      "ref": 96,
-      "han": 92,
-      "pos": 93,
-      "div": 94,
-      "kic": 78,
-      "one": 91
+      "pas": 67,
+      "dri": 40,
+      "def": 19,
+      "fis": 79,
+      "ref": 90,
+      "han": 86,
+      "pos": 87,
+      "div": 88,
+      "kic": 72,
+      "one": 85
     },
     "id": "wc-croacia-2018-danijel-subasic",
     "team": "Croácia",
@@ -251,14 +251,14 @@
     "positions": [
       "LD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 95,
-      "fin": 69,
-      "pas": 86,
-      "dri": 90,
-      "def": 87,
-      "fis": 86
+      "vel": 89,
+      "fin": 63,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
     "id": "wc-croacia-2018-sime-vrsaljko",
     "team": "Croácia",
@@ -270,14 +270,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 73,
-      "fin": 56,
-      "pas": 73,
-      "dri": 61,
-      "def": 91,
-      "fis": 92
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 85,
+      "fis": 86
     },
     "id": "wc-croacia-2018-dejan-lovren",
     "team": "Croácia",
@@ -289,14 +289,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 75,
-      "fin": 51,
-      "pas": 75,
-      "dri": 56,
-      "def": 93,
-      "fis": 94
+      "vel": 69,
+      "fin": 45,
+      "pas": 69,
+      "dri": 50,
+      "def": 87,
+      "fis": 88
     },
     "id": "wc-croacia-2018-domagoj-vida",
     "team": "Croácia",
@@ -308,14 +308,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 91,
-      "fin": 65,
-      "pas": 82,
-      "dri": 86,
-      "def": 83,
-      "fis": 82
+      "vel": 85,
+      "fin": 59,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
     "id": "wc-croacia-2018-ivan-strinic",
     "team": "Croácia",
@@ -328,14 +328,14 @@
       "VOL",
       "MC"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 86,
-      "fin": 69,
-      "pas": 93,
-      "dri": 82,
-      "def": 92,
-      "fis": 85
+      "vel": 80,
+      "fin": 63,
+      "pas": 87,
+      "dri": 76,
+      "def": 86,
+      "fis": 79
     },
     "id": "wc-croacia-2018-marcelo-brozovic",
     "team": "Croácia",
@@ -348,14 +348,14 @@
       "MC",
       "MEI"
     ],
-    "ovr": 98,
+    "ovr": 94,
     "attrs": {
-      "vel": 92,
-      "fin": 88,
-      "pas": 99,
-      "dri": 99,
-      "def": 78,
-      "fis": 89
+      "vel": 88,
+      "fin": 84,
+      "pas": 96,
+      "dri": 95,
+      "def": 74,
+      "fis": 85
     },
     "id": "wc-croacia-2018-luka-modric",
     "team": "Croácia",
@@ -368,14 +368,14 @@
       "MC",
       "MEI"
     ],
-    "ovr": 95,
+    "ovr": 90,
     "attrs": {
-      "vel": 90,
-      "fin": 86,
-      "pas": 98,
-      "dri": 97,
-      "def": 76,
-      "fis": 87
+      "vel": 85,
+      "fin": 81,
+      "pas": 93,
+      "dri": 92,
+      "def": 71,
+      "fis": 82
     },
     "id": "wc-croacia-2018-ivan-rakitic",
     "team": "Croácia",
@@ -388,14 +388,14 @@
       "PD",
       "PE"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 94,
-      "fin": 92,
-      "pas": 84,
-      "dri": 95,
-      "def": 39,
-      "fis": 76
+      "vel": 88,
+      "fin": 86,
+      "pas": 78,
+      "dri": 89,
+      "def": 33,
+      "fis": 70
     },
     "id": "wc-croacia-2018-ante-rebic",
     "team": "Croácia",
@@ -408,14 +408,14 @@
       "PE",
       "ME"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 99,
-      "fin": 91,
-      "pas": 90,
-      "dri": 99,
-      "def": 45,
-      "fis": 82
+      "vel": 95,
+      "fin": 86,
+      "pas": 85,
+      "dri": 96,
+      "def": 40,
+      "fis": 77
     },
     "id": "wc-croacia-2018-ivan-perisic",
     "team": "Croácia",
@@ -427,14 +427,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 91,
-      "fin": 93,
-      "pas": 80,
-      "dri": 90,
-      "def": 44,
-      "fis": 92
+      "vel": 85,
+      "fin": 87,
+      "pas": 74,
+      "dri": 84,
+      "def": 38,
+      "fis": 86
     },
     "id": "wc-croacia-2018-mario-mandzukic",
     "team": "Croácia",

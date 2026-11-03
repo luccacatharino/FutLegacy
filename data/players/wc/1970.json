@@ -4,20 +4,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 82,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 69,
-      "dri": 35,
-      "def": 21,
-      "fis": 74,
-      "ref": 88,
-      "han": 84,
-      "pos": 85,
-      "div": 86,
-      "kic": 70,
-      "one": 83
+      "pas": 66,
+      "dri": 32,
+      "def": 18,
+      "fis": 71,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 67,
+      "one": 80
     },
     "id": "wc-brasil-1970-felix",
     "team": "Brasil",
@@ -29,14 +29,14 @@
     "positions": [
       "LD"
     ],
-    "ovr": 96,
+    "ovr": 92,
     "attrs": {
       "vel": 99,
-      "fin": 70,
-      "pas": 94,
-      "dri": 91,
-      "def": 95,
-      "fis": 87
+      "fin": 66,
+      "pas": 90,
+      "dri": 87,
+      "def": 91,
+      "fis": 83
     },
     "id": "wc-brasil-1970-carlos-alberto",
     "team": "Brasil",
@@ -48,14 +48,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 69,
-      "dri": 57,
-      "def": 94,
-      "fis": 88
+      "vel": 64,
+      "fin": 47,
+      "pas": 64,
+      "dri": 52,
+      "def": 89,
+      "fis": 83
     },
     "id": "wc-brasil-1970-brito",
     "team": "Brasil",
@@ -68,14 +68,14 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 89,
+    "ovr": 86,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 76,
-      "dri": 57,
-      "def": 94,
-      "fis": 88
+      "vel": 66,
+      "fin": 49,
+      "pas": 73,
+      "dri": 54,
+      "def": 91,
+      "fis": 85
     },
     "id": "wc-brasil-1970-piazza",
     "team": "Brasil",
@@ -87,14 +87,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 86,
+    "ovr": 82,
     "attrs": {
-      "vel": 93,
-      "fin": 60,
-      "pas": 84,
-      "dri": 81,
-      "def": 85,
-      "fis": 77
+      "vel": 89,
+      "fin": 56,
+      "pas": 80,
+      "dri": 77,
+      "def": 81,
+      "fis": 73
     },
     "id": "wc-brasil-1970-everaldo",
     "team": "Brasil",
@@ -107,14 +107,14 @@
       "VOL",
       "MC"
     ],
-    "ovr": 91,
+    "ovr": 86,
     "attrs": {
-      "vel": 83,
-      "fin": 73,
-      "pas": 90,
-      "dri": 86,
-      "def": 89,
-      "fis": 89
+      "vel": 78,
+      "fin": 68,
+      "pas": 85,
+      "dri": 81,
+      "def": 84,
+      "fis": 84
     },
     "id": "wc-brasil-1970-clodoaldo",
     "team": "Brasil",
@@ -127,14 +127,14 @@
       "MC",
       "MEI"
     ],
-    "ovr": 96,
+    "ovr": 92,
     "attrs": {
-      "vel": 93,
-      "fin": 82,
-      "pas": 99,
-      "dri": 93,
-      "def": 79,
-      "fis": 90
+      "vel": 89,
+      "fin": 78,
+      "pas": 97,
+      "dri": 89,
+      "def": 75,
+      "fis": 86
     },
     "id": "wc-brasil-1970-gerson",
     "team": "Brasil",
@@ -147,14 +147,14 @@
       "PD",
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 95,
     "attrs": {
       "vel": 99,
-      "fin": 94,
-      "pas": 93,
+      "fin": 92,
+      "pas": 91,
       "dri": 99,
-      "def": 48,
-      "fis": 85
+      "def": 46,
+      "fis": 83
     },
     "id": "wc-brasil-1970-jairzinho",
     "team": "Brasil",
@@ -167,13 +167,13 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 99,
+    "ovr": 98,
     "attrs": {
       "vel": 93,
       "fin": 97,
       "pas": 94,
       "dri": 97,
-      "def": 56,
+      "def": 55,
       "fis": 85
     },
     "id": "wc-brasil-1970-pele",
@@ -187,14 +187,14 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 95,
+    "ovr": 93,
     "attrs": {
-      "vel": 90,
-      "fin": 99,
-      "pas": 79,
-      "dri": 89,
-      "def": 50,
-      "fis": 91
+      "vel": 88,
+      "fin": 97,
+      "pas": 77,
+      "dri": 87,
+      "def": 48,
+      "fis": 89
     },
     "id": "wc-brasil-1970-tostao",
     "team": "Brasil",
@@ -207,14 +207,14 @@
       "ME",
       "MEI"
     ],
-    "ovr": 95,
+    "ovr": 94,
     "attrs": {
-      "vel": 98,
-      "fin": 90,
-      "pas": 92,
-      "dri": 98,
-      "def": 64,
-      "fis": 85
+      "vel": 97,
+      "fin": 89,
+      "pas": 91,
+      "dri": 97,
+      "def": 63,
+      "fis": 84
     },
     "id": "wc-brasil-1970-rivellino",
     "team": "Brasil",
@@ -226,20 +226,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 72,
-      "dri": 38,
-      "def": 24,
-      "fis": 84,
-      "ref": 92,
-      "han": 88,
-      "pos": 89,
-      "div": 90,
-      "kic": 74,
-      "one": 87
+      "pas": 66,
+      "dri": 32,
+      "def": 18,
+      "fis": 78,
+      "ref": 86,
+      "han": 82,
+      "pos": 83,
+      "div": 84,
+      "kic": 68,
+      "one": 81
     },
     "id": "wc-italia-1970-enrico-albertosi",
     "team": "Itália",
@@ -252,14 +252,14 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 91,
-      "fin": 65,
-      "pas": 89,
-      "dri": 86,
-      "def": 90,
-      "fis": 82
+      "vel": 85,
+      "fin": 59,
+      "pas": 83,
+      "dri": 80,
+      "def": 84,
+      "fis": 76
     },
     "id": "wc-italia-1970-tarcisio-burgnich",
     "team": "Itália",
@@ -271,14 +271,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 48,
-      "pas": 72,
-      "dri": 60,
-      "def": 90,
-      "fis": 91
+      "vel": 66,
+      "fin": 42,
+      "pas": 66,
+      "dri": 54,
+      "def": 84,
+      "fis": 85
     },
     "id": "wc-italia-1970-roberto-rosato",
     "team": "Itália",
@@ -291,14 +291,14 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 48,
-      "pas": 72,
-      "dri": 53,
-      "def": 90,
-      "fis": 91
+      "vel": 66,
+      "fin": 42,
+      "pas": 66,
+      "dri": 47,
+      "def": 84,
+      "fis": 85
     },
     "id": "wc-italia-1970-pierluigi-cera",
     "team": "Itália",
@@ -310,14 +310,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 98,
-      "fin": 72,
-      "pas": 89,
-      "dri": 93,
-      "def": 90,
-      "fis": 89
+      "vel": 93,
+      "fin": 67,
+      "pas": 84,
+      "dri": 88,
+      "def": 85,
+      "fis": 84
     },
     "id": "wc-italia-1970-giacinto-facchetti",
     "team": "Itália",
@@ -330,14 +330,14 @@
       "VOL",
       "MC"
     ],
-    "ovr": 86,
+    "ovr": 80,
     "attrs": {
-      "vel": 75,
-      "fin": 65,
-      "pas": 89,
-      "dri": 78,
-      "def": 88,
-      "fis": 81
+      "vel": 69,
+      "fin": 59,
+      "pas": 83,
+      "dri": 72,
+      "def": 82,
+      "fis": 75
     },
     "id": "wc-italia-1970-mario-bertini",
     "team": "Itália",
@@ -350,14 +350,14 @@
       "MC",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
-      "vel": 84,
-      "fin": 80,
-      "pas": 92,
-      "dri": 91,
-      "def": 70,
-      "fis": 81
+      "vel": 78,
+      "fin": 74,
+      "pas": 86,
+      "dri": 85,
+      "def": 64,
+      "fis": 75
     },
     "id": "wc-italia-1970-giancarlo-de-sisti",
     "team": "Itália",
@@ -370,14 +370,14 @@
       "PD",
       "MD"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
-      "vel": 95,
-      "fin": 86,
-      "pas": 85,
-      "dri": 96,
-      "def": 40,
-      "fis": 77
+      "vel": 89,
+      "fin": 80,
+      "pas": 79,
+      "dri": 90,
+      "def": 34,
+      "fis": 71
     },
     "id": "wc-italia-1970-angelo-domenghini",
     "team": "Itália",
@@ -390,14 +390,14 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 89,
-      "fin": 91,
-      "pas": 95,
-      "dri": 97,
-      "def": 48,
-      "fis": 78
+      "vel": 83,
+      "fin": 85,
+      "pas": 89,
+      "dri": 91,
+      "def": 42,
+      "fis": 72
     },
     "id": "wc-italia-1970-sandro-mazzola",
     "team": "Itália",
@@ -409,14 +409,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 87,
-      "fin": 96,
-      "pas": 76,
-      "dri": 86,
-      "def": 47,
-      "fis": 88
+      "vel": 81,
+      "fin": 90,
+      "pas": 70,
+      "dri": 80,
+      "def": 41,
+      "fis": 82
     },
     "id": "wc-italia-1970-roberto-boninsegna",
     "team": "Itália",
@@ -429,14 +429,14 @@
       "ATA",
       "PE"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 94,
-      "fin": 96,
-      "pas": 83,
-      "dri": 86,
-      "def": 47,
-      "fis": 88
+      "vel": 89,
+      "fin": 91,
+      "pas": 78,
+      "dri": 81,
+      "def": 42,
+      "fis": 83
     },
     "id": "wc-italia-1970-gigi-riva",
     "team": "Itália",
@@ -448,20 +448,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 79,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 68,
-      "dri": 34,
-      "def": 20,
-      "fis": 80,
-      "ref": 88,
-      "han": 84,
-      "pos": 85,
-      "div": 86,
-      "kic": 70,
-      "one": 83
+      "pas": 62,
+      "dri": 28,
+      "def": 14,
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 79,
+      "div": 80,
+      "kic": 64,
+      "one": 77
     },
     "id": "wc-peru-1970-luis-rubinos",
     "team": "Peru",
@@ -473,14 +473,14 @@
     "positions": [
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 78,
     "attrs": {
-      "vel": 87,
-      "fin": 61,
-      "pas": 78,
-      "dri": 82,
-      "def": 79,
-      "fis": 78
+      "vel": 81,
+      "fin": 55,
+      "pas": 72,
+      "dri": 76,
+      "def": 73,
+      "fis": 72
     },
     "id": "wc-peru-1970-eloy-campos",
     "team": "Peru",
@@ -492,14 +492,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 77,
-      "fin": 53,
-      "pas": 77,
-      "dri": 65,
-      "def": 95,
-      "fis": 96
+      "vel": 71,
+      "fin": 47,
+      "pas": 71,
+      "dri": 59,
+      "def": 89,
+      "fis": 90
     },
     "id": "wc-peru-1970-hector-chumpitaz",
     "team": "Peru",
@@ -511,14 +511,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 88,
-      "fin": 62,
-      "pas": 86,
-      "dri": 83,
-      "def": 87,
-      "fis": 79
+      "vel": 82,
+      "fin": 56,
+      "pas": 80,
+      "dri": 77,
+      "def": 81,
+      "fis": 73
     },
     "id": "wc-peru-1970-nicolas-fuentes",
     "team": "Peru",
@@ -530,14 +530,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 80,
     "attrs": {
-      "vel": 68,
-      "fin": 51,
-      "pas": 68,
-      "dri": 56,
-      "def": 86,
-      "fis": 87
+      "vel": 62,
+      "fin": 45,
+      "pas": 62,
+      "dri": 50,
+      "def": 80,
+      "fis": 81
     },
     "id": "wc-peru-1970-orlando-de-la-torre",
     "team": "Peru",
@@ -550,14 +550,14 @@
       "MC",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 88,
-      "fin": 77,
-      "pas": 96,
-      "dri": 88,
-      "def": 74,
-      "fis": 78
+      "vel": 82,
+      "fin": 71,
+      "pas": 90,
+      "dri": 82,
+      "def": 68,
+      "fis": 72
     },
     "id": "wc-peru-1970-roberto-challe",
     "team": "Peru",
@@ -570,14 +570,14 @@
       "VOL",
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 82,
-      "fin": 72,
-      "pas": 89,
-      "dri": 85,
-      "def": 88,
-      "fis": 88
+      "vel": 76,
+      "fin": 66,
+      "pas": 83,
+      "dri": 79,
+      "def": 82,
+      "fis": 82
     },
     "id": "wc-peru-1970-ramon-mifflin",
     "team": "Peru",
@@ -589,14 +589,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 90,
-      "fin": 92,
-      "pas": 79,
-      "dri": 82,
-      "def": 43,
-      "fis": 91
+      "vel": 84,
+      "fin": 86,
+      "pas": 73,
+      "dri": 76,
+      "def": 37,
+      "fis": 85
     },
     "id": "wc-peru-1970-pedro-pablo-leon",
     "team": "Peru",
@@ -609,14 +609,14 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 96,
+    "ovr": 91,
     "attrs": {
-      "vel": 90,
-      "fin": 92,
-      "pas": 99,
-      "dri": 98,
-      "def": 56,
-      "fis": 79
+      "vel": 85,
+      "fin": 87,
+      "pas": 98,
+      "dri": 93,
+      "def": 51,
+      "fis": 74
     },
     "id": "wc-peru-1970-teofilo-cubillas",
     "team": "Peru",
@@ -629,14 +629,14 @@
       "ATA",
       "PE"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 90,
-      "fin": 92,
-      "pas": 79,
-      "dri": 82,
-      "def": 43,
-      "fis": 84
+      "vel": 84,
+      "fin": 86,
+      "pas": 73,
+      "dri": 76,
+      "def": 37,
+      "fis": 78
     },
     "id": "wc-peru-1970-hugo-sotil",
     "team": "Peru",
@@ -649,14 +649,14 @@
       "PE",
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 98,
-      "fin": 89,
-      "pas": 88,
-      "dri": 99,
-      "def": 43,
-      "fis": 80
+      "vel": 92,
+      "fin": 83,
+      "pas": 82,
+      "dri": 93,
+      "def": 37,
+      "fis": 74
     },
     "id": "wc-peru-1970-alberto-gallardo",
     "team": "Peru",

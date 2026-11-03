@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-03T19:39:59.421Z",
+  "generatedAt": "2026-11-03T19:48:06.830Z",
   "competitions": {
     "lib": {
       "name": "Libertadores",
+      "ratingDistribution": {
+        "mean": 84.98793859649123,
+        "atLeast90": 151,
+        "atLeast95": 15
+      },
       "clubs": 28,
       "squads": 55,
       "years": [
@@ -85,6 +90,11 @@
     },
     "ucl": {
       "name": "Champions League",
+      "ratingDistribution": {
+        "mean": 85.61389961389962,
+        "atLeast90": 210,
+        "atLeast95": 38
+      },
       "clubs": 24,
       "squads": 48,
       "years": [
@@ -159,6 +169,11 @@
     },
     "wc": {
       "name": "Copa do Mundo",
+      "ratingDistribution": {
+        "mean": 85.54727793696276,
+        "atLeast90": 150,
+        "atLeast95": 23
+      },
       "clubs": 32,
       "squads": 63,
       "years": [

@@ -9,3 +9,7 @@ Libertadores: notas individuais da campanha e atributos estimados por função/O
 Não há multiplicação automática de força por raridade. A raridade pertence ao elenco daquela temporada e só regula a frequência do sorteio. A escala é editorial e ainda pode receber revisões de equilíbrio com evidências.
 
 Ver fontes e limitações em FONTES.md e PENDENCIAS.md.
+
+## Revisão 3.1 — escala comum
+
+A média das cartas da Copa foi harmonizada de 90,4 para 85,5, próxima de 85,0 na Libertadores e 85,6 na Champions. Apenas 23 das 698 cartas da Copa têm 95 ou mais. Foram revisadas explicitamente as principais campanhas de Brasil, Argentina 1986, Suécia 1994, Portugal 1966, Alemanha 2014, França 1998 e Espanha 2010, além de protagonistas de outras seleções. A raridade não foi usada para atribuir OVR.

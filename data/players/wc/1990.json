@@ -4,20 +4,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 72,
-      "dri": 45,
-      "def": 24,
-      "fis": 84,
-      "ref": 94,
-      "han": 90,
-      "pos": 91,
-      "div": 92,
-      "kic": 76,
-      "one": 89
+      "pas": 66,
+      "dri": 39,
+      "def": 18,
+      "fis": 78,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 70,
+      "one": 83
     },
     "id": "wc-alemanha-1990-bodo-illgner",
     "team": "Alemanha",
@@ -30,14 +30,14 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
-      "vel": 92,
-      "fin": 66,
-      "pas": 83,
-      "dri": 87,
-      "def": 84,
-      "fis": 83
+      "vel": 86,
+      "fin": 60,
+      "pas": 77,
+      "dri": 81,
+      "def": 78,
+      "fis": 77
     },
     "id": "wc-alemanha-1990-thomas-berthold",
     "team": "Alemanha",
@@ -49,14 +49,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 72,
-      "fin": 55,
-      "pas": 79,
-      "dri": 60,
-      "def": 97,
-      "fis": 91
+      "vel": 66,
+      "fin": 49,
+      "pas": 73,
+      "dri": 54,
+      "def": 91,
+      "fis": 85
     },
     "id": "wc-alemanha-1990-klaus-augenthaler",
     "team": "Alemanha",
@@ -68,14 +68,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 80,
-      "fin": 56,
-      "pas": 80,
-      "dri": 61,
-      "def": 98,
-      "fis": 92
+      "vel": 75,
+      "fin": 51,
+      "pas": 75,
+      "dri": 56,
+      "def": 93,
+      "fis": 87
     },
     "id": "wc-alemanha-1990-jurgen-kohler",
     "team": "Alemanha",
@@ -88,14 +88,14 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 73,
-      "fin": 56,
-      "pas": 73,
-      "dri": 61,
-      "def": 91,
-      "fis": 92
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 85,
+      "fis": 86
     },
     "id": "wc-alemanha-1990-guido-buchwald",
     "team": "Alemanha",
@@ -108,14 +108,14 @@
       "LE",
       "ME"
     ],
-    "ovr": 95,
+    "ovr": 90,
     "attrs": {
-      "vel": 99,
-      "fin": 69,
-      "pas": 93,
-      "dri": 90,
-      "def": 94,
-      "fis": 86
+      "vel": 97,
+      "fin": 64,
+      "pas": 88,
+      "dri": 85,
+      "def": 89,
+      "fis": 81
     },
     "id": "wc-alemanha-1990-andreas-brehme",
     "team": "Alemanha",
@@ -128,14 +128,14 @@
       "MC",
       "VOL"
     ],
-    "ovr": 98,
+    "ovr": 95,
     "attrs": {
-      "vel": 93,
-      "fin": 89,
-      "pas": 99,
-      "dri": 99,
-      "def": 79,
-      "fis": 90
+      "vel": 90,
+      "fin": 86,
+      "pas": 98,
+      "dri": 97,
+      "def": 76,
+      "fis": 87
     },
     "id": "wc-alemanha-1990-lothar-matthaus",
     "team": "Alemanha",
@@ -148,14 +148,14 @@
       "MEI",
       "MD"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 86,
-      "fin": 88,
-      "pas": 99,
-      "dri": 94,
-      "def": 52,
-      "fis": 75
+      "vel": 80,
+      "fin": 82,
+      "pas": 93,
+      "dri": 88,
+      "def": 46,
+      "fis": 69
     },
     "id": "wc-alemanha-1990-thomas-ha-ler",
     "team": "Alemanha",
@@ -168,14 +168,14 @@
       "MEI",
       "PD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 87,
-      "fin": 89,
-      "pas": 93,
-      "dri": 95,
-      "def": 46,
-      "fis": 76
+      "vel": 81,
+      "fin": 83,
+      "pas": 87,
+      "dri": 89,
+      "def": 40,
+      "fis": 70
     },
     "id": "wc-alemanha-1990-pierre-littbarski",
     "team": "Alemanha",
@@ -187,14 +187,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 91,
-      "fin": 99,
-      "pas": 80,
-      "dri": 90,
-      "def": 44,
-      "fis": 92
+      "vel": 86,
+      "fin": 95,
+      "pas": 75,
+      "dri": 85,
+      "def": 39,
+      "fis": 87
     },
     "id": "wc-alemanha-1990-jurgen-klinsmann",
     "team": "Alemanha",
@@ -206,14 +206,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 89,
-      "fin": 98,
-      "pas": 78,
-      "dri": 88,
-      "def": 42,
-      "fis": 90
+      "vel": 83,
+      "fin": 92,
+      "pas": 72,
+      "dri": 82,
+      "def": 36,
+      "fis": 84
     },
     "id": "wc-alemanha-1990-rudi-voller",
     "team": "Alemanha",
@@ -225,20 +225,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 95,
+    "ovr": 90,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 75,
-      "dri": 48,
-      "def": 27,
-      "fis": 87,
-      "ref": 98,
-      "han": 94,
-      "pos": 95,
-      "div": 96,
-      "kic": 80,
-      "one": 93
+      "pas": 70,
+      "dri": 43,
+      "def": 22,
+      "fis": 82,
+      "ref": 93,
+      "han": 89,
+      "pos": 90,
+      "div": 91,
+      "kic": 75,
+      "one": 88
     },
     "id": "wc-argentina-1990-sergio-goycochea",
     "team": "Argentina",
@@ -250,14 +250,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 69,
-      "dri": 57,
-      "def": 87,
-      "fis": 88
+      "vel": 63,
+      "fin": 46,
+      "pas": 63,
+      "dri": 51,
+      "def": 81,
+      "fis": 82
     },
     "id": "wc-argentina-1990-juan-simon",
     "team": "Argentina",
@@ -270,14 +270,14 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 85,
+    "ovr": 79,
     "attrs": {
-      "vel": 68,
-      "fin": 51,
-      "pas": 68,
-      "dri": 56,
-      "def": 86,
-      "fis": 87
+      "vel": 62,
+      "fin": 45,
+      "pas": 62,
+      "dri": 50,
+      "def": 80,
+      "fis": 81
     },
     "id": "wc-argentina-1990-jose-serrizuela",
     "team": "Argentina",
@@ -289,14 +289,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 71,
-      "fin": 54,
-      "pas": 71,
-      "dri": 59,
-      "def": 96,
-      "fis": 90
+      "vel": 65,
+      "fin": 48,
+      "pas": 65,
+      "dri": 53,
+      "def": 90,
+      "fis": 84
     },
     "id": "wc-argentina-1990-oscar-ruggeri",
     "team": "Argentina",
@@ -308,14 +308,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 76,
     "attrs": {
-      "vel": 66,
-      "fin": 42,
-      "pas": 66,
-      "dri": 54,
-      "def": 84,
-      "fis": 85
+      "vel": 60,
+      "fin": 36,
+      "pas": 60,
+      "dri": 48,
+      "def": 78,
+      "fis": 79
     },
     "id": "wc-argentina-1990-nestor-lorenzo",
     "team": "Argentina",
@@ -328,14 +328,14 @@
       "LD",
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 91,
-      "fin": 65,
-      "pas": 82,
-      "dri": 86,
-      "def": 83,
-      "fis": 82
+      "vel": 85,
+      "fin": 59,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
     "id": "wc-argentina-1990-roberto-sensini",
     "team": "Argentina",
@@ -348,14 +348,14 @@
       "MD",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 79,
     "attrs": {
-      "vel": 89,
-      "fin": 74,
-      "pas": 83,
-      "dri": 89,
-      "def": 55,
-      "fis": 76
+      "vel": 83,
+      "fin": 68,
+      "pas": 77,
+      "dri": 83,
+      "def": 49,
+      "fis": 70
     },
     "id": "wc-argentina-1990-jose-basualdo",
     "team": "Argentina",
@@ -368,14 +368,14 @@
       "MC",
       "VOL"
     ],
-    "ovr": 84,
+    "ovr": 78,
     "attrs": {
-      "vel": 76,
-      "fin": 72,
-      "pas": 91,
-      "dri": 83,
-      "def": 69,
-      "fis": 73
+      "vel": 70,
+      "fin": 66,
+      "pas": 85,
+      "dri": 77,
+      "def": 63,
+      "fis": 67
     },
     "id": "wc-argentina-1990-pedro-troglio",
     "team": "Argentina",
@@ -388,14 +388,14 @@
       "MEI",
       "MD"
     ],
-    "ovr": 88,
+    "ovr": 82,
     "attrs": {
-      "vel": 84,
-      "fin": 86,
-      "pas": 90,
-      "dri": 92,
-      "def": 43,
-      "fis": 73
+      "vel": 78,
+      "fin": 80,
+      "pas": 84,
+      "dri": 86,
+      "def": 37,
+      "fis": 67
     },
     "id": "wc-argentina-1990-jorge-burruchaga",
     "team": "Argentina",
@@ -408,13 +408,13 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
       "vel": 90,
       "fin": 92,
       "pas": 95,
       "dri": 99,
-      "def": 52,
+      "def": 46,
       "fis": 77
     },
     "id": "wc-argentina-1990-diego-maradona",
@@ -427,14 +427,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 75,
     "attrs": {
-      "vel": 79,
-      "fin": 81,
-      "pas": 68,
-      "dri": 78,
-      "def": 32,
-      "fis": 80
+      "vel": 73,
+      "fin": 75,
+      "pas": 62,
+      "dri": 72,
+      "def": 26,
+      "fis": 74
     },
     "id": "wc-argentina-1990-gustavo-dezotti",
     "team": "Argentina",
@@ -446,20 +446,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 71,
-      "dri": 44,
-      "def": 23,
-      "fis": 83,
-      "ref": 94,
-      "han": 90,
-      "pos": 91,
-      "div": 92,
-      "kic": 76,
-      "one": 89
+      "pas": 65,
+      "dri": 38,
+      "def": 17,
+      "fis": 77,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 70,
+      "one": 83
     },
     "id": "wc-camaroes-1990-thomas-n-kono",
     "team": "Camarões",
@@ -471,14 +471,14 @@
     "positions": [
       "LD"
     ],
-    "ovr": 86,
+    "ovr": 80,
     "attrs": {
-      "vel": 92,
-      "fin": 59,
-      "pas": 83,
-      "dri": 80,
-      "def": 84,
-      "fis": 83
+      "vel": 86,
+      "fin": 53,
+      "pas": 77,
+      "dri": 74,
+      "def": 78,
+      "fis": 77
     },
     "id": "wc-camaroes-1990-stephen-tataw",
     "team": "Camarões",
@@ -491,14 +491,14 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 88,
+    "ovr": 82,
     "attrs": {
-      "vel": 71,
-      "fin": 54,
-      "pas": 71,
-      "dri": 59,
-      "def": 89,
-      "fis": 90
+      "vel": 65,
+      "fin": 48,
+      "pas": 65,
+      "dri": 53,
+      "def": 83,
+      "fis": 84
     },
     "id": "wc-camaroes-1990-emmanuel-kunde",
     "team": "Camarões",
@@ -511,14 +511,14 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 85,
+    "ovr": 79,
     "attrs": {
-      "vel": 65,
-      "fin": 48,
-      "pas": 72,
-      "dri": 53,
-      "def": 90,
-      "fis": 84
+      "vel": 59,
+      "fin": 42,
+      "pas": 66,
+      "dri": 47,
+      "def": 84,
+      "fis": 78
     },
     "id": "wc-camaroes-1990-andre-kana-biyik",
     "team": "Camarões",
@@ -530,14 +530,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 77,
     "attrs": {
-      "vel": 67,
-      "fin": 43,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 61,
+      "fin": 37,
+      "pas": 61,
+      "dri": 49,
+      "def": 79,
+      "fis": 80
     },
     "id": "wc-camaroes-1990-jules-onana",
     "team": "Camarões",
@@ -549,14 +549,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 78,
     "attrs": {
-      "vel": 88,
-      "fin": 62,
-      "pas": 79,
-      "dri": 83,
-      "def": 80,
-      "fis": 79
+      "vel": 82,
+      "fin": 56,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
     "id": "wc-camaroes-1990-bertin-ebwelle",
     "team": "Camarões",
@@ -568,14 +568,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 76,
     "attrs": {
-      "vel": 66,
-      "fin": 42,
-      "pas": 66,
-      "dri": 54,
-      "def": 84,
-      "fis": 85
+      "vel": 60,
+      "fin": 36,
+      "pas": 60,
+      "dri": 48,
+      "def": 78,
+      "fis": 79
     },
     "id": "wc-camaroes-1990-benjamin-massing",
     "team": "Camarões",
@@ -588,14 +588,14 @@
       "MC",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 80,
-      "fin": 76,
-      "pas": 88,
-      "dri": 87,
-      "def": 73,
-      "fis": 77
+      "vel": 74,
+      "fin": 70,
+      "pas": 82,
+      "dri": 81,
+      "def": 67,
+      "fis": 71
     },
     "id": "wc-camaroes-1990-cyrille-makanaky",
     "team": "Camarões",
@@ -608,14 +608,14 @@
       "MC",
       "ME"
     ],
-    "ovr": 85,
+    "ovr": 79,
     "attrs": {
-      "vel": 77,
-      "fin": 73,
-      "pas": 92,
-      "dri": 84,
-      "def": 70,
-      "fis": 74
+      "vel": 71,
+      "fin": 67,
+      "pas": 86,
+      "dri": 78,
+      "def": 64,
+      "fis": 68
     },
     "id": "wc-camaroes-1990-louis-paul-m-fede",
     "team": "Camarões",
@@ -627,14 +627,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 87,
-      "fin": 96,
-      "pas": 76,
-      "dri": 86,
-      "def": 40,
-      "fis": 88
+      "vel": 81,
+      "fin": 90,
+      "pas": 70,
+      "dri": 80,
+      "def": 34,
+      "fis": 82
     },
     "id": "wc-camaroes-1990-francois-omam-biyik",
     "team": "Camarões",
@@ -647,14 +647,14 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 94,
+    "ovr": 91,
     "attrs": {
-      "vel": 90,
-      "fin": 99,
-      "pas": 79,
-      "dri": 89,
-      "def": 43,
-      "fis": 91
+      "vel": 87,
+      "fin": 96,
+      "pas": 76,
+      "dri": 86,
+      "def": 40,
+      "fis": 88
     },
     "id": "wc-camaroes-1990-roger-milla",
     "team": "Camarões",
@@ -666,20 +666,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 71,
-      "dri": 44,
-      "def": 30,
-      "fis": 83,
-      "ref": 95,
-      "han": 91,
-      "pos": 92,
-      "div": 93,
-      "kic": 77,
-      "one": 90
+      "pas": 65,
+      "dri": 38,
+      "def": 24,
+      "fis": 77,
+      "ref": 89,
+      "han": 85,
+      "pos": 86,
+      "div": 87,
+      "kic": 71,
+      "one": 84
     },
     "id": "wc-irlanda-1990-packie-bonner",
     "team": "Irlanda",
@@ -691,14 +691,14 @@
     "positions": [
       "LD"
     ],
-    "ovr": 86,
+    "ovr": 80,
     "attrs": {
-      "vel": 91,
-      "fin": 58,
-      "pas": 82,
-      "dri": 86,
-      "def": 83,
-      "fis": 82
+      "vel": 85,
+      "fin": 52,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
     "id": "wc-irlanda-1990-chris-morris",
     "team": "Irlanda",
@@ -710,14 +710,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
-      "vel": 73,
-      "fin": 49,
-      "pas": 73,
-      "dri": 61,
-      "def": 91,
-      "fis": 92
+      "vel": 67,
+      "fin": 43,
+      "pas": 67,
+      "dri": 55,
+      "def": 85,
+      "fis": 86
     },
     "id": "wc-irlanda-1990-mick-mccarthy",
     "team": "Irlanda",
@@ -729,14 +729,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 82,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 69,
-      "dri": 57,
-      "def": 94,
-      "fis": 88
+      "vel": 63,
+      "fin": 46,
+      "pas": 63,
+      "dri": 51,
+      "def": 88,
+      "fis": 82
     },
     "id": "wc-irlanda-1990-david-o-leary",
     "team": "Irlanda",
@@ -748,14 +748,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
-      "vel": 94,
-      "fin": 61,
-      "pas": 85,
-      "dri": 89,
-      "def": 86,
-      "fis": 85
+      "vel": 88,
+      "fin": 55,
+      "pas": 79,
+      "dri": 83,
+      "def": 80,
+      "fis": 79
     },
     "id": "wc-irlanda-1990-steve-staunton",
     "team": "Irlanda",
@@ -768,14 +768,14 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 88,
-      "fin": 71,
-      "pas": 95,
-      "dri": 84,
-      "def": 94,
-      "fis": 87
+      "vel": 82,
+      "fin": 65,
+      "pas": 89,
+      "dri": 78,
+      "def": 88,
+      "fis": 81
     },
     "id": "wc-irlanda-1990-paul-mcgrath",
     "team": "Irlanda",
@@ -788,14 +788,14 @@
       "MC",
       "ME"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
-      "vel": 85,
-      "fin": 74,
-      "pas": 93,
-      "dri": 92,
-      "def": 71,
-      "fis": 82
+      "vel": 79,
+      "fin": 68,
+      "pas": 87,
+      "dri": 86,
+      "def": 65,
+      "fis": 76
     },
     "id": "wc-irlanda-1990-andy-townsend",
     "team": "Irlanda",
@@ -808,14 +808,14 @@
       "MD",
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 90,
-      "fin": 82,
-      "pas": 91,
-      "dri": 90,
-      "def": 63,
-      "fis": 77
+      "vel": 84,
+      "fin": 76,
+      "pas": 85,
+      "dri": 84,
+      "def": 57,
+      "fis": 71
     },
     "id": "wc-irlanda-1990-ray-houghton",
     "team": "Irlanda",
@@ -828,14 +828,14 @@
       "ME",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 93,
-      "fin": 85,
-      "pas": 87,
-      "dri": 93,
-      "def": 59,
-      "fis": 80
+      "vel": 87,
+      "fin": 79,
+      "pas": 81,
+      "dri": 87,
+      "def": 53,
+      "fis": 74
     },
     "id": "wc-irlanda-1990-kevin-sheedy",
     "team": "Irlanda",
@@ -847,14 +847,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 79,
     "attrs": {
-      "vel": 80,
-      "fin": 89,
-      "pas": 69,
-      "dri": 79,
-      "def": 40,
-      "fis": 81
+      "vel": 74,
+      "fin": 83,
+      "pas": 63,
+      "dri": 73,
+      "def": 34,
+      "fis": 75
     },
     "id": "wc-irlanda-1990-tony-cascarino",
     "team": "Irlanda",
@@ -866,14 +866,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 70,
-      "dri": 80,
-      "def": 41,
-      "fis": 82
+      "vel": 75,
+      "fin": 84,
+      "pas": 64,
+      "dri": 74,
+      "def": 35,
+      "fis": 76
     },
     "id": "wc-irlanda-1990-niall-quinn",
     "team": "Irlanda",

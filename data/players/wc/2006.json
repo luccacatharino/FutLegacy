@@ -4,20 +4,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 98,
+    "ovr": 95,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 83,
-      "dri": 49,
-      "def": 35,
-      "fis": 88,
-      "ref": 99,
-      "han": 97,
-      "pos": 98,
-      "div": 99,
-      "kic": 83,
-      "one": 96
+      "pas": 80,
+      "dri": 46,
+      "def": 32,
+      "fis": 85,
+      "ref": 98,
+      "han": 94,
+      "pos": 95,
+      "div": 96,
+      "kic": 80,
+      "one": 93
     },
     "id": "wc-italia-2006-gianluigi-buffon",
     "team": "Itália",
@@ -30,14 +30,14 @@
       "LD",
       "LE"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 99,
-      "fin": 68,
-      "pas": 92,
-      "dri": 89,
-      "def": 93,
-      "fis": 85
+      "vel": 96,
+      "fin": 63,
+      "pas": 87,
+      "dri": 84,
+      "def": 88,
+      "fis": 80
     },
     "id": "wc-italia-2006-gianluca-zambrotta",
     "team": "Itália",
@@ -49,14 +49,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 98,
+    "ovr": 94,
     "attrs": {
-      "vel": 84,
-      "fin": 60,
-      "pas": 84,
-      "dri": 65,
-      "def": 99,
-      "fis": 96
+      "vel": 80,
+      "fin": 56,
+      "pas": 80,
+      "dri": 61,
+      "def": 98,
+      "fis": 92
     },
     "id": "wc-italia-2006-fabio-cannavaro",
     "team": "Itália",
@@ -68,14 +68,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 77,
-      "fin": 53,
-      "pas": 77,
-      "dri": 65,
-      "def": 95,
-      "fis": 96
+      "vel": 71,
+      "fin": 47,
+      "pas": 71,
+      "dri": 59,
+      "def": 89,
+      "fis": 90
     },
     "id": "wc-italia-2006-marco-materazzi",
     "team": "Itália",
@@ -87,14 +87,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 96,
-      "fin": 70,
-      "pas": 87,
-      "dri": 91,
-      "def": 88,
-      "fis": 87
+      "vel": 90,
+      "fin": 64,
+      "pas": 81,
+      "dri": 85,
+      "def": 82,
+      "fis": 81
     },
     "id": "wc-italia-2006-fabio-grosso",
     "team": "Itália",
@@ -107,14 +107,14 @@
       "VOL",
       "MC"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 88,
-      "fin": 71,
-      "pas": 95,
-      "dri": 84,
-      "def": 94,
-      "fis": 94
+      "vel": 83,
+      "fin": 66,
+      "pas": 90,
+      "dri": 79,
+      "def": 89,
+      "fis": 89
     },
     "id": "wc-italia-2006-gennaro-gattuso",
     "team": "Itália",
@@ -127,14 +127,14 @@
       "MC",
       "VOL"
     ],
-    "ovr": 97,
+    "ovr": 94,
     "attrs": {
       "vel": 65,
       "fin": 74,
       "pas": 96,
       "dri": 85,
-      "def": 78,
-      "fis": 89
+      "def": 75,
+      "fis": 86
     },
     "id": "wc-italia-2006-andrea-pirlo",
     "team": "Itália",
@@ -147,14 +147,14 @@
       "MD",
       "PD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 97,
-      "fin": 82,
-      "pas": 91,
-      "dri": 90,
-      "def": 63,
-      "fis": 77
+      "vel": 91,
+      "fin": 76,
+      "pas": 85,
+      "dri": 84,
+      "def": 57,
+      "fis": 71
     },
     "id": "wc-italia-2006-mauro-camoranesi",
     "team": "Itália",
@@ -167,14 +167,14 @@
       "MC",
       "ME"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 85,
-      "fin": 81,
-      "pas": 93,
-      "dri": 92,
-      "def": 71,
-      "fis": 82
+      "vel": 79,
+      "fin": 75,
+      "pas": 87,
+      "dri": 86,
+      "def": 65,
+      "fis": 76
     },
     "id": "wc-italia-2006-simone-perrotta",
     "team": "Itália",
@@ -187,14 +187,14 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 89,
-      "fin": 91,
-      "pas": 95,
-      "dri": 97,
-      "def": 48,
-      "fis": 78
+      "vel": 83,
+      "fin": 85,
+      "pas": 89,
+      "dri": 91,
+      "def": 42,
+      "fis": 72
     },
     "id": "wc-italia-2006-francesco-totti",
     "team": "Itália",
@@ -206,14 +206,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 90,
-      "fin": 92,
-      "pas": 79,
-      "dri": 82,
-      "def": 43,
-      "fis": 91
+      "vel": 84,
+      "fin": 86,
+      "pas": 73,
+      "dri": 76,
+      "def": 37,
+      "fis": 85
     },
     "id": "wc-italia-2006-luca-toni",
     "team": "Itália",
@@ -225,20 +225,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 88,
+    "ovr": 82,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 69,
-      "dri": 42,
-      "def": 21,
-      "fis": 81,
-      "ref": 91,
-      "han": 87,
-      "pos": 88,
-      "div": 89,
-      "kic": 73,
-      "one": 86
+      "pas": 63,
+      "dri": 36,
+      "def": 15,
+      "fis": 75,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 67,
+      "one": 80
     },
     "id": "wc-franca-2006-fabien-barthez",
     "team": "França",
@@ -250,14 +250,14 @@
     "positions": [
       "LD"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 98,
-      "fin": 65,
-      "pas": 89,
-      "dri": 93,
-      "def": 90,
-      "fis": 89
+      "vel": 92,
+      "fin": 59,
+      "pas": 83,
+      "dri": 87,
+      "def": 84,
+      "fis": 83
     },
     "id": "wc-franca-2006-willy-sagnol",
     "team": "França",
@@ -270,14 +270,14 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 79,
-      "fin": 55,
-      "pas": 79,
-      "dri": 60,
-      "def": 97,
-      "fis": 98
+      "vel": 74,
+      "fin": 50,
+      "pas": 74,
+      "dri": 55,
+      "def": 92,
+      "fis": 93
     },
     "id": "wc-franca-2006-lilian-thuram",
     "team": "França",
@@ -289,14 +289,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 75,
-      "fin": 58,
-      "pas": 75,
-      "dri": 63,
-      "def": 93,
-      "fis": 94
+      "vel": 69,
+      "fin": 52,
+      "pas": 69,
+      "dri": 57,
+      "def": 87,
+      "fis": 88
     },
     "id": "wc-franca-2006-william-gallas",
     "team": "França",
@@ -309,14 +309,14 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 95,
-      "fin": 62,
-      "pas": 86,
-      "dri": 90,
-      "def": 87,
-      "fis": 86
+      "vel": 89,
+      "fin": 56,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
     "id": "wc-franca-2006-eric-abidal",
     "team": "França",
@@ -329,14 +329,14 @@
       "MC",
       "VOL"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 86,
-      "fin": 82,
-      "pas": 99,
-      "dri": 93,
-      "def": 79,
-      "fis": 83
+      "vel": 81,
+      "fin": 77,
+      "pas": 96,
+      "dri": 88,
+      "def": 74,
+      "fis": 78
     },
     "id": "wc-franca-2006-patrick-vieira",
     "team": "França",
@@ -348,14 +348,14 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 95,
+    "ovr": 90,
     "attrs": {
-      "vel": 89,
-      "fin": 72,
-      "pas": 96,
-      "dri": 85,
-      "def": 95,
-      "fis": 95
+      "vel": 84,
+      "fin": 67,
+      "pas": 91,
+      "dri": 80,
+      "def": 90,
+      "fis": 90
     },
     "id": "wc-franca-2006-claude-makelele",
     "team": "França",
@@ -368,14 +368,14 @@
       "PD",
       "PE"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 96,
-      "fin": 94,
-      "pas": 86,
-      "dri": 97,
-      "def": 41,
-      "fis": 78
+      "vel": 90,
+      "fin": 88,
+      "pas": 80,
+      "dri": 91,
+      "def": 35,
+      "fis": 72
     },
     "id": "wc-franca-2006-franck-ribery",
     "team": "França",
@@ -388,13 +388,13 @@
       "MEI",
       "MC"
     ],
-    "ovr": 98,
+    "ovr": 94,
     "attrs": {
       "vel": 79,
       "fin": 86,
       "pas": 96,
       "dri": 97,
-      "def": 59,
+      "def": 55,
       "fis": 82
     },
     "id": "wc-franca-2006-zinedine-zidane",
@@ -408,14 +408,14 @@
       "ME",
       "PE"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 97,
-      "fin": 82,
-      "pas": 91,
-      "dri": 90,
-      "def": 63,
-      "fis": 77
+      "vel": 91,
+      "fin": 76,
+      "pas": 85,
+      "dri": 84,
+      "def": 57,
+      "fis": 71
     },
     "id": "wc-franca-2006-florent-malouda",
     "team": "França",
@@ -428,14 +428,14 @@
       "ATA",
       "PE"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 93,
-      "fin": 95,
-      "pas": 82,
-      "dri": 85,
-      "def": 46,
-      "fis": 94
+      "vel": 88,
+      "fin": 90,
+      "pas": 77,
+      "dri": 80,
+      "def": 41,
+      "fis": 89
     },
     "id": "wc-franca-2006-thierry-henry",
     "team": "França",
@@ -447,20 +447,20 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
       "vel": 45,
       "fin": 15,
-      "pas": 71,
-      "dri": 44,
-      "def": 30,
-      "fis": 83,
-      "ref": 95,
-      "han": 91,
-      "pos": 92,
-      "div": 93,
-      "kic": 77,
-      "one": 90
+      "pas": 65,
+      "dri": 38,
+      "def": 24,
+      "fis": 77,
+      "ref": 89,
+      "han": 85,
+      "pos": 86,
+      "div": 87,
+      "kic": 71,
+      "one": 84
     },
     "id": "wc-portugal-2006-ricardo",
     "team": "Portugal",
@@ -473,14 +473,14 @@
       "LD",
       "MD"
     ],
-    "ovr": 90,
+    "ovr": 84,
     "attrs": {
-      "vel": 93,
-      "fin": 67,
-      "pas": 84,
-      "dri": 88,
-      "def": 85,
-      "fis": 84
+      "vel": 87,
+      "fin": 61,
+      "pas": 78,
+      "dri": 82,
+      "def": 79,
+      "fis": 78
     },
     "id": "wc-portugal-2006-miguel",
     "team": "Portugal",
@@ -492,14 +492,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 95,
+    "ovr": 90,
     "attrs": {
-      "vel": 77,
-      "fin": 60,
-      "pas": 77,
-      "dri": 65,
-      "def": 95,
-      "fis": 96
+      "vel": 72,
+      "fin": 55,
+      "pas": 72,
+      "dri": 60,
+      "def": 90,
+      "fis": 91
     },
     "id": "wc-portugal-2006-ricardo-carvalho",
     "team": "Portugal",
@@ -511,14 +511,14 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 89,
+    "ovr": 83,
     "attrs": {
-      "vel": 71,
-      "fin": 54,
-      "pas": 71,
-      "dri": 59,
-      "def": 89,
-      "fis": 90
+      "vel": 65,
+      "fin": 48,
+      "pas": 65,
+      "dri": 53,
+      "def": 83,
+      "fis": 84
     },
     "id": "wc-portugal-2006-fernando-meira",
     "team": "Portugal",
@@ -530,14 +530,14 @@
     "positions": [
       "LE"
     ],
-    "ovr": 88,
+    "ovr": 82,
     "attrs": {
-      "vel": 94,
-      "fin": 61,
-      "pas": 85,
-      "dri": 82,
-      "def": 86,
-      "fis": 85
+      "vel": 88,
+      "fin": 55,
+      "pas": 79,
+      "dri": 76,
+      "def": 80,
+      "fis": 79
     },
     "id": "wc-portugal-2006-nuno-valente",
     "team": "Portugal",
@@ -549,14 +549,14 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 81,
     "attrs": {
-      "vel": 82,
-      "fin": 65,
-      "pas": 89,
-      "dri": 78,
-      "def": 88,
-      "fis": 81
+      "vel": 76,
+      "fin": 59,
+      "pas": 83,
+      "dri": 72,
+      "def": 82,
+      "fis": 75
     },
     "id": "wc-portugal-2006-costinha",
     "team": "Portugal",
@@ -569,14 +569,14 @@
       "MC",
       "VOL"
     ],
-    "ovr": 94,
+    "ovr": 89,
     "attrs": {
-      "vel": 86,
-      "fin": 82,
-      "pas": 99,
-      "dri": 93,
-      "def": 79,
-      "fis": 83
+      "vel": 81,
+      "fin": 77,
+      "pas": 96,
+      "dri": 88,
+      "def": 74,
+      "fis": 78
     },
     "id": "wc-portugal-2006-maniche",
     "team": "Portugal",
@@ -589,14 +589,14 @@
       "MEI",
       "MC"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 88,
-      "fin": 90,
-      "pas": 94,
-      "dri": 96,
-      "def": 54,
-      "fis": 77
+      "vel": 82,
+      "fin": 84,
+      "pas": 88,
+      "dri": 90,
+      "def": 48,
+      "fis": 71
     },
     "id": "wc-portugal-2006-deco",
     "team": "Portugal",
@@ -609,14 +609,14 @@
       "PD",
       "MD"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 94,
-      "fin": 92,
-      "pas": 91,
-      "dri": 95,
-      "def": 46,
-      "fis": 76
+      "vel": 88,
+      "fin": 86,
+      "pas": 85,
+      "dri": 89,
+      "def": 40,
+      "fis": 70
     },
     "id": "wc-portugal-2006-luis-figo",
     "team": "Portugal",
@@ -629,14 +629,14 @@
       "PE",
       "PD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 97,
-      "fin": 88,
-      "pas": 87,
-      "dri": 98,
-      "def": 42,
-      "fis": 79
+      "vel": 91,
+      "fin": 82,
+      "pas": 81,
+      "dri": 92,
+      "def": 36,
+      "fis": 73
     },
     "id": "wc-portugal-2006-cristiano-ronaldo",
     "team": "Portugal",
@@ -648,14 +648,14 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 79,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 70,
-      "dri": 80,
-      "def": 34,
-      "fis": 82
+      "vel": 75,
+      "fin": 84,
+      "pas": 64,
+      "dri": 74,
+      "def": 28,
+      "fis": 76
     },
     "id": "wc-portugal-2006-pauleta",
     "team": "Portugal",

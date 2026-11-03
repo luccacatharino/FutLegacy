@@ -7,28 +7,28 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Roque Máspoli",
         "positions": [
           "GOL"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Matías González",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Eusebio Tejera",
         "positions": [
           "ZAG"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Schubert Gambetta",
@@ -36,7 +36,7 @@
           "VOL",
           "LD"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Obdulio Varela",
@@ -44,7 +44,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Víctor Rodríguez Andrade",
@@ -52,7 +52,7 @@
           "LE",
           "VOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Alcides Ghiggia",
@@ -60,7 +60,7 @@
           "PD",
           "MD"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Julio Pérez",
@@ -68,14 +68,14 @@
           "MEI",
           "MC"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Óscar Míguez",
         "positions": [
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Juan Schiaffino",
@@ -83,7 +83,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Rubén Morán",
@@ -91,7 +91,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 79
+        "ovr": 73
       }
     ]
   },
@@ -103,28 +103,28 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Barbosa",
         "positions": [
           "GOL"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Augusto",
         "positions": [
           "ZAG"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Juvenal",
         "positions": [
           "ZAG"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Bauer",
@@ -132,7 +132,7 @@
           "VOL",
           "LD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Danilo Alvim",
@@ -140,7 +140,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Bigode",
@@ -148,7 +148,7 @@
           "LE",
           "VOL"
         ],
-        "ovr": 82
+        "ovr": 76
       },
       {
         "name": "Friaça",
@@ -156,7 +156,7 @@
           "PD",
           "MD"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Zizinho",
@@ -164,14 +164,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Ademir de Menezes",
         "positions": [
           "ATA"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Jair",
@@ -179,7 +179,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Chico",
@@ -187,7 +187,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 90
+        "ovr": 84
       }
     ]
   },
@@ -199,14 +199,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Toni Turek",
         "positions": [
           "GOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Josef Posipal",
@@ -214,7 +214,7 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Werner Liebrich",
@@ -222,7 +222,7 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Werner Kohlmeyer",
@@ -230,7 +230,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Horst Eckel",
@@ -238,7 +238,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Karl Mai",
@@ -246,7 +246,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Helmut Rahn",
@@ -254,7 +254,7 @@
           "PD",
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Max Morlock",
@@ -262,14 +262,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Ottmar Walter",
         "positions": [
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Fritz Walter",
@@ -277,7 +277,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Hans Schäfer",
@@ -285,7 +285,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 90
+        "ovr": 84
       }
     ]
   },
@@ -297,28 +297,28 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Gyula Grosics",
         "positions": [
           "GOL"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Jenő Buzánszky",
         "positions": [
           "LD"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Gyula Lóránt",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Mihály Lantos",
@@ -326,7 +326,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "József Bozsik",
@@ -334,7 +334,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "József Zakariás",
@@ -342,7 +342,7 @@
           "VOL",
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Zoltán Czibor",
@@ -350,14 +350,14 @@
           "PE",
           "ME"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Sándor Kocsis",
         "positions": [
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 95
       },
       {
         "name": "Nándor Hidegkuti",
@@ -365,7 +365,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Ferenc Puskás",
@@ -373,7 +373,7 @@
           "ATA",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 96
       },
       {
         "name": "Mihály Tóth",
@@ -381,7 +381,7 @@
           "PD",
           "PE"
         ],
-        "ovr": 83
+        "ovr": 77
       }
     ]
   },
@@ -393,42 +393,42 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Gilmar",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 90
       },
       {
         "name": "Djalma Santos",
         "positions": [
           "LD"
         ],
-        "ovr": 93
+        "ovr": 91
       },
       {
         "name": "Bellini",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 86
       },
       {
         "name": "Orlando",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 84
       },
       {
         "name": "Nílton Santos",
         "positions": [
           "LE"
         ],
-        "ovr": 94
+        "ovr": 92
       },
       {
         "name": "Zito",
@@ -436,7 +436,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 88
       },
       {
         "name": "Didi",
@@ -444,7 +444,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Garrincha",
@@ -467,7 +467,7 @@
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 91
       },
       {
         "name": "Zagallo",
@@ -475,7 +475,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 90
+        "ovr": 88
       }
     ]
   },
@@ -487,35 +487,35 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Kalle Svensson",
         "positions": [
           "GOL"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Orvar Bergmark",
         "positions": [
           "LD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Bengt Gustavsson",
         "positions": [
           "ZAG"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Sven Axbom",
         "positions": [
           "LE"
         ],
-        "ovr": 83
+        "ovr": 77
       },
       {
         "name": "Reino Börjesson",
@@ -523,7 +523,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Sigge Parling",
@@ -531,7 +531,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Kurt Hamrin",
@@ -539,7 +539,7 @@
           "PD",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Gunnar Gren",
@@ -547,14 +547,14 @@
           "MEI",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Agne Simonsson",
         "positions": [
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Nils Liedholm",
@@ -562,7 +562,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Lennart Skoglund",
@@ -570,7 +570,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 91
+        "ovr": 85
       }
     ]
   },
@@ -582,42 +582,42 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Gilmar",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 89
       },
       {
         "name": "Djalma Santos",
         "positions": [
           "LD"
         ],
-        "ovr": 94
+        "ovr": 91
       },
       {
         "name": "Mauro Ramos",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 86
       },
       {
         "name": "Zózimo",
         "positions": [
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 84
       },
       {
         "name": "Nílton Santos",
         "positions": [
           "LE"
         ],
-        "ovr": 92
+        "ovr": 91
       },
       {
         "name": "Zito",
@@ -625,7 +625,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 92
+        "ovr": 87
       },
       {
         "name": "Didi",
@@ -633,7 +633,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 93
+        "ovr": 91
       },
       {
         "name": "Garrincha",
@@ -648,14 +648,14 @@
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 91
       },
       {
         "name": "Vavá",
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 90
       },
       {
         "name": "Zagallo",
@@ -663,7 +663,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 89
+        "ovr": 87
       },
       {
         "name": "Pelé",
@@ -683,35 +683,35 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Viliam Schrojf",
         "positions": [
           "GOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Jiří Tichý",
         "positions": [
           "LD"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Ján Popluhár",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Ladislav Novák",
         "positions": [
           "LE"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Svatopluk Pluskal",
@@ -719,7 +719,7 @@
           "VOL",
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Josef Masopust",
@@ -727,7 +727,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Tomáš Pospíchal",
@@ -735,14 +735,14 @@
           "PD",
           "MD"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Adolf Scherer",
         "positions": [
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Josef Kadraba",
@@ -750,7 +750,7 @@
           "ATA",
           "MEI"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Andrej Kvašňák",
@@ -758,7 +758,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Josef Jelínek",
@@ -766,7 +766,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 84
+        "ovr": 78
       }
     ]
   },
@@ -778,49 +778,49 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Gordon Banks",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 93
       },
       {
         "name": "George Cohen",
         "positions": [
           "LD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Jack Charlton",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Bobby Moore",
         "positions": [
           "ZAG"
         ],
-        "ovr": 97
+        "ovr": 93
       },
       {
         "name": "Ray Wilson",
         "positions": [
           "LE"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Nobby Stiles",
         "positions": [
           "VOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Alan Ball",
@@ -828,7 +828,7 @@
           "MC",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Bobby Charlton",
@@ -836,21 +836,21 @@
           "MEI",
           "MC"
         ],
-        "ovr": 96
+        "ovr": 94
       },
       {
         "name": "Geoff Hurst",
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Roger Hunt",
         "positions": [
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Martin Peters",
@@ -858,7 +858,7 @@
           "ME",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       }
     ]
   },
@@ -870,14 +870,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Hans Tilkowski",
         "positions": [
           "GOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Horst-Dieter Höttges",
@@ -885,21 +885,21 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Willi Schulz",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Wolfgang Weber",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Karl-Heinz Schnellinger",
@@ -907,7 +907,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Franz Beckenbauer",
@@ -915,7 +915,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Wolfgang Overath",
@@ -923,7 +923,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Helmut Haller",
@@ -931,7 +931,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Sigfried Held",
@@ -939,14 +939,14 @@
           "PE",
           "ATA"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Uwe Seeler",
         "positions": [
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Lothar Emmerich",
@@ -954,7 +954,7 @@
           "PD",
           "PE"
         ],
-        "ovr": 88
+        "ovr": 82
       }
     ]
   },
@@ -966,28 +966,28 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Félix",
         "positions": [
           "GOL"
         ],
-        "ovr": 85
+        "ovr": 82
       },
       {
         "name": "Carlos Alberto",
         "positions": [
           "LD"
         ],
-        "ovr": 96
+        "ovr": 92
       },
       {
         "name": "Brito",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 83
       },
       {
         "name": "Piazza",
@@ -995,14 +995,14 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 86
       },
       {
         "name": "Everaldo",
         "positions": [
           "LE"
         ],
-        "ovr": 86
+        "ovr": 82
       },
       {
         "name": "Clodoaldo",
@@ -1010,7 +1010,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 86
       },
       {
         "name": "Gérson",
@@ -1018,7 +1018,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 96
+        "ovr": 92
       },
       {
         "name": "Jairzinho",
@@ -1026,7 +1026,7 @@
           "PD",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 95
       },
       {
         "name": "Pelé",
@@ -1034,7 +1034,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 99
+        "ovr": 98
       },
       {
         "name": "Tostão",
@@ -1042,7 +1042,7 @@
           "ATA",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 93
       },
       {
         "name": "Rivellino",
@@ -1050,7 +1050,7 @@
           "ME",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 94
       }
     ]
   },
@@ -1062,14 +1062,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Enrico Albertosi",
         "positions": [
           "GOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Tarcisio Burgnich",
@@ -1077,14 +1077,14 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Roberto Rosato",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Pierluigi Cera",
@@ -1092,14 +1092,14 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Giacinto Facchetti",
         "positions": [
           "LE"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Mario Bertini",
@@ -1107,7 +1107,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Giancarlo De Sisti",
@@ -1115,7 +1115,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Angelo Domenghini",
@@ -1123,7 +1123,7 @@
           "PD",
           "MD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Sandro Mazzola",
@@ -1131,14 +1131,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Roberto Boninsegna",
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Gigi Riva",
@@ -1146,7 +1146,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 94
+        "ovr": 89
       }
     ]
   },
@@ -1158,28 +1158,28 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Sepp Maier",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Berti Vogts",
         "positions": [
           "LD"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Hans-Georg Schwarzenbeck",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Franz Beckenbauer",
@@ -1187,7 +1187,7 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 98
+        "ovr": 96
       },
       {
         "name": "Paul Breitner",
@@ -1195,7 +1195,7 @@
           "LE",
           "MC"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Rainer Bonhof",
@@ -1203,7 +1203,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Wolfgang Overath",
@@ -1211,7 +1211,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Uli Hoeneß",
@@ -1219,7 +1219,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Jürgen Grabowski",
@@ -1227,14 +1227,14 @@
           "PD",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Gerd Müller",
         "positions": [
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Bernd Hölzenbein",
@@ -1242,7 +1242,7 @@
           "PE",
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       }
     ]
   },
@@ -1254,14 +1254,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Jan Jongbloed",
         "positions": [
           "GOL"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Wim Suurbier",
@@ -1269,14 +1269,14 @@
           "LD",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Wim Rijsbergen",
         "positions": [
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Arie Haan",
@@ -1284,7 +1284,7 @@
           "ZAG",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Ruud Krol",
@@ -1292,7 +1292,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Wim Jansen",
@@ -1300,7 +1300,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Johan Neeskens",
@@ -1308,7 +1308,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Willem van Hanegem",
@@ -1316,7 +1316,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Johnny Rep",
@@ -1324,7 +1324,7 @@
           "PD",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Johan Cruyff",
@@ -1333,7 +1333,7 @@
           "MEI",
           "PE"
         ],
-        "ovr": 99
+        "ovr": 97
       },
       {
         "name": "Rob Rensenbrink",
@@ -1341,7 +1341,7 @@
           "PE",
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       }
     ]
   },
@@ -1353,14 +1353,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Ubaldo Fillol",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Jorge Olguín",
@@ -1368,28 +1368,28 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Luis Galván",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Daniel Passarella",
         "positions": [
           "ZAG"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Alberto Tarantini",
         "positions": [
           "LE"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Osvaldo Ardiles",
@@ -1397,7 +1397,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Américo Gallego",
@@ -1405,7 +1405,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Mario Kempes",
@@ -1413,7 +1413,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Daniel Bertoni",
@@ -1421,14 +1421,14 @@
           "PD",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Leopoldo Luque",
         "positions": [
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Oscar Ortiz",
@@ -1436,7 +1436,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 88
+        "ovr": 82
       }
     ]
   },
@@ -1448,14 +1448,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Jan Jongbloed",
         "positions": [
           "GOL"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Wim Jansen",
@@ -1463,14 +1463,14 @@
           "LD",
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Ernie Brandts",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Ruud Krol",
@@ -1478,14 +1478,14 @@
           "ZAG",
           "LE"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Jan Poortvliet",
         "positions": [
           "LE"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Johan Neeskens",
@@ -1493,7 +1493,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Arie Haan",
@@ -1501,7 +1501,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Willy van de Kerkhof",
@@ -1509,7 +1509,7 @@
           "MC",
           "MD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "René van de Kerkhof",
@@ -1517,7 +1517,7 @@
           "PD",
           "MD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Johnny Rep",
@@ -1525,7 +1525,7 @@
           "ATA",
           "PD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Rob Rensenbrink",
@@ -1533,7 +1533,7 @@
           "PE",
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       }
     ]
   },
@@ -1545,14 +1545,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Dino Zoff",
         "positions": [
           "GOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Claudio Gentile",
@@ -1560,7 +1560,7 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Gaetano Scirea",
@@ -1568,21 +1568,21 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Fulvio Collovati",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Antonio Cabrini",
         "positions": [
           "LE"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Marco Tardelli",
@@ -1590,7 +1590,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Gabriele Oriali",
@@ -1598,7 +1598,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Bruno Conti",
@@ -1606,14 +1606,14 @@
           "PD",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Paolo Rossi",
         "positions": [
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Francesco Graziani",
@@ -1621,7 +1621,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Giancarlo Antognoni",
@@ -1629,7 +1629,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       }
     ]
   },
@@ -1641,14 +1641,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Harald Schumacher",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Manfred Kaltz",
@@ -1656,21 +1656,21 @@
           "LD",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Karlheinz Förster",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Bernd Förster",
         "positions": [
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Uli Stielike",
@@ -1678,7 +1678,7 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Hans-Peter Briegel",
@@ -1686,7 +1686,7 @@
           "LE",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Paul Breitner",
@@ -1694,7 +1694,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Wolfgang Dremmler",
@@ -1702,7 +1702,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Pierre Littbarski",
@@ -1710,14 +1710,14 @@
           "PD",
           "MEI"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Klaus Fischer",
         "positions": [
           "ATA"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Karl-Heinz Rummenigge",
@@ -1725,7 +1725,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 93
+        "ovr": 87
       }
     ]
   },
@@ -1737,14 +1737,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Nery Pumpido",
         "positions": [
           "GOL"
         ],
-        "ovr": 87
+        "ovr": 86
       },
       {
         "name": "José Luis Cuciuffo",
@@ -1752,21 +1752,21 @@
           "ZAG",
           "LD"
         ],
-        "ovr": 86
+        "ovr": 84
       },
       {
         "name": "José Luis Brown",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 85
       },
       {
         "name": "Oscar Ruggeri",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 89
       },
       {
         "name": "Julio Olarticoechea",
@@ -1774,7 +1774,7 @@
           "LE",
           "ME"
         ],
-        "ovr": 88
+        "ovr": 85
       },
       {
         "name": "Ricardo Giusti",
@@ -1782,21 +1782,21 @@
           "MD",
           "VOL"
         ],
-        "ovr": 88
+        "ovr": 87
       },
       {
         "name": "Sergio Batista",
         "positions": [
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 87
       },
       {
         "name": "Héctor Enrique",
         "positions": [
           "MC"
         ],
-        "ovr": 87
+        "ovr": 85
       },
       {
         "name": "Jorge Burruchaga",
@@ -1804,14 +1804,14 @@
           "MEI",
           "MD"
         ],
-        "ovr": 94
+        "ovr": 90
       },
       {
         "name": "Jorge Valdano",
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 88
       },
       {
         "name": "Diego Maradona",
@@ -1831,14 +1831,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Harald Schumacher",
         "positions": [
           "GOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Thomas Berthold",
@@ -1846,21 +1846,21 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Ditmar Jakobs",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Karlheinz Förster",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Hans-Peter Briegel",
@@ -1868,7 +1868,7 @@
           "LE",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Lothar Matthäus",
@@ -1876,7 +1876,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Andreas Brehme",
@@ -1884,7 +1884,7 @@
           "ME",
           "LE"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Norbert Eder",
@@ -1892,7 +1892,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Felix Magath",
@@ -1900,7 +1900,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Karl-Heinz Rummenigge",
@@ -1908,14 +1908,14 @@
           "ATA",
           "PE"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Rudi Völler",
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       }
     ]
   },
@@ -1927,14 +1927,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Bodo Illgner",
         "positions": [
           "GOL"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Thomas Berthold",
@@ -1942,21 +1942,21 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Klaus Augenthaler",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Jürgen Kohler",
         "positions": [
           "ZAG"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Guido Buchwald",
@@ -1964,7 +1964,7 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Andreas Brehme",
@@ -1972,7 +1972,7 @@
           "LE",
           "ME"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Lothar Matthäus",
@@ -1980,7 +1980,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 98
+        "ovr": 95
       },
       {
         "name": "Thomas Häßler",
@@ -1988,7 +1988,7 @@
           "MEI",
           "MD"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Pierre Littbarski",
@@ -1996,21 +1996,21 @@
           "MEI",
           "PD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Jürgen Klinsmann",
         "positions": [
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Rudi Völler",
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       }
     ]
   },
@@ -2022,21 +2022,21 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Sergio Goycochea",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Juan Simón",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "José Serrizuela",
@@ -2044,21 +2044,21 @@
           "ZAG",
           "LD"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Oscar Ruggeri",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Néstor Lorenzo",
         "positions": [
           "ZAG"
         ],
-        "ovr": 82
+        "ovr": 76
       },
       {
         "name": "Roberto Sensini",
@@ -2066,7 +2066,7 @@
           "LD",
           "VOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "José Basualdo",
@@ -2074,7 +2074,7 @@
           "MD",
           "MC"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Pedro Troglio",
@@ -2082,7 +2082,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Jorge Burruchaga",
@@ -2090,7 +2090,7 @@
           "MEI",
           "MD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Diego Maradona",
@@ -2098,14 +2098,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Gustavo Dezotti",
         "positions": [
           "ATA"
         ],
-        "ovr": 81
+        "ovr": 75
       }
     ]
   },
@@ -2117,42 +2117,42 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Taffarel",
         "positions": [
           "GOL"
         ],
-        "ovr": 93
+        "ovr": 90
       },
       {
         "name": "Jorginho",
         "positions": [
           "LD"
         ],
-        "ovr": 94
+        "ovr": 90
       },
       {
         "name": "Aldair",
         "positions": [
           "ZAG"
         ],
-        "ovr": 94
+        "ovr": 90
       },
       {
         "name": "Márcio Santos",
         "positions": [
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 87
       },
       {
         "name": "Branco",
         "positions": [
           "LE"
         ],
-        "ovr": 90
+        "ovr": 89
       },
       {
         "name": "Dunga",
@@ -2160,14 +2160,14 @@
           "VOL",
           "MC"
         ],
-        "ovr": 94
+        "ovr": 91
       },
       {
         "name": "Mauro Silva",
         "positions": [
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 92
       },
       {
         "name": "Mazinho",
@@ -2175,7 +2175,7 @@
           "MC",
           "MD"
         ],
-        "ovr": 89
+        "ovr": 86
       },
       {
         "name": "Zinho",
@@ -2183,21 +2183,21 @@
           "ME",
           "MC"
         ],
-        "ovr": 88
+        "ovr": 85
       },
       {
         "name": "Bebeto",
         "positions": [
           "ATA"
         ],
-        "ovr": 95
+        "ovr": 93
       },
       {
         "name": "Romário",
         "positions": [
           "ATA"
         ],
-        "ovr": 98
+        "ovr": 97
       }
     ]
   },
@@ -2209,28 +2209,28 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Gianluca Pagliuca",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Roberto Mussi",
         "positions": [
           "LD"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Franco Baresi",
         "positions": [
           "ZAG"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Paolo Maldini",
@@ -2238,7 +2238,7 @@
           "ZAG",
           "LE"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Antonio Benarrivo",
@@ -2246,7 +2246,7 @@
           "LE",
           "LD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Demetrio Albertini",
@@ -2254,7 +2254,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Dino Baggio",
@@ -2262,7 +2262,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Roberto Donadoni",
@@ -2270,7 +2270,7 @@
           "MD",
           "ME"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Nicola Berti",
@@ -2278,7 +2278,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Roberto Baggio",
@@ -2286,14 +2286,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Daniele Massaro",
         "positions": [
           "ATA"
         ],
-        "ovr": 88
+        "ovr": 82
       }
     ]
   },
@@ -2305,14 +2305,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Fabien Barthez",
         "positions": [
           "GOL"
         ],
-        "ovr": 94
+        "ovr": 92
       },
       {
         "name": "Lilian Thuram",
@@ -2320,14 +2320,14 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 96
+        "ovr": 94
       },
       {
         "name": "Laurent Blanc",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 90
       },
       {
         "name": "Marcel Desailly",
@@ -2335,14 +2335,14 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 95
+        "ovr": 93
       },
       {
         "name": "Bixente Lizarazu",
         "positions": [
           "LE"
         ],
-        "ovr": 93
+        "ovr": 90
       },
       {
         "name": "Didier Deschamps",
@@ -2350,7 +2350,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 93
+        "ovr": 91
       },
       {
         "name": "Emmanuel Petit",
@@ -2358,7 +2358,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 91
       },
       {
         "name": "Christian Karembeu",
@@ -2366,7 +2366,7 @@
           "MC",
           "MD"
         ],
-        "ovr": 88
+        "ovr": 85
       },
       {
         "name": "Zinedine Zidane",
@@ -2374,7 +2374,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 97
+        "ovr": 96
       },
       {
         "name": "Youri Djorkaeff",
@@ -2382,14 +2382,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 91
       },
       {
         "name": "Stéphane Guivarc’h",
         "positions": [
           "ATA"
         ],
-        "ovr": 81
+        "ovr": 80
       }
     ]
   },
@@ -2401,14 +2401,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Taffarel",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Cafu",
@@ -2416,21 +2416,21 @@
           "LD",
           "MD"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Aldair",
         "positions": [
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Júnior Baiano",
         "positions": [
           "ZAG"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Roberto Carlos",
@@ -2438,7 +2438,7 @@
           "LE",
           "ME"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Dunga",
@@ -2446,7 +2446,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "César Sampaio",
@@ -2454,7 +2454,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Rivaldo",
@@ -2462,7 +2462,7 @@
           "MEI",
           "PE"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Leonardo",
@@ -2470,21 +2470,21 @@
           "ME",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Bebeto",
         "positions": [
           "ATA"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Ronaldo",
         "positions": [
           "ATA"
         ],
-        "ovr": 96
+        "ovr": 91
       }
     ]
   },
@@ -2496,14 +2496,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Marcos",
         "positions": [
           "GOL"
         ],
-        "ovr": 94
+        "ovr": 91
       },
       {
         "name": "Cafu",
@@ -2511,21 +2511,21 @@
           "LD",
           "MD"
         ],
-        "ovr": 95
+        "ovr": 91
       },
       {
         "name": "Lúcio",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 88
       },
       {
         "name": "Roque Júnior",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Edmílson",
@@ -2533,7 +2533,7 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 91
+        "ovr": 86
       },
       {
         "name": "Roberto Carlos",
@@ -2541,14 +2541,14 @@
           "LE",
           "ME"
         ],
-        "ovr": 96
+        "ovr": 92
       },
       {
         "name": "Gilberto Silva",
         "positions": [
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 90
       },
       {
         "name": "Kléberson",
@@ -2556,7 +2556,7 @@
           "MC",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 87
       },
       {
         "name": "Ronaldinho Gaúcho",
@@ -2564,7 +2564,7 @@
           "MEI",
           "PD"
         ],
-        "ovr": 94
+        "ovr": 92
       },
       {
         "name": "Rivaldo",
@@ -2572,14 +2572,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Ronaldo",
         "positions": [
           "ATA"
         ],
-        "ovr": 99
+        "ovr": 97
       }
     ]
   },
@@ -2591,14 +2591,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Oliver Kahn",
         "positions": [
           "GOL"
         ],
-        "ovr": 98
+        "ovr": 95
       },
       {
         "name": "Torsten Frings",
@@ -2607,7 +2607,7 @@
           "LD",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Carsten Ramelow",
@@ -2615,21 +2615,21 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Christoph Metzelder",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Thomas Linke",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Dietmar Hamann",
@@ -2637,7 +2637,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Bernd Schneider",
@@ -2645,7 +2645,7 @@
           "MEI",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Jens Jeremies",
@@ -2653,7 +2653,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Marco Bode",
@@ -2661,7 +2661,7 @@
           "ME",
           "LE"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Oliver Neuville",
@@ -2669,14 +2669,14 @@
           "ATA",
           "PE"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Miroslav Klose",
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Michael Ballack",
@@ -2684,7 +2684,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 90
       }
     ]
   },
@@ -2696,14 +2696,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Gianluigi Buffon",
         "positions": [
           "GOL"
         ],
-        "ovr": 98
+        "ovr": 95
       },
       {
         "name": "Gianluca Zambrotta",
@@ -2711,28 +2711,28 @@
           "LD",
           "LE"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Fabio Cannavaro",
         "positions": [
           "ZAG"
         ],
-        "ovr": 98
+        "ovr": 94
       },
       {
         "name": "Marco Materazzi",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Fabio Grosso",
         "positions": [
           "LE"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Gennaro Gattuso",
@@ -2740,7 +2740,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Andrea Pirlo",
@@ -2748,7 +2748,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Mauro Camoranesi",
@@ -2756,7 +2756,7 @@
           "MD",
           "PD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Simone Perrotta",
@@ -2764,7 +2764,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Francesco Totti",
@@ -2772,14 +2772,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Luca Toni",
         "positions": [
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       }
     ]
   },
@@ -2791,21 +2791,21 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Fabien Barthez",
         "positions": [
           "GOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Willy Sagnol",
         "positions": [
           "LD"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Lilian Thuram",
@@ -2813,14 +2813,14 @@
           "ZAG",
           "LD"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "William Gallas",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Éric Abidal",
@@ -2828,7 +2828,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Patrick Vieira",
@@ -2836,14 +2836,14 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Claude Makélélé",
         "positions": [
           "VOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Franck Ribéry",
@@ -2851,7 +2851,7 @@
           "PD",
           "PE"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Zinedine Zidane",
@@ -2859,7 +2859,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 98
+        "ovr": 94
       },
       {
         "name": "Florent Malouda",
@@ -2867,7 +2867,7 @@
           "ME",
           "PE"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Thierry Henry",
@@ -2875,7 +2875,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 94
+        "ovr": 89
       }
     ]
   },
@@ -2887,14 +2887,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Iker Casillas",
         "positions": [
           "GOL"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Sergio Ramos",
@@ -2902,35 +2902,35 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 91
       },
       {
         "name": "Gerard Piqué",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 90
       },
       {
         "name": "Carles Puyol",
         "positions": [
           "ZAG"
         ],
-        "ovr": 96
+        "ovr": 93
       },
       {
         "name": "Joan Capdevila",
         "positions": [
           "LE"
         ],
-        "ovr": 89
+        "ovr": 86
       },
       {
         "name": "Sergio Busquets",
         "positions": [
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 92
       },
       {
         "name": "Xabi Alonso",
@@ -2938,7 +2938,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 92
       },
       {
         "name": "Xavi",
@@ -2946,7 +2946,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 98
+        "ovr": 96
       },
       {
         "name": "Andrés Iniesta",
@@ -2954,7 +2954,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 98
+        "ovr": 95
       },
       {
         "name": "Pedro",
@@ -2970,7 +2970,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 96
+        "ovr": 94
       }
     ]
   },
@@ -2982,49 +2982,49 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Maarten Stekelenburg",
         "positions": [
           "GOL"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Gregory van der Wiel",
         "positions": [
           "LD"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "John Heitinga",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Joris Mathijsen",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Giovanni van Bronckhorst",
         "positions": [
           "LE"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Nigel de Jong",
         "positions": [
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Mark van Bommel",
@@ -3032,7 +3032,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Arjen Robben",
@@ -3040,7 +3040,7 @@
           "PD",
           "PE"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Wesley Sneijder",
@@ -3048,7 +3048,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Dirk Kuyt",
@@ -3057,14 +3057,14 @@
           "ATA",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Robin van Persie",
         "positions": [
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       }
     ]
   },
@@ -3076,14 +3076,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Manuel Neuer",
         "positions": [
           "GOL"
         ],
-        "ovr": 98
+        "ovr": 95
       },
       {
         "name": "Philipp Lahm",
@@ -3091,7 +3091,7 @@
           "LD",
           "VOL"
         ],
-        "ovr": 97
+        "ovr": 93
       },
       {
         "name": "Jérôme Boateng",
@@ -3099,14 +3099,14 @@
           "ZAG",
           "LD"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Mats Hummels",
         "positions": [
           "ZAG"
         ],
-        "ovr": 95
+        "ovr": 92
       },
       {
         "name": "Benedikt Höwedes",
@@ -3114,7 +3114,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 86
       },
       {
         "name": "Bastian Schweinsteiger",
@@ -3122,7 +3122,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 96
+        "ovr": 92
       },
       {
         "name": "Sami Khedira",
@@ -3130,7 +3130,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 92
+        "ovr": 89
       },
       {
         "name": "Toni Kroos",
@@ -3138,7 +3138,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Mesut Özil",
@@ -3146,7 +3146,7 @@
           "MEI",
           "ME"
         ],
-        "ovr": 92
+        "ovr": 91
       },
       {
         "name": "Thomas Müller",
@@ -3154,14 +3154,14 @@
           "PD",
           "ATA"
         ],
-        "ovr": 96
+        "ovr": 94
       },
       {
         "name": "Miroslav Klose",
         "positions": [
           "ATA"
         ],
-        "ovr": 90
+        "ovr": 89
       }
     ]
   },
@@ -3173,35 +3173,35 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Sergio Romero",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Pablo Zabaleta",
         "positions": [
           "LD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Martín Demichelis",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Ezequiel Garay",
         "positions": [
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Marcos Rojo",
@@ -3209,7 +3209,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Javier Mascherano",
@@ -3217,7 +3217,7 @@
           "VOL",
           "ZAG"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Lucas Biglia",
@@ -3225,7 +3225,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Enzo Pérez",
@@ -3233,7 +3233,7 @@
           "MC",
           "MD"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Lionel Messi",
@@ -3241,14 +3241,14 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Gonzalo Higuaín",
         "positions": [
           "ATA"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Ezequiel Lavezzi",
@@ -3256,7 +3256,7 @@
           "PE",
           "ATA"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Ángel Di María",
@@ -3264,7 +3264,7 @@
           "ME",
           "PE"
         ],
-        "ovr": 93
+        "ovr": 87
       }
     ]
   },
@@ -3276,14 +3276,14 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Hugo Lloris",
         "positions": [
           "GOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Benjamin Pavard",
@@ -3291,21 +3291,21 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Raphaël Varane",
         "positions": [
           "ZAG"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Samuel Umtiti",
         "positions": [
           "ZAG"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Lucas Hernández",
@@ -3313,7 +3313,7 @@
           "LE",
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "N’Golo Kanté",
@@ -3321,7 +3321,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Paul Pogba",
@@ -3329,7 +3329,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Kylian Mbappé",
@@ -3337,7 +3337,7 @@
           "PD",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Antoine Griezmann",
@@ -3345,7 +3345,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Blaise Matuidi",
@@ -3353,14 +3353,14 @@
           "ME",
           "MC"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Olivier Giroud",
         "positions": [
           "ATA"
         ],
-        "ovr": 87
+        "ovr": 81
       }
     ]
   },
@@ -3372,42 +3372,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Danijel Subašić",
         "positions": [
           "GOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Šime Vrsaljko",
         "positions": [
           "LD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Dejan Lovren",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Domagoj Vida",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Ivan Strinić",
         "positions": [
           "LE"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Marcelo Brozović",
@@ -3415,7 +3415,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Luka Modrić",
@@ -3423,7 +3423,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 98
+        "ovr": 94
       },
       {
         "name": "Ivan Rakitić",
@@ -3431,7 +3431,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Ante Rebić",
@@ -3439,7 +3439,7 @@
           "PD",
           "PE"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Ivan Perišić",
@@ -3447,14 +3447,14 @@
           "PE",
           "ME"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Mario Mandžukić",
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       }
     ]
   },
@@ -3466,14 +3466,28 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Emiliano Martínez",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 91,
+        "attrs": {
+          "vel": 45,
+          "fin": 9,
+          "pas": 66,
+          "dri": 25,
+          "def": 19,
+          "fis": 84,
+          "ref": 94,
+          "han": 86,
+          "pos": 89,
+          "div": 92,
+          "kic": 70,
+          "one": 96
+        }
       },
       {
         "name": "Nahuel Molina",
@@ -3481,36 +3495,77 @@
           "LD",
           "MD"
         ],
-        "ovr": 90
+        "ovr": 85,
+        "attrs": {
+          "vel": 86,
+          "fin": 57,
+          "pas": 77,
+          "dri": 76,
+          "def": 79,
+          "fis": 75
+        }
       },
       {
         "name": "Cristian Romero",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 87,
+        "attrs": {
+          "vel": 74,
+          "fin": 36,
+          "pas": 68,
+          "dri": 51,
+          "def": 90,
+          "fis": 89
+        }
       },
       {
         "name": "Nicolás Otamendi",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 86,
+        "attrs": {
+          "vel": 56,
+          "fin": 36,
+          "pas": 72,
+          "dri": 49,
+          "def": 90,
+          "fis": 86
+        }
       },
       {
         "name": "Nicolás Tagliafico",
         "positions": [
-          "LE"
+          "LE",
+          "ME"
         ],
-        "ovr": 88
+        "ovr": 82,
+        "attrs": {
+          "vel": 77,
+          "fin": 39,
+          "pas": 73,
+          "dri": 69,
+          "def": 80,
+          "fis": 77
+        }
       },
       {
         "name": "Enzo Fernández",
         "positions": [
-          "VOL",
-          "MC"
+          "MC",
+          "VOL"
         ],
-        "ovr": 94
+        "ovr": 89,
+        "attrs": {
+          "vel": 75,
+          "fin": 73,
+          "pas": 90,
+          "dri": 85,
+          "def": 80,
+          "fis": 79
+        }
       },
       {
         "name": "Rodrigo De Paul",
@@ -3518,23 +3573,49 @@
           "MC",
           "MD"
         ],
-        "ovr": 93
+        "ovr": 88,
+        "attrs": {
+          "vel": 77,
+          "fin": 66,
+          "pas": 88,
+          "dri": 83,
+          "def": 77,
+          "fis": 82
+        }
       },
       {
         "name": "Alexis Mac Allister",
         "positions": [
           "MC",
-          "MEI"
+          "MEI",
+          "ME"
         ],
-        "ovr": 93
+        "ovr": 88,
+        "attrs": {
+          "vel": 72,
+          "fin": 75,
+          "pas": 88,
+          "dri": 86,
+          "def": 75,
+          "fis": 74
+        }
       },
       {
         "name": "Ángel Di María",
         "positions": [
+          "PE",
           "PD",
-          "PE"
+          "ME"
         ],
-        "ovr": 94
+        "ovr": 90,
+        "attrs": {
+          "vel": 83,
+          "fin": 81,
+          "pas": 91,
+          "dri": 92,
+          "def": 42,
+          "fis": 65
+        }
       },
       {
         "name": "Julián Álvarez",
@@ -3542,16 +3623,32 @@
           "ATA",
           "PD"
         ],
-        "ovr": 94
+        "ovr": 91,
+        "attrs": {
+          "vel": 88,
+          "fin": 90,
+          "pas": 77,
+          "dri": 85,
+          "def": 56,
+          "fis": 79
+        }
       },
       {
         "name": "Lionel Messi",
         "positions": [
-          "MEI",
           "ATA",
+          "MEI",
           "PD"
         ],
-        "ovr": 99
+        "ovr": 97,
+        "attrs": {
+          "vel": 78,
+          "fin": 95,
+          "pas": 98,
+          "dri": 97,
+          "def": 29,
+          "fis": 67
+        }
       }
     ]
   },
@@ -3563,14 +3660,28 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Hugo Lloris",
         "positions": [
           "GOL"
         ],
-        "ovr": 90
+        "ovr": 86,
+        "attrs": {
+          "vel": 44,
+          "fin": 10,
+          "pas": 64,
+          "dri": 23,
+          "def": 16,
+          "fis": 74,
+          "ref": 90,
+          "han": 83,
+          "pos": 86,
+          "div": 88,
+          "kic": 67,
+          "one": 86
+        }
       },
       {
         "name": "Jules Koundé",
@@ -3578,21 +3689,45 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 83,
+        "attrs": {
+          "vel": 79,
+          "fin": 31,
+          "pas": 76,
+          "dri": 69,
+          "def": 85,
+          "fis": 79
+        }
       },
       {
         "name": "Raphaël Varane",
         "positions": [
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85,
+        "attrs": {
+          "vel": 73,
+          "fin": 35,
+          "pas": 73,
+          "dri": 54,
+          "def": 88,
+          "fis": 81
+        }
       },
       {
         "name": "Dayot Upamecano",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84,
+        "attrs": {
+          "vel": 82,
+          "fin": 32,
+          "pas": 77,
+          "dri": 61,
+          "def": 83,
+          "fis": 87
+        }
       },
       {
         "name": "Theo Hernández",
@@ -3600,7 +3735,15 @@
           "LE",
           "ME"
         ],
-        "ovr": 93
+        "ovr": 87,
+        "attrs": {
+          "vel": 94,
+          "fin": 68,
+          "pas": 79,
+          "dri": 80,
+          "def": 75,
+          "fis": 85
+        }
       },
       {
         "name": "Aurélien Tchouaméni",
@@ -3608,7 +3751,15 @@
           "VOL",
           "MC"
         ],
-        "ovr": 92
+        "ovr": 87,
+        "attrs": {
+          "vel": 72,
+          "fin": 64,
+          "pas": 84,
+          "dri": 76,
+          "def": 88,
+          "fis": 87
+        }
       },
       {
         "name": "Adrien Rabiot",
@@ -3616,7 +3767,15 @@
           "MC",
           "VOL"
         ],
-        "ovr": 90
+        "ovr": 84,
+        "attrs": {
+          "vel": 73,
+          "fin": 64,
+          "pas": 80,
+          "dri": 78,
+          "def": 81,
+          "fis": 82
+        }
       },
       {
         "name": "Antoine Griezmann",
@@ -3624,7 +3783,15 @@
           "MEI",
           "MC"
         ],
-        "ovr": 96
+        "ovr": 93,
+        "attrs": {
+          "vel": 77,
+          "fin": 80,
+          "pas": 96,
+          "dri": 88,
+          "def": 75,
+          "fis": 76
+        }
       },
       {
         "name": "Ousmane Dembélé",
@@ -3632,14 +3799,30 @@
           "PD",
           "PE"
         ],
-        "ovr": 88
+        "ovr": 82,
+        "attrs": {
+          "vel": 94,
+          "fin": 68,
+          "pas": 80,
+          "dri": 90,
+          "def": 32,
+          "fis": 56
+        }
       },
       {
         "name": "Olivier Giroud",
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 87,
+        "attrs": {
+          "vel": 56,
+          "fin": 91,
+          "pas": 74,
+          "dri": 65,
+          "def": 38,
+          "fis": 87
+        }
       },
       {
         "name": "Kylian Mbappé",
@@ -3647,7 +3830,15 @@
           "PE",
           "ATA"
         ],
-        "ovr": 98
+        "ovr": 97,
+        "attrs": {
+          "vel": 99,
+          "fin": 96,
+          "pas": 83,
+          "dri": 97,
+          "def": 28,
+          "fis": 80
+        }
       }
     ]
   },
@@ -3659,14 +3850,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads#Portugal",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Ricardo",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Miguel",
@@ -3674,35 +3865,35 @@
           "LD",
           "MD"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Ricardo Carvalho",
         "positions": [
           "ZAG"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Fernando Meira",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Nuno Valente",
         "positions": [
           "LE"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Costinha",
         "positions": [
           "VOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Maniche",
@@ -3710,7 +3901,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Deco",
@@ -3718,7 +3909,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Luís Figo",
@@ -3726,7 +3917,7 @@
           "PD",
           "MD"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Cristiano Ronaldo",
@@ -3734,14 +3925,14 @@
           "PE",
           "PD"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Pauleta",
         "positions": [
           "ATA"
         ],
-        "ovr": 85
+        "ovr": 79
       }
     ]
   },
@@ -3753,14 +3944,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_squads#Brazil",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Waldir Peres",
         "positions": [
           "GOL"
         ],
-        "ovr": 83
+        "ovr": 80
       },
       {
         "name": "Leandro",
@@ -3768,21 +3959,21 @@
           "LD",
           "MD"
         ],
-        "ovr": 94
+        "ovr": 87
       },
       {
         "name": "Oscar",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 83
       },
       {
         "name": "Luizinho",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 84
       },
       {
         "name": "Júnior",
@@ -3790,7 +3981,7 @@
           "LE",
           "MC"
         ],
-        "ovr": 95
+        "ovr": 91
       },
       {
         "name": "Toninho Cerezo",
@@ -3798,7 +3989,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 93
+        "ovr": 91
       },
       {
         "name": "Falcão",
@@ -3806,7 +3997,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Sócrates",
@@ -3814,7 +4005,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Zico",
@@ -3822,7 +4013,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 98
+        "ovr": 95
       },
       {
         "name": "Éder",
@@ -3830,14 +4021,14 @@
           "PE",
           "ME"
         ],
-        "ovr": 94
+        "ovr": 90
       },
       {
         "name": "Serginho Chulapa",
         "positions": [
           "ATA"
         ],
-        "ovr": 86
+        "ovr": 80
       }
     ]
   },
@@ -3849,42 +4040,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_squads#Netherlands",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Edwin van der Sar",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Michael Reiziger",
         "positions": [
           "LD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Jaap Stam",
         "positions": [
           "ZAG"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Frank de Boer",
         "positions": [
           "ZAG"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Arthur Numan",
         "positions": [
           "LE"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Wim Jonk",
@@ -3892,7 +4083,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Edgar Davids",
@@ -3900,7 +4091,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Ronald de Boer",
@@ -3908,7 +4099,7 @@
           "MD",
           "MEI"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Phillip Cocu",
@@ -3916,7 +4107,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Dennis Bergkamp",
@@ -3924,14 +4115,14 @@
           "ATA",
           "MEI"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Patrick Kluivert",
         "positions": [
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       }
     ]
   },
@@ -3943,14 +4134,28 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads#Uruguay",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Sergio Rochet",
         "positions": [
           "GOL"
         ],
-        "ovr": 83
+        "ovr": 79,
+        "attrs": {
+          "vel": 45,
+          "fin": 9,
+          "pas": 61,
+          "dri": 25,
+          "def": 15,
+          "fis": 77,
+          "ref": 81,
+          "han": 77,
+          "pos": 79,
+          "div": 80,
+          "kic": 65,
+          "one": 78
+        }
       },
       {
         "name": "Guillermo Varela",
@@ -3958,21 +4163,45 @@
           "LD",
           "MD"
         ],
-        "ovr": 77
+        "ovr": 75,
+        "attrs": {
+          "vel": 77,
+          "fin": 34,
+          "pas": 65,
+          "dri": 64,
+          "def": 72,
+          "fis": 68
+        }
       },
       {
         "name": "José Giménez",
         "positions": [
           "ZAG"
         ],
-        "ovr": 85
+        "ovr": 81,
+        "attrs": {
+          "vel": 67,
+          "fin": 38,
+          "pas": 66,
+          "dri": 48,
+          "def": 84,
+          "fis": 85
+        }
       },
       {
         "name": "Diego Godín",
         "positions": [
           "ZAG"
         ],
-        "ovr": 79
+        "ovr": 77,
+        "attrs": {
+          "vel": 43,
+          "fin": 37,
+          "pas": 63,
+          "dri": 40,
+          "def": 82,
+          "fis": 79
+        }
       },
       {
         "name": "Mathías Olivera",
@@ -3980,7 +4209,15 @@
           "LE",
           "ME"
         ],
-        "ovr": 81
+        "ovr": 79,
+        "attrs": {
+          "vel": 79,
+          "fin": 39,
+          "pas": 73,
+          "dri": 67,
+          "def": 77,
+          "fis": 79
+        }
       },
       {
         "name": "Matías Vecino",
@@ -3988,7 +4225,15 @@
           "VOL",
           "MC"
         ],
-        "ovr": 78
+        "ovr": 76,
+        "attrs": {
+          "vel": 65,
+          "fin": 57,
+          "pas": 70,
+          "dri": 61,
+          "def": 76,
+          "fis": 78
+        }
       },
       {
         "name": "Federico Valverde",
@@ -3996,7 +4241,15 @@
           "MC",
           "MD"
         ],
-        "ovr": 86
+        "ovr": 82,
+        "attrs": {
+          "vel": 85,
+          "fin": 76,
+          "pas": 81,
+          "dri": 77,
+          "def": 73,
+          "fis": 85
+        }
       },
       {
         "name": "Arrascaeta",
@@ -4004,7 +4257,15 @@
           "MEI",
           "ME"
         ],
-        "ovr": 83
+        "ovr": 83,
+        "attrs": {
+          "vel": 75,
+          "fin": 80,
+          "pas": 84,
+          "dri": 85,
+          "def": 39,
+          "fis": 63
+        }
       },
       {
         "name": "Facundo Pellistri",
@@ -4012,14 +4273,30 @@
           "PD",
           "MD"
         ],
-        "ovr": 77
+        "ovr": 75,
+        "attrs": {
+          "vel": 85,
+          "fin": 59,
+          "pas": 66,
+          "dri": 79,
+          "def": 31,
+          "fis": 51
+        }
       },
       {
         "name": "Luis Suárez",
         "positions": [
           "ATA"
         ],
-        "ovr": 79
+        "ovr": 78,
+        "attrs": {
+          "vel": 58,
+          "fin": 82,
+          "pas": 77,
+          "dri": 73,
+          "def": 30,
+          "fis": 73
+        }
       },
       {
         "name": "Darwin Núñez",
@@ -4027,7 +4304,15 @@
           "ATA",
           "PE"
         ],
-        "ovr": 81
+        "ovr": 79,
+        "attrs": {
+          "vel": 90,
+          "fin": 75,
+          "pas": 59,
+          "dri": 71,
+          "def": 34,
+          "fis": 83
+        }
       }
     ]
   },
@@ -4039,42 +4324,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Misael Escuti",
         "positions": [
           "GOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Luis Eyzaguirre",
         "positions": [
           "LD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Raúl Sánchez",
         "positions": [
           "ZAG"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Sergio Navarro",
         "positions": [
           "LE"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Carlos Contreras",
         "positions": [
           "ZAG"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Eladio Rojas",
@@ -4082,7 +4367,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Jorge Toro",
@@ -4090,7 +4375,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Jaime Ramírez",
@@ -4098,14 +4383,14 @@
           "PD",
           "MEI"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Honorino Landa",
         "positions": [
           "ATA"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Leonel Sánchez",
@@ -4113,7 +4398,7 @@
           "PE",
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Alberto Fouillioux",
@@ -4121,7 +4406,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 86
+        "ovr": 80
       }
     ]
   },
@@ -4133,14 +4418,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "José Pereira",
         "positions": [
           "GOL"
         ],
-        "ovr": 88
+        "ovr": 85
       },
       {
         "name": "João Morais",
@@ -4148,28 +4433,28 @@
           "LD",
           "MD"
         ],
-        "ovr": 85
+        "ovr": 80
       },
       {
         "name": "Vicente Lucas",
         "positions": [
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 86
       },
       {
         "name": "Alexandre Baptista",
         "positions": [
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 81
       },
       {
         "name": "Hilário",
         "positions": [
           "LE"
         ],
-        "ovr": 88
+        "ovr": 83
       },
       {
         "name": "Mário Coluna",
@@ -4177,7 +4462,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 94
+        "ovr": 91
       },
       {
         "name": "Jaime Graça",
@@ -4185,7 +4470,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 87
+        "ovr": 82
       },
       {
         "name": "José Augusto",
@@ -4193,21 +4478,21 @@
           "PD",
           "MD"
         ],
-        "ovr": 91
+        "ovr": 87
       },
       {
         "name": "Eusébio",
         "positions": [
           "ATA"
         ],
-        "ovr": 98
+        "ovr": 97
       },
       {
         "name": "José Torres",
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "António Simões",
@@ -4215,7 +4500,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 92
+        "ovr": 88
       }
     ]
   },
@@ -4227,42 +4512,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Jan Tomaszewski",
         "positions": [
           "GOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Antoni Szymanowski",
         "positions": [
           "LD"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Jerzy Gorgoń",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Władysław Żmuda",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Adam Musiał",
         "positions": [
           "LE"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Henryk Kasperczak",
@@ -4270,7 +4555,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Kazimierz Deyna",
@@ -4278,7 +4563,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Zygmunt Maszczyk",
@@ -4286,7 +4571,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Grzegorz Lato",
@@ -4294,14 +4579,14 @@
           "PD",
           "ATA"
         ],
-        "ovr": 97
+        "ovr": 94
       },
       {
         "name": "Andrzej Szarmach",
         "positions": [
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Robert Gadocha",
@@ -4309,7 +4594,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 92
+        "ovr": 86
       }
     ]
   },
@@ -4321,21 +4606,21 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Jean-Marie Pfaff",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Eric Gerets",
         "positions": [
           "LD"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Georges Grün",
@@ -4343,7 +4628,7 @@
           "ZAG",
           "LD"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Michel Renquin",
@@ -4351,14 +4636,14 @@
           "ZAG",
           "LE"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Stéphane Demol",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Franky Vercauteren",
@@ -4366,7 +4651,7 @@
           "ME",
           "PE"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Franky Van der Elst",
@@ -4374,7 +4659,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Enzo Scifo",
@@ -4382,7 +4667,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Jan Ceulemans",
@@ -4390,7 +4675,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Daniel Veyt",
@@ -4398,14 +4683,14 @@
           "ATA",
           "PD"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Nico Claesen",
         "positions": [
           "ATA"
         ],
-        "ovr": 88
+        "ovr": 82
       }
     ]
   },
@@ -4417,21 +4702,21 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Thomas N’Kono",
         "positions": [
           "GOL"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Stephen Tataw",
         "positions": [
           "LD"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Emmanuel Kundé",
@@ -4439,7 +4724,7 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "André Kana-Biyik",
@@ -4447,28 +4732,28 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Jules Onana",
         "positions": [
           "ZAG"
         ],
-        "ovr": 83
+        "ovr": 77
       },
       {
         "name": "Bertin Ebwellé",
         "positions": [
           "LE"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Benjamin Massing",
         "positions": [
           "ZAG"
         ],
-        "ovr": 82
+        "ovr": 76
       },
       {
         "name": "Cyrille Makanaky",
@@ -4476,7 +4761,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Louis-Paul M’Fédé",
@@ -4484,14 +4769,14 @@
           "MC",
           "ME"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "François Omam-Biyik",
         "positions": [
           "ATA"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Roger Milla",
@@ -4499,7 +4784,7 @@
           "ATA",
           "MEI"
         ],
-        "ovr": 94
+        "ovr": 91
       }
     ]
   },
@@ -4511,42 +4796,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Borislav Mihaylov",
         "positions": [
           "GOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Emil Kremenliev",
         "positions": [
           "LD"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Trifon Ivanov",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Petar Hubchev",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Tsanko Tsvetanov",
         "positions": [
           "LE"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Zlatko Yankov",
@@ -4554,7 +4839,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Yordan Letchkov",
@@ -4562,7 +4847,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Krasimir Balakov",
@@ -4570,7 +4855,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Daniel Borimirov",
@@ -4578,7 +4863,7 @@
           "ME",
           "MC"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Emil Kostadinov",
@@ -4586,7 +4871,7 @@
           "PD",
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Hristo Stoichkov",
@@ -4594,7 +4879,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 98
+        "ovr": 94
       }
     ]
   },
@@ -4606,42 +4891,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Thomas Ravelli",
         "positions": [
           "GOL"
         ],
-        "ovr": 94
+        "ovr": 90
       },
       {
         "name": "Roland Nilsson",
         "positions": [
           "LD"
         ],
-        "ovr": 90
+        "ovr": 83
       },
       {
         "name": "Patrik Andersson",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 84
       },
       {
         "name": "Joachim Björklund",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 82
       },
       {
         "name": "Roger Ljung",
         "positions": [
           "LE"
         ],
-        "ovr": 87
+        "ovr": 78
       },
       {
         "name": "Jonas Thern",
@@ -4649,7 +4934,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 85
       },
       {
         "name": "Stefan Schwarz",
@@ -4657,7 +4942,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 91
+        "ovr": 86
       },
       {
         "name": "Tomas Brolin",
@@ -4665,7 +4950,7 @@
           "MEI",
           "PD"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Håkan Mild",
@@ -4673,24 +4958,24 @@
           "MC",
           "ME"
         ],
-        "ovr": 88
+        "ovr": 81
       },
       {
         "name": "Kennet Andersson",
         "positions": [
           "ATA"
         ],
-        "ovr": 93,
+        "ovr": 89,
         "aliases": [
           "Kenneth Andersson"
         ],
         "attrs": {
-          "vel": 90,
-          "fin": 99,
-          "pas": 79,
-          "dri": 89,
-          "def": 43,
-          "fis": 91
+          "vel": 86,
+          "fin": 95,
+          "pas": 75,
+          "dri": 85,
+          "def": 39,
+          "fis": 87
         },
         "nameSource": "https://www.svenskfotboll.se/nyheter/landslag/2019/03/kennet-andersson/"
       },
@@ -4699,7 +4984,7 @@
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 87
       }
     ]
   },
@@ -4711,21 +4996,21 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Lee Woon-jae",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Choi Jin-cheul",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Hong Myung-bo",
@@ -4733,14 +5018,14 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Kim Tae-young",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Song Chong-gug",
@@ -4748,7 +5033,7 @@
           "MD",
           "LD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Lee Young-pyo",
@@ -4756,7 +5041,7 @@
           "ME",
           "LE"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Kim Nam-il",
@@ -4764,7 +5049,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Yoo Sang-chul",
@@ -4772,7 +5057,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Park Ji-sung",
@@ -4780,7 +5065,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Seol Ki-hyeon",
@@ -4788,7 +5073,7 @@
           "PE",
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Ahn Jung-hwan",
@@ -4796,7 +5081,7 @@
           "ATA",
           "MEI"
         ],
-        "ovr": 90
+        "ovr": 84
       }
     ]
   },
@@ -4808,14 +5093,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Rüştü Reçber",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Ümit Davala",
@@ -4823,21 +5108,21 @@
           "MD",
           "LD"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Alpay Özalan",
         "positions": [
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Bülent Korkmaz",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Fatih Akyel",
@@ -4845,7 +5130,7 @@
           "ZAG",
           "LD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Ergün Penbe",
@@ -4853,7 +5138,7 @@
           "LE",
           "ME"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Tugay Kerimoğlu",
@@ -4861,7 +5146,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Emre Belözoğlu",
@@ -4869,7 +5154,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Yıldıray Baştürk",
@@ -4877,7 +5162,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Hasan Şaş",
@@ -4885,21 +5170,21 @@
           "PE",
           "MEI"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "İlhan Mansız",
         "positions": [
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Hakan Şükür",
         "positions": [
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       }
     ]
   },
@@ -4911,14 +5196,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Tony Sylva",
         "positions": [
           "GOL"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Habib Beye",
@@ -4926,14 +5211,14 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Lamine Diatta",
         "positions": [
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Aliou Cissé",
@@ -4941,14 +5226,14 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Omar Daf",
         "positions": [
           "LE"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Ferdinand Coly",
@@ -4956,7 +5241,7 @@
           "MD",
           "LD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Salif Diao",
@@ -4964,7 +5249,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Papa Bouba Diop",
@@ -4972,7 +5257,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Khalilou Fadiga",
@@ -4980,7 +5265,7 @@
           "MEI",
           "ME"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "El Hadji Diouf",
@@ -4988,7 +5273,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Henri Camara",
@@ -4996,7 +5281,7 @@
           "ATA",
           "PD"
         ],
-        "ovr": 91
+        "ovr": 85
       }
     ]
   },
@@ -5008,14 +5293,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Keylor Navas",
         "positions": [
           "GOL"
         ],
-        "ovr": 97
+        "ovr": 91
       },
       {
         "name": "Cristian Gamboa",
@@ -5023,28 +5308,28 @@
           "LD",
           "MD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Óscar Duarte",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Giancarlo González",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Michael Umaña",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Júnior Díaz",
@@ -5052,7 +5337,7 @@
           "LE",
           "ME"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Yeltsin Tejeda",
@@ -5060,7 +5345,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Celso Borges",
@@ -5068,7 +5353,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Christian Bolaños",
@@ -5076,7 +5361,7 @@
           "MD",
           "MEI"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Bryan Ruiz",
@@ -5084,7 +5369,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Joel Campbell",
@@ -5092,7 +5377,7 @@
           "ATA",
           "PD"
         ],
-        "ovr": 91
+        "ovr": 85
       }
     ]
   },
@@ -5104,14 +5389,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Yassine Bounou",
         "positions": [
           "GOL"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Achraf Hakimi",
@@ -5119,21 +5404,21 @@
           "LD",
           "MD"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Nayef Aguerd",
         "positions": [
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Romain Saïss",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Noussair Mazraoui",
@@ -5141,14 +5426,14 @@
           "LE",
           "LD"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Sofyan Amrabat",
         "positions": [
           "VOL"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Azzedine Ounahi",
@@ -5156,7 +5441,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Selim Amallah",
@@ -5164,7 +5449,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Hakim Ziyech",
@@ -5172,7 +5457,7 @@
           "PD",
           "MEI"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Sofiane Boufal",
@@ -5180,14 +5465,14 @@
           "PE",
           "MEI"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Youssef En-Nesyri",
         "positions": [
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       }
     ]
   },
@@ -5199,14 +5484,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Shuichi Gonda",
         "positions": [
           "GOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Takehiro Tomiyasu",
@@ -5214,14 +5499,14 @@
           "ZAG",
           "LD"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Maya Yoshida",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Ko Itakura",
@@ -5229,7 +5514,7 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Yuto Nagatomo",
@@ -5237,7 +5522,7 @@
           "LE",
           "ME"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Wataru Endo",
@@ -5245,7 +5530,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Hidemasa Morita",
@@ -5253,7 +5538,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Junya Ito",
@@ -5261,7 +5546,7 @@
           "MD",
           "PD"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Daichi Kamada",
@@ -5269,7 +5554,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Ritsu Doan",
@@ -5277,7 +5562,7 @@
           "PD",
           "MEI"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Daizen Maeda",
@@ -5285,7 +5570,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Kaoru Mitoma",
@@ -5293,7 +5578,7 @@
           "PE",
           "ME"
         ],
-        "ovr": 90
+        "ovr": 84
       }
     ]
   },
@@ -5305,28 +5590,28 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Richard Kingson",
         "positions": [
           "GOL"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "John Pantsil",
         "positions": [
           "LD"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "John Mensah",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Isaac Vorsah",
@@ -5334,14 +5619,14 @@
           "ZAG",
           "VOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Hans Sarpei",
         "positions": [
           "LE"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Anthony Annan",
@@ -5349,7 +5634,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Kevin-Prince Boateng",
@@ -5357,7 +5642,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Kwadwo Asamoah",
@@ -5365,7 +5650,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Sulley Muntari",
@@ -5373,7 +5658,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "André Ayew",
@@ -5381,14 +5666,14 @@
           "PE",
           "ME"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Asamoah Gyan",
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       }
     ]
   },
@@ -5400,14 +5685,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "David Ospina",
         "positions": [
           "GOL"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Camilo Zúñiga",
@@ -5415,21 +5700,21 @@
           "LD",
           "MD"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Cristián Zapata",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Mario Yepes",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Pablo Armero",
@@ -5437,14 +5722,14 @@
           "LE",
           "ME"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Carlos Sánchez",
         "positions": [
           "VOL"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Abel Aguilar",
@@ -5452,7 +5737,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Juan Cuadrado",
@@ -5460,7 +5745,7 @@
           "PD",
           "MD"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "James Rodríguez",
@@ -5468,7 +5753,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 98
+        "ovr": 92
       },
       {
         "name": "Víctor Ibarbo",
@@ -5476,14 +5761,14 @@
           "PE",
           "ATA"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Teófilo Gutiérrez",
         "positions": [
           "ATA"
         ],
-        "ovr": 89
+        "ovr": 83
       }
     ]
   },
@@ -5495,42 +5780,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Luis Rubiños",
         "positions": [
           "GOL"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Eloy Campos",
         "positions": [
           "LD"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Héctor Chumpitaz",
         "positions": [
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Nicolás Fuentes",
         "positions": [
           "LE"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Orlando de la Torre",
         "positions": [
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Roberto Challe",
@@ -5538,7 +5823,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Ramón Mifflin",
@@ -5546,14 +5831,14 @@
           "VOL",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Pedro Pablo León",
         "positions": [
           "ATA"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Teófilo Cubillas",
@@ -5561,7 +5846,7 @@
           "MEI",
           "ATA"
         ],
-        "ovr": 96
+        "ovr": 91
       },
       {
         "name": "Hugo Sotil",
@@ -5569,7 +5854,7 @@
           "ATA",
           "PE"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Alberto Gallardo",
@@ -5577,7 +5862,7 @@
           "PE",
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       }
     ]
   },
@@ -5589,14 +5874,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Raïs M’Bolhi",
         "positions": [
           "GOL"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Aïssa Mandi",
@@ -5604,21 +5889,21 @@
           "LD",
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Rafik Halliche",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Essaïd Belkalem",
         "positions": [
           "ZAG"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Djamel Mesbah",
@@ -5626,7 +5911,7 @@
           "LE",
           "ME"
         ],
-        "ovr": 84
+        "ovr": 78
       },
       {
         "name": "Medhi Lacen",
@@ -5634,7 +5919,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Mehdi Mostefa",
@@ -5642,7 +5927,7 @@
           "VOL",
           "LD"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Saphir Taïder",
@@ -5650,7 +5935,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Sofiane Feghouli",
@@ -5658,7 +5943,7 @@
           "PD",
           "MEI"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Yacine Brahimi",
@@ -5666,14 +5951,14 @@
           "MEI",
           "PE"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Islam Slimani",
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 87
       }
     ]
   },
@@ -5685,42 +5970,42 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Packie Bonner",
         "positions": [
           "GOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Chris Morris",
         "positions": [
           "LD"
         ],
-        "ovr": 86
+        "ovr": 80
       },
       {
         "name": "Mick McCarthy",
         "positions": [
           "ZAG"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "David O’Leary",
         "positions": [
           "ZAG"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Steve Staunton",
         "positions": [
           "LE"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Paul McGrath",
@@ -5728,7 +6013,7 @@
           "VOL",
           "ZAG"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Andy Townsend",
@@ -5736,7 +6021,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 89
+        "ovr": 83
       },
       {
         "name": "Ray Houghton",
@@ -5744,7 +6029,7 @@
           "MD",
           "MC"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Kevin Sheedy",
@@ -5752,21 +6037,21 @@
           "ME",
           "MEI"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Tony Cascarino",
         "positions": [
           "ATA"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Niall Quinn",
         "positions": [
           "ATA"
         ],
-        "ovr": 86
+        "ovr": 80
       }
     ]
   },
@@ -5778,14 +6063,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Brad Friedel",
         "positions": [
           "GOL"
         ],
-        "ovr": 95
+        "ovr": 90
       },
       {
         "name": "Tony Sanneh",
@@ -5793,21 +6078,21 @@
           "LD",
           "MD"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Eddie Pope",
         "positions": [
           "ZAG"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Gregg Berhalter",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Frankie Hejduk",
@@ -5815,7 +6100,7 @@
           "LE",
           "LD"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Pablo Mastroeni",
@@ -5823,7 +6108,7 @@
           "VOL",
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Claudio Reyna",
@@ -5831,7 +6116,7 @@
           "MC",
           "MEI"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "John O’Brien",
@@ -5839,7 +6124,7 @@
           "MC",
           "VOL"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "DaMarcus Beasley",
@@ -5847,7 +6132,7 @@
           "ME",
           "PE"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Landon Donovan",
@@ -5855,14 +6140,14 @@
           "ATA",
           "MEI"
         ],
-        "ovr": 93
+        "ovr": 87
       },
       {
         "name": "Brian McBride",
         "positions": [
           "ATA"
         ],
-        "ovr": 92
+        "ovr": 86
       }
     ]
   },
@@ -5874,14 +6159,14 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
     "players": [
       {
         "name": "Florin Prunea",
         "positions": [
           "GOL"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Dan Petrescu",
@@ -5889,28 +6174,28 @@
           "LD",
           "MD"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Miodrag Belodedici",
         "positions": [
           "ZAG"
         ],
-        "ovr": 92
+        "ovr": 86
       },
       {
         "name": "Daniel Prodan",
         "positions": [
           "ZAG"
         ],
-        "ovr": 87
+        "ovr": 81
       },
       {
         "name": "Gheorghe Mihali",
         "positions": [
           "ZAG"
         ],
-        "ovr": 85
+        "ovr": 79
       },
       {
         "name": "Gheorghe Popescu",
@@ -5918,7 +6203,7 @@
           "VOL",
           "ZAG"
         ],
-        "ovr": 91
+        "ovr": 85
       },
       {
         "name": "Ioan Lupescu",
@@ -5926,7 +6211,7 @@
           "VOL",
           "MC"
         ],
-        "ovr": 88
+        "ovr": 82
       },
       {
         "name": "Dorinel Munteanu",
@@ -5934,7 +6219,7 @@
           "MC",
           "ME"
         ],
-        "ovr": 90
+        "ovr": 84
       },
       {
         "name": "Gheorghe Hagi",
@@ -5942,7 +6227,7 @@
           "MEI",
           "MC"
         ],
-        "ovr": 98
+        "ovr": 92
       },
       {
         "name": "Ilie Dumitrescu",
@@ -5950,14 +6235,14 @@
           "PE",
           "MEI"
         ],
-        "ovr": 94
+        "ovr": 89
       },
       {
         "name": "Florin Răducioiu",
         "positions": [
           "ATA"
         ],
-        "ovr": 94
+        "ovr": 89
       }
     ]
   }
