@@ -1,0 +1,614 @@
+[
+  {
+    "id": "messi",
+    "file": "assets/photos/messi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_close-up.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lionel_Messi_close-up.jpg/500px-Lionel_Messi_close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2012-12-23 06:11:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lionel Messi close-up",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Files with derivative versions|Lionel Messi in 2011|Portrait photographs of Lionel Messi",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Lionel Messi close-up.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-12-23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_(L),_Lionel_Messi_(R)_%E2%80%93_Portugal_vs._Argentina,_9th_February_2011_(1).jpg\" title=\"File:Cristiano Ronaldo (L), Lionel Messi (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg\">File:Cristiano Ronaldo (L), Lionel Messi (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Inisheer\" title=\"User:Inisheer\">Fanny Schertzer</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "cr7",
+    "file": "assets/photos/cr7.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2018.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_2018.jpg/500px-Cristiano_Ronaldo_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-03-06 21:47:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Cristiano Ronaldo 2018",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|2018 FIFA World Cup Match 4, Portugal v Spain|License migration redundant|Items with VRTS permission confirmed|Extracted images|Photos from soccer.ru|Cristiano Ronaldo in 2018|Portrait photographs of Cristiano Ronaldo",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Хет-трик Роналду приносит Португалии ничью в пиренейском дерби",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-06-15 22:15:36",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.soccer.ru/galery/1053759/photo/730330\">soccer.ru</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Анна Нэсси",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "mbappe",
+    "file": "assets/photos/mbappe.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_(cropped).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg/500px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-06-07 18:45:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank–129 (cropped)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon EOS 5D Mark IV|Personality rights warning|Uploaded with VicuñaUploader|Extracted images|Supported by Wikimedia Deutschland 2019|2019-07-17 SG Dynamo Dresden gegen Paris Saint-Germain|Dresden photographs taken on 2019-07-17|Kylian Mbappé in 2019|Portrait photographs of Kylian Mbappé|Photos by Sandro Halank/Dynamo Dresden gegen Paris Saint-Germain",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Training session - Steaua București",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-07-03 18:21:35",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Carlo Bruil Fotografie",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "Sandro Halank, Wikimedia Commons, CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "personality",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "neymar",
+    "file": "assets/photos/neymar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg/500px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-06-11 19:22:19",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "20180610 FIFA Friendly Match Austria vs. Brazil Neymar 850 1705",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Personality rights warning|Neymar in 2018|Supported by Wikimedia Österreich|Uploaded with LrMediaWiki|FIFA Friendly Match Austria vs. Brazil 2018-06-10|Sport images supported by Wikimedia Chapters|Portrait photographs of Neymar",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "FIFA Friendly Match Austria vs. Brazil 2018/06/10 in Vienna/Ernst-Happel-Stadium. Picture shows Neymar (BRA).",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-06-10",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "personality",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "File:UEFA Champions League logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-04-25 21:21:25",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "UEFA Champions League logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Inkscape:Text logos|Logos of the UEFA Champions League|SVG logos of UEFA",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "This is the logo of the UEFA Champions League, a football competition organised by UEFA.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://img.uefa.com/imgml/uefacom/ucl/logo_light.svg\">https://img.uefa.com/imgml/uefacom/ucl/logo_light.svg</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "UEFA",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "File:FIFA World Cup wordmark (2023).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_wordmark_(2023).svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-11-23 09:23:22",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "FIFA World Cup wordmark (2023)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "FIFA World Cup|With trademark|PD textlogo|SVG text logos|SVG logos of FIFA",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The wordmark for the FIFA World Cup introduced in 2023.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Logopedia Fandom",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "FIFA",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "File:Campeonato Brasileiro Série A logo (2024).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Campeonato_Brasileiro_S%C3%A9rie_A_logo_(2024%E2%80%932026).svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-01-02 20:11:37",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Campeonato Brasileiro Série A logo (2024–2026)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Superseded|With trademark|PD textlogo|SVG text logos|TOO-Brazil|Campeonato Brasileiro de Futebol logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The logo of the Campeonato Brasileiro Série A, the first division of Brazilian football, from 2024 to 2026.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://logos.fandom.com/wiki/Brasileir%C3%A3o\">https://logos.fandom.com/wiki/Brasileir%C3%A3o</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Confederação Brasileira de Futebol",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "File:Copa Libertadores logo.svg",
+    "source": "https://en.wikipedia.org/wiki/File:Copa_Libertadores_logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2019-07-30 05:03:21",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Copa Libertadores logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CONMEBOL logos|All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p>extracted from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.conmebol.com/sites/default/files/manual-de-marca-conmebol-libertadores-ingles.pdf\">http://www.conmebol.com/sites/default/files/manual-de-marca-conmebol-libertadores-ingles.pdf</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Copa_Libertadores\" title=\"Copa Libertadores\">Copa Libertadores</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  }
+]
