@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Raul",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 46,
+      "fin": 17,
+      "pas": 62,
+      "dri": 28,
+      "def": 24,
+      "fis": 79,
+      "ref": 90,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 76,
+      "one": 88
+    },
+    "sourceName": "Raul",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raul_Plassman",
+    "id": "lib-flamengo-1981-raul",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Nei Dias",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 81,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 75,
+      "fin": 41,
+      "pas": 69,
+      "dri": 67,
+      "def": 73,
+      "fis": 72
+    },
+    "sourceName": "Nei Dias",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nei_Dias",
+    "id": "lib-flamengo-1981-nei-dias",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Marinho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 65,
+      "fin": 33,
+      "pas": 62,
+      "dri": 48,
+      "def": 86,
+      "fis": 89
+    },
+    "sourceName": "Marinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mário_Caetano_Filho",
+    "id": "lib-flamengo-1981-marinho",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Mozer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 66,
+      "fin": 36,
+      "pas": 68,
+      "dri": 47,
+      "def": 90,
+      "fis": 87
+    },
+    "sourceName": "Mozer",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Mozer",
+    "id": "lib-flamengo-1981-mozer",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Júnior",
+    "positions": [
+      "LE",
+      "MC"
+    ],
+    "ovr": 94,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 89,
+      "fin": 54,
+      "pas": 84,
+      "dri": 84,
+      "def": 87,
+      "fis": 85
+    },
+    "sourceName": "Júnior",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leovegildo_Lins_da_Gama_Júnior",
+    "id": "lib-flamengo-1981-junior",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Andrade",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 70,
+      "fin": 53,
+      "pas": 84,
+      "dri": 72,
+      "def": 86,
+      "fis": 82
+    },
+    "sourceName": "Andrade",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Luís_Andrade_da_Silva",
+    "id": "lib-flamengo-1981-andrade",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Leandro",
+    "positions": [
+      "LD",
+      "MC"
+    ],
+    "ovr": 92,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 87,
+      "fin": 51,
+      "pas": 81,
+      "dri": 81,
+      "def": 84,
+      "fis": 81
+    },
+    "sourceName": "Leandro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Leandro_Ferreira",
+    "id": "lib-flamengo-1981-leandro",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Zico",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 97,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 81,
+      "fin": 94,
+      "pas": 95,
+      "dri": 94,
+      "def": 52,
+      "fis": 77
+    },
+    "sourceName": "Zico",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Zico_(footballer)",
+    "id": "lib-flamengo-1981-zico",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Tita",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 87,
+      "fin": 79,
+      "pas": 78,
+      "dri": 90,
+      "def": 35,
+      "fis": 70
+    },
+    "sourceName": "Tita",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Tita_(footballer,_born_1958)",
+    "id": "lib-flamengo-1981-tita",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Nunes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 80,
+      "fin": 95,
+      "pas": 66,
+      "dri": 79,
+      "def": 34,
+      "fis": 86
+    },
+    "sourceName": "Nunes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/João_Batista_Nunes",
+    "id": "lib-flamengo-1981-nunes",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Adílio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 91,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 75,
+      "fin": 70,
+      "pas": 91,
+      "dri": 86,
+      "def": 71,
+      "fis": 80
+    },
+    "sourceName": "Adílio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Adílio_(footballer,_born_1956)",
+    "id": "lib-flamengo-1981-adilio",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  },
+  {
+    "name": "Anselmo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 71,
+      "fin": 81,
+      "pas": 59,
+      "dri": 69,
+      "def": 25,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Anselmo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Anselmo_(footballer,_born_1959)",
+    "id": "lib-flamengo-1981-anselmo",
+    "team": "Flamengo",
+    "year": 1981,
+    "comp": "lib"
+  }
+]

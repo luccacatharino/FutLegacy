@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Didier Drogba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 84,
+      "fin": 97,
+      "pas": 81,
+      "dri": 85,
+      "def": 47,
+      "fis": 98
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-didier-drogba",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Petr Čech",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 42,
+      "fin": 12,
+      "pas": 68,
+      "dri": 30,
+      "def": 18,
+      "fis": 84,
+      "ref": 96,
+      "han": 92,
+      "pos": 94,
+      "div": 95,
+      "kic": 78,
+      "one": 93
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-petr-cech",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ashley Cole",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 90,
+      "fin": 60,
+      "pas": 83,
+      "dri": 84,
+      "def": 82,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-ashley-cole",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Frank Lampard",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 65,
+      "fin": 91,
+      "pas": 92,
+      "dri": 81,
+      "def": 65,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-frank-lampard",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Juan Mata",
+    "positions": [
+      "MEI",
+      "PD"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 80,
+      "fin": 84,
+      "pas": 91,
+      "dri": 92,
+      "def": 48,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-juan-mata",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "David Luiz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 65,
+      "fin": 35,
+      "pas": 64,
+      "dri": 54,
+      "def": 87,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-david-luiz",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Fernando Torres",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 83,
+      "fin": 84,
+      "pas": 75,
+      "dri": 81,
+      "def": 29,
+      "fis": 76
+    },
+    "starter": false,
+    "id": "ucl-chelsea-2012-fernando-torres",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gary Cahill",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 60,
+      "fin": 35,
+      "pas": 64,
+      "dri": 54,
+      "def": 87,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-gary-cahill",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Michael Essien",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 65,
+      "fin": 54,
+      "pas": 80,
+      "dri": 71,
+      "def": 84,
+      "fis": 78
+    },
+    "starter": false,
+    "id": "ucl-chelsea-2012-michael-essien",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mikel John Obi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 67,
+      "fin": 56,
+      "pas": 82,
+      "dri": 68,
+      "def": 81,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-mikel-john-obi",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Florent Malouda",
+    "positions": [
+      "ME",
+      "PE"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 83,
+      "fin": 73,
+      "pas": 79,
+      "dri": 79,
+      "def": 51,
+      "fis": 66
+    },
+    "starter": false,
+    "id": "ucl-chelsea-2012-florent-malouda",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Salomon Kalou",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 86,
+      "fin": 78,
+      "pas": 72,
+      "dri": 83,
+      "def": 34,
+      "fis": 65
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-salomon-kalou",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Daniel Sturridge",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 79,
+      "fin": 82,
+      "pas": 61,
+      "dri": 74,
+      "def": 32,
+      "fis": 78
+    },
+    "starter": false,
+    "id": "ucl-chelsea-2012-daniel-sturridge",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Bosingwa",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 80,
+      "fin": 50,
+      "pas": 68,
+      "dri": 69,
+      "def": 72,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-jose-bosingwa",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paulo Ferreira",
+    "positions": [
+      "LD",
+      "LE"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 79,
+      "fin": 44,
+      "pas": 67,
+      "dri": 68,
+      "def": 71,
+      "fis": 70
+    },
+    "starter": false,
+    "id": "ucl-chelsea-2012-paulo-ferreira",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ryan Bertrand",
+    "positions": [
+      "LE",
+      "ME"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 76,
+      "fin": 46,
+      "pas": 69,
+      "dri": 70,
+      "def": 68,
+      "fis": 67
+    },
+    "starter": true,
+    "id": "ucl-chelsea-2012-ryan-bertrand",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Oriol Romeu",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 60,
+      "fin": 49,
+      "pas": 75,
+      "dri": 66,
+      "def": 74,
+      "fis": 73
+    },
+    "starter": false,
+    "id": "ucl-chelsea-2012-oriol-romeu",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ross Turnbull",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 71,
+    "attrs": {
+      "vel": 42,
+      "fin": 12,
+      "pas": 45,
+      "dri": 30,
+      "def": 18,
+      "fis": 61,
+      "ref": 73,
+      "han": 69,
+      "pos": 71,
+      "div": 72,
+      "kic": 55,
+      "one": 70
+    },
+    "starter": false,
+    "id": "ucl-chelsea-2012-ross-turnbull",
+    "team": "Chelsea",
+    "year": 2012,
+    "comp": "ucl"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Alemanha",
+    "year": 1974,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-alemanha-1974-sepp-maier",
+      "wc-alemanha-1974-berti-vogts",
+      "wc-alemanha-1974-hans-georg-schwarzenbeck",
+      "wc-alemanha-1974-franz-beckenbauer",
+      "wc-alemanha-1974-paul-breitner",
+      "wc-alemanha-1974-rainer-bonhof",
+      "wc-alemanha-1974-wolfgang-overath",
+      "wc-alemanha-1974-uli-hoene",
+      "wc-alemanha-1974-jurgen-grabowski",
+      "wc-alemanha-1974-gerd-muller",
+      "wc-alemanha-1974-bernd-holzenbein"
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 1974,
+    "comp": "wc",
+    "tier": 3,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-paises-baixos-1974-jan-jongbloed",
+      "wc-paises-baixos-1974-wim-suurbier",
+      "wc-paises-baixos-1974-wim-rijsbergen",
+      "wc-paises-baixos-1974-arie-haan",
+      "wc-paises-baixos-1974-ruud-krol",
+      "wc-paises-baixos-1974-wim-jansen",
+      "wc-paises-baixos-1974-johan-neeskens",
+      "wc-paises-baixos-1974-willem-van-hanegem",
+      "wc-paises-baixos-1974-johnny-rep",
+      "wc-paises-baixos-1974-johan-cruyff",
+      "wc-paises-baixos-1974-rob-rensenbrink"
+    ]
+  },
+  {
+    "name": "Polônia",
+    "year": 1974,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-polonia-1974-jan-tomaszewski",
+      "wc-polonia-1974-antoni-szymanowski",
+      "wc-polonia-1974-jerzy-gorgon",
+      "wc-polonia-1974-w-adys-aw-zmuda",
+      "wc-polonia-1974-adam-musia",
+      "wc-polonia-1974-henryk-kasperczak",
+      "wc-polonia-1974-kazimierz-deyna",
+      "wc-polonia-1974-zygmunt-maszczyk",
+      "wc-polonia-1974-grzegorz-lato",
+      "wc-polonia-1974-andrzej-szarmach",
+      "wc-polonia-1974-robert-gadocha"
+    ]
+  }
+]

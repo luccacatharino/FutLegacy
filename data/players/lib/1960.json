@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Luis Maidana",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 41,
+      "fin": 14,
+      "pas": 56,
+      "dri": 24,
+      "def": 20,
+      "fis": 76,
+      "ref": 87,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 73,
+      "one": 85
+    },
+    "sourceName": "Luis Maidana",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Maidana",
+    "id": "lib-penarol-1960-luis-maidana",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "William Martínez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 80,
+      "fin": 41,
+      "pas": 75,
+      "dri": 68,
+      "def": 73,
+      "fis": 74
+    },
+    "sourceName": "William Martínez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/William_Martínez_(footballer)",
+    "id": "lib-penarol-1960-william-martinez",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Salvador",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 56,
+      "fin": 26,
+      "pas": 57,
+      "dri": 43,
+      "def": 80,
+      "fis": 84
+    },
+    "sourceName": "Salvador",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Milton_Alves_da_Silva",
+    "id": "lib-penarol-1960-salvador",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Santiago Pino",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 73,
+      "fin": 37,
+      "pas": 67,
+      "dri": 66,
+      "def": 70,
+      "fis": 68
+    },
+    "sourceName": "Santiago Pino",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Santiago_Pino?action=edit&amp;redlink=1",
+    "id": "lib-penarol-1960-santiago-pino",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Gonçalves",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 68,
+      "fin": 52,
+      "pas": 82,
+      "dri": 71,
+      "def": 85,
+      "fis": 85
+    },
+    "sourceName": "Néstor Gonçalves",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Gonçalves",
+    "id": "lib-penarol-1960-nestor-goncalves",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Walter Aguerre",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 81,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 67,
+      "fin": 61,
+      "pas": 82,
+      "dri": 75,
+      "def": 62,
+      "fis": 68
+    },
+    "sourceName": "Walter Aguerre",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Walter_Aguerre?action=edit&amp;redlink=1",
+    "id": "lib-penarol-1960-walter-aguerre",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Cubilla",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 88,
+      "fin": 81,
+      "pas": 78,
+      "dri": 89,
+      "def": 36,
+      "fis": 69
+    },
+    "sourceName": "Luis Cubilla",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Cubilla",
+    "id": "lib-penarol-1960-luis-cubilla",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Abel Linazza",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 71,
+      "fin": 77,
+      "pas": 84,
+      "dri": 85,
+      "def": 37,
+      "fis": 65
+    },
+    "sourceName": "Carlos Abel Linazza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Abel_Linazza?action=edit&amp;redlink=1",
+    "id": "lib-penarol-1960-carlos-abel-linazza",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Alberto Spencer",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 92,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 83,
+      "fin": 96,
+      "pas": 69,
+      "dri": 80,
+      "def": 36,
+      "fis": 87
+    },
+    "sourceName": "Alberto Spencer",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alberto_Spencer",
+    "id": "lib-penarol-1960-alberto-spencer",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Júpiter Crescio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 74,
+      "fin": 84,
+      "pas": 61,
+      "dri": 71,
+      "def": 28,
+      "fis": 76
+    },
+    "sourceName": "Júpiter Crescio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Júpiter_Crescio?action=edit&amp;redlink=1",
+    "id": "lib-penarol-1960-jupiter-crescio",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Borges",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 85,
+      "fin": 79,
+      "pas": 76,
+      "dri": 90,
+      "def": 34,
+      "fis": 65
+    },
+    "sourceName": "Carlos Borges",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Borges",
+    "id": "lib-penarol-1960-carlos-borges",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  },
+  {
+    "name": "José Mario Griecco",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "José Mario Griecco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/José_Mario_Griecco?action=edit&amp;redlink=1",
+    "id": "lib-penarol-1960-jose-mario-griecco",
+    "team": "Peñarol",
+    "year": 1960,
+    "comp": "lib"
+  }
+]

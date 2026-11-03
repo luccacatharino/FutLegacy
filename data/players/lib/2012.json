@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Cássio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 93,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 49,
+      "fin": 19,
+      "pas": 65,
+      "dri": 32,
+      "def": 26,
+      "fis": 87,
+      "ref": 95,
+      "han": 91,
+      "pos": 93,
+      "div": 94,
+      "kic": 81,
+      "one": 93
+    },
+    "sourceName": "Cássio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Cássio_Ramos",
+    "id": "lib-corinthians-2012-cassio",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Alessandro",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 84,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 82,
+      "fin": 42,
+      "pas": 76,
+      "dri": 70,
+      "def": 74,
+      "fis": 74
+    },
+    "sourceName": "Alessandro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alessandro_Mori_Nunes",
+    "id": "lib-corinthians-2012-alessandro",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Chicão",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 63,
+      "fin": 35,
+      "pas": 64,
+      "dri": 50,
+      "def": 88,
+      "fis": 87
+    },
+    "sourceName": "Chicão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Anderson_Sebastião_Cardoso",
+    "id": "lib-corinthians-2012-chicao",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Leandro Castán",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 67,
+      "fin": 40,
+      "pas": 69,
+      "dri": 51,
+      "def": 93,
+      "fis": 91
+    },
+    "sourceName": "Leandro Castán",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leandro_Castán",
+    "id": "lib-corinthians-2012-leandro-castan",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Fábio Santos",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 79,
+      "fin": 46,
+      "pas": 73,
+      "dri": 74,
+      "def": 78,
+      "fis": 76
+    },
+    "sourceName": "Fábio Santos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fábio_Santos_(footballer,_born_1985)",
+    "id": "lib-corinthians-2012-fabio-santos",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Paulinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 91,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 79,
+      "fin": 73,
+      "pas": 94,
+      "dri": 87,
+      "def": 74,
+      "fis": 81
+    },
+    "sourceName": "Paulinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Paulinho_(footballer,_born_July_1988)",
+    "id": "lib-corinthians-2012-paulinho",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Ralf",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 69,
+      "fin": 54,
+      "pas": 83,
+      "dri": 76,
+      "def": 86,
+      "fis": 85
+    },
+    "sourceName": "Ralf",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ralf_(footballer)",
+    "id": "lib-corinthians-2012-ralf",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Henrique",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 85,
+    "sourceRole": "RW",
+    "attrs": {
+      "vel": 85,
+      "fin": 76,
+      "pas": 75,
+      "dri": 89,
+      "def": 32,
+      "fis": 68
+    },
+    "sourceName": "Jorge Henrique",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Henrique_de_Souza",
+    "id": "lib-corinthians-2012-jorge-henrique",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Alex",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 87,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 78,
+      "fin": 79,
+      "pas": 87,
+      "dri": 91,
+      "def": 39,
+      "fis": 67
+    },
+    "sourceName": "Alex",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alex_Raphael_Meschini",
+    "id": "lib-corinthians-2012-alex",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Emerson Sheik",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 93,
+    "sourceRole": "LW",
+    "attrs": {
+      "vel": 84,
+      "fin": 96,
+      "pas": 70,
+      "dri": 82,
+      "def": 36,
+      "fis": 88
+    },
+    "sourceName": "Emerson Sheik",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Emerson_Sheik",
+    "id": "lib-corinthians-2012-emerson-sheik",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Danilo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 91,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 78,
+      "fin": 81,
+      "pas": 92,
+      "dri": 95,
+      "def": 42,
+      "fis": 71
+    },
+    "sourceName": "Danilo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Danilo_Gabriel_de_Andrade",
+    "id": "lib-corinthians-2012-danilo",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Romarinho",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 75,
+      "fin": 88,
+      "pas": 62,
+      "dri": 75,
+      "def": 28,
+      "fis": 82
+    },
+    "sourceName": "Romarinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Romarinho_(footballer,_born_December_1990)",
+    "id": "lib-corinthians-2012-romarinho",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Júlio César",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 39,
+      "fin": 10,
+      "pas": 57,
+      "dri": 24,
+      "def": 17,
+      "fis": 75,
+      "ref": 83,
+      "han": 79,
+      "pos": 81,
+      "div": 82,
+      "kic": 69,
+      "one": 81
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Júlio César",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Júlio_César_(footballer,_born_1984)",
+    "id": "lib-corinthians-2012-julio-cesar",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Marquinhos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 59,
+      "dri": 43,
+      "def": 79,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Marquinhos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marquinhos",
+    "id": "lib-corinthians-2012-marquinhos",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Weldinho",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 37,
+      "pas": 68,
+      "dri": 64,
+      "def": 69,
+      "fis": 67
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Weldinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Weldinho",
+    "id": "lib-corinthians-2012-weldinho",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Wallace",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 61,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Wallace",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Wallace_Reis_Silva",
+    "id": "lib-corinthians-2012-wallace",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Douglas",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 74,
+      "fin": 75,
+      "pas": 88,
+      "dri": 85,
+      "def": 36,
+      "fis": 66
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Douglas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Douglas_(footballer,_born_August_1990)",
+    "id": "lib-corinthians-2012-douglas",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Liédson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 74,
+      "fin": 84,
+      "pas": 62,
+      "dri": 72,
+      "def": 28,
+      "fis": 78
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Liédson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Liédson",
+    "id": "lib-corinthians-2012-liedson",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  },
+  {
+    "name": "Ramon",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 38,
+      "pas": 69,
+      "dri": 66,
+      "def": 70,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Ramon",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Ramon_Motta",
+    "id": "lib-corinthians-2012-ramon",
+    "team": "Corinthians",
+    "year": 2012,
+    "comp": "lib"
+  }
+]

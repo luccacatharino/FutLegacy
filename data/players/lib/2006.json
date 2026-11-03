@@ -1,0 +1,525 @@
+[
+  {
+    "name": "Clemer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 44,
+      "fin": 15,
+      "pas": 59,
+      "dri": 24,
+      "def": 22,
+      "fis": 81,
+      "ref": 90,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 76,
+      "one": 88
+    },
+    "sourceName": "Clemer",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Clemer",
+    "id": "lib-internacional-2006-clemer",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Fabinho",
+    "positions": [
+      "LD",
+      "VOL"
+    ],
+    "ovr": 82,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 76,
+      "fin": 41,
+      "pas": 71,
+      "dri": 67,
+      "def": 73,
+      "fis": 72
+    },
+    "sourceName": "Fabinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fabinho_(footballer,_born_1976)",
+    "id": "lib-internacional-2006-fabinho",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Bolívar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 61,
+      "fin": 31,
+      "pas": 63,
+      "dri": 46,
+      "def": 85,
+      "fis": 86
+    },
+    "sourceName": "Bolívar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fabian_Guedes",
+    "id": "lib-internacional-2006-bolivar",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Fabiano Eller",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 64,
+      "fin": 32,
+      "pas": 66,
+      "dri": 46,
+      "def": 90,
+      "fis": 88
+    },
+    "sourceName": "Fabiano Eller",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fabiano_Eller",
+    "id": "lib-internacional-2006-fabiano-eller",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Edinho",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 83,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 62,
+      "fin": 45,
+      "pas": 77,
+      "dri": 69,
+      "def": 78,
+      "fis": 78
+    },
+    "sourceName": "Edinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Edinho_(footballer,_born_1983)",
+    "id": "lib-internacional-2006-edinho",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Ceará",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 84,
+      "fin": 44,
+      "pas": 78,
+      "dri": 75,
+      "def": 76,
+      "fis": 75
+    },
+    "sourceName": "Ceará",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ceará_(footballer)",
+    "id": "lib-internacional-2006-ceara",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Tinga",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 91,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 76,
+      "fin": 73,
+      "pas": 92,
+      "dri": 89,
+      "def": 73,
+      "fis": 79
+    },
+    "sourceName": "Tinga",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Tinga_(footballer,_born_1978)",
+    "id": "lib-internacional-2006-tinga",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Wagner",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 88,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 83,
+      "fin": 68,
+      "pas": 84,
+      "dri": 82,
+      "def": 64,
+      "fis": 78
+    },
+    "sourceName": "Jorge Wagner",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Wagner",
+    "id": "lib-internacional-2006-jorge-wagner",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Alex",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 89,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 80,
+      "fin": 81,
+      "pas": 89,
+      "dri": 93,
+      "def": 41,
+      "fis": 69
+    },
+    "sourceName": "Alex",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alex_(footballer,_born_March_1982)",
+    "id": "lib-internacional-2006-alex",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Rafael Sóbis",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 92,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 85,
+      "fin": 97,
+      "pas": 71,
+      "dri": 83,
+      "def": 37,
+      "fis": 89
+    },
+    "sourceName": "Rafael Sóbis",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rafael_Sóbis",
+    "id": "lib-internacional-2006-rafael-sobis",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Fernandão",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 92,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 81,
+      "fin": 82,
+      "pas": 95,
+      "dri": 92,
+      "def": 47,
+      "fis": 72
+    },
+    "sourceName": "Fernandão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fernandão_(footballer,_born_1978)",
+    "id": "lib-internacional-2006-fernandao",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Iarley",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 81,
+      "fin": 93,
+      "pas": 67,
+      "dri": 81,
+      "def": 33,
+      "fis": 83
+    },
+    "sourceName": "Iarley",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Iarley",
+    "id": "lib-internacional-2006-iarley",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Adriano Gabiru",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 75,
+      "fin": 78,
+      "pas": 88,
+      "dri": 85,
+      "def": 39,
+      "fis": 66
+    },
+    "sourceName": "Adriano Gabiru",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Adriano_Gabiru",
+    "id": "lib-internacional-2006-adriano-gabiru",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Boeck",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 36,
+      "fin": 10,
+      "pas": 54,
+      "dri": 21,
+      "def": 14,
+      "fis": 72,
+      "ref": 80,
+      "han": 76,
+      "pos": 78,
+      "div": 79,
+      "kic": 66,
+      "one": 78
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Marcelo Boeck",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_Boeck",
+    "id": "lib-internacional-2006-marcelo-boeck",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Perdigão",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 65,
+      "fin": 47,
+      "pas": 78,
+      "dri": 67,
+      "def": 78,
+      "fis": 77
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Perdigão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Perdigão_(footballer,_born_1977)",
+    "id": "lib-internacional-2006-perdigao",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Índio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 65,
+      "fin": 35,
+      "pas": 66,
+      "dri": 50,
+      "def": 86,
+      "fis": 87
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Índio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Índio_(footballer,_born_1975)",
+    "id": "lib-internacional-2006-indio",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Michel",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 71,
+      "fin": 81,
+      "pas": 59,
+      "dri": 69,
+      "def": 25,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Michel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Michel_(footballer,_born_1980)",
+    "id": "lib-internacional-2006-michel",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Wason Rentería",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 79,
+      "fin": 89,
+      "pas": 67,
+      "dri": 77,
+      "def": 33,
+      "fis": 83
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Wason Rentería",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Wason_Rentería",
+    "id": "lib-internacional-2006-wason-renteria",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Wellington Monteiro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 67,
+      "fin": 49,
+      "pas": 80,
+      "dri": 69,
+      "def": 80,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Wellington Monteiro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Wellington_Monteiro",
+    "id": "lib-internacional-2006-wellington-monteiro",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Renan",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 38,
+      "fin": 10,
+      "pas": 56,
+      "dri": 23,
+      "def": 16,
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 68,
+      "one": 80
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Renan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Renan_(footballer,_born_January_1985)",
+    "id": "lib-internacional-2006-renan",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  },
+  {
+    "name": "Ediglê",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 61,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Ediglê",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Ediglê",
+    "id": "lib-internacional-2006-edigle",
+    "team": "Internacional",
+    "year": 2006,
+    "comp": "lib"
+  }
+]

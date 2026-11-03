@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Manchester United",
+    "year": 1999,
+    "season": "1998/99",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1999_UEFA_Champions_League_final",
+    "selectionReason": "Todos os três títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "Peter Schmeichel",
+      "Gary Neville",
+      "Ronny Johnsen",
+      "Jaap Stam",
+      "Denis Irwin",
+      "Ryan Giggs",
+      "David Beckham",
+      "Nicky Butt",
+      "Jesper Blomqvist",
+      "Dwight Yorke",
+      "Andy Cole"
+    ],
+    "playerIds": [
+      "ucl-manchester-united-1999-david-beckham",
+      "ucl-manchester-united-1999-ryan-giggs",
+      "ucl-manchester-united-1999-dwight-yorke",
+      "ucl-manchester-united-1999-jaap-stam",
+      "ucl-manchester-united-1999-peter-schmeichel",
+      "ucl-manchester-united-1999-andy-cole",
+      "ucl-manchester-united-1999-denis-irwin",
+      "ucl-manchester-united-1999-ole-gunnar-solskj-r",
+      "ucl-manchester-united-1999-gary-neville",
+      "ucl-manchester-united-1999-ronny-johnsen",
+      "ucl-manchester-united-1999-teddy-sheringham",
+      "ucl-manchester-united-1999-nicky-butt",
+      "ucl-manchester-united-1999-jesper-blomqvist",
+      "ucl-manchester-united-1999-phil-neville",
+      "ucl-manchester-united-1999-david-may",
+      "ucl-manchester-united-1999-raimond-van-der-gouw",
+      "ucl-manchester-united-1999-wes-brown",
+      "ucl-manchester-united-1999-jonathan-greening"
+    ]
+  }
+]

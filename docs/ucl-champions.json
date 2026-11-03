@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Real Madrid",
+    "titles": [
+      1956,
+      1957,
+      1958,
+      1959,
+      1960,
+      1966,
+      1998,
+      2000,
+      2002,
+      2014,
+      2016,
+      2017,
+      2018,
+      2022,
+      2024
+    ],
+    "selected": [
+      1960,
+      2002,
+      2017
+    ],
+    "reason": "Três picos distintos: ataque de Di Stéfano/Puskás, título de Zidane e domínio de 2017."
+  },
+  {
+    "name": "Milan",
+    "titles": [
+      1963,
+      1969,
+      1989,
+      1990,
+      1994,
+      2003,
+      2007
+    ],
+    "selected": [
+      1989,
+      1994,
+      2007
+    ],
+    "reason": "Picos de Sacchi, Capello e Ancelotti; qualidade coletiva e campanhas dominantes."
+  },
+  {
+    "name": "Bayern",
+    "titles": [
+      1974,
+      1975,
+      1976,
+      2001,
+      2013,
+      2020
+    ],
+    "selected": [
+      1974,
+      2013,
+      2020
+    ],
+    "reason": "Primeiro título de Beckenbauer e as duas tríplices coroas."
+  },
+  {
+    "name": "Liverpool",
+    "titles": [
+      1977,
+      1978,
+      1981,
+      1984,
+      2005,
+      2019
+    ],
+    "selected": [
+      1977,
+      1984,
+      2019
+    ],
+    "reason": "Primeira taça, auge de Dalglish/Rush e equipe campeã de Klopp."
+  },
+  {
+    "name": "Barcelona",
+    "titles": [
+      1992,
+      2006,
+      2009,
+      2011,
+      2015
+    ],
+    "selected": [
+      2006,
+      2009,
+      2011
+    ],
+    "reason": "Rijkaard/Ronaldinho e dois picos do jogo coletivo de Guardiola."
+  },
+  {
+    "name": "Ajax",
+    "titles": [
+      1971,
+      1972,
+      1973,
+      1995
+    ],
+    "selected": [
+      1971,
+      1973,
+      1995
+    ],
+    "reason": "Início e ápice do tricampeonato de Cruyff, mais a geração invicta de 1995."
+  },
+  {
+    "name": "Inter",
+    "titles": [
+      1964,
+      1965,
+      2010
+    ],
+    "selected": [
+      1964,
+      1965,
+      2010
+    ],
+    "reason": "Todos os três títulos."
+  },
+  {
+    "name": "Manchester United",
+    "titles": [
+      1968,
+      1999,
+      2008
+    ],
+    "selected": [
+      1968,
+      1999,
+      2008
+    ],
+    "reason": "Todos os três títulos."
+  },
+  {
+    "name": "Chelsea",
+    "titles": [
+      2012,
+      2021
+    ],
+    "selected": [
+      2012,
+      2021
+    ],
+    "reason": "Ambos os títulos."
+  },
+  {
+    "name": "Juventus",
+    "titles": [
+      1985,
+      1996
+    ],
+    "selected": [
+      1985,
+      1996
+    ],
+    "reason": "Ambos os títulos."
+  },
+  {
+    "name": "Benfica",
+    "titles": [
+      1961,
+      1962
+    ],
+    "selected": [
+      1961,
+      1962
+    ],
+    "reason": "Ambos os títulos."
+  },
+  {
+    "name": "Nottingham Forest",
+    "titles": [
+      1979,
+      1980
+    ],
+    "selected": [
+      1979,
+      1980
+    ],
+    "reason": "Ambos os títulos."
+  },
+  {
+    "name": "Porto",
+    "titles": [
+      1987,
+      2004
+    ],
+    "selected": [
+      1987,
+      2004
+    ],
+    "reason": "Ambos os títulos."
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "titles": [
+      2025,
+      2026
+    ],
+    "selected": [
+      2025,
+      2026
+    ],
+    "reason": "Ambos os títulos concluídos."
+  },
+  {
+    "name": "Manchester City",
+    "titles": [
+      2023
+    ],
+    "selected": [
+      2023
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Borussia Dortmund",
+    "titles": [
+      1997
+    ],
+    "selected": [
+      1997
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Feyenoord",
+    "titles": [
+      1970
+    ],
+    "selected": [
+      1970
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Marseille",
+    "titles": [
+      1993
+    ],
+    "selected": [
+      1993
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Aston Villa",
+    "titles": [
+      1982
+    ],
+    "selected": [
+      1982
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Hamburgo",
+    "titles": [
+      1983
+    ],
+    "selected": [
+      1983
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Estrela Vermelha",
+    "titles": [
+      1991
+    ],
+    "selected": [
+      1991
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "PSV",
+    "titles": [
+      1988
+    ],
+    "selected": [
+      1988
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Celtic",
+    "titles": [
+      1967
+    ],
+    "selected": [
+      1967
+    ],
+    "reason": "Título único."
+  },
+  {
+    "name": "Steaua Bucareste",
+    "titles": [
+      1986
+    ],
+    "selected": [
+      1986
+    ],
+    "reason": "Título único."
+  }
+]

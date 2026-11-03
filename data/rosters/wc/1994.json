@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Brasil",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-brasil-1994-taffarel",
+      "wc-brasil-1994-jorginho",
+      "wc-brasil-1994-aldair",
+      "wc-brasil-1994-marcio-santos",
+      "wc-brasil-1994-branco",
+      "wc-brasil-1994-dunga",
+      "wc-brasil-1994-mauro-silva",
+      "wc-brasil-1994-mazinho",
+      "wc-brasil-1994-zinho",
+      "wc-brasil-1994-bebeto",
+      "wc-brasil-1994-romario"
+    ]
+  },
+  {
+    "name": "Itália",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-italia-1994-gianluca-pagliuca",
+      "wc-italia-1994-roberto-mussi",
+      "wc-italia-1994-franco-baresi",
+      "wc-italia-1994-paolo-maldini",
+      "wc-italia-1994-antonio-benarrivo",
+      "wc-italia-1994-demetrio-albertini",
+      "wc-italia-1994-dino-baggio",
+      "wc-italia-1994-roberto-donadoni",
+      "wc-italia-1994-nicola-berti",
+      "wc-italia-1994-roberto-baggio",
+      "wc-italia-1994-daniele-massaro"
+    ]
+  },
+  {
+    "name": "Bulgária",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-bulgaria-1994-borislav-mihaylov",
+      "wc-bulgaria-1994-emil-kremenliev",
+      "wc-bulgaria-1994-trifon-ivanov",
+      "wc-bulgaria-1994-petar-hubchev",
+      "wc-bulgaria-1994-tsanko-tsvetanov",
+      "wc-bulgaria-1994-zlatko-yankov",
+      "wc-bulgaria-1994-yordan-letchkov",
+      "wc-bulgaria-1994-krasimir-balakov",
+      "wc-bulgaria-1994-daniel-borimirov",
+      "wc-bulgaria-1994-emil-kostadinov",
+      "wc-bulgaria-1994-hristo-stoichkov"
+    ]
+  },
+  {
+    "name": "Suécia",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-suecia-1994-thomas-ravelli",
+      "wc-suecia-1994-roland-nilsson",
+      "wc-suecia-1994-patrik-andersson",
+      "wc-suecia-1994-joachim-bjorklund",
+      "wc-suecia-1994-roger-ljung",
+      "wc-suecia-1994-jonas-thern",
+      "wc-suecia-1994-stefan-schwarz",
+      "wc-suecia-1994-tomas-brolin",
+      "wc-suecia-1994-hakan-mild",
+      "wc-suecia-1994-kenneth-andersson",
+      "wc-suecia-1994-martin-dahlin"
+    ]
+  },
+  {
+    "name": "Romênia",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-romenia-1994-florin-prunea",
+      "wc-romenia-1994-dan-petrescu",
+      "wc-romenia-1994-miodrag-belodedici",
+      "wc-romenia-1994-daniel-prodan",
+      "wc-romenia-1994-gheorghe-mihali",
+      "wc-romenia-1994-gheorghe-popescu",
+      "wc-romenia-1994-ioan-lupescu",
+      "wc-romenia-1994-dorinel-munteanu",
+      "wc-romenia-1994-gheorghe-hagi",
+      "wc-romenia-1994-ilie-dumitrescu",
+      "wc-romenia-1994-florin-raducioiu"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Botafogo",
+    "year": 2024,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2024_Copa_Libertadores_final",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2024_Copa_Libertadores_final"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "John",
+      "Vitinho",
+      "Adryelson",
+      "Alexander Barboza",
+      "Alex Telles",
+      "Marlon Freitas",
+      "Gregore",
+      "Thiago Almada",
+      "Jefferson Savarino",
+      "Luiz Henrique",
+      "Igor Jesus"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-botafogo-2024-john",
+      "lib-botafogo-2024-vitinho",
+      "lib-botafogo-2024-adryelson",
+      "lib-botafogo-2024-alexander-barboza",
+      "lib-botafogo-2024-alex-telles",
+      "lib-botafogo-2024-marlon-freitas",
+      "lib-botafogo-2024-gregore",
+      "lib-botafogo-2024-thiago-almada",
+      "lib-botafogo-2024-jefferson-savarino",
+      "lib-botafogo-2024-luiz-henrique",
+      "lib-botafogo-2024-igor-jesus",
+      "lib-botafogo-2024-gatito-fernandez",
+      "lib-botafogo-2024-lucas-halter",
+      "lib-botafogo-2024-marcal",
+      "lib-botafogo-2024-cuiabano",
+      "lib-botafogo-2024-danilo-barbosa",
+      "lib-botafogo-2024-tche-tche",
+      "lib-botafogo-2024-allan",
+      "lib-botafogo-2024-eduardo",
+      "lib-botafogo-2024-oscar-romero",
+      "lib-botafogo-2024-tiquinho-soares",
+      "lib-botafogo-2024-junior-santos",
+      "lib-botafogo-2024-matheus-martins"
+    ]
+  }
+]

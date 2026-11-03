@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Manchester United",
+    "year": 1968,
+    "season": "1967/68",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1968_European_Cup_final",
+    "selectionReason": "Todos os três títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Alex Stepney",
+      "Shay Brennan",
+      "Tony Dunne",
+      "Paddy Crerand",
+      "Bill Foulkes",
+      "Nobby Stiles",
+      "George Best",
+      "Brian Kidd",
+      "Bobby Charlton",
+      "David Sadler",
+      "John Aston"
+    ],
+    "playerIds": [
+      "ucl-manchester-united-1968-george-best",
+      "ucl-manchester-united-1968-bobby-charlton",
+      "ucl-manchester-united-1968-nobby-stiles",
+      "ucl-manchester-united-1968-paddy-crerand",
+      "ucl-manchester-united-1968-bill-foulkes",
+      "ucl-manchester-united-1968-alex-stepney",
+      "ucl-manchester-united-1968-john-aston",
+      "ucl-manchester-united-1968-tony-dunne",
+      "ucl-manchester-united-1968-brian-kidd",
+      "ucl-manchester-united-1968-david-sadler",
+      "ucl-manchester-united-1968-shay-brennan",
+      "ucl-manchester-united-1968-jimmy-rimmer"
+    ]
+  }
+]

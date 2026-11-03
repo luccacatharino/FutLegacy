@@ -1,0 +1,47 @@
+[
+  {
+    "name": "River Plate",
+    "year": 1986,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "1986 reúne Pumpido, Ruggeri, Gallego, Alonso e Alzamendi; 1996 acrescenta Francescoli, Crespo e Ortega; 2018 representa o grupo de Gallardo, campeão contra Boca na final. 2015 foi preterido para evitar dois recortes próximos da mesma fase institucional.",
+    "startingXI": [
+      "Nery Pumpido",
+      "Jorge Gordillo",
+      "Nelson Gutiérrez",
+      "Oscar Ruggeri",
+      "Alejandro Montenegro",
+      "Héctor Enrique",
+      "Américo Gallego",
+      "Norberto Alonso",
+      "Roque Alfaro",
+      "Antonio Alzamendi",
+      "Juan Gilberto Funes"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-river-plate-1986-nery-pumpido",
+      "lib-river-plate-1986-jorge-gordillo",
+      "lib-river-plate-1986-nelson-gutierrez",
+      "lib-river-plate-1986-oscar-ruggeri",
+      "lib-river-plate-1986-alejandro-montenegro",
+      "lib-river-plate-1986-hector-enrique",
+      "lib-river-plate-1986-americo-gallego",
+      "lib-river-plate-1986-norberto-alonso",
+      "lib-river-plate-1986-roque-alfaro",
+      "lib-river-plate-1986-antonio-alzamendi",
+      "lib-river-plate-1986-juan-gilberto-funes",
+      "lib-river-plate-1986-pedro-troglio",
+      "lib-river-plate-1986-daniel-sperandio",
+      "lib-river-plate-1986-ruben-dario-gomez"
+    ]
+  }
+]

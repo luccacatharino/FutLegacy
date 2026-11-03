@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Itália",
+    "year": 2006,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-italia-2006-gianluigi-buffon",
+      "wc-italia-2006-gianluca-zambrotta",
+      "wc-italia-2006-fabio-cannavaro",
+      "wc-italia-2006-marco-materazzi",
+      "wc-italia-2006-fabio-grosso",
+      "wc-italia-2006-gennaro-gattuso",
+      "wc-italia-2006-andrea-pirlo",
+      "wc-italia-2006-mauro-camoranesi",
+      "wc-italia-2006-simone-perrotta",
+      "wc-italia-2006-francesco-totti",
+      "wc-italia-2006-luca-toni"
+    ]
+  },
+  {
+    "name": "França",
+    "year": 2006,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-franca-2006-fabien-barthez",
+      "wc-franca-2006-willy-sagnol",
+      "wc-franca-2006-lilian-thuram",
+      "wc-franca-2006-william-gallas",
+      "wc-franca-2006-eric-abidal",
+      "wc-franca-2006-patrick-vieira",
+      "wc-franca-2006-claude-makelele",
+      "wc-franca-2006-franck-ribery",
+      "wc-franca-2006-zinedine-zidane",
+      "wc-franca-2006-florent-malouda",
+      "wc-franca-2006-thierry-henry"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "year": 2006,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads#Portugal",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-portugal-2006-ricardo",
+      "wc-portugal-2006-miguel",
+      "wc-portugal-2006-ricardo-carvalho",
+      "wc-portugal-2006-fernando-meira",
+      "wc-portugal-2006-nuno-valente",
+      "wc-portugal-2006-costinha",
+      "wc-portugal-2006-maniche",
+      "wc-portugal-2006-deco",
+      "wc-portugal-2006-luis-figo",
+      "wc-portugal-2006-cristiano-ronaldo",
+      "wc-portugal-2006-pauleta"
+    ]
+  }
+]

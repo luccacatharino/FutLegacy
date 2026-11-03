@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Felix Magath",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 76,
+      "fin": 88,
+      "pas": 96,
+      "dri": 93,
+      "def": 53,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-felix-magath",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Manfred Kaltz",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 90,
+      "fin": 60,
+      "pas": 83,
+      "dri": 84,
+      "def": 87,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-manfred-kaltz",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Horst Hrubesch",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 90,
+      "fin": 98,
+      "pas": 72,
+      "dri": 85,
+      "def": 43,
+      "fis": 89
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-horst-hrubesch",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Uli Stein",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 41,
+      "fin": 12,
+      "pas": 61,
+      "dri": 29,
+      "def": 18,
+      "fis": 78,
+      "ref": 89,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 71,
+      "one": 87
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-uli-stein",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Holger Hieronymus",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 67,
+      "fin": 37,
+      "pas": 66,
+      "dri": 56,
+      "def": 89,
+      "fis": 89
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-holger-hieronymus",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jürgen Milewski",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 90,
+      "fin": 75,
+      "pas": 81,
+      "dri": 86,
+      "def": 58,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-jurgen-milewski",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ditmar Jakobs",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 63,
+      "fin": 38,
+      "pas": 67,
+      "dri": 57,
+      "def": 85,
+      "fis": 85
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-ditmar-jakobs",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Lars Bastrup",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 82,
+      "fin": 90,
+      "pas": 69,
+      "dri": 77,
+      "def": 35,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-lars-bastrup",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Wolfgang Rolff",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 74,
+      "fin": 72,
+      "pas": 84,
+      "dri": 79,
+      "def": 67,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-wolfgang-rolff",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bernd Wehmeyer",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 82,
+      "fin": 52,
+      "pas": 75,
+      "dri": 71,
+      "def": 74,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-bernd-wehmeyer",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Thomas von Heesen",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 78,
+      "fin": 77,
+      "pas": 84,
+      "dri": 85,
+      "def": 41,
+      "fis": 66
+    },
+    "starter": false,
+    "id": "ucl-hamburgo-1983-thomas-von-heesen",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jürgen Groh",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 81,
+      "fin": 71,
+      "pas": 77,
+      "dri": 82,
+      "def": 54,
+      "fis": 64
+    },
+    "starter": true,
+    "id": "ucl-hamburgo-1983-jurgen-groh",
+    "team": "Hamburgo",
+    "year": 1983,
+    "comp": "ucl"
+  }
+]

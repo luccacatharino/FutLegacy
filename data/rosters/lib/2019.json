@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Flamengo",
+    "year": 2019,
+    "comp": "lib",
+    "tier": 3,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2019_Copa_Libertadores_final",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2019_Copa_Libertadores_final"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 91,
+    "selectionReason": "1981: Zico artilheiro e núcleo de Júnior, Leandro e Adílio; 2019: ataque e campanha decisivos de Gabriel Barbosa e Bruno Henrique com o meio de Gerson/Arrascaeta; 2022: campanha invicta, Pedro artilheiro, forte jogo coletivo e Arrascaeta. O título de 2025 é reconhecido no checklist, mas não incluído devido ao limite de três; a escolha editorial prioriza o domínio da campanha de 2022, a força ofensiva de 2019 e a geração fundadora de 1981.",
+    "startingXI": [
+      "Diego Alves",
+      "Rafinha",
+      "Rodrigo Caio",
+      "Pablo Marí",
+      "Filipe Luís",
+      "Willian Arão",
+      "Gerson",
+      "Everton Ribeiro",
+      "Arrascaeta",
+      "Bruno Henrique",
+      "Gabriel Barbosa"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-flamengo-2019-diego-alves",
+      "lib-flamengo-2019-rafinha",
+      "lib-flamengo-2019-rodrigo-caio",
+      "lib-flamengo-2019-pablo-mari",
+      "lib-flamengo-2019-filipe-luis",
+      "lib-flamengo-2019-willian-arao",
+      "lib-flamengo-2019-gerson",
+      "lib-flamengo-2019-everton-ribeiro",
+      "lib-flamengo-2019-arrascaeta",
+      "lib-flamengo-2019-bruno-henrique",
+      "lib-flamengo-2019-gabriel-barbosa",
+      "lib-flamengo-2019-diego",
+      "lib-flamengo-2019-cesar",
+      "lib-flamengo-2019-rodinei",
+      "lib-flamengo-2019-rhodolfo",
+      "lib-flamengo-2019-rene",
+      "lib-flamengo-2019-matheus-thuler",
+      "lib-flamengo-2019-vinicius-souza",
+      "lib-flamengo-2019-reinier",
+      "lib-flamengo-2019-robert-piris-da-motta",
+      "lib-flamengo-2019-vitinho",
+      "lib-flamengo-2019-lincoln",
+      "lib-flamengo-2019-orlando-berrio"
+    ]
+  }
+]

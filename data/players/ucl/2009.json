@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Lionel Messi",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 98,
+    "attrs": {
+      "vel": 97,
+      "fin": 96,
+      "pas": 93,
+      "dri": 99,
+      "def": 33,
+      "fis": 66
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-lionel-messi",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Xavi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 72,
+      "fin": 73,
+      "pas": 98,
+      "dri": 91,
+      "def": 70,
+      "fis": 66
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-xavi",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Andrés Iniesta",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 82,
+      "fin": 80,
+      "pas": 96,
+      "dri": 98,
+      "def": 58,
+      "fis": 63
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-andres-iniesta",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Samuel Eto'o",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 94,
+      "fin": 97,
+      "pas": 76,
+      "dri": 89,
+      "def": 47,
+      "fis": 93
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-samuel-eto-o",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Carles Puyol",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 91,
+      "fin": 61,
+      "pas": 84,
+      "dri": 85,
+      "def": 88,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-carles-puyol",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Thierry Henry",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 91,
+      "fin": 95,
+      "pas": 87,
+      "dri": 94,
+      "def": 31,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-thierry-henry",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gerard Piqué",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 68,
+      "fin": 43,
+      "pas": 72,
+      "dri": 57,
+      "def": 90,
+      "fis": 90
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-gerard-pique",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Víctor Valdés",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 59,
+      "dri": 27,
+      "def": 18,
+      "fis": 78,
+      "ref": 87,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 69,
+      "one": 87
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-victor-valdes",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sergio Busquets",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 73,
+      "fin": 57,
+      "pas": 83,
+      "dri": 74,
+      "def": 87,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-sergio-busquets",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Yaya Touré",
+    "positions": [
+      "ZAG",
+      "VOL",
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 64,
+      "fin": 39,
+      "pas": 68,
+      "dri": 58,
+      "def": 86,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-yaya-toure",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Seydou Keita",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 76,
+      "fin": 74,
+      "pas": 86,
+      "dri": 81,
+      "def": 69,
+      "fis": 76
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2009-seydou-keita",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Eiður Guðjohnsen",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 81,
+      "fin": 84,
+      "pas": 63,
+      "dri": 76,
+      "def": 34,
+      "fis": 80
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2009-ei-ur-gu-johnsen",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bojan",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 76,
+      "fin": 84,
+      "pas": 63,
+      "dri": 76,
+      "def": 34,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2009-bojan",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sylvinho",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 80,
+      "fin": 50,
+      "pas": 68,
+      "dri": 69,
+      "def": 72,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2009-sylvinho",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Martín Cáceres",
+    "positions": [
+      "ZAG",
+      "LD"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 56,
+      "fin": 31,
+      "pas": 60,
+      "dri": 50,
+      "def": 78,
+      "fis": 78
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2009-martin-caceres",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pedro",
+    "positions": [
+      "PD",
+      "PE"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 81,
+      "fin": 78,
+      "pas": 72,
+      "dri": 83,
+      "def": 29,
+      "fis": 60
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2009-pedro",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Manuel Pinto",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 48,
+      "dri": 27,
+      "def": 18,
+      "fis": 67,
+      "ref": 76,
+      "han": 75,
+      "pos": 77,
+      "div": 78,
+      "kic": 58,
+      "one": 76
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2009-jose-manuel-pinto",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Marc Muniesa",
+    "positions": [
+      "ZAG",
+      "LE"
+    ],
+    "ovr": 70,
+    "attrs": {
+      "vel": 49,
+      "fin": 24,
+      "pas": 53,
+      "dri": 38,
+      "def": 71,
+      "fis": 71
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2009-marc-muniesa",
+    "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  }
+]

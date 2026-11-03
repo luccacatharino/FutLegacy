@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Feyenoord",
+    "year": 1970,
+    "season": "1969/70",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1970_European_Cup_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Eddy Pieters Graafland",
+      "Piet Romeijn",
+      "Theo Laseroms",
+      "Rinus Israël",
+      "Theo van Duivenbode",
+      "Wim Jansen",
+      "Franz Hasil",
+      "Willem van Hanegem",
+      "Henk Wery",
+      "Ove Kindvall",
+      "Coen Moulijn"
+    ],
+    "playerIds": [
+      "ucl-feyenoord-1970-willem-van-hanegem",
+      "ucl-feyenoord-1970-ove-kindvall",
+      "ucl-feyenoord-1970-coen-moulijn",
+      "ucl-feyenoord-1970-rinus-israel",
+      "ucl-feyenoord-1970-wim-jansen",
+      "ucl-feyenoord-1970-eddy-pieters-graafland",
+      "ucl-feyenoord-1970-theo-laseroms",
+      "ucl-feyenoord-1970-franz-hasil",
+      "ucl-feyenoord-1970-henk-wery",
+      "ucl-feyenoord-1970-piet-romeijn",
+      "ucl-feyenoord-1970-theo-van-duivenbode",
+      "ucl-feyenoord-1970-cor-veldhoen",
+      "ucl-feyenoord-1970-joop-van-daele",
+      "ucl-feyenoord-1970-eddy-treijtel",
+      "ucl-feyenoord-1970-guus-haak",
+      "ucl-feyenoord-1970-piet-vrauwdeunt"
+    ]
+  }
+]

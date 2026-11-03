@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Brasil",
+    "year": 1970,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-brasil-1970-felix",
+      "wc-brasil-1970-carlos-alberto",
+      "wc-brasil-1970-brito",
+      "wc-brasil-1970-piazza",
+      "wc-brasil-1970-everaldo",
+      "wc-brasil-1970-clodoaldo",
+      "wc-brasil-1970-gerson",
+      "wc-brasil-1970-jairzinho",
+      "wc-brasil-1970-pele",
+      "wc-brasil-1970-tostao",
+      "wc-brasil-1970-rivellino"
+    ]
+  },
+  {
+    "name": "Itália",
+    "year": 1970,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-italia-1970-enrico-albertosi",
+      "wc-italia-1970-tarcisio-burgnich",
+      "wc-italia-1970-roberto-rosato",
+      "wc-italia-1970-pierluigi-cera",
+      "wc-italia-1970-giacinto-facchetti",
+      "wc-italia-1970-mario-bertini",
+      "wc-italia-1970-giancarlo-de-sisti",
+      "wc-italia-1970-angelo-domenghini",
+      "wc-italia-1970-sandro-mazzola",
+      "wc-italia-1970-roberto-boninsegna",
+      "wc-italia-1970-gigi-riva"
+    ]
+  },
+  {
+    "name": "Peru",
+    "year": 1970,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-peru-1970-luis-rubinos",
+      "wc-peru-1970-eloy-campos",
+      "wc-peru-1970-hector-chumpitaz",
+      "wc-peru-1970-nicolas-fuentes",
+      "wc-peru-1970-orlando-de-la-torre",
+      "wc-peru-1970-roberto-challe",
+      "wc-peru-1970-ramon-mifflin",
+      "wc-peru-1970-pedro-pablo-leon",
+      "wc-peru-1970-teofilo-cubillas",
+      "wc-peru-1970-hugo-sotil",
+      "wc-peru-1970-alberto-gallardo"
+    ]
+  }
+]

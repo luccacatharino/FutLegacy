@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Victor",
+      "Michel",
+      "Leonardo Silva",
+      "Réver",
+      "Júnior César",
+      "Josué",
+      "Pierre",
+      "Ronaldinho",
+      "Bernard",
+      "Diego Tardelli",
+      "Jô"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-atletico-mg-2013-victor",
+      "lib-atletico-mg-2013-michel",
+      "lib-atletico-mg-2013-leonardo-silva",
+      "lib-atletico-mg-2013-rever",
+      "lib-atletico-mg-2013-junior-cesar",
+      "lib-atletico-mg-2013-josue",
+      "lib-atletico-mg-2013-pierre",
+      "lib-atletico-mg-2013-ronaldinho",
+      "lib-atletico-mg-2013-bernard",
+      "lib-atletico-mg-2013-diego-tardelli",
+      "lib-atletico-mg-2013-jo",
+      "lib-atletico-mg-2013-marcos-rocha",
+      "lib-atletico-mg-2013-richarlyson",
+      "lib-atletico-mg-2013-luan",
+      "lib-atletico-mg-2013-giovanni",
+      "lib-atletico-mg-2013-gilberto-silva",
+      "lib-atletico-mg-2013-rosinei",
+      "lib-atletico-mg-2013-alecsandro",
+      "lib-atletico-mg-2013-guilherme",
+      "lib-atletico-mg-2013-leandro-donizete"
+    ]
+  }
+]

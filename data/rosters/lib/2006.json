@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Internacional",
+    "year": 2006,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Clemer",
+      "Fabinho",
+      "Bolívar",
+      "Fabiano Eller",
+      "Edinho",
+      "Ceará",
+      "Tinga",
+      "Jorge Wagner",
+      "Alex",
+      "Rafael Sóbis",
+      "Fernandão"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-internacional-2006-clemer",
+      "lib-internacional-2006-fabinho",
+      "lib-internacional-2006-bolivar",
+      "lib-internacional-2006-fabiano-eller",
+      "lib-internacional-2006-edinho",
+      "lib-internacional-2006-ceara",
+      "lib-internacional-2006-tinga",
+      "lib-internacional-2006-jorge-wagner",
+      "lib-internacional-2006-alex",
+      "lib-internacional-2006-rafael-sobis",
+      "lib-internacional-2006-fernandao",
+      "lib-internacional-2006-iarley",
+      "lib-internacional-2006-adriano-gabiru",
+      "lib-internacional-2006-marcelo-boeck",
+      "lib-internacional-2006-perdigao",
+      "lib-internacional-2006-indio",
+      "lib-internacional-2006-michel",
+      "lib-internacional-2006-wason-renteria",
+      "lib-internacional-2006-wellington-monteiro",
+      "lib-internacional-2006-renan",
+      "lib-internacional-2006-edigle"
+    ]
+  }
+]

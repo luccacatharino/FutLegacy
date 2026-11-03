@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Alemanha",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-alemanha-2014-manuel-neuer",
+      "wc-alemanha-2014-philipp-lahm",
+      "wc-alemanha-2014-jerome-boateng",
+      "wc-alemanha-2014-mats-hummels",
+      "wc-alemanha-2014-benedikt-howedes",
+      "wc-alemanha-2014-bastian-schweinsteiger",
+      "wc-alemanha-2014-sami-khedira",
+      "wc-alemanha-2014-toni-kroos",
+      "wc-alemanha-2014-mesut-ozil",
+      "wc-alemanha-2014-thomas-muller",
+      "wc-alemanha-2014-miroslav-klose"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-argentina-2014-sergio-romero",
+      "wc-argentina-2014-pablo-zabaleta",
+      "wc-argentina-2014-martin-demichelis",
+      "wc-argentina-2014-ezequiel-garay",
+      "wc-argentina-2014-marcos-rojo",
+      "wc-argentina-2014-javier-mascherano",
+      "wc-argentina-2014-lucas-biglia",
+      "wc-argentina-2014-enzo-perez",
+      "wc-argentina-2014-lionel-messi",
+      "wc-argentina-2014-gonzalo-higuain",
+      "wc-argentina-2014-ezequiel-lavezzi",
+      "wc-argentina-2014-angel-di-maria"
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-costa-rica-2014-keylor-navas",
+      "wc-costa-rica-2014-cristian-gamboa",
+      "wc-costa-rica-2014-oscar-duarte",
+      "wc-costa-rica-2014-giancarlo-gonzalez",
+      "wc-costa-rica-2014-michael-umana",
+      "wc-costa-rica-2014-junior-diaz",
+      "wc-costa-rica-2014-yeltsin-tejeda",
+      "wc-costa-rica-2014-celso-borges",
+      "wc-costa-rica-2014-christian-bolanos",
+      "wc-costa-rica-2014-bryan-ruiz",
+      "wc-costa-rica-2014-joel-campbell"
+    ]
+  },
+  {
+    "name": "Colômbia",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-colombia-2014-david-ospina",
+      "wc-colombia-2014-camilo-zuniga",
+      "wc-colombia-2014-cristian-zapata",
+      "wc-colombia-2014-mario-yepes",
+      "wc-colombia-2014-pablo-armero",
+      "wc-colombia-2014-carlos-sanchez",
+      "wc-colombia-2014-abel-aguilar",
+      "wc-colombia-2014-juan-cuadrado",
+      "wc-colombia-2014-james-rodriguez",
+      "wc-colombia-2014-victor-ibarbo",
+      "wc-colombia-2014-teofilo-gutierrez"
+    ]
+  },
+  {
+    "name": "Argélia",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-argelia-2014-rais-m-bolhi",
+      "wc-argelia-2014-aissa-mandi",
+      "wc-argelia-2014-rafik-halliche",
+      "wc-argelia-2014-essaid-belkalem",
+      "wc-argelia-2014-djamel-mesbah",
+      "wc-argelia-2014-medhi-lacen",
+      "wc-argelia-2014-mehdi-mostefa",
+      "wc-argelia-2014-saphir-taider",
+      "wc-argelia-2014-sofiane-feghouli",
+      "wc-argelia-2014-yacine-brahimi",
+      "wc-argelia-2014-islam-slimani"
+    ]
+  }
+]

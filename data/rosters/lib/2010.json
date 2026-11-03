@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Internacional",
+    "year": 2010,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Renan",
+      "Nei",
+      "Bolívar",
+      "Índio",
+      "Kléber",
+      "Sandro",
+      "Pablo Guiñazú",
+      "Giuliano",
+      "Taison",
+      "Andrés D'Alessandro",
+      "Alecsandro"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-internacional-2010-renan",
+      "lib-internacional-2010-nei",
+      "lib-internacional-2010-bolivar",
+      "lib-internacional-2010-indio",
+      "lib-internacional-2010-kleber",
+      "lib-internacional-2010-sandro",
+      "lib-internacional-2010-pablo-guinazu",
+      "lib-internacional-2010-giuliano",
+      "lib-internacional-2010-taison",
+      "lib-internacional-2010-andres-d-alessandro",
+      "lib-internacional-2010-alecsandro",
+      "lib-internacional-2010-rafael-sobis",
+      "lib-internacional-2010-roberto-abbondanzieri",
+      "lib-internacional-2010-fabiano-eller",
+      "lib-internacional-2010-andrezinho",
+      "lib-internacional-2010-glaydson",
+      "lib-internacional-2010-wilson-tiago",
+      "lib-internacional-2010-everton",
+      "lib-internacional-2010-tinga",
+      "lib-internacional-2010-leandro-damiao"
+    ]
+  }
+]

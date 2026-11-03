@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Estudiantes",
+    "year": 2009,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "1968 é a ruptura continental de Zubeldía; 1970 fecha o tricampeonato, mantendo Verón, Bilardo e Pachamé; 2009 representa a geração de Juan Sebastián Verón e Boselli. 1969 é omitido pelo limite de três, mantendo o início e o fechamento do ciclo tricampeão mais uma geração distinta.",
+    "startingXI": [
+      "Mariano Andújar",
+      "Christian Cellay",
+      "Rolando Schiavi",
+      "Leandro Desábato",
+      "Germán Ré",
+      "Rodrigo Braña",
+      "Enzo Pérez",
+      "Juan Sebastián Verón",
+      "Leandro Benítez",
+      "Mauro Boselli",
+      "Gastón Fernández"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-estudiantes-2009-mariano-andujar",
+      "lib-estudiantes-2009-christian-cellay",
+      "lib-estudiantes-2009-rolando-schiavi",
+      "lib-estudiantes-2009-leandro-desabato",
+      "lib-estudiantes-2009-german-re",
+      "lib-estudiantes-2009-rodrigo-brana",
+      "lib-estudiantes-2009-enzo-perez",
+      "lib-estudiantes-2009-juan-sebastian-veron",
+      "lib-estudiantes-2009-leandro-benitez",
+      "lib-estudiantes-2009-mauro-boselli",
+      "lib-estudiantes-2009-gaston-fernandez",
+      "lib-estudiantes-2009-jose-calderon",
+      "lib-estudiantes-2009-damian-albil",
+      "lib-estudiantes-2009-juan-diaz",
+      "lib-estudiantes-2009-federico-fernandez",
+      "lib-estudiantes-2009-cristian-sanchez-prette",
+      "lib-estudiantes-2009-maximiliano-nunez",
+      "lib-estudiantes-2009-juan-salgueiro"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Bayern",
+    "year": 2020,
+    "season": "2019/20",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2020_UEFA_Champions_League_final",
+    "selectionReason": "Primeiro título de Beckenbauer e as duas tríplices coroas.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 91,
+    "startingXI": [
+      "Manuel Neuer",
+      "Joshua Kimmich",
+      "Jérôme Boateng",
+      "David Alaba",
+      "Alphonso Davies",
+      "Thiago",
+      "Leon Goretzka",
+      "Serge Gnabry",
+      "Thomas Müller",
+      "Kingsley Coman",
+      "Robert Lewandowski"
+    ],
+    "playerIds": [
+      "ucl-bayern-2020-robert-lewandowski",
+      "ucl-bayern-2020-manuel-neuer",
+      "ucl-bayern-2020-thomas-muller",
+      "ucl-bayern-2020-joshua-kimmich",
+      "ucl-bayern-2020-serge-gnabry",
+      "ucl-bayern-2020-thiago",
+      "ucl-bayern-2020-alphonso-davies",
+      "ucl-bayern-2020-david-alaba",
+      "ucl-bayern-2020-leon-goretzka",
+      "ucl-bayern-2020-ivan-perisic",
+      "ucl-bayern-2020-kingsley-coman",
+      "ucl-bayern-2020-benjamin-pavard",
+      "ucl-bayern-2020-jerome-boateng",
+      "ucl-bayern-2020-niklas-sule",
+      "ucl-bayern-2020-philippe-coutinho",
+      "ucl-bayern-2020-lucas-hernandez",
+      "ucl-bayern-2020-javi-martinez",
+      "ucl-bayern-2020-corentin-tolisso",
+      "ucl-bayern-2020-sven-ulreich",
+      "ucl-bayern-2020-alvaro-odriozola",
+      "ucl-bayern-2020-michael-cuisance",
+      "ucl-bayern-2020-joshua-zirkzee",
+      "ucl-bayern-2020-ron-thorben-hoffmann"
+    ]
+  }
+]

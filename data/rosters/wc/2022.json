@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Argentina",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-argentina-2022-emiliano-martinez",
+      "wc-argentina-2022-nahuel-molina",
+      "wc-argentina-2022-cristian-romero",
+      "wc-argentina-2022-nicolas-otamendi",
+      "wc-argentina-2022-nicolas-tagliafico",
+      "wc-argentina-2022-enzo-fernandez",
+      "wc-argentina-2022-rodrigo-de-paul",
+      "wc-argentina-2022-alexis-mac-allister",
+      "wc-argentina-2022-angel-di-maria",
+      "wc-argentina-2022-julian-alvarez",
+      "wc-argentina-2022-lionel-messi"
+    ]
+  },
+  {
+    "name": "França",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-franca-2022-hugo-lloris",
+      "wc-franca-2022-jules-kounde",
+      "wc-franca-2022-raphael-varane",
+      "wc-franca-2022-dayot-upamecano",
+      "wc-franca-2022-theo-hernandez",
+      "wc-franca-2022-aurelien-tchouameni",
+      "wc-franca-2022-adrien-rabiot",
+      "wc-franca-2022-antoine-griezmann",
+      "wc-franca-2022-ousmane-dembele",
+      "wc-franca-2022-olivier-giroud",
+      "wc-franca-2022-kylian-mbappe"
+    ]
+  },
+  {
+    "name": "Uruguai",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads#Uruguay",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-uruguai-2022-sergio-rochet",
+      "wc-uruguai-2022-guillermo-varela",
+      "wc-uruguai-2022-jose-gimenez",
+      "wc-uruguai-2022-diego-godin",
+      "wc-uruguai-2022-mathias-olivera",
+      "wc-uruguai-2022-matias-vecino",
+      "wc-uruguai-2022-federico-valverde",
+      "wc-uruguai-2022-arrascaeta",
+      "wc-uruguai-2022-facundo-pellistri",
+      "wc-uruguai-2022-luis-suarez",
+      "wc-uruguai-2022-darwin-nunez"
+    ]
+  },
+  {
+    "name": "Marrocos",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-marrocos-2022-yassine-bounou",
+      "wc-marrocos-2022-achraf-hakimi",
+      "wc-marrocos-2022-nayef-aguerd",
+      "wc-marrocos-2022-romain-saiss",
+      "wc-marrocos-2022-noussair-mazraoui",
+      "wc-marrocos-2022-sofyan-amrabat",
+      "wc-marrocos-2022-azzedine-ounahi",
+      "wc-marrocos-2022-selim-amallah",
+      "wc-marrocos-2022-hakim-ziyech",
+      "wc-marrocos-2022-sofiane-boufal",
+      "wc-marrocos-2022-youssef-en-nesyri"
+    ]
+  },
+  {
+    "name": "Japão",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-japao-2022-shuichi-gonda",
+      "wc-japao-2022-takehiro-tomiyasu",
+      "wc-japao-2022-maya-yoshida",
+      "wc-japao-2022-ko-itakura",
+      "wc-japao-2022-yuto-nagatomo",
+      "wc-japao-2022-wataru-endo",
+      "wc-japao-2022-hidemasa-morita",
+      "wc-japao-2022-junya-ito",
+      "wc-japao-2022-daichi-kamada",
+      "wc-japao-2022-ritsu-doan",
+      "wc-japao-2022-daizen-maeda",
+      "wc-japao-2022-kaoru-mitoma"
+    ]
+  },
+  {
+    "name": "Croácia",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "docs/FONTES.md",
+    "scope": "Recorte XI da campanha anterior, preservado.",
+    "playerIds": [
+      "wc-croacia-2022-dominik-livakovic",
+      "wc-croacia-2022-josip-juranovic",
+      "wc-croacia-2022-dejan-lovren",
+      "wc-croacia-2022-josko-gvardiol",
+      "wc-croacia-2022-borna-sosa",
+      "wc-croacia-2022-marcelo-brozovic",
+      "wc-croacia-2022-mateo-kovacic",
+      "wc-croacia-2022-luka-modric",
+      "wc-croacia-2022-mario-pasalic",
+      "wc-croacia-2022-andrej-kramaric",
+      "wc-croacia-2022-ivan-perisic"
+    ]
+  }
+]

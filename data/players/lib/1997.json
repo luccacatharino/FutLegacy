@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Dida",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 51,
+      "fin": 18,
+      "pas": 62,
+      "dri": 27,
+      "def": 24,
+      "fis": 85,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Dida",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Dida_(footballer,_born_1973)",
+    "id": "lib-cruzeiro-1997-dida",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Vítor",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 81,
+      "fin": 42,
+      "pas": 75,
+      "dri": 72,
+      "def": 74,
+      "fis": 74
+    },
+    "sourceName": "Vítor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Vítor_(footballer,_born_1972)",
+    "id": "lib-cruzeiro-1997-vitor",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Gélson Baresi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 27,
+      "pas": 57,
+      "dri": 43,
+      "def": 80,
+      "fis": 83
+    },
+    "sourceName": "Gélson Baresi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gélson_Baresi",
+    "id": "lib-cruzeiro-1997-gelson-baresi",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Wilson Gottardo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 65,
+      "fin": 32,
+      "pas": 66,
+      "dri": 49,
+      "def": 85,
+      "fis": 88
+    },
+    "sourceName": "Wilson Gottardo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Wilson_Gottardo",
+    "id": "lib-cruzeiro-1997-wilson-gottardo",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Nonato",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 75,
+      "fin": 41,
+      "pas": 70,
+      "dri": 71,
+      "def": 73,
+      "fis": 74
+    },
+    "sourceName": "Nonato",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raimundo_Nonato_da_Silva",
+    "id": "lib-cruzeiro-1997-nonato",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 73,
+      "fin": 67,
+      "pas": 89,
+      "dri": 84,
+      "def": 68,
+      "fis": 79
+    },
+    "sourceName": "Ricardinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ricardo_Alexandre_dos_Santos",
+    "id": "lib-cruzeiro-1997-ricardinho",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Palhinha",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 74,
+      "fin": 80,
+      "pas": 87,
+      "dri": 86,
+      "def": 40,
+      "fis": 67
+    },
+    "sourceName": "Palhinha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Palhinha_(Jorge_Ferreira_da_Silva)",
+    "id": "lib-cruzeiro-1997-palhinha",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Cleisson",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 81,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 69,
+      "fin": 63,
+      "pas": 84,
+      "dri": 77,
+      "def": 64,
+      "fis": 71
+    },
+    "sourceName": "Cleisson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Cleisson_Edson_Assunção",
+    "id": "lib-cruzeiro-1997-cleisson",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Ramos",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 77,
+      "fin": 91,
+      "pas": 63,
+      "dri": 78,
+      "def": 30,
+      "fis": 85
+    },
+    "sourceName": "Marcelo Ramos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_Silva_Ramos",
+    "id": "lib-cruzeiro-1997-marcelo-ramos",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Da Silva",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 73,
+      "fin": 86,
+      "pas": 59,
+      "dri": 74,
+      "def": 26,
+      "fis": 77
+    },
+    "sourceName": "Da Silva",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Cleonésio_Carlos_da_Silva",
+    "id": "lib-cruzeiro-1997-da-silva",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Tico",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 80,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 83,
+      "fin": 74,
+      "pas": 73,
+      "dri": 85,
+      "def": 30,
+      "fis": 60
+    },
+    "sourceName": "Tico",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Tico_(footballer,_born_1976)",
+    "id": "lib-cruzeiro-1997-tico",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  },
+  {
+    "name": "Elivélton",
+    "positions": [
+      "PE",
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 88,
+      "fin": 77,
+      "pas": 74,
+      "dri": 88,
+      "def": 32,
+      "fis": 66
+    },
+    "sourceName": "Elivélton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Elivélton_(footballer,_born_1971)",
+    "id": "lib-cruzeiro-1997-elivelton",
+    "team": "Cruzeiro",
+    "year": 1997,
+    "comp": "lib"
+  }
+]

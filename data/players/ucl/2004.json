@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Deco",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 79,
+      "fin": 86,
+      "pas": 97,
+      "dri": 95,
+      "def": 56,
+      "fis": 67
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-deco",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ricardo Carvalho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 79,
+      "fin": 43,
+      "pas": 78,
+      "dri": 69,
+      "def": 96,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-ricardo-carvalho",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Maniche",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 78,
+      "fin": 76,
+      "pas": 93,
+      "dri": 88,
+      "def": 71,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-maniche",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Vítor Baía",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 41,
+      "fin": 12,
+      "pas": 62,
+      "dri": 29,
+      "def": 18,
+      "fis": 79,
+      "ref": 90,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 72,
+      "one": 88
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-vitor-baia",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Benni McCarthy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 84,
+      "fin": 92,
+      "pas": 71,
+      "dri": 84,
+      "def": 37,
+      "fis": 83
+    },
+    "starter": false,
+    "id": "ucl-porto-2004-benni-mccarthy",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Costinha",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 74,
+      "fin": 58,
+      "pas": 84,
+      "dri": 75,
+      "def": 88,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-costinha",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jorge Costa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 65,
+      "fin": 40,
+      "pas": 69,
+      "dri": 59,
+      "def": 87,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-jorge-costa",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Derlei",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 86,
+      "fin": 89,
+      "pas": 68,
+      "dri": 81,
+      "def": 39,
+      "fis": 85
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-derlei",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Dmitri Alenichev",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 82,
+      "fin": 81,
+      "pas": 88,
+      "dri": 89,
+      "def": 45,
+      "fis": 70
+    },
+    "starter": false,
+    "id": "ucl-porto-2004-dmitri-alenichev",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paulo Ferreira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 84,
+      "fin": 54,
+      "pas": 77,
+      "dri": 78,
+      "def": 81,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-paulo-ferreira",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nuno Valente",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 85,
+      "fin": 55,
+      "pas": 73,
+      "dri": 74,
+      "def": 77,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-nuno-valente",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pedro Mendes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 72,
+      "fin": 70,
+      "pas": 87,
+      "dri": 82,
+      "def": 70,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-pedro-mendes",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Carlos Alberto",
+    "positions": [
+      "MEI",
+      "PD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 82,
+      "pas": 84,
+      "dri": 85,
+      "def": 41,
+      "fis": 66
+    },
+    "starter": true,
+    "id": "ucl-porto-2004-carlos-alberto",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pedro Emanuel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 59,
+      "fin": 34,
+      "pas": 63,
+      "dri": 53,
+      "def": 81,
+      "fis": 81
+    },
+    "starter": false,
+    "id": "ucl-porto-2004-pedro-emanuel",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Edgaras Jankauskas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 75,
+      "fin": 83,
+      "pas": 62,
+      "dri": 75,
+      "def": 33,
+      "fis": 74
+    },
+    "starter": false,
+    "id": "ucl-porto-2004-edgaras-jankauskas",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Bosingwa",
+    "positions": [
+      "LD",
+      "MD"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 80,
+      "fin": 50,
+      "pas": 68,
+      "dri": 69,
+      "def": 72,
+      "fis": 71
+    },
+    "starter": false,
+    "id": "ucl-porto-2004-jose-bosingwa",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ricardo Costa",
+    "positions": [
+      "ZAG",
+      "LD"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 57,
+      "fin": 32,
+      "pas": 61,
+      "dri": 46,
+      "def": 79,
+      "fis": 79
+    },
+    "starter": false,
+    "id": "ucl-porto-2004-ricardo-costa",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nuno Espírito Santo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 41,
+      "fin": 12,
+      "pas": 49,
+      "dri": 29,
+      "def": 18,
+      "fis": 66,
+      "ref": 77,
+      "han": 74,
+      "pos": 76,
+      "div": 77,
+      "kic": 59,
+      "one": 75
+    },
+    "starter": false,
+    "id": "ucl-porto-2004-nuno-espirito-santo",
+    "team": "Porto",
+    "year": 2004,
+    "comp": "ucl"
+  }
+]

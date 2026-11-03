@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Agustín Cejas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 44,
+      "fin": 17,
+      "pas": 59,
+      "dri": 24,
+      "def": 23,
+      "fis": 79,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Agustín Cejas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Agustín_Cejas",
+    "id": "lib-racing-1967-agustin-cejas",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Oscar Martín",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 79,
+      "fin": 39,
+      "pas": 73,
+      "dri": 69,
+      "def": 76,
+      "fis": 71
+    },
+    "sourceName": "Oscar Martín",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Oscar_Martín_(footballer,_born_1934)",
+    "id": "lib-racing-1967-oscar-martin",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Perfumo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 65,
+      "fin": 35,
+      "pas": 67,
+      "dri": 53,
+      "def": 89,
+      "fis": 92
+    },
+    "sourceName": "Roberto Perfumo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Perfumo",
+    "id": "lib-racing-1967-roberto-perfumo",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Alfio Basile",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 33,
+      "pas": 62,
+      "dri": 44,
+      "def": 86,
+      "fis": 86
+    },
+    "sourceName": "Alfio Basile",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alfio_Basile",
+    "id": "lib-racing-1967-alfio-basile",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Díaz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 80,
+      "fin": 45,
+      "pas": 75,
+      "dri": 72,
+      "def": 78,
+      "fis": 73
+    },
+    "sourceName": "Rubén Díaz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rubén_Oswaldo_Díaz",
+    "id": "lib-racing-1967-ruben-diaz",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Rulli",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 66,
+      "fin": 46,
+      "pas": 76,
+      "dri": 69,
+      "def": 78,
+      "fis": 81
+    },
+    "sourceName": "Juan Carlos Rulli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-racing-1967-juan-carlos-rulli",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Mori",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 82,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 66,
+      "fin": 61,
+      "pas": 82,
+      "dri": 76,
+      "def": 62,
+      "fis": 69
+    },
+    "sourceName": "Miguel Mori",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Mori",
+    "id": "lib-racing-1967-miguel-mori",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "João Cardoso",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 80,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 84,
+      "fin": 72,
+      "pas": 70,
+      "dri": 81,
+      "def": 27,
+      "fis": 60
+    },
+    "sourceName": "João Cardoso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-racing-1967-joao-cardoso",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Humberto Maschio",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 75,
+      "fin": 81,
+      "pas": 89,
+      "dri": 91,
+      "def": 41,
+      "fis": 70
+    },
+    "sourceName": "Humberto Maschio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Humberto_Maschio",
+    "id": "lib-racing-1967-humberto-maschio",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Cárdenas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 77,
+      "fin": 89,
+      "pas": 64,
+      "dri": 78,
+      "def": 29,
+      "fis": 84
+    },
+    "sourceName": "Juan Carlos Cárdenas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Carlos_Cárdenas",
+    "id": "lib-racing-1967-juan-carlos-cardenas",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Norberto Raffo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 88,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 79,
+      "fin": 91,
+      "pas": 65,
+      "dri": 80,
+      "def": 31,
+      "fis": 86
+    },
+    "sourceName": "Norberto Raffo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Norberto_Raffo",
+    "id": "lib-racing-1967-norberto-raffo",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan José Rodríguez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 70,
+      "fin": 76,
+      "pas": 84,
+      "dri": 85,
+      "def": 36,
+      "fis": 65
+    },
+    "sourceName": "Juan José Rodríguez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_José_Rodríguez_(Argentine_footballer)",
+    "id": "lib-racing-1967-juan-jose-rodriguez",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Jaime Martinoli",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 83,
+      "fin": 74,
+      "pas": 74,
+      "dri": 82,
+      "def": 30,
+      "fis": 62
+    },
+    "sourceName": "Jaime Martinoli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "starting": false,
+    "id": "lib-racing-1967-jaime-martinoli",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  },
+  {
+    "name": "Fernando Parenti",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 67,
+      "fin": 60,
+      "pas": 80,
+      "dri": 74,
+      "def": 61,
+      "fis": 69
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Fernando Parenti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "id": "lib-racing-1967-fernando-parenti",
+    "team": "Racing",
+    "year": 1967,
+    "comp": "lib"
+  }
+]

@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Zetti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 18,
+      "pas": 62,
+      "dri": 30,
+      "def": 25,
+      "fis": 85,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Zetti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Zetti",
+    "id": "lib-sao-paulo-1993-zetti",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Vitor",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 84,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 82,
+      "fin": 42,
+      "pas": 76,
+      "dri": 71,
+      "def": 74,
+      "fis": 74
+    },
+    "sourceName": "Vitor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Claudemir_Vítor",
+    "id": "lib-sao-paulo-1993-vitor",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Válber",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 63,
+      "fin": 36,
+      "pas": 64,
+      "dri": 49,
+      "def": 89,
+      "fis": 90
+    },
+    "sourceName": "Válber",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Válber_Roel_de_Oliveira",
+    "id": "lib-sao-paulo-1993-valber",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Gilmar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 65,
+      "fin": 32,
+      "pas": 66,
+      "dri": 49,
+      "def": 85,
+      "fis": 86
+    },
+    "sourceName": "Gilmar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gilmar_(footballer,_born_1971)",
+    "id": "lib-sao-paulo-1993-gilmar",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Ronaldo Luiz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 81,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 75,
+      "fin": 39,
+      "pas": 70,
+      "dri": 68,
+      "def": 72,
+      "fis": 70
+    },
+    "sourceName": "Ronaldo Luiz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ronaldo_Luiz",
+    "id": "lib-sao-paulo-1993-ronaldo-luiz",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Pintado",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 64,
+      "fin": 50,
+      "pas": 79,
+      "dri": 71,
+      "def": 82,
+      "fis": 79
+    },
+    "sourceName": "Pintado",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luís_Carlos_de_Oliveira_Preto",
+    "id": "lib-sao-paulo-1993-pintado",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Dinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 68,
+      "fin": 65,
+      "pas": 84,
+      "dri": 81,
+      "def": 65,
+      "fis": 71
+    },
+    "sourceName": "Dinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Dinho_(Brazilian_footballer)",
+    "id": "lib-sao-paulo-1993-dinho",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Raí",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 95,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 84,
+      "fin": 87,
+      "pas": 98,
+      "dri": 96,
+      "def": 48,
+      "fis": 76
+    },
+    "sourceName": "Raí",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raí",
+    "id": "lib-sao-paulo-1993-rai",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Cafu",
+    "positions": [
+      "LD",
+      "MD"
+    ],
+    "ovr": 93,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 87,
+      "fin": 50,
+      "pas": 82,
+      "dri": 81,
+      "def": 83,
+      "fis": 81
+    },
+    "sourceName": "Cafu",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Cafu",
+    "id": "lib-sao-paulo-1993-cafu",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Palhinha",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 81,
+      "fin": 96,
+      "pas": 67,
+      "dri": 78,
+      "def": 35,
+      "fis": 86
+    },
+    "sourceName": "Palhinha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Palhinha_(Jorge_Ferreira_da_Silva)",
+    "id": "lib-sao-paulo-1993-palhinha",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Müller",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 93,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 97,
+      "fin": 88,
+      "pas": 87,
+      "dri": 94,
+      "def": 44,
+      "fis": 77
+    },
+    "sourceName": "Müller",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Müller_(footballer,_born_1966)",
+    "id": "lib-sao-paulo-1993-muller",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Toninho Cerezo",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 70,
+      "fin": 51,
+      "pas": 84,
+      "dri": 73,
+      "def": 83,
+      "fis": 85
+    },
+    "sourceName": "Toninho Cerezo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Toninho_Cerezo",
+    "id": "lib-sao-paulo-1993-toninho-cerezo",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Gilberto",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 36,
+      "fin": 10,
+      "pas": 54,
+      "dri": 21,
+      "def": 14,
+      "fis": 72,
+      "ref": 80,
+      "han": 76,
+      "pos": 78,
+      "div": 79,
+      "kic": 66,
+      "one": 78
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Gilberto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gilberto_(footballer,_born_1968)",
+    "id": "lib-sao-paulo-1993-gilberto",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Adílson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 64,
+      "dri": 48,
+      "def": 84,
+      "fis": 85
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Adílson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Adílson_(footballer,_born_1965)",
+    "id": "lib-sao-paulo-1993-adilson",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "André Luiz",
+    "positions": [
+      "LE",
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 81,
+      "fin": 45,
+      "pas": 76,
+      "dri": 73,
+      "def": 77,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "André Luiz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/André_Luiz_Moreira",
+    "id": "lib-sao-paulo-1993-andre-luiz",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Catê",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 83,
+      "fin": 75,
+      "pas": 74,
+      "dri": 83,
+      "def": 31,
+      "fis": 67
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Catê",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Catê",
+    "id": "lib-sao-paulo-1993-cate",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Elivélton",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 87,
+      "fin": 79,
+      "pas": 78,
+      "dri": 87,
+      "def": 35,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Elivélton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Elivélton_(footballer,_born_1971)",
+    "id": "lib-sao-paulo-1993-elivelton",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcos Adriano",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "LB",
+    "sourceName": "Marcos Adriano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Adriano",
+    "id": "lib-sao-paulo-1993-marcos-adriano",
+    "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  }
+]

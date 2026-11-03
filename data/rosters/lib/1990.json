@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Olimpia",
+    "year": 1990,
+    "comp": "lib",
+    "tier": 0,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 84,
+    "selectionReason": "Possui exatamente três títulos: 1979, 1990 e 2002. Todos são obrigatórios.",
+    "startingXI": [
+      "Ever Almeida",
+      "Juan Z. Ramírez",
+      "Remigio Fernández",
+      "Mario C. Ramírez",
+      "Silvio Suárez",
+      "Fermín Balbuena",
+      "Jorge Guasch",
+      "Luis Monzón",
+      "Gabriel González",
+      "Adriano Samaniego",
+      "Raúl Amarilla"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-olimpia-1990-ever-almeida",
+      "lib-olimpia-1990-juan-z-ramirez",
+      "lib-olimpia-1990-remigio-fernandez",
+      "lib-olimpia-1990-mario-c-ramirez",
+      "lib-olimpia-1990-silvio-suarez",
+      "lib-olimpia-1990-fermin-balbuena",
+      "lib-olimpia-1990-jorge-guasch",
+      "lib-olimpia-1990-luis-monzon",
+      "lib-olimpia-1990-gabriel-gonzalez",
+      "lib-olimpia-1990-adriano-samaniego",
+      "lib-olimpia-1990-raul-amarilla",
+      "lib-olimpia-1990-cristobal-cubilla",
+      "lib-olimpia-1990-adolfo-jara",
+      "lib-olimpia-1990-vidal-sanabria"
+    ]
+  }
+]

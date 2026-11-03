@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 87,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "José Luis Chilavert",
+      "Flavio Zandoná",
+      "Roberto Trotta",
+      "Víctor H. Sotomayor",
+      "Raúl Cardozo",
+      "Christian Bassedas",
+      "Marcelo Gómez",
+      "José Basualdo",
+      "Roberto Pompei",
+      "Omar Asad",
+      "José Oscar Flores"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-velez-sarsfield-1994-jose-luis-chilavert",
+      "lib-velez-sarsfield-1994-flavio-zandona",
+      "lib-velez-sarsfield-1994-roberto-trotta",
+      "lib-velez-sarsfield-1994-victor-h-sotomayor",
+      "lib-velez-sarsfield-1994-raul-cardozo",
+      "lib-velez-sarsfield-1994-christian-bassedas",
+      "lib-velez-sarsfield-1994-marcelo-gomez",
+      "lib-velez-sarsfield-1994-jose-basualdo",
+      "lib-velez-sarsfield-1994-roberto-pompei",
+      "lib-velez-sarsfield-1994-omar-asad",
+      "lib-velez-sarsfield-1994-jose-oscar-flores",
+      "lib-velez-sarsfield-1994-fabian-fernandez",
+      "lib-velez-sarsfield-1994-claudio-husain",
+      "lib-velez-sarsfield-1994-hector-almandoz",
+      "lib-velez-sarsfield-1994-mauricio-pellegrino"
+    ]
+  }
+]

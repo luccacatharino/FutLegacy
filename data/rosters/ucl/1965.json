@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Inter",
+    "year": 1965,
+    "season": "1964/65",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1965_European_Cup_final",
+    "selectionReason": "Todos os três títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 90,
+    "startingXI": [
+      "Giuliano Sarti",
+      "Tarcisio Burgnich",
+      "Giacinto Facchetti",
+      "Gianfranco Bedin",
+      "Aristide Guarneri",
+      "Armando Picchi",
+      "Jair",
+      "Sandro Mazzola",
+      "Joaquín Peiró",
+      "Luis Suárez",
+      "Mario Corso"
+    ],
+    "playerIds": [
+      "ucl-inter-1965-luis-suarez",
+      "ucl-inter-1965-giacinto-facchetti",
+      "ucl-inter-1965-sandro-mazzola",
+      "ucl-inter-1965-armando-picchi",
+      "ucl-inter-1965-mario-corso",
+      "ucl-inter-1965-giuliano-sarti",
+      "ucl-inter-1965-jair",
+      "ucl-inter-1965-tarcisio-burgnich",
+      "ucl-inter-1965-aristide-guarneri",
+      "ucl-inter-1965-joaquin-peiro",
+      "ucl-inter-1965-gianfranco-bedin"
+    ]
+  }
+]

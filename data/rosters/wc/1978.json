@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Argentina",
+    "year": 1978,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-argentina-1978-ubaldo-fillol",
+      "wc-argentina-1978-jorge-olguin",
+      "wc-argentina-1978-luis-galvan",
+      "wc-argentina-1978-daniel-passarella",
+      "wc-argentina-1978-alberto-tarantini",
+      "wc-argentina-1978-osvaldo-ardiles",
+      "wc-argentina-1978-americo-gallego",
+      "wc-argentina-1978-mario-kempes",
+      "wc-argentina-1978-daniel-bertoni",
+      "wc-argentina-1978-leopoldo-luque",
+      "wc-argentina-1978-oscar-ortiz"
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 1978,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-paises-baixos-1978-jan-jongbloed",
+      "wc-paises-baixos-1978-wim-jansen",
+      "wc-paises-baixos-1978-ernie-brandts",
+      "wc-paises-baixos-1978-ruud-krol",
+      "wc-paises-baixos-1978-jan-poortvliet",
+      "wc-paises-baixos-1978-johan-neeskens",
+      "wc-paises-baixos-1978-arie-haan",
+      "wc-paises-baixos-1978-willy-van-de-kerkhof",
+      "wc-paises-baixos-1978-rene-van-de-kerkhof",
+      "wc-paises-baixos-1978-johnny-rep",
+      "wc-paises-baixos-1978-rob-rensenbrink"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Itália",
+    "year": 1982,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-italia-1982-dino-zoff",
+      "wc-italia-1982-claudio-gentile",
+      "wc-italia-1982-gaetano-scirea",
+      "wc-italia-1982-fulvio-collovati",
+      "wc-italia-1982-antonio-cabrini",
+      "wc-italia-1982-marco-tardelli",
+      "wc-italia-1982-gabriele-oriali",
+      "wc-italia-1982-bruno-conti",
+      "wc-italia-1982-paolo-rossi",
+      "wc-italia-1982-francesco-graziani",
+      "wc-italia-1982-giancarlo-antognoni"
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1982,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-alemanha-1982-harald-schumacher",
+      "wc-alemanha-1982-manfred-kaltz",
+      "wc-alemanha-1982-karlheinz-forster",
+      "wc-alemanha-1982-bernd-forster",
+      "wc-alemanha-1982-uli-stielike",
+      "wc-alemanha-1982-hans-peter-briegel",
+      "wc-alemanha-1982-paul-breitner",
+      "wc-alemanha-1982-wolfgang-dremmler",
+      "wc-alemanha-1982-pierre-littbarski",
+      "wc-alemanha-1982-klaus-fischer",
+      "wc-alemanha-1982-karl-heinz-rummenigge"
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1982,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_squads#Brazil",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-brasil-1982-waldir-peres",
+      "wc-brasil-1982-leandro",
+      "wc-brasil-1982-oscar",
+      "wc-brasil-1982-luizinho",
+      "wc-brasil-1982-junior",
+      "wc-brasil-1982-toninho-cerezo",
+      "wc-brasil-1982-falcao",
+      "wc-brasil-1982-socrates",
+      "wc-brasil-1982-zico",
+      "wc-brasil-1982-eder",
+      "wc-brasil-1982-serginho-chulapa"
+    ]
+  }
+]

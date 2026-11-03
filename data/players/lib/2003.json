@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Roberto Abbondanzieri",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 48,
+      "fin": 21,
+      "pas": 63,
+      "dri": 28,
+      "def": 27,
+      "fis": 83,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Roberto Abbondanzieri",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Abbondanzieri",
+    "id": "lib-boca-juniors-2003-roberto-abbondanzieri",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo Ibarra",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 88,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 84,
+      "fin": 47,
+      "pas": 79,
+      "dri": 76,
+      "def": 80,
+      "fis": 76
+    },
+    "sourceName": "Hugo Ibarra",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hugo_Ibarra",
+    "id": "lib-boca-juniors-2003-hugo-ibarra",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Rolando Schiavi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 68,
+      "fin": 38,
+      "pas": 65,
+      "dri": 50,
+      "def": 92,
+      "fis": 91
+    },
+    "sourceName": "Rolando Schiavi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rolando_Schiavi",
+    "id": "lib-boca-juniors-2003-rolando-schiavi",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Nicolás Burdisso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 63,
+      "fin": 34,
+      "pas": 64,
+      "dri": 48,
+      "def": 88,
+      "fis": 87
+    },
+    "sourceName": "Nicolás Burdisso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nicolás_Burdisso",
+    "id": "lib-boca-juniors-2003-nicolas-burdisso",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Clemente Rodríguez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 86,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 79,
+      "fin": 44,
+      "pas": 73,
+      "dri": 74,
+      "def": 77,
+      "fis": 74
+    },
+    "sourceName": "Clemente Rodríguez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Clemente_Rodríguez",
+    "id": "lib-boca-juniors-2003-clemente-rodriguez",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Diego Cagna",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "RM",
+    "attrs": {
+      "vel": 76,
+      "fin": 70,
+      "pas": 87,
+      "dri": 86,
+      "def": 71,
+      "fis": 77
+    },
+    "sourceName": "Diego Cagna",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Diego_Cagna",
+    "id": "lib-boca-juniors-2003-diego-cagna",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Sebastián Battaglia",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 89,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 74,
+      "fin": 69,
+      "pas": 90,
+      "dri": 85,
+      "def": 70,
+      "fis": 79
+    },
+    "sourceName": "Sebastián Battaglia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Sebastián_Battaglia",
+    "id": "lib-boca-juniors-2003-sebastian-battaglia",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Cascini",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 67,
+      "fin": 51,
+      "pas": 82,
+      "dri": 71,
+      "def": 84,
+      "fis": 83
+    },
+    "sourceName": "Raúl Cascini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raúl_Cascini",
+    "id": "lib-boca-juniors-2003-raul-cascini",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Guillermo Barros Schelotto",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 88,
+    "sourceRole": "LM",
+    "attrs": {
+      "vel": 88,
+      "fin": 79,
+      "pas": 79,
+      "dri": 93,
+      "def": 35,
+      "fis": 70
+    },
+    "sourceName": "G. Barros Schelotto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Guillermo_Barros_Schelotto",
+    "id": "lib-boca-juniors-2003-guillermo-barros-schelotto",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Delgado",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 92,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 82,
+      "fin": 94,
+      "pas": 69,
+      "dri": 82,
+      "def": 34,
+      "fis": 86
+    },
+    "sourceName": "Marcelo Delgado",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_Delgado",
+    "id": "lib-boca-juniors-2003-marcelo-delgado",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Tevez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 95,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 85,
+      "fin": 97,
+      "pas": 72,
+      "dri": 83,
+      "def": 37,
+      "fis": 89
+    },
+    "sourceName": "Carlos Tevez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Tevez",
+    "id": "lib-boca-juniors-2003-carlos-tevez",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Javier Villarreal",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 68,
+      "fin": 62,
+      "pas": 84,
+      "dri": 82,
+      "def": 63,
+      "fis": 71
+    },
+    "sourceName": "Javier Villarreal",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Javier_Villarreal",
+    "id": "lib-boca-juniors-2003-javier-villarreal",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Willy Caballero",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 38,
+      "fin": 10,
+      "pas": 56,
+      "dri": 23,
+      "def": 16,
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 68,
+      "one": 80
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Willy Caballero",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Willy_Caballero",
+    "id": "lib-boca-juniors-2003-willy-caballero",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Pablo Jerez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 38,
+      "pas": 69,
+      "dri": 65,
+      "def": 70,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Pablo Jerez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Pablo_Jerez",
+    "id": "lib-boca-juniors-2003-pablo-jerez",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Estévez",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 83,
+      "fin": 75,
+      "pas": 74,
+      "dri": 83,
+      "def": 31,
+      "fis": 67
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Raúl Estévez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Raúl_Estévez",
+    "id": "lib-boca-juniors-2003-raul-estevez",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Franco Cángele",
+    "positions": [
+      "ATA",
+      "PE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Franco Cángele",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Franco_Cángele",
+    "id": "lib-boca-juniors-2003-franco-cangele",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Gustavo Pinto",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 63,
+      "fin": 45,
+      "pas": 76,
+      "dri": 65,
+      "def": 76,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Gustavo Pinto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gustavo_Pinto",
+    "id": "lib-boca-juniors-2003-gustavo-pinto",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Caneo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 71,
+      "fin": 72,
+      "pas": 85,
+      "dri": 82,
+      "def": 33,
+      "fis": 63
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Miguel Caneo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Caneo",
+    "id": "lib-boca-juniors-2003-miguel-caneo",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "José María Calvo",
+    "positions": [
+      "LD",
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 68,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "José María Calvo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/José_María_Calvo",
+    "id": "lib-boca-juniors-2003-jose-maria-calvo",
+    "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  }
+]

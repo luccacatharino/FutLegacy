@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Zetti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 18,
+      "pas": 62,
+      "dri": 30,
+      "def": 25,
+      "fis": 85,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Zetti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Zetti",
+    "id": "lib-sao-paulo-1992-zetti",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Cafu",
+    "positions": [
+      "LD",
+      "MD"
+    ],
+    "ovr": 92,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 86,
+      "fin": 49,
+      "pas": 81,
+      "dri": 80,
+      "def": 82,
+      "fis": 80
+    },
+    "sourceName": "Cafu",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Cafu",
+    "id": "lib-sao-paulo-1992-cafu",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Antônio Carlos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 62,
+      "fin": 34,
+      "pas": 63,
+      "dri": 46,
+      "def": 87,
+      "fis": 90
+    },
+    "sourceName": "Antônio Carlos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Antônio_Carlos_Zago",
+    "id": "lib-sao-paulo-1992-antonio-carlos",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Ronaldão",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 66,
+      "fin": 33,
+      "pas": 63,
+      "dri": 47,
+      "def": 86,
+      "fis": 87
+    },
+    "sourceName": "Ronaldão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ronaldo_Rodrigues_de_Jesus",
+    "id": "lib-sao-paulo-1992-ronaldao",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Iván",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 79,
+      "fin": 43,
+      "pas": 69,
+      "dri": 69,
+      "def": 76,
+      "fis": 71
+    },
+    "sourceName": "Iván",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Iván_Rocha",
+    "id": "lib-sao-paulo-1992-ivan",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Adílson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 62,
+      "fin": 45,
+      "pas": 77,
+      "dri": 66,
+      "def": 78,
+      "fis": 78
+    },
+    "sourceName": "Adílson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Adílson_(footballer,_born_1965)",
+    "id": "lib-sao-paulo-1992-adilson",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Pintado",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 64,
+      "fin": 50,
+      "pas": 79,
+      "dri": 71,
+      "def": 82,
+      "fis": 79
+    },
+    "sourceName": "Pintado",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Pintado_(footballer)",
+    "id": "lib-sao-paulo-1992-pintado",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Raí",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 95,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 84,
+      "fin": 87,
+      "pas": 98,
+      "dri": 96,
+      "def": 48,
+      "fis": 76
+    },
+    "sourceName": "Raí",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raí",
+    "id": "lib-sao-paulo-1992-rai",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Müller",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 92,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 86,
+      "fin": 98,
+      "pas": 72,
+      "dri": 80,
+      "def": 38,
+      "fis": 90
+    },
+    "sourceName": "Müller",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Müller_(footballer,_born_1966)",
+    "id": "lib-sao-paulo-1992-muller",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Palhinha",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 80,
+      "fin": 95,
+      "pas": 66,
+      "dri": 77,
+      "def": 34,
+      "fis": 85
+    },
+    "sourceName": "Palhinha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Palhinha_(footballer,_born_1967)",
+    "id": "lib-sao-paulo-1992-palhinha",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Elivélton",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 78,
+      "pas": 75,
+      "dri": 89,
+      "def": 33,
+      "fis": 67
+    },
+    "sourceName": "Elivélton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Elivélton_(footballer,_born_1971)",
+    "id": "lib-sao-paulo-1992-elivelton",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Macedo",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 84,
+      "fin": 72,
+      "pas": 75,
+      "dri": 82,
+      "def": 32,
+      "fis": 64
+    },
+    "sourceName": "Macedo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Macedo_(footballer)",
+    "id": "lib-sao-paulo-1992-macedo",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Bonequini",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 34,
+      "fin": 10,
+      "pas": 52,
+      "dri": 19,
+      "def": 12,
+      "fis": 70,
+      "ref": 78,
+      "han": 74,
+      "pos": 76,
+      "div": 77,
+      "kic": 64,
+      "one": 76
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Bonequini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Bonequini",
+    "id": "lib-sao-paulo-1992-bonequini",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Sídnei",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 61,
+      "fin": 43,
+      "pas": 74,
+      "dri": 63,
+      "def": 74,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Sídnei",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Sídnei_Lobo",
+    "id": "lib-sao-paulo-1992-sidnei",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Suélio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 64,
+      "fin": 57,
+      "pas": 77,
+      "dri": 71,
+      "def": 58,
+      "fis": 66
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Suélio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Suélio_Lacerda",
+    "id": "lib-sao-paulo-1992-suelio",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  },
+  {
+    "name": "Rinaldo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 73,
+      "fin": 83,
+      "pas": 61,
+      "dri": 71,
+      "def": 27,
+      "fis": 77
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Rinaldo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Rinaldo_(footballer,_born_1966)",
+    "id": "lib-sao-paulo-1992-rinaldo",
+    "team": "São Paulo",
+    "year": 1992,
+    "comp": "lib"
+  }
+]

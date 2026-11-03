@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Barcelona",
+    "year": 2011,
+    "season": "2010/11",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2011_UEFA_Champions_League_final",
+    "selectionReason": "Rijkaard/Ronaldinho e dois picos do jogo coletivo de Guardiola.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 93,
+    "startingXI": [
+      "Víctor Valdés",
+      "Dani Alves",
+      "Javier Mascherano",
+      "Gerard Piqué",
+      "Eric Abidal",
+      "Sergio Busquets",
+      "Xavi",
+      "Andrés Iniesta",
+      "David Villa",
+      "Lionel Messi",
+      "Pedro"
+    ],
+    "playerIds": [
+      "ucl-barcelona-2011-lionel-messi",
+      "ucl-barcelona-2011-xavi",
+      "ucl-barcelona-2011-andres-iniesta",
+      "ucl-barcelona-2011-dani-alves",
+      "ucl-barcelona-2011-david-villa",
+      "ucl-barcelona-2011-sergio-busquets",
+      "ucl-barcelona-2011-gerard-pique",
+      "ucl-barcelona-2011-carles-puyol",
+      "ucl-barcelona-2011-pedro",
+      "ucl-barcelona-2011-victor-valdes",
+      "ucl-barcelona-2011-javier-mascherano",
+      "ucl-barcelona-2011-eric-abidal",
+      "ucl-barcelona-2011-seydou-keita",
+      "ucl-barcelona-2011-adriano",
+      "ucl-barcelona-2011-ibrahim-afellay",
+      "ucl-barcelona-2011-bojan",
+      "ucl-barcelona-2011-thiago",
+      "ucl-barcelona-2011-oier"
+    ]
+  },
+  {
+    "name": "Manchester United",
+    "year": 2011,
+    "comp": "ucl",
+    "tier": 1,
+    "champion": false,
+    "source": "docs/FONTES.md",
+    "scope": "Recorte XI da campanha anterior, preservado.",
+    "playerIds": [
+      "ucl-manchester-united-2011-edwin-van-der-sar",
+      "ucl-manchester-united-2011-fabio",
+      "ucl-manchester-united-2011-rio-ferdinand",
+      "ucl-manchester-united-2011-nemanja-vidic",
+      "ucl-manchester-united-2011-patrice-evra",
+      "ucl-manchester-united-2011-michael-carrick",
+      "ucl-manchester-united-2011-ryan-giggs",
+      "ucl-manchester-united-2011-park-ji-sung",
+      "ucl-manchester-united-2011-antonio-valencia",
+      "ucl-manchester-united-2011-wayne-rooney",
+      "ucl-manchester-united-2011-javier-hernandez"
+    ]
+  }
+]

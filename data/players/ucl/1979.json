@@ -1,0 +1,336 @@
+[
+  {
+    "name": "Peter Shilton",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 44,
+      "fin": 12,
+      "pas": 70,
+      "dri": 32,
+      "def": 18,
+      "fis": 84,
+      "ref": 98,
+      "han": 92,
+      "pos": 94,
+      "div": 95,
+      "kic": 80,
+      "one": 93
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-peter-shilton",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "John Robertson",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 76,
+      "fin": 84,
+      "pas": 95,
+      "dri": 96,
+      "def": 30,
+      "fis": 67
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-john-robertson",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Trevor Francis",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 93,
+      "fin": 78,
+      "pas": 84,
+      "dri": 89,
+      "def": 61,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-trevor-francis",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Kenny Burns",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 65,
+      "fin": 40,
+      "pas": 69,
+      "dri": 54,
+      "def": 87,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-kenny-burns",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Archie Gemmill",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 76,
+      "fin": 74,
+      "pas": 86,
+      "dri": 81,
+      "def": 69,
+      "fis": 76
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1979-archie-gemmill",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Garry Birtles",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 84,
+      "fin": 92,
+      "pas": 66,
+      "dri": 79,
+      "def": 37,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-garry-birtles",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "John McGovern",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 73,
+      "fin": 71,
+      "pas": 88,
+      "dri": 83,
+      "def": 71,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-john-mcgovern",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Tony Woodcock",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 85,
+      "fin": 88,
+      "pas": 67,
+      "dri": 80,
+      "def": 38,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-tony-woodcock",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Viv Anderson",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 83,
+      "fin": 53,
+      "pas": 76,
+      "dri": 77,
+      "def": 80,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-viv-anderson",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Larry Lloyd",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 61,
+      "fin": 36,
+      "pas": 65,
+      "dri": 55,
+      "def": 83,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-larry-lloyd",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ian Bowyer",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 71,
+      "fin": 69,
+      "pas": 86,
+      "dri": 81,
+      "def": 64,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-ian-bowyer",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Martin O'Neill",
+    "positions": [
+      "MD",
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 84,
+      "fin": 74,
+      "pas": 80,
+      "dri": 80,
+      "def": 52,
+      "fis": 67
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1979-martin-o-neill",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Frank Clark",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 80,
+      "fin": 50,
+      "pas": 68,
+      "dri": 69,
+      "def": 72,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1979-frank-clark",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "John O'Hare",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 78,
+      "fin": 81,
+      "pas": 60,
+      "dri": 73,
+      "def": 31,
+      "fis": 77
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1979-john-o-hare",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "David Needham",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 55,
+      "fin": 30,
+      "pas": 59,
+      "dri": 49,
+      "def": 77,
+      "fis": 77
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1979-david-needham",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  },
+  {
+    "name": "Chris Woods",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 44,
+      "fin": 12,
+      "pas": 52,
+      "dri": 32,
+      "def": 18,
+      "fis": 66,
+      "ref": 80,
+      "han": 74,
+      "pos": 76,
+      "div": 77,
+      "kic": 62,
+      "one": 75
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1979-chris-woods",
+    "team": "Nottingham Forest",
+    "year": 1979,
+    "comp": "ucl"
+  }
+]

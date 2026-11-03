@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Boca Juniors",
+    "year": 1978,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1978_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1978_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 85,
+    "selectionReason": "1978 venceu a final de volta por 4–0, com a base bicampeã; 2000 reúne Riquelme, Palermo, Samuel e Córdoba; 2003 destaca Tevez, Delgado e o núcleo de Bianchi, com 5–1 agregado na final. 2001 e 2007 também seriam escolhas defensáveis; esta seleção editorial pondera domínio coletivo e força das principais peças.",
+    "startingXI": [
+      "Hugo Gatti",
+      "Vicente Pernía",
+      "Francisco Sá",
+      "Roberto Mouzo",
+      "Miguel Bordón",
+      "Jorge Benítez",
+      "Rubén Suñé",
+      "Mario Zanabria",
+      "Ernesto Mastrángelo",
+      "Carlos Horacio Salinas",
+      "Hugo Perotti"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-boca-juniors-1978-hugo-gatti",
+      "lib-boca-juniors-1978-vicente-pernia",
+      "lib-boca-juniors-1978-francisco-sa",
+      "lib-boca-juniors-1978-roberto-mouzo",
+      "lib-boca-juniors-1978-miguel-bordon",
+      "lib-boca-juniors-1978-jorge-benitez",
+      "lib-boca-juniors-1978-ruben-sune",
+      "lib-boca-juniors-1978-mario-zanabria",
+      "lib-boca-juniors-1978-ernesto-mastrangelo",
+      "lib-boca-juniors-1978-carlos-horacio-salinas",
+      "lib-boca-juniors-1978-hugo-perotti",
+      "lib-boca-juniors-1978-carlos-rodriguez",
+      "lib-boca-juniors-1978-carlos-veglio"
+    ]
+  }
+]

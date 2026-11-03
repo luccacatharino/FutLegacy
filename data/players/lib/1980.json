@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Rodolfo Rodríguez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 18,
+      "pas": 63,
+      "dri": 29,
+      "def": 25,
+      "fis": 82,
+      "ref": 91,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 77,
+      "one": 89
+    },
+    "sourceName": "Rodolfo Rodríguez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rodolfo_Rodríguez_(Uruguayan_footballer)",
+    "id": "lib-nacional-1980-rodolfo-rodriguez",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "José H. Moreira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 76,
+      "fin": 42,
+      "pas": 71,
+      "dri": 71,
+      "def": 74,
+      "fis": 71
+    },
+    "sourceName": "José H. Moreira",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-nacional-1980-jose-h-moreira",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Blanco",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 64,
+      "fin": 31,
+      "pas": 66,
+      "dri": 45,
+      "def": 89,
+      "fis": 86
+    },
+    "sourceName": "Juan Carlos Blanco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Carlos_Blanco_Peñalva",
+    "id": "lib-nacional-1980-juan-carlos-blanco",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo De León",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 68,
+      "fin": 36,
+      "pas": 69,
+      "dri": 51,
+      "def": 94,
+      "fis": 91
+    },
+    "sourceName": "Hugo De León",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hugo_De_León",
+    "id": "lib-nacional-1980-hugo-de-leon",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Washington González",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 77,
+      "fin": 42,
+      "pas": 72,
+      "dri": 68,
+      "def": 75,
+      "fis": 72
+    },
+    "sourceName": "Washington González",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-nacional-1980-washington-gonzalez",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Víctor Espárrago",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 68,
+      "fin": 51,
+      "pas": 83,
+      "dri": 70,
+      "def": 84,
+      "fis": 84
+    },
+    "sourceName": "Víctor Espárrago",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Víctor_Espárrago",
+    "id": "lib-nacional-1980-victor-esparrago",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo de la Peña",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 64,
+      "pas": 85,
+      "dri": 83,
+      "def": 65,
+      "fis": 74
+    },
+    "sourceName": "Eduardo de la Peña",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Eduardo_de_la_Peña",
+    "id": "lib-nacional-1980-eduardo-de-la-pena",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Arsenio Luzardo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 81,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 83,
+      "dri": 81,
+      "def": 36,
+      "fis": 60
+    },
+    "sourceName": "Arsenio Luzardo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Arsenio_Luzardo",
+    "id": "lib-nacional-1980-arsenio-luzardo",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Alberto Bica",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 88,
+      "fin": 77,
+      "pas": 79,
+      "dri": 89,
+      "def": 37,
+      "fis": 66
+    },
+    "sourceName": "Alberto Bica",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alberto_Bica",
+    "id": "lib-nacional-1980-alberto-bica",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Waldemar Victorino",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 83,
+      "fin": 95,
+      "pas": 69,
+      "dri": 81,
+      "def": 35,
+      "fis": 87
+    },
+    "sourceName": "Waldemar Victorino",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Waldemar_Victorino",
+    "id": "lib-nacional-1980-waldemar-victorino",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio César Morales",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 80,
+      "pas": 80,
+      "dri": 91,
+      "def": 36,
+      "fis": 69
+    },
+    "sourceName": "Julio César Morales",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_Morales_(Uruguayan_footballer)",
+    "id": "lib-nacional-1980-julio-cesar-morales",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  },
+  {
+    "name": "Dardo Pérez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Dardo Pérez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "id": "lib-nacional-1980-dardo-perez",
+    "team": "Nacional",
+    "year": 1980,
+    "comp": "lib"
+  }
+]

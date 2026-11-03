@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Carlos Germano",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 18,
+      "pas": 62,
+      "dri": 28,
+      "def": 25,
+      "fis": 84,
+      "ref": 92,
+      "han": 88,
+      "pos": 90,
+      "div": 91,
+      "kic": 78,
+      "one": 90
+    },
+    "sourceName": "Carlos Germano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Germano",
+    "id": "lib-vasco-1998-carlos-germano",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Vágner",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 78,
+      "fin": 41,
+      "pas": 73,
+      "dri": 72,
+      "def": 74,
+      "fis": 75
+    },
+    "sourceName": "Vágner",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Vágner_Rogério_Nunes",
+    "id": "lib-vasco-1998-vagner",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Odvan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 61,
+      "fin": 31,
+      "pas": 62,
+      "dri": 49,
+      "def": 85,
+      "fis": 85
+    },
+    "sourceName": "Odvan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Odvan",
+    "id": "lib-vasco-1998-odvan",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Mauro Galvão",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 92,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 69,
+      "fin": 39,
+      "pas": 71,
+      "dri": 51,
+      "def": 93,
+      "fis": 91
+    },
+    "sourceName": "Mauro Galvão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mauro_Galvão",
+    "id": "lib-vasco-1998-mauro-galvao",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Luisinho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 67,
+      "fin": 48,
+      "pas": 81,
+      "dri": 70,
+      "def": 80,
+      "fis": 82
+    },
+    "sourceName": "Luisinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luís_Carlos_Quintanilha",
+    "id": "lib-vasco-1998-luisinho",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Felipe",
+    "positions": [
+      "LE",
+      "MC"
+    ],
+    "ovr": 89,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 85,
+      "fin": 49,
+      "pas": 80,
+      "dri": 77,
+      "def": 82,
+      "fis": 81
+    },
+    "sourceName": "Felipe",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Felipe_Jorge_Loureiro",
+    "id": "lib-vasco-1998-felipe",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Nasa",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 65,
+      "fin": 45,
+      "pas": 79,
+      "dri": 67,
+      "def": 82,
+      "fis": 81
+    },
+    "sourceName": "Nasa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gesiel_José_de_Lima",
+    "id": "lib-vasco-1998-nasa",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Juninho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 91,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 75,
+      "fin": 71,
+      "pas": 91,
+      "dri": 86,
+      "def": 71,
+      "fis": 80
+    },
+    "sourceName": "Juninho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juninho_Pernambucano",
+    "id": "lib-vasco-1998-juninho",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Pedrinho",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 75,
+      "fin": 76,
+      "pas": 89,
+      "dri": 85,
+      "def": 36,
+      "fis": 65
+    },
+    "sourceName": "Pedrinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Pedro_Paulo_de_Oliveira",
+    "id": "lib-vasco-1998-pedrinho",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Luizão",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 82,
+      "fin": 94,
+      "pas": 68,
+      "dri": 81,
+      "def": 34,
+      "fis": 86
+    },
+    "sourceName": "Luizão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luiz_Carlos_Bombonato_Goulart",
+    "id": "lib-vasco-1998-luizao",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Donizete",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 79,
+      "fin": 92,
+      "pas": 66,
+      "dri": 81,
+      "def": 32,
+      "fis": 83
+    },
+    "sourceName": "Donizete",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Osmar_Donizete_Cândido",
+    "id": "lib-vasco-1998-donizete",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Ramon",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 71,
+      "fin": 74,
+      "pas": 84,
+      "dri": 88,
+      "def": 35,
+      "fis": 63
+    },
+    "sourceName": "Ramon",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Ramon_Menezes_Hubner",
+    "id": "lib-vasco-1998-ramon",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Márcio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 34,
+      "fin": 10,
+      "pas": 52,
+      "dri": 19,
+      "def": 12,
+      "fis": 70,
+      "ref": 78,
+      "han": 74,
+      "pos": 76,
+      "div": 77,
+      "kic": 64,
+      "one": 76
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Márcio Cazorla",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Márcio_Fernandez_Cazorla",
+    "id": "lib-vasco-1998-marcio",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Alex Pinho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 57,
+      "fin": 27,
+      "pas": 58,
+      "dri": 42,
+      "def": 78,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Alex",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Alex_Sandro_Pinho",
+    "id": "lib-vasco-1998-alex-pinho",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Vítor",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 76,
+      "fin": 40,
+      "pas": 71,
+      "dri": 67,
+      "def": 72,
+      "fis": 70
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Vítor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Claudemir_Vítor",
+    "id": "lib-vasco-1998-vitor",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Válber",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 61,
+      "fin": 31,
+      "pas": 62,
+      "dri": 46,
+      "def": 82,
+      "fis": 83
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Válber",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Válber_Roel_de_Oliveira",
+    "id": "lib-vasco-1998-valber",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Nélson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 61,
+      "fin": 43,
+      "pas": 74,
+      "dri": 63,
+      "def": 74,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Nélson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Nélson_Domingues_de_Araújo",
+    "id": "lib-vasco-1998-nelson",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Mauricinho",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 84,
+      "fin": 76,
+      "pas": 75,
+      "dri": 84,
+      "def": 32,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Mauricinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Maurício_Poggi_Vilela",
+    "id": "lib-vasco-1998-mauricinho",
+    "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  }
+]

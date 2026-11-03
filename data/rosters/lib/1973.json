@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Independiente",
+    "year": 1973,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 85,
+    "selectionReason": "1964 representa a primeira conquista e a geração de Santoro/Bernao; 1973 representa a fase do tetracampeonato consecutivo com Bertoni e o jovem Bochini; 1984 reúne Bochini, Marangoni, Giusti e Burruchaga na maturidade. A seleção evita reduzir o clube a três anos seguidos e privilegia três núcleos campeões de qualidade comprovada.",
+    "startingXI": [
+      "Miguel Ángel Santoro",
+      "Eduardo Commisso",
+      "Francisco Sá",
+      "Miguel Ángel López",
+      "Ricardo Pavoni",
+      "Alejandro Semenewicz",
+      "Miguel Ángel Raimondo",
+      "Rubén Galván",
+      "Daniel Bertoni",
+      "Eduardo Maglioni",
+      "Mario Mendoza"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-independiente-1973-miguel-angel-santoro",
+      "lib-independiente-1973-eduardo-commisso",
+      "lib-independiente-1973-francisco-sa",
+      "lib-independiente-1973-miguel-angel-lopez",
+      "lib-independiente-1973-ricardo-pavoni",
+      "lib-independiente-1973-alejandro-semenewicz",
+      "lib-independiente-1973-miguel-angel-raimondo",
+      "lib-independiente-1973-ruben-galvan",
+      "lib-independiente-1973-daniel-bertoni",
+      "lib-independiente-1973-eduardo-maglioni",
+      "lib-independiente-1973-mario-mendoza",
+      "lib-independiente-1973-luis-garisto",
+      "lib-independiente-1973-agustin-balbuena",
+      "lib-independiente-1973-ricardo-bochini",
+      "lib-independiente-1973-hector-martinez",
+      "lib-independiente-1973-miguel-angel-giachello"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Fluminense",
+    "year": 2023,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 90,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Fábio",
+      "Samuel Xavier",
+      "Nino",
+      "Felipe Melo",
+      "Marcelo",
+      "Martinelli",
+      "André",
+      "Jhon Arias",
+      "Ganso",
+      "Keno",
+      "Germán Cano"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-fluminense-2023-fabio",
+      "lib-fluminense-2023-samuel-xavier",
+      "lib-fluminense-2023-nino",
+      "lib-fluminense-2023-felipe-melo",
+      "lib-fluminense-2023-marcelo",
+      "lib-fluminense-2023-martinelli",
+      "lib-fluminense-2023-andre",
+      "lib-fluminense-2023-jhon-arias",
+      "lib-fluminense-2023-ganso",
+      "lib-fluminense-2023-keno",
+      "lib-fluminense-2023-german-cano",
+      "lib-fluminense-2023-john-kennedy",
+      "lib-fluminense-2023-pedro-rangel",
+      "lib-fluminense-2023-marlon",
+      "lib-fluminense-2023-guga",
+      "lib-fluminense-2023-diogo-barbosa",
+      "lib-fluminense-2023-david-braz",
+      "lib-fluminense-2023-alexsander",
+      "lib-fluminense-2023-leo-fernandez",
+      "lib-fluminense-2023-daniel",
+      "lib-fluminense-2023-thiago-santos",
+      "lib-fluminense-2023-lima",
+      "lib-fluminense-2023-yony-gonzalez"
+    ]
+  }
+]

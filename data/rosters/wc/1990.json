@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Alemanha",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-alemanha-1990-bodo-illgner",
+      "wc-alemanha-1990-thomas-berthold",
+      "wc-alemanha-1990-klaus-augenthaler",
+      "wc-alemanha-1990-jurgen-kohler",
+      "wc-alemanha-1990-guido-buchwald",
+      "wc-alemanha-1990-andreas-brehme",
+      "wc-alemanha-1990-lothar-matthaus",
+      "wc-alemanha-1990-thomas-ha-ler",
+      "wc-alemanha-1990-pierre-littbarski",
+      "wc-alemanha-1990-jurgen-klinsmann",
+      "wc-alemanha-1990-rudi-voller"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-argentina-1990-sergio-goycochea",
+      "wc-argentina-1990-juan-simon",
+      "wc-argentina-1990-jose-serrizuela",
+      "wc-argentina-1990-oscar-ruggeri",
+      "wc-argentina-1990-nestor-lorenzo",
+      "wc-argentina-1990-roberto-sensini",
+      "wc-argentina-1990-jose-basualdo",
+      "wc-argentina-1990-pedro-troglio",
+      "wc-argentina-1990-jorge-burruchaga",
+      "wc-argentina-1990-diego-maradona",
+      "wc-argentina-1990-gustavo-dezotti"
+    ]
+  },
+  {
+    "name": "Camarões",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-camaroes-1990-thomas-n-kono",
+      "wc-camaroes-1990-stephen-tataw",
+      "wc-camaroes-1990-emmanuel-kunde",
+      "wc-camaroes-1990-andre-kana-biyik",
+      "wc-camaroes-1990-jules-onana",
+      "wc-camaroes-1990-bertin-ebwelle",
+      "wc-camaroes-1990-benjamin-massing",
+      "wc-camaroes-1990-cyrille-makanaky",
+      "wc-camaroes-1990-louis-paul-m-fede",
+      "wc-camaroes-1990-francois-omam-biyik",
+      "wc-camaroes-1990-roger-milla"
+    ]
+  },
+  {
+    "name": "Irlanda",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-irlanda-1990-packie-bonner",
+      "wc-irlanda-1990-chris-morris",
+      "wc-irlanda-1990-mick-mccarthy",
+      "wc-irlanda-1990-david-o-leary",
+      "wc-irlanda-1990-steve-staunton",
+      "wc-irlanda-1990-paul-mcgrath",
+      "wc-irlanda-1990-andy-townsend",
+      "wc-irlanda-1990-ray-houghton",
+      "wc-irlanda-1990-kevin-sheedy",
+      "wc-irlanda-1990-tony-cascarino",
+      "wc-irlanda-1990-niall-quinn"
+    ]
+  }
+]

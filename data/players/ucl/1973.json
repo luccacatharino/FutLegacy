@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Johan Cruyff",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 98,
+    "attrs": {
+      "vel": 94,
+      "fin": 95,
+      "pas": 98,
+      "dri": 99,
+      "def": 53,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-johan-cruyff",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Johan Neeskens",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 84,
+      "fin": 82,
+      "pas": 94,
+      "dri": 89,
+      "def": 77,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-johan-neeskens",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Piet Keizer",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 98,
+      "fin": 95,
+      "pas": 84,
+      "dri": 95,
+      "def": 46,
+      "fis": 77
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-piet-keizer",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ruud Krol",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 93,
+      "fin": 63,
+      "pas": 86,
+      "dri": 82,
+      "def": 85,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-ruud-krol",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Barry Hulshoff",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 66,
+      "fin": 41,
+      "pas": 70,
+      "dri": 60,
+      "def": 93,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-barry-hulshoff",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gerrie Mühren",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 77,
+      "fin": 75,
+      "pas": 92,
+      "dri": 87,
+      "def": 75,
+      "fis": 77
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-gerrie-muhren",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Johnny Rep",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 92,
+      "fin": 89,
+      "pas": 83,
+      "dri": 94,
+      "def": 40,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-johnny-rep",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Wim Suurbier",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 91,
+      "fin": 56,
+      "pas": 79,
+      "dri": 80,
+      "def": 83,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-wim-suurbier",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Arie Haan",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 75,
+      "fin": 59,
+      "pas": 85,
+      "dri": 76,
+      "def": 89,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-arie-haan",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Horst Blankenburg",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 64,
+      "fin": 39,
+      "pas": 68,
+      "dri": 58,
+      "def": 86,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-horst-blankenburg",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Heinz Stuy",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 45,
+      "fin": 12,
+      "pas": 62,
+      "dri": 33,
+      "def": 18,
+      "fis": 75,
+      "ref": 90,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 72,
+      "one": 84
+    },
+    "starter": true,
+    "id": "ucl-ajax-1973-heinz-stuy",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sjaak Swart",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 87,
+      "fin": 84,
+      "pas": 78,
+      "dri": 89,
+      "def": 35,
+      "fis": 66
+    },
+    "starter": false,
+    "id": "ucl-ajax-1973-sjaak-swart",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jan Mulder",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 80,
+      "fin": 88,
+      "pas": 67,
+      "dri": 75,
+      "def": 33,
+      "fis": 79
+    },
+    "starter": false,
+    "id": "ucl-ajax-1973-jan-mulder",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Arnold Mühren",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 69,
+      "fin": 67,
+      "pas": 84,
+      "dri": 79,
+      "def": 67,
+      "fis": 69
+    },
+    "starter": false,
+    "id": "ucl-ajax-1973-arnold-muhren",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sies Wever",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 74,
+    "attrs": {
+      "vel": 45,
+      "fin": 12,
+      "pas": 51,
+      "dri": 33,
+      "def": 18,
+      "fis": 64,
+      "ref": 79,
+      "han": 72,
+      "pos": 74,
+      "div": 75,
+      "kic": 61,
+      "one": 73
+    },
+    "starter": false,
+    "id": "ucl-ajax-1973-sies-wever",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gerrie Kleton",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 73,
+    "attrs": {
+      "vel": 65,
+      "fin": 58,
+      "pas": 75,
+      "dri": 70,
+      "def": 58,
+      "fis": 65
+    },
+    "starter": false,
+    "id": "ucl-ajax-1973-gerrie-kleton",
+    "team": "Ajax",
+    "year": 1973,
+    "comp": "ucl"
+  }
+]

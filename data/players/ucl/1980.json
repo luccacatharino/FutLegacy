@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Peter Shilton",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 45,
+      "fin": 12,
+      "pas": 72,
+      "dri": 33,
+      "def": 18,
+      "fis": 85,
+      "ref": 99,
+      "han": 93,
+      "pos": 95,
+      "div": 96,
+      "kic": 82,
+      "one": 94
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-peter-shilton",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "John Robertson",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 75,
+      "fin": 85,
+      "pas": 96,
+      "dri": 96,
+      "def": 30,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-john-robertson",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Kenny Burns",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 67,
+      "fin": 42,
+      "pas": 66,
+      "dri": 56,
+      "def": 89,
+      "fis": 89
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-kenny-burns",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Garry Birtles",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 82,
+      "fin": 90,
+      "pas": 69,
+      "dri": 82,
+      "def": 40,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-garry-birtles",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "John McGovern",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 75,
+      "fin": 73,
+      "pas": 90,
+      "dri": 85,
+      "def": 68,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-john-mcgovern",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Viv Anderson",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 85,
+      "fin": 55,
+      "pas": 78,
+      "dri": 79,
+      "def": 77,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-viv-anderson",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Larry Lloyd",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 63,
+      "fin": 38,
+      "pas": 67,
+      "dri": 52,
+      "def": 85,
+      "fis": 85
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-larry-lloyd",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Martin O'Neill",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 89,
+      "fin": 86,
+      "pas": 75,
+      "dri": 86,
+      "def": 37,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-martin-o-neill",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ian Bowyer",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 71,
+      "fin": 69,
+      "pas": 86,
+      "dri": 81,
+      "def": 69,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-ian-bowyer",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Frank Gray",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 82,
+      "fin": 47,
+      "pas": 70,
+      "dri": 71,
+      "def": 74,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-frank-gray",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gary Mills",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 68,
+      "fin": 66,
+      "pas": 83,
+      "dri": 73,
+      "def": 61,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-nottingham-forest-1980-gary-mills",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "David Needham",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 57,
+      "dri": 47,
+      "def": 80,
+      "fis": 80
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1980-david-needham",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "John O'Hare",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 82,
+      "pas": 61,
+      "dri": 74,
+      "def": 27,
+      "fis": 73
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1980-john-o-hare",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jimmy Montgomery",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 45,
+      "fin": 12,
+      "pas": 53,
+      "dri": 33,
+      "def": 18,
+      "fis": 66,
+      "ref": 81,
+      "han": 74,
+      "pos": 76,
+      "div": 77,
+      "kic": 63,
+      "one": 75
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1980-jimmy-montgomery",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bryn Gunn",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 74,
+    "attrs": {
+      "vel": 64,
+      "fin": 62,
+      "pas": 79,
+      "dri": 69,
+      "def": 57,
+      "fis": 64
+    },
+    "starter": false,
+    "id": "ucl-nottingham-forest-1980-bryn-gunn",
+    "team": "Nottingham Forest",
+    "year": 1980,
+    "comp": "ucl"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Brasil",
+    "year": 1958,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-brasil-1958-gilmar",
+      "wc-brasil-1958-djalma-santos",
+      "wc-brasil-1958-bellini",
+      "wc-brasil-1958-orlando",
+      "wc-brasil-1958-nilton-santos",
+      "wc-brasil-1958-zito",
+      "wc-brasil-1958-didi",
+      "wc-brasil-1958-garrincha",
+      "wc-brasil-1958-pele",
+      "wc-brasil-1958-vava",
+      "wc-brasil-1958-zagallo"
+    ]
+  },
+  {
+    "name": "Suécia",
+    "year": 1958,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-suecia-1958-kalle-svensson",
+      "wc-suecia-1958-orvar-bergmark",
+      "wc-suecia-1958-bengt-gustavsson",
+      "wc-suecia-1958-sven-axbom",
+      "wc-suecia-1958-reino-borjesson",
+      "wc-suecia-1958-sigge-parling",
+      "wc-suecia-1958-kurt-hamrin",
+      "wc-suecia-1958-gunnar-gren",
+      "wc-suecia-1958-agne-simonsson",
+      "wc-suecia-1958-nils-liedholm",
+      "wc-suecia-1958-lennart-skoglund"
+    ]
+  }
+]

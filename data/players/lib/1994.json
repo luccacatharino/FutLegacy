@@ -1,0 +1,369 @@
+[
+  {
+    "name": "José Luis Chilavert",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 94,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 52,
+      "fin": 20,
+      "pas": 68,
+      "dri": 30,
+      "def": 31,
+      "fis": 88,
+      "ref": 96,
+      "han": 92,
+      "pos": 94,
+      "div": 95,
+      "kic": 82,
+      "one": 94
+    },
+    "sourceName": "José Luis Chilavert",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Luis_Chilavert",
+    "id": "lib-velez-sarsfield-1994-jose-luis-chilavert",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Flavio Zandoná",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 71,
+      "def": 75,
+      "fis": 74
+    },
+    "sourceName": "Flavio Zandoná",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Flavio_Zandoná",
+    "id": "lib-velez-sarsfield-1994-flavio-zandona",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Trotta",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 63,
+      "fin": 36,
+      "pas": 65,
+      "dri": 50,
+      "def": 89,
+      "fis": 89
+    },
+    "sourceName": "Roberto Trotta",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Trotta",
+    "id": "lib-velez-sarsfield-1994-roberto-trotta",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Víctor H. Sotomayor",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 65,
+      "fin": 32,
+      "pas": 62,
+      "dri": 48,
+      "def": 85,
+      "fis": 87
+    },
+    "sourceName": "Víctor H. Sotomayor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Víctor_Hugo_Sotomayor",
+    "id": "lib-velez-sarsfield-1994-victor-h-sotomayor",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Cardozo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 80,
+      "fin": 47,
+      "pas": 75,
+      "dri": 73,
+      "def": 79,
+      "fis": 74
+    },
+    "sourceName": "Raúl Cardozo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raúl_Cardozo",
+    "id": "lib-velez-sarsfield-1994-raul-cardozo",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Christian Bassedas",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 72,
+      "fin": 67,
+      "pas": 88,
+      "dri": 82,
+      "def": 68,
+      "fis": 76
+    },
+    "sourceName": "Christian Bassedas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Christian_Bassedas",
+    "id": "lib-velez-sarsfield-1994-christian-bassedas",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Gómez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 64,
+      "fin": 50,
+      "pas": 78,
+      "dri": 67,
+      "def": 82,
+      "fis": 79
+    },
+    "sourceName": "Marcelo Gómez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_Gómez",
+    "id": "lib-velez-sarsfield-1994-marcelo-gomez",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "José Basualdo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 72,
+      "fin": 67,
+      "pas": 88,
+      "dri": 81,
+      "def": 68,
+      "fis": 74
+    },
+    "sourceName": "José Basualdo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Horacio_Basualdo",
+    "id": "lib-velez-sarsfield-1994-jose-basualdo",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Pompei",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 75,
+      "fin": 76,
+      "pas": 88,
+      "dri": 88,
+      "def": 36,
+      "fis": 67
+    },
+    "sourceName": "Roberto Pompei",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Pompei",
+    "id": "lib-velez-sarsfield-1994-roberto-pompei",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Omar Asad",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 88,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 82,
+      "fin": 92,
+      "pas": 68,
+      "dri": 79,
+      "def": 31,
+      "fis": 82
+    },
+    "sourceName": "Omar Asad",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Omar_Asad",
+    "id": "lib-velez-sarsfield-1994-omar-asad",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "José Oscar Flores",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 83,
+      "fin": 92,
+      "pas": 69,
+      "dri": 77,
+      "def": 31,
+      "fis": 87
+    },
+    "sourceName": "José Oscar Flores",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Oscar_Flores",
+    "id": "lib-velez-sarsfield-1994-jose-oscar-flores",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Fabián Fernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Fabián Fernández",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Fabián_Fernández",
+    "id": "lib-velez-sarsfield-1994-fabian-fernandez",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Claudio Husain",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 67,
+      "fin": 49,
+      "pas": 80,
+      "dri": 69,
+      "def": 80,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Claudio Husain",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Claudio_Husain",
+    "id": "lib-velez-sarsfield-1994-claudio-husain",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Almandoz",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 69,
+      "def": 74,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Héctor Almandoz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Héctor_Almandoz",
+    "id": "lib-velez-sarsfield-1994-hector-almandoz",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  },
+  {
+    "name": "Mauricio Pellegrino",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 65,
+      "dri": 49,
+      "def": 85,
+      "fis": 86
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Mauricio Pellegrino",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Mauricio_Pellegrino",
+    "id": "lib-velez-sarsfield-1994-mauricio-pellegrino",
+    "team": "Vélez Sarsfield",
+    "year": 1994,
+    "comp": "lib"
+  }
+]

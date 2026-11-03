@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Nery Pumpido",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 48,
+      "fin": 15,
+      "pas": 63,
+      "dri": 24,
+      "def": 21,
+      "fis": 83,
+      "ref": 90,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 76,
+      "one": 88
+    },
+    "sourceName": "Nery Pumpido",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nery_Pumpido",
+    "id": "lib-river-plate-1986-nery-pumpido",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Gordillo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 84,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 79,
+      "fin": 45,
+      "pas": 74,
+      "dri": 72,
+      "def": 77,
+      "fis": 76
+    },
+    "sourceName": "Jorge Gordillo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Gordillo",
+    "id": "lib-river-plate-1986-jorge-gordillo",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelson Gutiérrez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 65,
+      "dri": 48,
+      "def": 87,
+      "fis": 85
+    },
+    "sourceName": "Nelson Gutiérrez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nelson_Gutiérrez",
+    "id": "lib-river-plate-1986-nelson-gutierrez",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Oscar Ruggeri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 92,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 68,
+      "fin": 38,
+      "pas": 69,
+      "dri": 52,
+      "def": 92,
+      "fis": 92
+    },
+    "sourceName": "Oscar Ruggeri",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Oscar_Ruggeri",
+    "id": "lib-river-plate-1986-oscar-ruggeri",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Alejandro Montenegro",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 75,
+      "fin": 39,
+      "pas": 70,
+      "dri": 71,
+      "def": 72,
+      "fis": 73
+    },
+    "sourceName": "Alejandro Montenegro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alejandro_Montenegro",
+    "id": "lib-river-plate-1986-alejandro-montenegro",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Enrique",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 67,
+      "pas": 86,
+      "dri": 81,
+      "def": 67,
+      "fis": 73
+    },
+    "sourceName": "Héctor Enrique",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Héctor_Enrique",
+    "id": "lib-river-plate-1986-hector-enrique",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Américo Gallego",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 53,
+      "pas": 85,
+      "dri": 74,
+      "def": 86,
+      "fis": 87
+    },
+    "sourceName": "Américo Gallego",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Américo_Gallego",
+    "id": "lib-river-plate-1986-americo-gallego",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Norberto Alonso",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 92,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 80,
+      "fin": 83,
+      "pas": 94,
+      "dri": 92,
+      "def": 44,
+      "fis": 75
+    },
+    "sourceName": "Norberto Alonso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Norberto_Alonso",
+    "id": "lib-river-plate-1986-norberto-alonso",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Roque Alfaro",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 86,
+      "fin": 77,
+      "pas": 76,
+      "dri": 89,
+      "def": 33,
+      "fis": 69
+    },
+    "sourceName": "Roque Alfaro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roque_Alfaro",
+    "id": "lib-river-plate-1986-roque-alfaro",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Antonio Alzamendi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 90,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 93,
+      "fin": 84,
+      "pas": 84,
+      "dri": 93,
+      "def": 40,
+      "fis": 73
+    },
+    "sourceName": "Antonio Alzamendi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Antonio_Alzamendi",
+    "id": "lib-river-plate-1986-antonio-alzamendi",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Gilberto Funes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 79,
+      "fin": 94,
+      "pas": 66,
+      "dri": 81,
+      "def": 33,
+      "fis": 87
+    },
+    "sourceName": "Juan Gilberto Funes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Gilberto_Funes",
+    "id": "lib-river-plate-1986-juan-gilberto-funes",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Pedro Troglio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 72,
+      "fin": 65,
+      "pas": 85,
+      "dri": 79,
+      "def": 66,
+      "fis": 74
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Pedro Troglio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Pedro_Troglio",
+    "id": "lib-river-plate-1986-pedro-troglio",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel Sperandío",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 67,
+      "fin": 60,
+      "pas": 80,
+      "dri": 74,
+      "def": 61,
+      "fis": 69
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Daniel Sperandío",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "id": "lib-river-plate-1986-daniel-sperandio",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Darío Gómez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 66,
+      "fin": 59,
+      "pas": 79,
+      "dri": 73,
+      "def": 60,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Rubén Darío Gómez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "id": "lib-river-plate-1986-ruben-dario-gomez",
+    "team": "River Plate",
+    "year": 1986,
+    "comp": "lib"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "name": "França",
+    "year": 1998,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-franca-1998-fabien-barthez",
+      "wc-franca-1998-lilian-thuram",
+      "wc-franca-1998-laurent-blanc",
+      "wc-franca-1998-marcel-desailly",
+      "wc-franca-1998-bixente-lizarazu",
+      "wc-franca-1998-didier-deschamps",
+      "wc-franca-1998-emmanuel-petit",
+      "wc-franca-1998-christian-karembeu",
+      "wc-franca-1998-zinedine-zidane",
+      "wc-franca-1998-youri-djorkaeff",
+      "wc-franca-1998-stephane-guivarc-h"
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1998,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-brasil-1998-taffarel",
+      "wc-brasil-1998-cafu",
+      "wc-brasil-1998-aldair",
+      "wc-brasil-1998-junior-baiano",
+      "wc-brasil-1998-roberto-carlos",
+      "wc-brasil-1998-dunga",
+      "wc-brasil-1998-cesar-sampaio",
+      "wc-brasil-1998-rivaldo",
+      "wc-brasil-1998-leonardo",
+      "wc-brasil-1998-bebeto",
+      "wc-brasil-1998-ronaldo"
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 1998,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_squads#Netherlands",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-paises-baixos-1998-edwin-van-der-sar",
+      "wc-paises-baixos-1998-michael-reiziger",
+      "wc-paises-baixos-1998-jaap-stam",
+      "wc-paises-baixos-1998-frank-de-boer",
+      "wc-paises-baixos-1998-arthur-numan",
+      "wc-paises-baixos-1998-wim-jonk",
+      "wc-paises-baixos-1998-edgar-davids",
+      "wc-paises-baixos-1998-ronald-de-boer",
+      "wc-paises-baixos-1998-phillip-cocu",
+      "wc-paises-baixos-1998-dennis-bergkamp",
+      "wc-paises-baixos-1998-patrick-kluivert"
+    ]
+  }
+]

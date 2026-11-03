@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Milan",
+    "year": 1989,
+    "season": "1988/89",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1989_European_Cup_final",
+    "selectionReason": "Picos de Sacchi, Capello e Ancelotti; qualidade coletiva e campanhas dominantes.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "Giovanni Galli",
+      "Mauro Tassotti",
+      "Paolo Maldini",
+      "Angelo Colombo",
+      "Alessandro Costacurta",
+      "Franco Baresi",
+      "Roberto Donadoni",
+      "Frank Rijkaard",
+      "Marco van Basten",
+      "Ruud Gullit",
+      "Carlo Ancelotti"
+    ],
+    "playerIds": [
+      "ucl-milan-1989-marco-van-basten",
+      "ucl-milan-1989-franco-baresi",
+      "ucl-milan-1989-ruud-gullit",
+      "ucl-milan-1989-frank-rijkaard",
+      "ucl-milan-1989-paolo-maldini",
+      "ucl-milan-1989-roberto-donadoni",
+      "ucl-milan-1989-carlo-ancelotti",
+      "ucl-milan-1989-mauro-tassotti",
+      "ucl-milan-1989-alessandro-costacurta",
+      "ucl-milan-1989-giovanni-galli",
+      "ucl-milan-1989-pietro-paolo-virdis",
+      "ucl-milan-1989-alberico-evani",
+      "ucl-milan-1989-filippo-galli",
+      "ucl-milan-1989-angelo-colombo",
+      "ucl-milan-1989-roberto-mussi",
+      "ucl-milan-1989-davide-pinato"
+    ]
+  }
+]

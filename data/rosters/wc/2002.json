@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Brasil",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-brasil-2002-marcos",
+      "wc-brasil-2002-cafu",
+      "wc-brasil-2002-lucio",
+      "wc-brasil-2002-roque-junior",
+      "wc-brasil-2002-edmilson",
+      "wc-brasil-2002-roberto-carlos",
+      "wc-brasil-2002-gilberto-silva",
+      "wc-brasil-2002-kleberson",
+      "wc-brasil-2002-ronaldinho-gaucho",
+      "wc-brasil-2002-rivaldo",
+      "wc-brasil-2002-ronaldo"
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-alemanha-2002-oliver-kahn",
+      "wc-alemanha-2002-torsten-frings",
+      "wc-alemanha-2002-carsten-ramelow",
+      "wc-alemanha-2002-christoph-metzelder",
+      "wc-alemanha-2002-thomas-linke",
+      "wc-alemanha-2002-dietmar-hamann",
+      "wc-alemanha-2002-bernd-schneider",
+      "wc-alemanha-2002-jens-jeremies",
+      "wc-alemanha-2002-marco-bode",
+      "wc-alemanha-2002-oliver-neuville",
+      "wc-alemanha-2002-miroslav-klose",
+      "wc-alemanha-2002-michael-ballack"
+    ]
+  },
+  {
+    "name": "Coreia do Sul",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-coreia-do-sul-2002-lee-woon-jae",
+      "wc-coreia-do-sul-2002-choi-jin-cheul",
+      "wc-coreia-do-sul-2002-hong-myung-bo",
+      "wc-coreia-do-sul-2002-kim-tae-young",
+      "wc-coreia-do-sul-2002-song-chong-gug",
+      "wc-coreia-do-sul-2002-lee-young-pyo",
+      "wc-coreia-do-sul-2002-kim-nam-il",
+      "wc-coreia-do-sul-2002-yoo-sang-chul",
+      "wc-coreia-do-sul-2002-park-ji-sung",
+      "wc-coreia-do-sul-2002-seol-ki-hyeon",
+      "wc-coreia-do-sul-2002-ahn-jung-hwan"
+    ]
+  },
+  {
+    "name": "Turquia",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-turquia-2002-rustu-recber",
+      "wc-turquia-2002-umit-davala",
+      "wc-turquia-2002-alpay-ozalan",
+      "wc-turquia-2002-bulent-korkmaz",
+      "wc-turquia-2002-fatih-akyel",
+      "wc-turquia-2002-ergun-penbe",
+      "wc-turquia-2002-tugay-kerimoglu",
+      "wc-turquia-2002-emre-belozoglu",
+      "wc-turquia-2002-y-ld-ray-basturk",
+      "wc-turquia-2002-hasan-sas",
+      "wc-turquia-2002-ilhan-mans-z",
+      "wc-turquia-2002-hakan-sukur"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-senegal-2002-tony-sylva",
+      "wc-senegal-2002-habib-beye",
+      "wc-senegal-2002-lamine-diatta",
+      "wc-senegal-2002-aliou-cisse",
+      "wc-senegal-2002-omar-daf",
+      "wc-senegal-2002-ferdinand-coly",
+      "wc-senegal-2002-salif-diao",
+      "wc-senegal-2002-papa-bouba-diop",
+      "wc-senegal-2002-khalilou-fadiga",
+      "wc-senegal-2002-el-hadji-diouf",
+      "wc-senegal-2002-henri-camara"
+    ]
+  },
+  {
+    "name": "Estados Unidos",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-estados-unidos-2002-brad-friedel",
+      "wc-estados-unidos-2002-tony-sanneh",
+      "wc-estados-unidos-2002-eddie-pope",
+      "wc-estados-unidos-2002-gregg-berhalter",
+      "wc-estados-unidos-2002-frankie-hejduk",
+      "wc-estados-unidos-2002-pablo-mastroeni",
+      "wc-estados-unidos-2002-claudio-reyna",
+      "wc-estados-unidos-2002-john-o-brien",
+      "wc-estados-unidos-2002-damarcus-beasley",
+      "wc-estados-unidos-2002-landon-donovan",
+      "wc-estados-unidos-2002-brian-mcbride"
+    ]
+  }
+]

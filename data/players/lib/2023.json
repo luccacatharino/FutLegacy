@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Fábio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 50,
+      "fin": 18,
+      "pas": 66,
+      "dri": 31,
+      "def": 24,
+      "fis": 82,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Fábio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fábio_(footballer,_born_1980)",
+    "id": "lib-fluminense-2023-fabio",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Samuel Xavier",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 84,
+      "fin": 44,
+      "pas": 74,
+      "dri": 71,
+      "def": 76,
+      "fis": 74
+    },
+    "sourceName": "Samuel Xavier",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Samuel_Xavier",
+    "id": "lib-fluminense-2023-samuel-xavier",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Nino",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 66,
+      "fin": 37,
+      "pas": 68,
+      "dri": 52,
+      "def": 91,
+      "fis": 88
+    },
+    "sourceName": "Nino",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nino_(footballer,_born_1997)",
+    "id": "lib-fluminense-2023-nino",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Felipe Melo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 61,
+      "fin": 31,
+      "pas": 63,
+      "dri": 46,
+      "def": 85,
+      "fis": 88
+    },
+    "sourceName": "Felipe Melo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Felipe_Melo",
+    "id": "lib-fluminense-2023-felipe-melo",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 89,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 82,
+      "fin": 46,
+      "pas": 77,
+      "dri": 77,
+      "def": 79,
+      "fis": 81
+    },
+    "sourceName": "Marcelo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_(footballer,_born_1988)",
+    "id": "lib-fluminense-2023-marcelo",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Martinelli",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 72,
+      "fin": 64,
+      "pas": 88,
+      "dri": 80,
+      "def": 64,
+      "fis": 74
+    },
+    "sourceName": "Martinelli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Matheus_Martinelli",
+    "id": "lib-fluminense-2023-martinelli",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "André",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 74,
+      "fin": 54,
+      "pas": 84,
+      "dri": 75,
+      "def": 86,
+      "fis": 88
+    },
+    "sourceName": "André",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/André_(footballer,_born_2001)",
+    "id": "lib-fluminense-2023-andre",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Jhon Arias",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 93,
+    "sourceRole": "RW",
+    "attrs": {
+      "vel": 96,
+      "fin": 84,
+      "pas": 86,
+      "dri": 96,
+      "def": 44,
+      "fis": 76
+    },
+    "sourceName": "Jhon Arias",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jhon_Arias_(footballer)",
+    "id": "lib-fluminense-2023-jhon-arias",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Ganso",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 91,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 78,
+      "fin": 81,
+      "pas": 91,
+      "dri": 95,
+      "def": 42,
+      "fis": 70
+    },
+    "sourceName": "Ganso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Paulo_Henrique_Ganso",
+    "id": "lib-fluminense-2023-ganso",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Keno",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 89,
+    "sourceRole": "LW",
+    "attrs": {
+      "vel": 90,
+      "fin": 81,
+      "pas": 80,
+      "dri": 92,
+      "def": 37,
+      "fis": 73
+    },
+    "sourceName": "Keno",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Keno_(footballer)",
+    "id": "lib-fluminense-2023-keno",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Germán Cano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 95,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 86,
+      "fin": 99,
+      "pas": 73,
+      "dri": 85,
+      "def": 40,
+      "fis": 92
+    },
+    "sourceName": "Germán Cano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Germán_Cano",
+    "id": "lib-fluminense-2023-german-cano",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "John Kennedy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 83,
+      "fin": 93,
+      "pas": 70,
+      "dri": 82,
+      "def": 32,
+      "fis": 84
+    },
+    "sourceName": "John Kennedy",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/John_Kennedy_(footballer,_born_2002)",
+    "id": "lib-fluminense-2023-john-kennedy",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Pedro Rangel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 75,
+    "attrs": {
+      "vel": 33,
+      "fin": 10,
+      "pas": 51,
+      "dri": 18,
+      "def": 11,
+      "fis": 69,
+      "ref": 77,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 63,
+      "one": 75
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Pedro Rangel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Pedro_Rangel_(footballer)",
+    "id": "lib-fluminense-2023-pedro-rangel",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Marlon",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 61,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Marlon",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Marlon_(footballer,_born_September_1995)",
+    "id": "lib-fluminense-2023-marlon",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Guga",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 69,
+      "def": 74,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Guga",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Guga_(footballer,_born_1998)",
+    "id": "lib-fluminense-2023-guga",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Diogo Barbosa",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Diogo Barbosa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Diogo_Barbosa_(footballer)",
+    "id": "lib-fluminense-2023-diogo-barbosa",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "David Braz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 59,
+      "fin": 29,
+      "pas": 60,
+      "dri": 44,
+      "def": 80,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "David Braz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/David_Braz",
+    "id": "lib-fluminense-2023-david-braz",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Alexsander",
+    "positions": [
+      "VOL",
+      "LE"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 68,
+      "fin": 50,
+      "pas": 81,
+      "dri": 70,
+      "def": 81,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Alexsander",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Alexsander_(footballer,_born_2003)",
+    "id": "lib-fluminense-2023-alexsander",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Leo Fernández",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 84,
+      "dri": 81,
+      "def": 32,
+      "fis": 62
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Leo Fernández",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Leonardo_Fernández_(Uruguayan_footballer)",
+    "id": "lib-fluminense-2023-leo-fernandez",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 66,
+      "fin": 59,
+      "pas": 79,
+      "dri": 73,
+      "def": 60,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Daniel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Danielzinho_(footballer,_born_1996)",
+    "id": "lib-fluminense-2023-daniel",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Thiago Santos",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 63,
+      "fin": 45,
+      "pas": 76,
+      "dri": 65,
+      "def": 76,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Thiago Santos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Thiago_Santos_(footballer,_born_1989)",
+    "id": "lib-fluminense-2023-thiago-santos",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Lima",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 71,
+      "fin": 64,
+      "pas": 84,
+      "dri": 78,
+      "def": 65,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Lima",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Lima_(footballer,_born_1996)",
+    "id": "lib-fluminense-2023-lima",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Yony González",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 79,
+      "fin": 71,
+      "pas": 70,
+      "dri": 79,
+      "def": 27,
+      "fis": 63
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Yony González",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Yony_González",
+    "id": "lib-fluminense-2023-yony-gonzalez",
+    "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  }
+]

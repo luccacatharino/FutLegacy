@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Gustavo Fernández",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 41,
+      "fin": 14,
+      "pas": 57,
+      "dri": 21,
+      "def": 20,
+      "fis": 79,
+      "ref": 87,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 73,
+      "one": 85
+    },
+    "sourceName": "Gustavo Fernández",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gustavo_Fernández_(Uruguayan_footballer)",
+    "id": "lib-penarol-1982-gustavo-fernandez",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Víctor Diogo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 82,
+      "fin": 43,
+      "pas": 77,
+      "dri": 73,
+      "def": 75,
+      "fis": 75
+    },
+    "sourceName": "Víctor Diogo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Víctor_Diogo",
+    "id": "lib-penarol-1982-victor-diogo",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Walter Olivera",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 65,
+      "fin": 32,
+      "pas": 67,
+      "dri": 48,
+      "def": 90,
+      "fis": 88
+    },
+    "sourceName": "Walter Olivera",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Walter_Olivera",
+    "id": "lib-penarol-1982-walter-olivera",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelson Gutiérrez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 65,
+      "dri": 48,
+      "def": 87,
+      "fis": 85
+    },
+    "sourceName": "Nelson Gutiérrez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nelson_Gutiérrez",
+    "id": "lib-penarol-1982-nelson-gutierrez",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan V. Morales",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 70,
+      "def": 75,
+      "fis": 70
+    },
+    "sourceName": "Juan V. Morales",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-penarol-1982-juan-v-morales",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario Saralegui",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 73,
+      "fin": 67,
+      "pas": 89,
+      "dri": 81,
+      "def": 68,
+      "fis": 75
+    },
+    "sourceName": "Mario Saralegui",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mario_Saralegui",
+    "id": "lib-penarol-1982-mario-saralegui",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Bossio",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 65,
+      "fin": 49,
+      "pas": 80,
+      "dri": 69,
+      "def": 82,
+      "fis": 81
+    },
+    "sourceName": "Miguel Bossio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Bossio",
+    "id": "lib-penarol-1982-miguel-bossio",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Jair",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 74,
+      "fin": 80,
+      "pas": 88,
+      "dri": 87,
+      "def": 40,
+      "fis": 68
+    },
+    "sourceName": "Jair",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jair_Gonçalves_Prates",
+    "id": "lib-penarol-1982-jair",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Ernesto Vargas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 75,
+      "fin": 90,
+      "pas": 61,
+      "dri": 73,
+      "def": 29,
+      "fis": 79
+    },
+    "sourceName": "Ernesto Vargas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ernesto_Vargas",
+    "id": "lib-penarol-1982-ernesto-vargas",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Fernando Morena",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 93,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 86,
+      "fin": 96,
+      "pas": 72,
+      "dri": 81,
+      "def": 35,
+      "fis": 88
+    },
+    "sourceName": "Fernando Morena",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fernando_Morena",
+    "id": "lib-penarol-1982-fernando-morena",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Venancio Ramos",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 88,
+      "fin": 77,
+      "pas": 79,
+      "dri": 86,
+      "def": 32,
+      "fis": 65
+    },
+    "sourceName": "Venancio Ramos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Venancio_Ramos",
+    "id": "lib-penarol-1982-venancio-ramos",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Walkir Silva",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 87,
+      "fin": 75,
+      "pas": 78,
+      "dri": 86,
+      "def": 35,
+      "fis": 65
+    },
+    "sourceName": "Walkir Silva",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Walkir_Silva",
+    "id": "lib-penarol-1982-walkir-silva",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel Rodríguez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 73,
+      "fin": 83,
+      "pas": 61,
+      "dri": 71,
+      "def": 27,
+      "fis": 77
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Daniel Rodríguez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Coquito_(footballer)",
+    "id": "lib-penarol-1982-daniel-rodriguez",
+    "team": "Peñarol",
+    "year": 1982,
+    "comp": "lib"
+  }
+]

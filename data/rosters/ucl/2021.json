@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Chelsea",
+    "year": 2021,
+    "season": "2020/21",
+    "comp": "ucl",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2021_UEFA_Champions_League_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "Édouard Mendy",
+      "César Azpilicueta",
+      "Thiago Silva",
+      "Antonio Rüdiger",
+      "Reece James",
+      "Ben Chilwell",
+      "Jorginho",
+      "N’Golo Kanté",
+      "Kai Havertz",
+      "Mason Mount",
+      "Timo Werner"
+    ],
+    "playerIds": [
+      "ucl-chelsea-2021-n-golo-kante",
+      "ucl-chelsea-2021-edouard-mendy",
+      "ucl-chelsea-2021-antonio-rudiger",
+      "ucl-chelsea-2021-thiago-silva",
+      "ucl-chelsea-2021-jorginho",
+      "ucl-chelsea-2021-mason-mount",
+      "ucl-chelsea-2021-olivier-giroud",
+      "ucl-chelsea-2021-reece-james",
+      "ucl-chelsea-2021-ben-chilwell",
+      "ucl-chelsea-2021-cesar-azpilicueta",
+      "ucl-chelsea-2021-andreas-christensen",
+      "ucl-chelsea-2021-kai-havertz",
+      "ucl-chelsea-2021-mateo-kovacic",
+      "ucl-chelsea-2021-christian-pulisic",
+      "ucl-chelsea-2021-hakim-ziyech",
+      "ucl-chelsea-2021-timo-werner",
+      "ucl-chelsea-2021-kurt-zouma",
+      "ucl-chelsea-2021-marcos-alonso",
+      "ucl-chelsea-2021-callum-hudson-odoi",
+      "ucl-chelsea-2021-emerson-palmieri",
+      "ucl-chelsea-2021-kepa-arrizabalaga",
+      "ucl-chelsea-2021-billy-gilmour",
+      "ucl-chelsea-2021-willy-caballero"
+    ]
+  }
+]

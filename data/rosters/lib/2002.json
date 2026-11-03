@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Olimpia",
+    "year": 2002,
+    "comp": "lib",
+    "tier": 0,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 84,
+    "selectionReason": "Possui exatamente três títulos: 1979, 1990 e 2002. Todos são obrigatórios.",
+    "startingXI": [
+      "Ricardo Tavarelli",
+      "Néstor Isasi",
+      "Nelson Zelaya",
+      "Henrique da Silva",
+      "Julio Cáceres",
+      "Julio Enciso",
+      "Gastón Córdoba",
+      "Juan Carlos Franco",
+      "Sergio Órteman",
+      "Richard Báez",
+      "Miguel Benítez"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-olimpia-2002-ricardo-tavarelli",
+      "lib-olimpia-2002-nestor-isasi",
+      "lib-olimpia-2002-nelson-zelaya",
+      "lib-olimpia-2002-henrique-da-silva",
+      "lib-olimpia-2002-julio-caceres",
+      "lib-olimpia-2002-julio-enciso",
+      "lib-olimpia-2002-gaston-cordoba",
+      "lib-olimpia-2002-juan-carlos-franco",
+      "lib-olimpia-2002-sergio-orteman",
+      "lib-olimpia-2002-richard-baez",
+      "lib-olimpia-2002-miguel-benitez",
+      "lib-olimpia-2002-danilo-aceval",
+      "lib-olimpia-2002-mauro-caballero",
+      "lib-olimpia-2002-virginio-caceres",
+      "lib-olimpia-2002-francisco-esteche",
+      "lib-olimpia-2002-carlos-estigarribia",
+      "lib-olimpia-2002-hernan-lopez",
+      "lib-olimpia-2002-pedro-benitez",
+      "lib-olimpia-2002-victor-quintana"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "River Plate",
+    "year": 1996,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "1986 reúne Pumpido, Ruggeri, Gallego, Alonso e Alzamendi; 1996 acrescenta Francescoli, Crespo e Ortega; 2018 representa o grupo de Gallardo, campeão contra Boca na final. 2015 foi preterido para evitar dois recortes próximos da mesma fase institucional.",
+    "startingXI": [
+      "Germán Burgos",
+      "Hernán Díaz",
+      "Celso Ayala",
+      "Guillermo Rivarola",
+      "Ricardo Altamirano",
+      "Matías Almeyda",
+      "Leonardo Astrada",
+      "Juan Pablo Sorín",
+      "Ariel Ortega",
+      "Hernán Crespo",
+      "Enzo Francescoli"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-river-plate-1996-german-burgos",
+      "lib-river-plate-1996-hernan-diaz",
+      "lib-river-plate-1996-celso-ayala",
+      "lib-river-plate-1996-guillermo-rivarola",
+      "lib-river-plate-1996-ricardo-altamirano",
+      "lib-river-plate-1996-matias-almeyda",
+      "lib-river-plate-1996-leonardo-astrada",
+      "lib-river-plate-1996-juan-pablo-sorin",
+      "lib-river-plate-1996-ariel-ortega",
+      "lib-river-plate-1996-hernan-crespo",
+      "lib-river-plate-1996-enzo-francescoli",
+      "lib-river-plate-1996-pablo-lavallen",
+      "lib-river-plate-1996-marcelo-gallardo",
+      "lib-river-plate-1996-juan-andres-gomez",
+      "lib-river-plate-1996-marcelo-escudero",
+      "lib-river-plate-1996-gabriel-cedres"
+    ]
+  }
+]

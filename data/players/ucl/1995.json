@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Jari Litmanen",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 80,
+      "fin": 94,
+      "pas": 94,
+      "dri": 93,
+      "def": 40,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-jari-litmanen",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Frank Rijkaard",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 69,
+      "fin": 66,
+      "pas": 91,
+      "dri": 79,
+      "def": 95,
+      "fis": 90
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-frank-rijkaard",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Marc Overmars",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 98,
+      "fin": 87,
+      "pas": 83,
+      "dri": 94,
+      "def": 29,
+      "fis": 63
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-marc-overmars",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Edwin van der Sar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 60,
+      "dri": 27,
+      "def": 18,
+      "fis": 79,
+      "ref": 88,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 70,
+      "one": 88
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-edwin-van-der-sar",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Danny Blind",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 67,
+      "fin": 42,
+      "pas": 71,
+      "dri": 56,
+      "def": 89,
+      "fis": 89
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-danny-blind",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Edgar Davids",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 78,
+      "fin": 76,
+      "pas": 93,
+      "dri": 83,
+      "def": 71,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-edgar-davids",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Frank de Boer",
+    "positions": [
+      "ZAG",
+      "LE"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 69,
+      "fin": 39,
+      "pas": 68,
+      "dri": 58,
+      "def": 91,
+      "fis": 91
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-frank-de-boer",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ronald de Boer",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 87,
+      "fin": 95,
+      "pas": 69,
+      "dri": 82,
+      "def": 40,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-ronald-de-boer",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Finidi George",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 90,
+      "fin": 87,
+      "pas": 81,
+      "dri": 92,
+      "def": 38,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-finidi-george",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Patrick Kluivert",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 84,
+      "fin": 92,
+      "pas": 71,
+      "dri": 84,
+      "def": 37,
+      "fis": 83
+    },
+    "starter": false,
+    "id": "ucl-ajax-1995-patrick-kluivert",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Clarence Seedorf",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 74,
+      "fin": 72,
+      "pas": 89,
+      "dri": 84,
+      "def": 72,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-clarence-seedorf",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Michael Reiziger",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 83,
+      "fin": 53,
+      "pas": 76,
+      "dri": 77,
+      "def": 75,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-ajax-1995-michael-reiziger",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nwankwo Kanu",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 84,
+      "fin": 87,
+      "pas": 66,
+      "dri": 79,
+      "def": 37,
+      "fis": 83
+    },
+    "starter": false,
+    "id": "ucl-ajax-1995-nwankwo-kanu",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Winston Bogarde",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 82,
+      "fin": 52,
+      "pas": 70,
+      "dri": 71,
+      "def": 74,
+      "fis": 73
+    },
+    "starter": false,
+    "id": "ucl-ajax-1995-winston-bogarde",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Peter van Vossen",
+    "positions": [
+      "ATA",
+      "PE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 76,
+      "fin": 84,
+      "pas": 63,
+      "dri": 76,
+      "def": 34,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-ajax-1995-peter-van-vossen",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  },
+  {
+    "name": "Fred Grim",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 75,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 46,
+      "dri": 27,
+      "def": 18,
+      "fis": 65,
+      "ref": 74,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 56,
+      "one": 74
+    },
+    "starter": false,
+    "id": "ucl-ajax-1995-fred-grim",
+    "team": "Ajax",
+    "year": 1995,
+    "comp": "ucl"
+  }
+]

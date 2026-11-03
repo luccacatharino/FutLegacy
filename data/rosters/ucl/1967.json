@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Celtic",
+    "year": 1967,
+    "season": "1966/67",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1967_European_Cup_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 88,
+    "startingXI": [
+      "Ronnie Simpson",
+      "Jim Craig",
+      "Billy McNeill",
+      "John Clark",
+      "Tommy Gemmell",
+      "Bobby Murdoch",
+      "Bertie Auld",
+      "Jimmy Johnstone",
+      "Stevie Chalmers",
+      "Willie Wallace",
+      "Bobby Lennox"
+    ],
+    "playerIds": [
+      "ucl-celtic-1967-jimmy-johnstone",
+      "ucl-celtic-1967-bobby-lennox",
+      "ucl-celtic-1967-billy-mcneill",
+      "ucl-celtic-1967-bobby-murdoch",
+      "ucl-celtic-1967-tommy-gemmell",
+      "ucl-celtic-1967-stevie-chalmers",
+      "ucl-celtic-1967-bertie-auld",
+      "ucl-celtic-1967-willie-wallace",
+      "ucl-celtic-1967-ronnie-simpson",
+      "ucl-celtic-1967-john-clark",
+      "ucl-celtic-1967-jim-craig",
+      "ucl-celtic-1967-john-fallon"
+    ]
+  }
+]

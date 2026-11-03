@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Ronaldinho",
+    "positions": [
+      "PE",
+      "MEI"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 88,
+      "fin": 92,
+      "pas": 97,
+      "dri": 99,
+      "def": 32,
+      "fis": 77
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-ronaldinho",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Samuel Eto'o",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 97,
+      "fin": 96,
+      "pas": 78,
+      "dri": 90,
+      "def": 41,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-samuel-eto-o",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Carles Puyol",
+    "positions": [
+      "ZAG",
+      "LD"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 73,
+      "fin": 43,
+      "pas": 72,
+      "dri": 62,
+      "def": 95,
+      "fis": 95
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-carles-puyol",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Deco",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 81,
+      "fin": 79,
+      "pas": 96,
+      "dri": 86,
+      "def": 74,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-deco",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Henrik Larsson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 88,
+      "fin": 96,
+      "pas": 70,
+      "dri": 83,
+      "def": 41,
+      "fis": 87
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2006-henrik-larsson",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Rafael Márquez",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 69,
+      "fin": 44,
+      "pas": 68,
+      "dri": 58,
+      "def": 91,
+      "fis": 91
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-rafael-marquez",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ludovic Giuly",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 92,
+      "fin": 84,
+      "pas": 78,
+      "dri": 89,
+      "def": 40,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-ludovic-giuly",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Xavi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 72,
+      "fin": 73,
+      "pas": 98,
+      "dri": 91,
+      "def": 66,
+      "fis": 66
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2006-xavi",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Andrés Iniesta",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 75,
+      "fin": 73,
+      "pas": 90,
+      "dri": 80,
+      "def": 68,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2006-andres-iniesta",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Edmílson",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 69,
+      "fin": 58,
+      "pas": 84,
+      "dri": 75,
+      "def": 83,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-edmilson",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Giovanni van Bronckhorst",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 83,
+      "fin": 53,
+      "pas": 76,
+      "dri": 77,
+      "def": 80,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-giovanni-van-bronckhorst",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Víctor Valdés",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 60,
+      "dri": 31,
+      "def": 18,
+      "fis": 75,
+      "ref": 88,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 70,
+      "one": 84
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-victor-valdes",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mark van Bommel",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 75,
+      "fin": 73,
+      "pas": 85,
+      "dri": 80,
+      "def": 68,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-mark-van-bommel",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Juliano Belletti",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 84,
+      "fin": 54,
+      "pas": 72,
+      "dri": 73,
+      "def": 76,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2006-juliano-belletti",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sylvinho",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 83,
+      "fin": 48,
+      "pas": 71,
+      "dri": 72,
+      "def": 75,
+      "fis": 74
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2006-sylvinho",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Thiago Motta",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 64,
+      "fin": 53,
+      "pas": 79,
+      "dri": 70,
+      "def": 83,
+      "fis": 77
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2006-thiago-motta",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Oleguer",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 78,
+      "fin": 48,
+      "pas": 71,
+      "dri": 67,
+      "def": 70,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2006-oleguer",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  },
+  {
+    "name": "Albert Jorquera",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 75,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 50,
+      "dri": 31,
+      "def": 18,
+      "fis": 65,
+      "ref": 78,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 60,
+      "one": 74
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2006-albert-jorquera",
+    "team": "Barcelona",
+    "year": 2006,
+    "comp": "ucl"
+  }
+]

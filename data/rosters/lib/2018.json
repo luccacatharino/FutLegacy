@@ -1,0 +1,52 @@
+[
+  {
+    "name": "River Plate",
+    "year": 2018,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "1986 reúne Pumpido, Ruggeri, Gallego, Alonso e Alzamendi; 1996 acrescenta Francescoli, Crespo e Ortega; 2018 representa o grupo de Gallardo, campeão contra Boca na final. 2015 foi preterido para evitar dois recortes próximos da mesma fase institucional.",
+    "startingXI": [
+      "Franco Armani",
+      "Gonzalo Montiel",
+      "Jonatan Maidana",
+      "Javier Pinola",
+      "Milton Casco",
+      "Enzo Pérez",
+      "Leonardo Ponzio",
+      "Ignacio Fernández",
+      "Exequiel Palacios",
+      "Gonzalo Martínez",
+      "Lucas Pratto"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-river-plate-2018-franco-armani",
+      "lib-river-plate-2018-gonzalo-montiel",
+      "lib-river-plate-2018-jonatan-maidana",
+      "lib-river-plate-2018-javier-pinola",
+      "lib-river-plate-2018-milton-casco",
+      "lib-river-plate-2018-enzo-perez",
+      "lib-river-plate-2018-leonardo-ponzio",
+      "lib-river-plate-2018-ignacio-fernandez",
+      "lib-river-plate-2018-exequiel-palacios",
+      "lib-river-plate-2018-gonzalo-martinez",
+      "lib-river-plate-2018-lucas-pratto",
+      "lib-river-plate-2018-juan-fernando-quintero",
+      "lib-river-plate-2018-rafael-santos-borre",
+      "lib-river-plate-2018-lucas-martinez-quarta",
+      "lib-river-plate-2018-german-lux",
+      "lib-river-plate-2018-bruno-zuculini",
+      "lib-river-plate-2018-camilo-mayada",
+      "lib-river-plate-2018-rodrigo-mora",
+      "lib-river-plate-2018-julian-alvarez"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Porto",
+    "year": 2004,
+    "season": "2003/04",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2004_UEFA_Champions_League_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Vítor Baía",
+      "Paulo Ferreira",
+      "Jorge Costa",
+      "Ricardo Carvalho",
+      "Nuno Valente",
+      "Costinha",
+      "Pedro Mendes",
+      "Maniche",
+      "Deco",
+      "Carlos Alberto",
+      "Derlei"
+    ],
+    "playerIds": [
+      "ucl-porto-2004-deco",
+      "ucl-porto-2004-ricardo-carvalho",
+      "ucl-porto-2004-maniche",
+      "ucl-porto-2004-vitor-baia",
+      "ucl-porto-2004-benni-mccarthy",
+      "ucl-porto-2004-costinha",
+      "ucl-porto-2004-jorge-costa",
+      "ucl-porto-2004-derlei",
+      "ucl-porto-2004-dmitri-alenichev",
+      "ucl-porto-2004-paulo-ferreira",
+      "ucl-porto-2004-nuno-valente",
+      "ucl-porto-2004-pedro-mendes",
+      "ucl-porto-2004-carlos-alberto",
+      "ucl-porto-2004-pedro-emanuel",
+      "ucl-porto-2004-edgaras-jankauskas",
+      "ucl-porto-2004-jose-bosingwa",
+      "ucl-porto-2004-ricardo-costa",
+      "ucl-porto-2004-nuno-espirito-santo"
+    ]
+  }
+]

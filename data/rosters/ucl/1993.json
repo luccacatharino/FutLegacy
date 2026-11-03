@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Marseille",
+    "year": 1993,
+    "season": "1992/93",
+    "comp": "ucl",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1993_UEFA_Champions_League_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Fabien Barthez",
+      "Jocelyn Angloma",
+      "Éric Di Meco",
+      "Basile Boli",
+      "Franck Sauzée",
+      "Marcel Desailly",
+      "Jean-Jacques Eydelie",
+      "Alen Bokšić",
+      "Rudi Völler",
+      "Abedi Pele",
+      "Didier Deschamps"
+    ],
+    "playerIds": [
+      "ucl-marseille-1993-abedi-pele",
+      "ucl-marseille-1993-alen-boksic",
+      "ucl-marseille-1993-marcel-desailly",
+      "ucl-marseille-1993-didier-deschamps",
+      "ucl-marseille-1993-basile-boli",
+      "ucl-marseille-1993-franck-sauzee",
+      "ucl-marseille-1993-rudi-voller",
+      "ucl-marseille-1993-fabien-barthez",
+      "ucl-marseille-1993-jocelyn-angloma",
+      "ucl-marseille-1993-eric-di-meco",
+      "ucl-marseille-1993-bernard-casoni",
+      "ucl-marseille-1993-jean-marc-ferreri",
+      "ucl-marseille-1993-jean-philippe-durand",
+      "ucl-marseille-1993-pascal-olmeta",
+      "ucl-marseille-1993-jean-jacques-eydelie",
+      "ucl-marseille-1993-jean-christophe-thomas"
+    ]
+  }
+]

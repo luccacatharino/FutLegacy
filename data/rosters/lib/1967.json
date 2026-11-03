@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Racing",
+    "year": 1967,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 85,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Agustín Cejas",
+      "Oscar Martín",
+      "Roberto Perfumo",
+      "Alfio Basile",
+      "Rubén Díaz",
+      "Juan Carlos Rulli",
+      "Miguel Mori",
+      "João Cardoso",
+      "Humberto Maschio",
+      "Juan Carlos Cárdenas",
+      "Norberto Raffo"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-racing-1967-agustin-cejas",
+      "lib-racing-1967-oscar-martin",
+      "lib-racing-1967-roberto-perfumo",
+      "lib-racing-1967-alfio-basile",
+      "lib-racing-1967-ruben-diaz",
+      "lib-racing-1967-juan-carlos-rulli",
+      "lib-racing-1967-miguel-mori",
+      "lib-racing-1967-joao-cardoso",
+      "lib-racing-1967-humberto-maschio",
+      "lib-racing-1967-juan-carlos-cardenas",
+      "lib-racing-1967-norberto-raffo",
+      "lib-racing-1967-juan-jose-rodriguez",
+      "lib-racing-1967-jaime-martinoli",
+      "lib-racing-1967-fernando-parenti"
+    ]
+  }
+]

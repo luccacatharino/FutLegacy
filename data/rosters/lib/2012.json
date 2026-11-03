@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Corinthians",
+    "year": 2012,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2012_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Cássio",
+      "Alessandro",
+      "Chicão",
+      "Leandro Castán",
+      "Fábio Santos",
+      "Paulinho",
+      "Ralf",
+      "Jorge Henrique",
+      "Alex",
+      "Emerson Sheik",
+      "Danilo"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-corinthians-2012-cassio",
+      "lib-corinthians-2012-alessandro",
+      "lib-corinthians-2012-chicao",
+      "lib-corinthians-2012-leandro-castan",
+      "lib-corinthians-2012-fabio-santos",
+      "lib-corinthians-2012-paulinho",
+      "lib-corinthians-2012-ralf",
+      "lib-corinthians-2012-jorge-henrique",
+      "lib-corinthians-2012-alex",
+      "lib-corinthians-2012-emerson-sheik",
+      "lib-corinthians-2012-danilo",
+      "lib-corinthians-2012-romarinho",
+      "lib-corinthians-2012-julio-cesar",
+      "lib-corinthians-2012-marquinhos",
+      "lib-corinthians-2012-weldinho",
+      "lib-corinthians-2012-wallace",
+      "lib-corinthians-2012-douglas",
+      "lib-corinthians-2012-liedson",
+      "lib-corinthians-2012-ramon"
+    ]
+  }
+]

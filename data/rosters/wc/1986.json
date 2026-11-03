@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Argentina",
+    "year": 1986,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-argentina-1986-nery-pumpido",
+      "wc-argentina-1986-jose-luis-cuciuffo",
+      "wc-argentina-1986-jose-luis-brown",
+      "wc-argentina-1986-oscar-ruggeri",
+      "wc-argentina-1986-julio-olarticoechea",
+      "wc-argentina-1986-ricardo-giusti",
+      "wc-argentina-1986-sergio-batista",
+      "wc-argentina-1986-hector-enrique",
+      "wc-argentina-1986-jorge-burruchaga",
+      "wc-argentina-1986-jorge-valdano",
+      "wc-argentina-1986-diego-maradona"
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1986,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-alemanha-1986-harald-schumacher",
+      "wc-alemanha-1986-thomas-berthold",
+      "wc-alemanha-1986-ditmar-jakobs",
+      "wc-alemanha-1986-karlheinz-forster",
+      "wc-alemanha-1986-hans-peter-briegel",
+      "wc-alemanha-1986-lothar-matthaus",
+      "wc-alemanha-1986-andreas-brehme",
+      "wc-alemanha-1986-norbert-eder",
+      "wc-alemanha-1986-felix-magath",
+      "wc-alemanha-1986-karl-heinz-rummenigge",
+      "wc-alemanha-1986-rudi-voller"
+    ]
+  },
+  {
+    "name": "Bélgica",
+    "year": 1986,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-belgica-1986-jean-marie-pfaff",
+      "wc-belgica-1986-eric-gerets",
+      "wc-belgica-1986-georges-grun",
+      "wc-belgica-1986-michel-renquin",
+      "wc-belgica-1986-stephane-demol",
+      "wc-belgica-1986-franky-vercauteren",
+      "wc-belgica-1986-franky-van-der-elst",
+      "wc-belgica-1986-enzo-scifo",
+      "wc-belgica-1986-jan-ceulemans",
+      "wc-belgica-1986-daniel-veyt",
+      "wc-belgica-1986-nico-claesen"
+    ]
+  }
+]

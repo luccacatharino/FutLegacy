@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Ever Almeida",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 46,
+      "fin": 16,
+      "pas": 61,
+      "dri": 27,
+      "def": 23,
+      "fis": 79,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Ever Almeida",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ever_Hugo_Almeida",
+    "id": "lib-olimpia-1990-ever-almeida",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Z. Ramírez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 76,
+      "fin": 39,
+      "pas": 71,
+      "dri": 65,
+      "def": 72,
+      "fis": 69
+    },
+    "sourceName": "Juan Z. Ramírez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Zacarías_Ramírez",
+    "id": "lib-olimpia-1990-juan-z-ramirez",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Remigio Fernández",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 57,
+      "fin": 27,
+      "pas": 58,
+      "dri": 41,
+      "def": 81,
+      "fis": 81
+    },
+    "sourceName": "Remigio Fernández",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Remigio_Fernández",
+    "id": "lib-olimpia-1990-remigio-fernandez",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario C. Ramírez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 58,
+      "fin": 31,
+      "pas": 60,
+      "dri": 44,
+      "def": 84,
+      "fis": 81
+    },
+    "sourceName": "Mario C. Ramírez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mario_César_Ramírez",
+    "id": "lib-olimpia-1990-mario-c-ramirez",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Silvio Suárez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 75,
+      "fin": 39,
+      "pas": 70,
+      "dri": 70,
+      "def": 72,
+      "fis": 70
+    },
+    "sourceName": "Silvio Suárez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Silvio_Suárez",
+    "id": "lib-olimpia-1990-silvio-suarez",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Fermín Balbuena",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 81,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 66,
+      "fin": 60,
+      "pas": 82,
+      "dri": 77,
+      "def": 61,
+      "fis": 71
+    },
+    "sourceName": "Fermín Balbuena",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fermín_Balbuena",
+    "id": "lib-olimpia-1990-fermin-balbuena",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Guasch",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 69,
+      "fin": 52,
+      "pas": 79,
+      "dri": 71,
+      "def": 85,
+      "fis": 84
+    },
+    "sourceName": "Jorge Guasch",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Guasch",
+    "id": "lib-olimpia-1990-jorge-guasch",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Monzón",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 87,
+      "dri": 89,
+      "def": 39,
+      "fis": 65
+    },
+    "sourceName": "Luis Monzón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Alberto_Monzón",
+    "id": "lib-olimpia-1990-luis-monzon",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Gabriel González",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 90,
+      "fin": 81,
+      "pas": 80,
+      "dri": 88,
+      "def": 37,
+      "fis": 67
+    },
+    "sourceName": "Gabriel González",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gabriel_González_(Paraguayan_footballer)",
+    "id": "lib-olimpia-1990-gabriel-gonzalez",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Adriano Samaniego",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 79,
+      "fin": 94,
+      "pas": 66,
+      "dri": 77,
+      "def": 33,
+      "fis": 85
+    },
+    "sourceName": "Adriano Samaniego",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Adriano_Samaniego",
+    "id": "lib-olimpia-1990-adriano-samaniego",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Amarilla",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 85,
+      "fin": 97,
+      "pas": 71,
+      "dri": 81,
+      "def": 37,
+      "fis": 87
+    },
+    "sourceName": "Raúl Amarilla",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raúl_Vicente_Amarilla",
+    "id": "lib-olimpia-1990-raul-amarilla",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Cristóbal Cubilla",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 72,
+      "fin": 73,
+      "pas": 86,
+      "dri": 83,
+      "def": 34,
+      "fis": 64
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Cristóbal Cubilla",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "id": "lib-olimpia-1990-cristobal-cubilla",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Adolfo Jara",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 68,
+      "fin": 61,
+      "pas": 81,
+      "dri": 75,
+      "def": 62,
+      "fis": 70
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Adolfo Jara",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Adolfo_Jara_Heyn",
+    "id": "lib-olimpia-1990-adolfo-jara",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  },
+  {
+    "name": "Vidal Sanabria",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 71,
+      "fin": 64,
+      "pas": 84,
+      "dri": 78,
+      "def": 65,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Vidal Sanabria",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Vidal_Sanabria",
+    "id": "lib-olimpia-1990-vidal-sanabria",
+    "team": "Olimpia",
+    "year": 1990,
+    "comp": "lib"
+  }
+]

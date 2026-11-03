@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Abedi Pele",
+    "positions": [
+      "MEI",
+      "PD"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 88,
+      "fin": 92,
+      "pas": 99,
+      "dri": 95,
+      "def": 51,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-abedi-pele",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Alen Bokšić",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 87,
+      "fin": 95,
+      "pas": 74,
+      "dri": 87,
+      "def": 45,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-alen-boksic",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Marcel Desailly",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 70,
+      "fin": 45,
+      "pas": 69,
+      "dri": 59,
+      "def": 92,
+      "fis": 92
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-marcel-desailly",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Didier Deschamps",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 75,
+      "fin": 64,
+      "pas": 85,
+      "dri": 76,
+      "def": 89,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-didier-deschamps",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Basile Boli",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 66,
+      "fin": 41,
+      "pas": 70,
+      "dri": 60,
+      "def": 88,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-basile-boli",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Franck Sauzée",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 73,
+      "fin": 62,
+      "pas": 88,
+      "dri": 74,
+      "def": 87,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-franck-sauzee",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Rudi Völler",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 85,
+      "fin": 93,
+      "pas": 72,
+      "dri": 85,
+      "def": 38,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-rudi-voller",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Fabien Barthez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 44,
+      "fin": 12,
+      "pas": 62,
+      "dri": 32,
+      "def": 18,
+      "fis": 76,
+      "ref": 90,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 72,
+      "one": 85
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-fabien-barthez",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jocelyn Angloma",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 87,
+      "fin": 52,
+      "pas": 75,
+      "dri": 76,
+      "def": 79,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-jocelyn-angloma",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Éric Di Meco",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 81,
+      "fin": 51,
+      "pas": 74,
+      "dri": 75,
+      "def": 78,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-eric-di-meco",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bernard Casoni",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 59,
+      "fin": 34,
+      "pas": 63,
+      "dri": 53,
+      "def": 86,
+      "fis": 81
+    },
+    "starter": false,
+    "id": "ucl-marseille-1993-bernard-casoni",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jean-Marc Ferreri",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 75,
+      "fin": 79,
+      "pas": 86,
+      "dri": 82,
+      "def": 38,
+      "fis": 63
+    },
+    "starter": false,
+    "id": "ucl-marseille-1993-jean-marc-ferreri",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jean-Philippe Durand",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 69,
+      "fin": 67,
+      "pas": 84,
+      "dri": 79,
+      "def": 62,
+      "fis": 69
+    },
+    "starter": false,
+    "id": "ucl-marseille-1993-jean-philippe-durand",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pascal Olmeta",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 44,
+      "fin": 12,
+      "pas": 56,
+      "dri": 32,
+      "def": 18,
+      "fis": 70,
+      "ref": 84,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 66,
+      "one": 79
+    },
+    "starter": false,
+    "id": "ucl-marseille-1993-pascal-olmeta",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jean-Jacques Eydelie",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 71,
+      "fin": 64,
+      "pas": 81,
+      "dri": 76,
+      "def": 64,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-marseille-1993-jean-jacques-eydelie",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jean-Christophe Thomas",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 69,
+      "fin": 62,
+      "pas": 79,
+      "dri": 74,
+      "def": 62,
+      "fis": 69
+    },
+    "starter": false,
+    "id": "ucl-marseille-1993-jean-christophe-thomas",
+    "team": "Marseille",
+    "year": 1993,
+    "comp": "ucl"
+  }
+]

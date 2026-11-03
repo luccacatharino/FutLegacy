@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Lionel Messi",
+    "positions": [
+      "ATA",
+      "PD",
+      "MEI"
+    ],
+    "ovr": 98,
+    "attrs": {
+      "vel": 95,
+      "fin": 97,
+      "pas": 95,
+      "dri": 99,
+      "def": 33,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-lionel-messi",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Xavi",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 73,
+      "fin": 75,
+      "pas": 99,
+      "dri": 94,
+      "def": 67,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-xavi",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Andrés Iniesta",
+    "positions": [
+      "MC",
+      "MEI",
+      "ME"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 80,
+      "fin": 77,
+      "pas": 97,
+      "dri": 98,
+      "def": 61,
+      "fis": 63
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-andres-iniesta",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Dani Alves",
+    "positions": [
+      "LD",
+      "MD"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 90,
+      "fin": 66,
+      "pas": 91,
+      "dri": 85,
+      "def": 83,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-dani-alves",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "David Villa",
+    "positions": [
+      "PE",
+      "ATA",
+      "PD"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 86,
+      "fin": 95,
+      "pas": 84,
+      "dri": 89,
+      "def": 34,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-david-villa",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sergio Busquets",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 58,
+      "fin": 43,
+      "pas": 96,
+      "dri": 81,
+      "def": 90,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-sergio-busquets",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gerard Piqué",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 68,
+      "fin": 47,
+      "pas": 85,
+      "dri": 66,
+      "def": 92,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-gerard-pique",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Carles Puyol",
+    "positions": [
+      "ZAG",
+      "LD"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 74,
+      "fin": 43,
+      "pas": 77,
+      "dri": 61,
+      "def": 95,
+      "fis": 91
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2011-carles-puyol",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pedro",
+    "positions": [
+      "PD",
+      "PE",
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 89,
+      "fin": 86,
+      "pas": 82,
+      "dri": 88,
+      "def": 47,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-pedro",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Víctor Valdés",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 48,
+      "fin": 10,
+      "pas": 81,
+      "dri": 35,
+      "def": 18,
+      "fis": 74,
+      "ref": 90,
+      "han": 85,
+      "pos": 90,
+      "div": 88,
+      "kic": 86,
+      "one": 91
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-victor-valdes",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Javier Mascherano",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 72,
+      "fin": 40,
+      "pas": 85,
+      "dri": 70,
+      "def": 92,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-javier-mascherano",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Eric Abidal",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 81,
+      "fin": 34,
+      "pas": 79,
+      "dri": 66,
+      "def": 90,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-barcelona-2011-eric-abidal",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Seydou Keita",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 73,
+      "fin": 71,
+      "pas": 88,
+      "dri": 83,
+      "def": 71,
+      "fis": 73
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2011-seydou-keita",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Adriano",
+    "positions": [
+      "LE",
+      "LD"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 84,
+      "fin": 49,
+      "pas": 72,
+      "dri": 73,
+      "def": 76,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2011-adriano",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ibrahim Afellay",
+    "positions": [
+      "MEI",
+      "PD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 73,
+      "fin": 77,
+      "pas": 84,
+      "dri": 85,
+      "def": 36,
+      "fis": 61
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2011-ibrahim-afellay",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bojan",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 77,
+      "fin": 85,
+      "pas": 59,
+      "dri": 72,
+      "def": 30,
+      "fis": 76
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2011-bojan",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Thiago",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 68,
+      "fin": 66,
+      "pas": 83,
+      "dri": 73,
+      "def": 61,
+      "fis": 68
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2011-thiago",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Oier",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 72,
+    "attrs": {
+      "vel": 41,
+      "fin": 12,
+      "pas": 45,
+      "dri": 29,
+      "def": 18,
+      "fis": 62,
+      "ref": 73,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 55,
+      "one": 71
+    },
+    "starter": false,
+    "id": "ucl-barcelona-2011-oier",
+    "team": "Barcelona",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Edwin van der Sar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 40,
+      "fin": 10,
+      "pas": 75,
+      "dri": 24,
+      "def": 16,
+      "fis": 78,
+      "ref": 90,
+      "han": 90,
+      "pos": 93,
+      "div": 87,
+      "kic": 81,
+      "one": 87
+    },
+    "id": "ucl-manchester-united-2011-edwin-van-der-sar",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Fábio",
+    "positions": [
+      "LD",
+      "LE"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 86,
+      "fin": 39,
+      "pas": 69,
+      "dri": 75,
+      "def": 72,
+      "fis": 64
+    },
+    "id": "ucl-manchester-united-2011-fabio",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Rio Ferdinand",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 74,
+      "fin": 33,
+      "pas": 76,
+      "dri": 58,
+      "def": 92,
+      "fis": 84
+    },
+    "id": "ucl-manchester-united-2011-rio-ferdinand",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nemanja Vidić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 62,
+      "fin": 41,
+      "pas": 65,
+      "dri": 45,
+      "def": 95,
+      "fis": 93
+    },
+    "id": "ucl-manchester-united-2011-nemanja-vidic",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Patrice Evra",
+    "positions": [
+      "LE",
+      "ME"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 85,
+      "fin": 43,
+      "pas": 80,
+      "dri": 78,
+      "def": 85,
+      "fis": 77
+    },
+    "id": "ucl-manchester-united-2011-patrice-evra",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Michael Carrick",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 62,
+      "fin": 61,
+      "pas": 91,
+      "dri": 74,
+      "def": 83,
+      "fis": 74
+    },
+    "id": "ucl-manchester-united-2011-michael-carrick",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ryan Giggs",
+    "positions": [
+      "MC",
+      "MEI",
+      "ME"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 73,
+      "fin": 75,
+      "pas": 91,
+      "dri": 85,
+      "def": 53,
+      "fis": 67
+    },
+    "id": "ucl-manchester-united-2011-ryan-giggs",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Park Ji-sung",
+    "positions": [
+      "MC",
+      "ME",
+      "MD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 82,
+      "fin": 67,
+      "pas": 78,
+      "dri": 76,
+      "def": 72,
+      "fis": 88
+    },
+    "id": "ucl-manchester-united-2011-park-ji-sung",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Antonio Valencia",
+    "positions": [
+      "MD",
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 94,
+      "fin": 62,
+      "pas": 82,
+      "dri": 82,
+      "def": 60,
+      "fis": 80
+    },
+    "id": "ucl-manchester-united-2011-antonio-valencia",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Wayne Rooney",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 86,
+      "fin": 91,
+      "pas": 86,
+      "dri": 88,
+      "def": 56,
+      "fis": 87
+    },
+    "id": "ucl-manchester-united-2011-wayne-rooney",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  },
+  {
+    "name": "Javier Hernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 90,
+      "fin": 88,
+      "pas": 62,
+      "dri": 72,
+      "def": 27,
+      "fis": 67
+    },
+    "id": "ucl-manchester-united-2011-javier-hernandez",
+    "team": "Manchester United",
+    "year": 2011,
+    "comp": "ucl"
+  }
+]

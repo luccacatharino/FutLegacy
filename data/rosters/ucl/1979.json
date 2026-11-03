@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Nottingham Forest",
+    "year": 1979,
+    "season": "1978/79",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1979_European_Cup_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 86,
+    "startingXI": [
+      "Peter Shilton",
+      "Viv Anderson",
+      "Larry Lloyd",
+      "Kenny Burns",
+      "Frank Clark",
+      "Trevor Francis",
+      "John McGovern",
+      "Ian Bowyer",
+      "John Robertson",
+      "Garry Birtles",
+      "Tony Woodcock"
+    ],
+    "playerIds": [
+      "ucl-nottingham-forest-1979-peter-shilton",
+      "ucl-nottingham-forest-1979-john-robertson",
+      "ucl-nottingham-forest-1979-trevor-francis",
+      "ucl-nottingham-forest-1979-kenny-burns",
+      "ucl-nottingham-forest-1979-archie-gemmill",
+      "ucl-nottingham-forest-1979-garry-birtles",
+      "ucl-nottingham-forest-1979-john-mcgovern",
+      "ucl-nottingham-forest-1979-tony-woodcock",
+      "ucl-nottingham-forest-1979-viv-anderson",
+      "ucl-nottingham-forest-1979-larry-lloyd",
+      "ucl-nottingham-forest-1979-ian-bowyer",
+      "ucl-nottingham-forest-1979-martin-o-neill",
+      "ucl-nottingham-forest-1979-frank-clark",
+      "ucl-nottingham-forest-1979-john-o-hare",
+      "ucl-nottingham-forest-1979-david-needham",
+      "ucl-nottingham-forest-1979-chris-woods"
+    ]
+  }
+]

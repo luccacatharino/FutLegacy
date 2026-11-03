@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Ajax",
+    "year": 1973,
+    "season": "1972/73",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1973_European_Cup_final",
+    "selectionReason": "Início e ápice do tricampeonato de Cruyff, mais a geração invicta de 1995.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 90,
+    "startingXI": [
+      "Heinz Stuy",
+      "Wim Suurbier",
+      "Barry Hulshoff",
+      "Horst Blankenburg",
+      "Ruud Krol",
+      "Johan Neeskens",
+      "Arie Haan",
+      "Gerrie Mühren",
+      "Johnny Rep",
+      "Johan Cruyff",
+      "Piet Keizer"
+    ],
+    "playerIds": [
+      "ucl-ajax-1973-johan-cruyff",
+      "ucl-ajax-1973-johan-neeskens",
+      "ucl-ajax-1973-piet-keizer",
+      "ucl-ajax-1973-ruud-krol",
+      "ucl-ajax-1973-barry-hulshoff",
+      "ucl-ajax-1973-gerrie-muhren",
+      "ucl-ajax-1973-johnny-rep",
+      "ucl-ajax-1973-wim-suurbier",
+      "ucl-ajax-1973-arie-haan",
+      "ucl-ajax-1973-horst-blankenburg",
+      "ucl-ajax-1973-heinz-stuy",
+      "ucl-ajax-1973-sjaak-swart",
+      "ucl-ajax-1973-jan-mulder",
+      "ucl-ajax-1973-arnold-muhren",
+      "ucl-ajax-1973-sies-wever",
+      "ucl-ajax-1973-gerrie-kleton"
+    ]
+  }
+]

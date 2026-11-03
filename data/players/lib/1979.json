@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Ever Almeida",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 60,
+      "dri": 26,
+      "def": 22,
+      "fis": 78,
+      "ref": 88,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 74,
+      "one": 86
+    },
+    "sourceName": "Ever Almeida",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ever_Hugo_Almeida",
+    "id": "lib-olimpia-1979-ever-almeida",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Jiménez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 78,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 74,
+      "fin": 35,
+      "pas": 68,
+      "dri": 64,
+      "def": 72,
+      "fis": 70
+    },
+    "sourceName": "Rubén Jiménez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rubén_Jiménez?action=edit&amp;redlink=1",
+    "id": "lib-olimpia-1979-ruben-jimenez",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Alicio Solalinde",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 57,
+      "fin": 27,
+      "pas": 58,
+      "dri": 44,
+      "def": 81,
+      "fis": 81
+    },
+    "sourceName": "Alicio Solalinde",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alicio_Solalinde",
+    "id": "lib-olimpia-1979-alicio-solalinde",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel A. Piazza",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 73,
+      "fin": 37,
+      "pas": 67,
+      "dri": 70,
+      "def": 70,
+      "fis": 70
+    },
+    "sourceName": "Miguel A. Piazza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_A._Piazza?action=edit&amp;redlink=1",
+    "id": "lib-olimpia-1979-miguel-a-piazza",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Enrique Villalba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 72,
+      "fin": 84,
+      "pas": 59,
+      "dri": 71,
+      "def": 24,
+      "fis": 78
+    },
+    "sourceName": "Enrique Villalba",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Enrique_Villalba",
+    "id": "lib-olimpia-1979-enrique-villalba",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Kiese",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 66,
+      "fin": 50,
+      "pas": 80,
+      "dri": 69,
+      "def": 83,
+      "fis": 82
+    },
+    "sourceName": "Carlos Kiese",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Kiese",
+    "id": "lib-olimpia-1979-carlos-kiese",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Torres",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 80,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 68,
+      "fin": 62,
+      "pas": 83,
+      "dri": 78,
+      "def": 63,
+      "fis": 70
+    },
+    "sourceName": "Luis Torres",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Torres_(footballer,_born_1952)",
+    "id": "lib-olimpia-1979-luis-torres",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Paredes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 62,
+      "fin": 30,
+      "pas": 64,
+      "dri": 46,
+      "def": 83,
+      "fis": 86
+    },
+    "sourceName": "Roberto Paredes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Paredes",
+    "id": "lib-olimpia-1979-roberto-paredes",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Osvaldo Aquino",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 85,
+      "fin": 79,
+      "pas": 75,
+      "dri": 86,
+      "def": 34,
+      "fis": 65
+    },
+    "sourceName": "Osvaldo Aquino",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Osvaldo_Aquino",
+    "id": "lib-olimpia-1979-osvaldo-aquino",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo Talavera",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 76,
+      "fin": 76,
+      "pas": 89,
+      "dri": 87,
+      "def": 41,
+      "fis": 67
+    },
+    "sourceName": "Hugo Talavera",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hugo_Ricardo_Talavera",
+    "id": "lib-olimpia-1979-hugo-talavera",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Evaristo Isasi",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 78,
+      "pas": 79,
+      "dri": 90,
+      "def": 38,
+      "fis": 69
+    },
+    "sourceName": "Evaristo Isasi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Evaristo_Isasi",
+    "id": "lib-olimpia-1979-evaristo-isasi",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Rogelio Delgado",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 59,
+      "fin": 29,
+      "pas": 60,
+      "dri": 44,
+      "def": 80,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Rogelio Delgado",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Rogelio_Delgado",
+    "id": "lib-olimpia-1979-rogelio-delgado",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Guasch",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 66,
+      "fin": 48,
+      "pas": 79,
+      "dri": 68,
+      "def": 79,
+      "fis": 78
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Jorge Guasch",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Guasch",
+    "id": "lib-olimpia-1979-jorge-guasch",
+    "team": "Olimpia",
+    "year": 1979,
+    "comp": "lib"
+  }
+]

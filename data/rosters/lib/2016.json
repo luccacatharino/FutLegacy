@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Franco Armani",
+      "Daniel Bocanegra",
+      "Davinson Sánchez",
+      "Alexis Henríquez",
+      "Farid Díaz",
+      "Alexander Mejía",
+      "Alejandro Guerra",
+      "Orlando Berrío",
+      "Macnelly Torres",
+      "Marlos Moreno",
+      "Miguel Borja"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-atletico-nacional-2016-franco-armani",
+      "lib-atletico-nacional-2016-daniel-bocanegra",
+      "lib-atletico-nacional-2016-davinson-sanchez",
+      "lib-atletico-nacional-2016-alexis-henriquez",
+      "lib-atletico-nacional-2016-farid-diaz",
+      "lib-atletico-nacional-2016-alexander-mejia",
+      "lib-atletico-nacional-2016-alejandro-guerra",
+      "lib-atletico-nacional-2016-orlando-berrio",
+      "lib-atletico-nacional-2016-macnelly-torres",
+      "lib-atletico-nacional-2016-marlos-moreno",
+      "lib-atletico-nacional-2016-miguel-borja",
+      "lib-atletico-nacional-2016-sebastian-perez",
+      "lib-atletico-nacional-2016-diego-arias",
+      "lib-atletico-nacional-2016-cristian-bonilla",
+      "lib-atletico-nacional-2016-felipe-aguilar",
+      "lib-atletico-nacional-2016-edwin-velasco",
+      "lib-atletico-nacional-2016-andres-ibarguen",
+      "lib-atletico-nacional-2016-elkin-blanco",
+      "lib-atletico-nacional-2016-ezequiel-rescaldani",
+      "lib-atletico-nacional-2016-luis-enrique-martinez",
+      "lib-atletico-nacional-2016-francisco-najera",
+      "lib-atletico-nacional-2016-gilberto-garcia"
+    ]
+  }
+]

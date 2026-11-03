@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Gordon Cowans",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 80,
+      "fin": 78,
+      "pas": 90,
+      "dri": 85,
+      "def": 73,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-gordon-cowans",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nigel Spink",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 40,
+      "fin": 12,
+      "pas": 61,
+      "dri": 28,
+      "def": 18,
+      "fis": 79,
+      "ref": 89,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 71,
+      "one": 88
+    },
+    "starter": false,
+    "id": "ucl-aston-villa-1982-nigel-spink",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Peter Withe",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 86,
+      "fin": 94,
+      "pas": 73,
+      "dri": 86,
+      "def": 39,
+      "fis": 85
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-peter-withe",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Tony Morley",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 93,
+      "fin": 90,
+      "pas": 84,
+      "dri": 90,
+      "def": 41,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-tony-morley",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Dennis Mortimer",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 77,
+      "fin": 75,
+      "pas": 92,
+      "dri": 82,
+      "def": 70,
+      "fis": 77
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-dennis-mortimer",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gary Shaw",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 89,
+      "fin": 86,
+      "pas": 80,
+      "dri": 91,
+      "def": 42,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-gary-shaw",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jimmy Rimmer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 40,
+      "fin": 12,
+      "pas": 56,
+      "dri": 28,
+      "def": 18,
+      "fis": 74,
+      "ref": 84,
+      "han": 82,
+      "pos": 84,
+      "div": 85,
+      "kic": 66,
+      "one": 83
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-jimmy-rimmer",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Allan Evans",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 60,
+      "fin": 35,
+      "pas": 64,
+      "dri": 54,
+      "def": 87,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-allan-evans",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ken McNaught",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 63,
+      "dri": 53,
+      "def": 86,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-ken-mcnaught",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Des Bremner",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 73,
+      "fin": 66,
+      "pas": 83,
+      "dri": 78,
+      "def": 66,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-des-bremner",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Kenny Swain",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 81,
+      "fin": 51,
+      "pas": 69,
+      "dri": 70,
+      "def": 73,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-kenny-swain",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gary Williams",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 78,
+      "fin": 48,
+      "pas": 71,
+      "dri": 72,
+      "def": 70,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-aston-villa-1982-gary-williams",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Colin Gibson",
+    "positions": [
+      "LE",
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 76,
+      "fin": 46,
+      "pas": 69,
+      "dri": 65,
+      "def": 68,
+      "fis": 67
+    },
+    "starter": false,
+    "id": "ucl-aston-villa-1982-colin-gibson",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Andy Blair",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 75,
+    "attrs": {
+      "vel": 63,
+      "fin": 61,
+      "pas": 78,
+      "dri": 73,
+      "def": 61,
+      "fis": 63
+    },
+    "starter": false,
+    "id": "ucl-aston-villa-1982-andy-blair",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "David Geddis",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 75,
+    "attrs": {
+      "vel": 72,
+      "fin": 80,
+      "pas": 59,
+      "dri": 72,
+      "def": 25,
+      "fis": 71
+    },
+    "starter": false,
+    "id": "ucl-aston-villa-1982-david-geddis",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pat Heard",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 74,
+    "attrs": {
+      "vel": 66,
+      "fin": 59,
+      "pas": 76,
+      "dri": 71,
+      "def": 59,
+      "fis": 66
+    },
+    "starter": false,
+    "id": "ucl-aston-villa-1982-pat-heard",
+    "team": "Aston Villa",
+    "year": 1982,
+    "comp": "ucl"
+  }
+]

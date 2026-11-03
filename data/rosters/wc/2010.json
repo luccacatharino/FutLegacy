@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Espanha",
+    "year": 2010,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-espanha-2010-iker-casillas",
+      "wc-espanha-2010-sergio-ramos",
+      "wc-espanha-2010-gerard-pique",
+      "wc-espanha-2010-carles-puyol",
+      "wc-espanha-2010-joan-capdevila",
+      "wc-espanha-2010-sergio-busquets",
+      "wc-espanha-2010-xabi-alonso",
+      "wc-espanha-2010-xavi",
+      "wc-espanha-2010-andres-iniesta",
+      "wc-espanha-2010-pedro",
+      "wc-espanha-2010-david-villa"
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 2010,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-paises-baixos-2010-maarten-stekelenburg",
+      "wc-paises-baixos-2010-gregory-van-der-wiel",
+      "wc-paises-baixos-2010-john-heitinga",
+      "wc-paises-baixos-2010-joris-mathijsen",
+      "wc-paises-baixos-2010-giovanni-van-bronckhorst",
+      "wc-paises-baixos-2010-nigel-de-jong",
+      "wc-paises-baixos-2010-mark-van-bommel",
+      "wc-paises-baixos-2010-arjen-robben",
+      "wc-paises-baixos-2010-wesley-sneijder",
+      "wc-paises-baixos-2010-dirk-kuyt",
+      "wc-paises-baixos-2010-robin-van-persie"
+    ]
+  },
+  {
+    "name": "Gana",
+    "year": 2010,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-gana-2010-richard-kingson",
+      "wc-gana-2010-john-pantsil",
+      "wc-gana-2010-john-mensah",
+      "wc-gana-2010-isaac-vorsah",
+      "wc-gana-2010-hans-sarpei",
+      "wc-gana-2010-anthony-annan",
+      "wc-gana-2010-kevin-prince-boateng",
+      "wc-gana-2010-kwadwo-asamoah",
+      "wc-gana-2010-sulley-muntari",
+      "wc-gana-2010-andre-ayew",
+      "wc-gana-2010-asamoah-gyan"
+    ]
+  }
+]

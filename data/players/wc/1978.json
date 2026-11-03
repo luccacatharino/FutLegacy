@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Ubaldo Fillol",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 75,
+      "dri": 48,
+      "def": 27,
+      "fis": 87,
+      "ref": 98,
+      "han": 94,
+      "pos": 95,
+      "div": 96,
+      "kic": 80,
+      "one": 93
+    },
+    "id": "wc-argentina-1978-ubaldo-fillol",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Jorge Olguín",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 90,
+      "fin": 64,
+      "pas": 81,
+      "dri": 85,
+      "def": 89,
+      "fis": 81
+    },
+    "id": "wc-argentina-1978-jorge-olguin",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Luis Galván",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 73,
+      "fin": 49,
+      "pas": 73,
+      "dri": 54,
+      "def": 91,
+      "fis": 92
+    },
+    "id": "wc-argentina-1978-luis-galvan",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Daniel Passarella",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 76,
+      "fin": 59,
+      "pas": 76,
+      "dri": 64,
+      "def": 99,
+      "fis": 95
+    },
+    "id": "wc-argentina-1978-daniel-passarella",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Alberto Tarantini",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 94,
+      "fin": 68,
+      "pas": 85,
+      "dri": 89,
+      "def": 86,
+      "fis": 85
+    },
+    "id": "wc-argentina-1978-alberto-tarantini",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Osvaldo Ardiles",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 89,
+      "fin": 78,
+      "pas": 97,
+      "dri": 89,
+      "def": 75,
+      "fis": 86
+    },
+    "id": "wc-argentina-1978-osvaldo-ardiles",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Américo Gallego",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 84,
+      "fin": 67,
+      "pas": 91,
+      "dri": 80,
+      "def": 90,
+      "fis": 83
+    },
+    "id": "wc-argentina-1978-americo-gallego",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Mario Kempes",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 92,
+      "fin": 94,
+      "pas": 98,
+      "dri": 99,
+      "def": 58,
+      "fis": 81
+    },
+    "id": "wc-argentina-1978-mario-kempes",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Daniel Bertoni",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 94,
+      "fin": 92,
+      "pas": 91,
+      "dri": 95,
+      "def": 46,
+      "fis": 76
+    },
+    "id": "wc-argentina-1978-daniel-bertoni",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Leopoldo Luque",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 85,
+      "fin": 94,
+      "pas": 81,
+      "dri": 84,
+      "def": 45,
+      "fis": 86
+    },
+    "id": "wc-argentina-1978-leopoldo-luque",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Oscar Ortiz",
+    "positions": [
+      "PE",
+      "ME"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 91,
+      "fin": 89,
+      "pas": 81,
+      "dri": 92,
+      "def": 43,
+      "fis": 73
+    },
+    "id": "wc-argentina-1978-oscar-ortiz",
+    "team": "Argentina",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Jan Jongbloed",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 67,
+      "dri": 40,
+      "def": 19,
+      "fis": 79,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 70,
+      "one": 83
+    },
+    "id": "wc-paises-baixos-1978-jan-jongbloed",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Wim Jansen",
+    "positions": [
+      "LD",
+      "VOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 92,
+      "fin": 66,
+      "pas": 83,
+      "dri": 87,
+      "def": 84,
+      "fis": 83
+    },
+    "id": "wc-paises-baixos-1978-wim-jansen",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Ernie Brandts",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 70,
+      "fin": 53,
+      "pas": 70,
+      "dri": 58,
+      "def": 88,
+      "fis": 89
+    },
+    "id": "wc-paises-baixos-1978-ernie-brandts",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Ruud Krol",
+    "positions": [
+      "ZAG",
+      "LE"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 76,
+      "fin": 59,
+      "pas": 76,
+      "dri": 64,
+      "def": 94,
+      "fis": 95
+    },
+    "id": "wc-paises-baixos-1978-ruud-krol",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Jan Poortvliet",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 86,
+      "fin": 60,
+      "pas": 84,
+      "dri": 81,
+      "def": 85,
+      "fis": 77
+    },
+    "id": "wc-paises-baixos-1978-jan-poortvliet",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Johan Neeskens",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 90,
+      "fin": 79,
+      "pas": 98,
+      "dri": 90,
+      "def": 76,
+      "fis": 87
+    },
+    "id": "wc-paises-baixos-1978-johan-neeskens",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Arie Haan",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 86,
+      "fin": 82,
+      "pas": 94,
+      "dri": 93,
+      "def": 72,
+      "fis": 83
+    },
+    "id": "wc-paises-baixos-1978-arie-haan",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Willy van de Kerkhof",
+    "positions": [
+      "MC",
+      "MD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 84,
+      "fin": 80,
+      "pas": 92,
+      "dri": 91,
+      "def": 70,
+      "fis": 81
+    },
+    "id": "wc-paises-baixos-1978-willy-van-de-kerkhof",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "René van de Kerkhof",
+    "positions": [
+      "PD",
+      "MD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 91,
+      "fin": 89,
+      "pas": 88,
+      "dri": 92,
+      "def": 43,
+      "fis": 73
+    },
+    "id": "wc-paises-baixos-1978-rene-van-de-kerkhof",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Johnny Rep",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 90,
+      "fin": 92,
+      "pas": 79,
+      "dri": 82,
+      "def": 43,
+      "fis": 91
+    },
+    "id": "wc-paises-baixos-1978-johnny-rep",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  },
+  {
+    "name": "Rob Rensenbrink",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 99,
+      "fin": 93,
+      "pas": 92,
+      "dri": 96,
+      "def": 47,
+      "fis": 77
+    },
+    "id": "wc-paises-baixos-1978-rob-rensenbrink",
+    "team": "Países Baixos",
+    "year": 1978,
+    "comp": "wc"
+  }
+]

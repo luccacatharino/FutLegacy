@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Barcelona",
+    "year": 2009,
+    "season": "2008/09",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2009_UEFA_Champions_League_final",
+    "selectionReason": "Rijkaard/Ronaldinho e dois picos do jogo coletivo de Guardiola.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 90,
+    "startingXI": [
+      "Víctor Valdés",
+      "Carles Puyol",
+      "Yaya Touré",
+      "Gerard Piqué",
+      "Sylvinho",
+      "Sergio Busquets",
+      "Xavi",
+      "Andrés Iniesta",
+      "Lionel Messi",
+      "Thierry Henry",
+      "Samuel Eto'o"
+    ],
+    "playerIds": [
+      "ucl-barcelona-2009-lionel-messi",
+      "ucl-barcelona-2009-xavi",
+      "ucl-barcelona-2009-andres-iniesta",
+      "ucl-barcelona-2009-samuel-eto-o",
+      "ucl-barcelona-2009-carles-puyol",
+      "ucl-barcelona-2009-thierry-henry",
+      "ucl-barcelona-2009-gerard-pique",
+      "ucl-barcelona-2009-victor-valdes",
+      "ucl-barcelona-2009-sergio-busquets",
+      "ucl-barcelona-2009-yaya-toure",
+      "ucl-barcelona-2009-seydou-keita",
+      "ucl-barcelona-2009-ei-ur-gu-johnsen",
+      "ucl-barcelona-2009-bojan",
+      "ucl-barcelona-2009-sylvinho",
+      "ucl-barcelona-2009-martin-caceres",
+      "ucl-barcelona-2009-pedro",
+      "ucl-barcelona-2009-jose-manuel-pinto",
+      "ucl-barcelona-2009-marc-muniesa"
+    ]
+  }
+]

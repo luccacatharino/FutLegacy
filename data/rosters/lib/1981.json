@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Flamengo",
+    "year": 1981,
+    "comp": "lib",
+    "tier": 3,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1981_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "1981: Zico artilheiro e núcleo de Júnior, Leandro e Adílio; 2019: ataque e campanha decisivos de Gabriel Barbosa e Bruno Henrique com o meio de Gerson/Arrascaeta; 2022: campanha invicta, Pedro artilheiro, forte jogo coletivo e Arrascaeta. O título de 2025 é reconhecido no checklist, mas não incluído devido ao limite de três; a escolha editorial prioriza o domínio da campanha de 2022, a força ofensiva de 2019 e a geração fundadora de 1981.",
+    "startingXI": [
+      "Raul",
+      "Nei Dias",
+      "Marinho",
+      "Mozer",
+      "Júnior",
+      "Andrade",
+      "Leandro",
+      "Zico",
+      "Tita",
+      "Nunes",
+      "Adílio"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-flamengo-1981-raul",
+      "lib-flamengo-1981-nei-dias",
+      "lib-flamengo-1981-marinho",
+      "lib-flamengo-1981-mozer",
+      "lib-flamengo-1981-junior",
+      "lib-flamengo-1981-andrade",
+      "lib-flamengo-1981-leandro",
+      "lib-flamengo-1981-zico",
+      "lib-flamengo-1981-tita",
+      "lib-flamengo-1981-nunes",
+      "lib-flamengo-1981-adilio",
+      "lib-flamengo-1981-anselmo"
+    ]
+  }
+]

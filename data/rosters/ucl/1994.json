@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Milan",
+    "year": 1994,
+    "season": "1993/94",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1994_UEFA_Champions_League_final",
+    "selectionReason": "Picos de Sacchi, Capello e Ancelotti; qualidade coletiva e campanhas dominantes.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "Sebastiano Rossi",
+      "Mauro Tassotti",
+      "Filippo Galli",
+      "Paolo Maldini",
+      "Christian Panucci",
+      "Zvonimir Boban",
+      "Demetrio Albertini",
+      "Marcel Desailly",
+      "Roberto Donadoni",
+      "Dejan Savićević",
+      "Daniele Massaro"
+    ],
+    "playerIds": [
+      "ucl-milan-1994-paolo-maldini",
+      "ucl-milan-1994-dejan-savicevic",
+      "ucl-milan-1994-marcel-desailly",
+      "ucl-milan-1994-demetrio-albertini",
+      "ucl-milan-1994-roberto-donadoni",
+      "ucl-milan-1994-daniele-massaro",
+      "ucl-milan-1994-zvonimir-boban",
+      "ucl-milan-1994-mauro-tassotti",
+      "ucl-milan-1994-sebastiano-rossi",
+      "ucl-milan-1994-christian-panucci",
+      "ucl-milan-1994-filippo-galli",
+      "ucl-milan-1994-marco-simone",
+      "ucl-milan-1994-gianluigi-lentini",
+      "ucl-milan-1994-angelo-carbone",
+      "ucl-milan-1994-stefano-nava",
+      "ucl-milan-1994-mario-ielpo"
+    ]
+  }
+]

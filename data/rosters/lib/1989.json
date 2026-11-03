@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Atlético Nacional",
+    "year": 1989,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1989_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1989_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 86,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "René Higuita",
+      "León Villa",
+      "Luis Perea",
+      "Andrés Escobar",
+      "Gildardo Gómez",
+      "Leonel Álvarez",
+      "Alexis García",
+      "Luis Fajardo",
+      "Jaime Arango",
+      "Albeiro Usuriaga",
+      "Felipe Pérez"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-atletico-nacional-1989-rene-higuita",
+      "lib-atletico-nacional-1989-leon-villa",
+      "lib-atletico-nacional-1989-luis-perea",
+      "lib-atletico-nacional-1989-andres-escobar",
+      "lib-atletico-nacional-1989-gildardo-gomez",
+      "lib-atletico-nacional-1989-leonel-alvarez",
+      "lib-atletico-nacional-1989-alexis-garcia",
+      "lib-atletico-nacional-1989-luis-fajardo",
+      "lib-atletico-nacional-1989-jaime-arango",
+      "lib-atletico-nacional-1989-albeiro-usuriaga",
+      "lib-atletico-nacional-1989-felipe-perez",
+      "lib-atletico-nacional-1989-john-jairo-carmona",
+      "lib-atletico-nacional-1989-niver-arboleda",
+      "lib-atletico-nacional-1989-john-jairo-trellez"
+    ]
+  }
+]

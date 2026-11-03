@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Gerd Müller",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 84,
+      "fin": 99,
+      "pas": 77,
+      "dri": 89,
+      "def": 28,
+      "fis": 91
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-gerd-muller",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Franz Beckenbauer",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 84,
+      "fin": 75,
+      "pas": 97,
+      "dri": 92,
+      "def": 97,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-franz-beckenbauer",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sepp Maier",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 62,
+      "dri": 27,
+      "def": 18,
+      "fis": 81,
+      "ref": 90,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 72,
+      "one": 90
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-sepp-maier",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paul Breitner",
+    "positions": [
+      "LE",
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 86,
+      "fin": 81,
+      "pas": 87,
+      "dri": 85,
+      "def": 85,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-paul-breitner",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Uli Hoeneß",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 94,
+      "fin": 91,
+      "pas": 80,
+      "dri": 91,
+      "def": 42,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-uli-hoene",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Hans-Georg Schwarzenbeck",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 63,
+      "fin": 38,
+      "pas": 67,
+      "dri": 57,
+      "def": 85,
+      "fis": 85
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-hans-georg-schwarzenbeck",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Franz Roth",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 73,
+      "fin": 71,
+      "pas": 88,
+      "dri": 83,
+      "def": 66,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-franz-roth",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jupp Kapellmann",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 69,
+      "fin": 67,
+      "pas": 84,
+      "dri": 79,
+      "def": 67,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-jupp-kapellmann",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Conny Torstensson",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 84,
+      "fin": 81,
+      "pas": 75,
+      "dri": 81,
+      "def": 32,
+      "fis": 63
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-conny-torstensson",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Johnny Hansen",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 78,
+      "fin": 48,
+      "pas": 71,
+      "dri": 72,
+      "def": 75,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-johnny-hansen",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bernd Dürnberger",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 67,
+      "fin": 65,
+      "pas": 82,
+      "dri": 77,
+      "def": 65,
+      "fis": 67
+    },
+    "starter": false,
+    "id": "ucl-bayern-1974-bernd-durnberger",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  },
+  {
+    "name": "Rainer Zobel",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 71,
+      "fin": 64,
+      "pas": 81,
+      "dri": 76,
+      "def": 64,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-bayern-1974-rainer-zobel",
+    "team": "Bayern",
+    "year": 1974,
+    "comp": "ucl"
+  }
+]

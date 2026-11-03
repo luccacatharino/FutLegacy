@@ -1,0 +1,549 @@
+[
+  {
+    "name": "Franco Armani",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 50,
+      "fin": 17,
+      "pas": 66,
+      "dri": 30,
+      "def": 28,
+      "fis": 82,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Franco Armani",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Franco_Armani",
+    "id": "lib-atletico-nacional-2016-franco-armani",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel Bocanegra",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 81,
+      "fin": 45,
+      "pas": 76,
+      "dri": 75,
+      "def": 78,
+      "fis": 76
+    },
+    "sourceName": "Daniel Bocanegra",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Daniel_Bocanegra",
+    "id": "lib-atletico-nacional-2016-daniel-bocanegra",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Davinson Sánchez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 65,
+      "fin": 35,
+      "pas": 67,
+      "dri": 49,
+      "def": 89,
+      "fis": 93
+    },
+    "sourceName": "Davinson Sánchez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Davinson_Sánchez",
+    "id": "lib-atletico-nacional-2016-davinson-sanchez",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Alexis Henríquez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 62,
+      "fin": 32,
+      "pas": 63,
+      "dri": 49,
+      "def": 86,
+      "fis": 87
+    },
+    "sourceName": "Alexis Henríquez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alexis_Henríquez",
+    "id": "lib-atletico-nacional-2016-alexis-henriquez",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Farid Díaz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 82,
+      "fin": 44,
+      "pas": 72,
+      "dri": 73,
+      "def": 76,
+      "fis": 76
+    },
+    "sourceName": "Farid Díaz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Farid_Díaz",
+    "id": "lib-atletico-nacional-2016-farid-diaz",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Alexander Mejía",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 65,
+      "fin": 48,
+      "pas": 80,
+      "dri": 69,
+      "def": 81,
+      "fis": 82
+    },
+    "sourceName": "Alexander Mejía",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alexander_Mejía",
+    "id": "lib-atletico-nacional-2016-alexander-mejia",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Alejandro Guerra",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 92,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 83,
+      "fin": 83,
+      "pas": 92,
+      "dri": 95,
+      "def": 43,
+      "fis": 75
+    },
+    "sourceName": "Alejandro Guerra",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alejandro_Guerra",
+    "id": "lib-atletico-nacional-2016-alejandro-guerra",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Orlando Berrío",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 89,
+    "sourceRole": "RW",
+    "attrs": {
+      "vel": 89,
+      "fin": 80,
+      "pas": 80,
+      "dri": 94,
+      "def": 36,
+      "fis": 72
+    },
+    "sourceName": "Orlando Berrío",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Orlando_Berrío",
+    "id": "lib-atletico-nacional-2016-orlando-berrio",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Macnelly Torres",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 92,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 83,
+      "fin": 84,
+      "pas": 96,
+      "dri": 94,
+      "def": 44,
+      "fis": 72
+    },
+    "sourceName": "Macnelly Torres",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Macnelly_Torres",
+    "id": "lib-atletico-nacional-2016-macnelly-torres",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Marlos Moreno",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 89,
+    "sourceRole": "LW",
+    "attrs": {
+      "vel": 89,
+      "fin": 80,
+      "pas": 80,
+      "dri": 93,
+      "def": 36,
+      "fis": 72
+    },
+    "sourceName": "Marlos Moreno",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marlos_Moreno",
+    "id": "lib-atletico-nacional-2016-marlos-moreno",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Borja",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 87,
+      "fin": 99,
+      "pas": 74,
+      "dri": 84,
+      "def": 39,
+      "fis": 91
+    },
+    "sourceName": "Miguel Borja",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Borja",
+    "id": "lib-atletico-nacional-2016-miguel-borja",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Sebastián Pérez",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 71,
+      "fin": 54,
+      "pas": 85,
+      "dri": 72,
+      "def": 87,
+      "fis": 82
+    },
+    "sourceName": "Sebastián Pérez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Sebastián_Pérez_Cardona",
+    "id": "lib-atletico-nacional-2016-sebastian-perez",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Diego Arias",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 68,
+      "fin": 50,
+      "pas": 81,
+      "dri": 70,
+      "def": 81,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "CM",
+    "sourceName": "Diego Arias",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Diego_Arias_(Colombian_footballer)",
+    "id": "lib-atletico-nacional-2016-diego-arias",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Cristian Bonilla",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 36,
+      "fin": 10,
+      "pas": 54,
+      "dri": 21,
+      "def": 14,
+      "fis": 72,
+      "ref": 80,
+      "han": 76,
+      "pos": 78,
+      "div": 79,
+      "kic": 66,
+      "one": 78
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Cristian Bonilla",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Cristian_Bonilla",
+    "id": "lib-atletico-nacional-2016-cristian-bonilla",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Felipe Aguilar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 64,
+      "dri": 48,
+      "def": 84,
+      "fis": 85
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Felipe Aguilar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Felipe_Aguilar_(footballer)",
+    "id": "lib-atletico-nacional-2016-felipe-aguilar",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Edwin Velasco",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 75,
+      "fin": 39,
+      "pas": 70,
+      "dri": 67,
+      "def": 71,
+      "fis": 69
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Edwin Velasco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Edwin_Velasco",
+    "id": "lib-atletico-nacional-2016-edwin-velasco",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Andrés Ibargüen",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 86,
+      "fin": 78,
+      "pas": 77,
+      "dri": 86,
+      "def": 34,
+      "fis": 70
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Andrés Ibargüen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Andrés_Ibargüen_(footballer)",
+    "id": "lib-atletico-nacional-2016-andres-ibarguen",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Elkin Blanco",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 63,
+      "fin": 45,
+      "pas": 76,
+      "dri": 65,
+      "def": 76,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Elkin Blanco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Elkin_Blanco",
+    "id": "lib-atletico-nacional-2016-elkin-blanco",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Ezequiel Rescaldani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Ezequiel Rescaldani",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Ezequiel_Rescaldani",
+    "id": "lib-atletico-nacional-2016-ezequiel-rescaldani",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Enrique Martínez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 36,
+      "fin": 10,
+      "pas": 54,
+      "dri": 21,
+      "def": 14,
+      "fis": 72,
+      "ref": 80,
+      "han": 76,
+      "pos": 78,
+      "div": 79,
+      "kic": 66,
+      "one": 78
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Luis Enrique Martínez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Neco_Martínez",
+    "id": "lib-atletico-nacional-2016-luis-enrique-martinez",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Francisco Nájera",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 61,
+      "fin": 31,
+      "pas": 62,
+      "dri": 46,
+      "def": 82,
+      "fis": 83
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Francisco Nájera",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Francisco_Nájera",
+    "id": "lib-atletico-nacional-2016-francisco-najera",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  },
+  {
+    "name": "Gilberto García",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 79,
+      "fin": 43,
+      "pas": 74,
+      "dri": 70,
+      "def": 75,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Gilberto García",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gilberto_García_(footballer,_born_1987)",
+    "id": "lib-atletico-nacional-2016-gilberto-garcia",
+    "team": "Atlético Nacional",
+    "year": 2016,
+    "comp": "lib"
+  }
+]

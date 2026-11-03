@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Grêmio",
+    "year": 2017,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2017_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2017_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Possui exatamente três títulos: 1983, 1995 e 2017. Todos são obrigatórios.",
+    "startingXI": [
+      "Marcelo Grohe",
+      "Edílson",
+      "Pedro Geromel",
+      "Walter Kannemann",
+      "Bruno Cortez",
+      "Jailson",
+      "Arthur",
+      "Ramiro",
+      "Luan",
+      "Fernandinho",
+      "Lucas Barrios"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-gremio-2017-marcelo-grohe",
+      "lib-gremio-2017-edilson",
+      "lib-gremio-2017-pedro-geromel",
+      "lib-gremio-2017-walter-kannemann",
+      "lib-gremio-2017-bruno-cortez",
+      "lib-gremio-2017-jailson",
+      "lib-gremio-2017-arthur",
+      "lib-gremio-2017-ramiro",
+      "lib-gremio-2017-luan",
+      "lib-gremio-2017-fernandinho",
+      "lib-gremio-2017-lucas-barrios",
+      "lib-gremio-2017-everton",
+      "lib-gremio-2017-paulo-victor",
+      "lib-gremio-2017-leo-moura",
+      "lib-gremio-2017-bressan",
+      "lib-gremio-2017-michel",
+      "lib-gremio-2017-cicero",
+      "lib-gremio-2017-jael",
+      "lib-gremio-2017-rafael-thyere"
+    ]
+  }
+]

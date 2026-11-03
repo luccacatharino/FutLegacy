@@ -1,0 +1,52 @@
+[
+  {
+    "name": "São Paulo",
+    "year": 2005,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "Possui exatamente três títulos: 1992, 1993 e 2005. Todos são obrigatórios.",
+    "startingXI": [
+      "Rogério Ceni",
+      "Cicinho",
+      "Fabão",
+      "Diego Lugano",
+      "Alex Bruno",
+      "Júnior",
+      "Mineiro",
+      "Josué",
+      "Danilo",
+      "Luizão",
+      "Amoroso"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-sao-paulo-2005-rogerio-ceni",
+      "lib-sao-paulo-2005-cicinho",
+      "lib-sao-paulo-2005-fabao",
+      "lib-sao-paulo-2005-diego-lugano",
+      "lib-sao-paulo-2005-alex-bruno",
+      "lib-sao-paulo-2005-junior",
+      "lib-sao-paulo-2005-mineiro",
+      "lib-sao-paulo-2005-josue",
+      "lib-sao-paulo-2005-danilo",
+      "lib-sao-paulo-2005-luizao",
+      "lib-sao-paulo-2005-amoroso",
+      "lib-sao-paulo-2005-roger",
+      "lib-sao-paulo-2005-edcarlos",
+      "lib-sao-paulo-2005-fabio-santos",
+      "lib-sao-paulo-2005-ale",
+      "lib-sao-paulo-2005-renan",
+      "lib-sao-paulo-2005-souza",
+      "lib-sao-paulo-2005-diego-tardelli",
+      "lib-sao-paulo-2005-marco-antonio"
+    ]
+  }
+]

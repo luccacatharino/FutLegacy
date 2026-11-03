@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Grêmio",
+    "year": 1983,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 86,
+    "selectionReason": "Possui exatamente três títulos: 1983, 1995 e 2017. Todos são obrigatórios.",
+    "startingXI": [
+      "Mazarópi",
+      "Paulo Roberto",
+      "Baidek",
+      "Hugo De León",
+      "Casemiro",
+      "China",
+      "Osvaldo",
+      "Tita",
+      "Renato Gaúcho",
+      "Caio",
+      "Tarciso"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-gremio-1983-mazaropi",
+      "lib-gremio-1983-paulo-roberto",
+      "lib-gremio-1983-baidek",
+      "lib-gremio-1983-hugo-de-leon",
+      "lib-gremio-1983-casemiro",
+      "lib-gremio-1983-china",
+      "lib-gremio-1983-osvaldo",
+      "lib-gremio-1983-tita",
+      "lib-gremio-1983-renato-gaucho",
+      "lib-gremio-1983-caio",
+      "lib-gremio-1983-tarciso",
+      "lib-gremio-1983-cesar"
+    ]
+  }
+]

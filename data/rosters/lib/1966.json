@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Peñarol",
+    "year": 1966,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "1960 é o campeão inaugural com Spencer e Cubilla; 1966 une Mazurkiewicz, Spencer, Rocha e Joya; 1982 é o título da geração de Morena, Olivera e Diogo. São três núcleos fortes distintos, não as três conquistas mais recentes.",
+    "startingXI": [
+      "Ladislao Mazurkiewicz",
+      "Pablo Forlán",
+      "Juan Lezcano",
+      "Nelson Díaz",
+      "Omar Caetano",
+      "Néstor Gonçalves",
+      "Julio Abbadie",
+      "Pedro Rocha",
+      "Alberto Spencer",
+      "Julio César Cortés",
+      "Juan Joya"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-penarol-1966-ladislao-mazurkiewicz",
+      "lib-penarol-1966-pablo-forlan",
+      "lib-penarol-1966-juan-lezcano",
+      "lib-penarol-1966-nelson-diaz",
+      "lib-penarol-1966-omar-caetano",
+      "lib-penarol-1966-nestor-goncalves",
+      "lib-penarol-1966-julio-abbadie",
+      "lib-penarol-1966-pedro-rocha",
+      "lib-penarol-1966-alberto-spencer",
+      "lib-penarol-1966-julio-cesar-cortes",
+      "lib-penarol-1966-juan-joya",
+      "lib-penarol-1966-hector-silva",
+      "lib-penarol-1966-tabare-gonzalez"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Grêmio",
+    "year": 1995,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Possui exatamente três títulos: 1983, 1995 e 2017. Todos são obrigatórios.",
+    "startingXI": [
+      "Danrlei",
+      "Francisco Arce",
+      "Catalino Rivarola",
+      "Adílson",
+      "Roger",
+      "Dinho",
+      "Goiano",
+      "Arílson",
+      "Carlos Miguel",
+      "Paulo Nunes",
+      "Mario Jardel"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-gremio-1995-danrlei",
+      "lib-gremio-1995-francisco-arce",
+      "lib-gremio-1995-catalino-rivarola",
+      "lib-gremio-1995-adilson",
+      "lib-gremio-1995-roger",
+      "lib-gremio-1995-dinho",
+      "lib-gremio-1995-goiano",
+      "lib-gremio-1995-arilson",
+      "lib-gremio-1995-carlos-miguel",
+      "lib-gremio-1995-paulo-nunes",
+      "lib-gremio-1995-mario-jardel",
+      "lib-gremio-1995-nildo",
+      "lib-gremio-1995-alexandre-gaucho",
+      "lib-gremio-1995-luciano-dias"
+    ]
+  }
+]

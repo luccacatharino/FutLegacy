@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Franco Armani",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 50,
+      "fin": 17,
+      "pas": 66,
+      "dri": 30,
+      "def": 28,
+      "fis": 82,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Franco Armani",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Franco_Armani",
+    "id": "lib-river-plate-2018-franco-armani",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Gonzalo Montiel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 87,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 83,
+      "fin": 44,
+      "pas": 77,
+      "dri": 72,
+      "def": 81,
+      "fis": 75
+    },
+    "sourceName": "Gonzalo Montiel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gonzalo_Montiel",
+    "id": "lib-river-plate-2018-gonzalo-montiel",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Jonatan Maidana",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 65,
+      "fin": 36,
+      "pas": 66,
+      "dri": 47,
+      "def": 90,
+      "fis": 89
+    },
+    "sourceName": "Jonatan Maidana",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jonatan_Maidana",
+    "id": "lib-river-plate-2018-jonatan-maidana",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Javier Pinola",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 67,
+      "fin": 34,
+      "pas": 68,
+      "dri": 49,
+      "def": 87,
+      "fis": 90
+    },
+    "sourceName": "Javier Pinola",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Javier_Pinola",
+    "id": "lib-river-plate-2018-javier-pinola",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Milton Casco",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 86,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 81,
+      "fin": 43,
+      "pas": 76,
+      "dri": 75,
+      "def": 80,
+      "fis": 78
+    },
+    "sourceName": "Milton Casco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Milton_Casco",
+    "id": "lib-river-plate-2018-milton-casco",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Enzo Pérez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 74,
+      "fin": 66,
+      "pas": 89,
+      "dri": 86,
+      "def": 71,
+      "fis": 77
+    },
+    "sourceName": "Enzo Pérez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Enzo_Pérez",
+    "id": "lib-river-plate-2018-enzo-perez",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Leonardo Ponzio",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 69,
+      "fin": 50,
+      "pas": 83,
+      "dri": 70,
+      "def": 82,
+      "fis": 81
+    },
+    "sourceName": "Leonardo Ponzio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leonardo_Ponzio",
+    "id": "lib-river-plate-2018-leonardo-ponzio",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Ignacio Fernández",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 92,
+    "sourceRole": "RW",
+    "attrs": {
+      "vel": 87,
+      "fin": 69,
+      "pas": 88,
+      "dri": 87,
+      "def": 66,
+      "fis": 83
+    },
+    "sourceName": "Ignacio Fernández",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ignacio_Fernández_(footballer)",
+    "id": "lib-river-plate-2018-ignacio-fernandez",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Exequiel Palacios",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 76,
+      "fin": 70,
+      "pas": 87,
+      "dri": 85,
+      "def": 71,
+      "fis": 79
+    },
+    "sourceName": "Exequiel Palacios",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Exequiel_Palacios",
+    "id": "lib-river-plate-2018-exequiel-palacios",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Gonzalo Martínez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 93,
+    "sourceRole": "LW",
+    "attrs": {
+      "vel": 82,
+      "fin": 86,
+      "pas": 96,
+      "dri": 94,
+      "def": 47,
+      "fis": 76
+    },
+    "sourceName": "Gonzalo Martínez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Pity_Martínez",
+    "id": "lib-river-plate-2018-gonzalo-martinez",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Lucas Pratto",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 81,
+      "fin": 93,
+      "pas": 68,
+      "dri": 79,
+      "def": 33,
+      "fis": 85
+    },
+    "sourceName": "Lucas Pratto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Lucas_Pratto",
+    "id": "lib-river-plate-2018-lucas-pratto",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Fernando Quintero",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 78,
+      "fin": 82,
+      "pas": 92,
+      "dri": 91,
+      "def": 43,
+      "fis": 74
+    },
+    "sourceName": "Juan Fernando Quintero",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Fernando_Quintero",
+    "id": "lib-river-plate-2018-juan-fernando-quintero",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Rafael Santos Borré",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 79,
+      "fin": 94,
+      "pas": 65,
+      "dri": 77,
+      "def": 33,
+      "fis": 82
+    },
+    "sourceName": "Rafael Santos Borré",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Rafael_Santos_Borré",
+    "id": "lib-river-plate-2018-rafael-santos-borre",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Lucas Martínez Quarta",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 65,
+      "fin": 35,
+      "pas": 66,
+      "dri": 50,
+      "def": 86,
+      "fis": 87
+    },
+    "starting": false,
+    "sourceRole": "CB",
+    "sourceName": "Lucas Martínez Quarta",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Lucas_Martínez_Quarta",
+    "id": "lib-river-plate-2018-lucas-martinez-quarta",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Germán Lux",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 37,
+      "fin": 10,
+      "pas": 55,
+      "dri": 22,
+      "def": 15,
+      "fis": 73,
+      "ref": 81,
+      "han": 77,
+      "pos": 79,
+      "div": 80,
+      "kic": 67,
+      "one": 79
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Germán Lux",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Germán_Lux",
+    "id": "lib-river-plate-2018-german-lux",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Bruno Zuculini",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 65,
+      "fin": 47,
+      "pas": 78,
+      "dri": 67,
+      "def": 78,
+      "fis": 77
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Bruno Zuculini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Bruno_Zuculini",
+    "id": "lib-river-plate-2018-bruno-zuculini",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Camilo Mayada",
+    "positions": [
+      "MD",
+      "LD"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 79,
+      "fin": 63,
+      "pas": 79,
+      "dri": 77,
+      "def": 58,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Camilo Mayada",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Camilo_Mayada",
+    "id": "lib-river-plate-2018-camilo-mayada",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Rodrigo Mora",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 64,
+      "dri": 74,
+      "def": 30,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Rodrigo Mora",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Rodrigo_Mora_(footballer,_born_1987)",
+    "id": "lib-river-plate-2018-rodrigo-mora",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  },
+  {
+    "name": "Julián Álvarez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 70,
+      "fin": 80,
+      "pas": 58,
+      "dri": 68,
+      "def": 24,
+      "fis": 74
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Julián Álvarez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2018_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Julián_Álvarez_(footballer)",
+    "id": "lib-river-plate-2018-julian-alvarez",
+    "team": "River Plate",
+    "year": 2018,
+    "comp": "lib"
+  }
+]

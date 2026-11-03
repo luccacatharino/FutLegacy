@@ -1,0 +1,260 @@
+[
+  {
+    "name": "George Best",
+    "positions": [
+      "PD",
+      "PE",
+      "ATA"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 97,
+      "fin": 95,
+      "pas": 92,
+      "dri": 99,
+      "def": 30,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-george-best",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bobby Charlton",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 84,
+      "fin": 97,
+      "pas": 97,
+      "dri": 93,
+      "def": 56,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-bobby-charlton",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nobby Stiles",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 74,
+      "fin": 63,
+      "pas": 84,
+      "dri": 75,
+      "def": 88,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-nobby-stiles",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paddy Crerand",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 76,
+      "fin": 74,
+      "pas": 91,
+      "dri": 86,
+      "def": 69,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-paddy-crerand",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bill Foulkes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 65,
+      "fin": 40,
+      "pas": 69,
+      "dri": 54,
+      "def": 87,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-bill-foulkes",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Alex Stepney",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 40,
+      "fin": 12,
+      "pas": 57,
+      "dri": 28,
+      "def": 18,
+      "fis": 75,
+      "ref": 85,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 67,
+      "one": 84
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-alex-stepney",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "John Aston",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 90,
+      "fin": 87,
+      "pas": 76,
+      "dri": 87,
+      "def": 38,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-john-aston",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Tony Dunne",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 82,
+      "fin": 52,
+      "pas": 75,
+      "dri": 76,
+      "def": 79,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-tony-dunne",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Brian Kidd",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 65,
+      "dri": 78,
+      "def": 36,
+      "fis": 77
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-brian-kidd",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "David Sadler",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 61,
+      "fin": 36,
+      "pas": 65,
+      "dri": 50,
+      "def": 83,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-david-sadler",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Shay Brennan",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 84,
+      "fin": 49,
+      "pas": 72,
+      "dri": 73,
+      "def": 76,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1968-shay-brennan",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jimmy Rimmer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 40,
+      "fin": 12,
+      "pas": 48,
+      "dri": 28,
+      "def": 18,
+      "fis": 66,
+      "ref": 76,
+      "han": 74,
+      "pos": 76,
+      "div": 77,
+      "kic": 58,
+      "one": 75
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1968-jimmy-rimmer",
+    "team": "Manchester United",
+    "year": 1968,
+    "comp": "ucl"
+  }
+]

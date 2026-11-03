@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Mário Coluna",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 81,
+      "fin": 79,
+      "pas": 96,
+      "dri": 91,
+      "def": 79,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-mario-coluna",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Águas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 91,
+      "fin": 94,
+      "pas": 73,
+      "dri": 86,
+      "def": 44,
+      "fis": 90
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-jose-aguas",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "Germano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 70,
+      "fin": 45,
+      "pas": 69,
+      "dri": 59,
+      "def": 92,
+      "fis": 92
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-germano",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Augusto",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 92,
+      "fin": 89,
+      "pas": 83,
+      "dri": 89,
+      "def": 40,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-jose-augusto",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "Domiciano Cavém",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 89,
+      "fin": 86,
+      "pas": 80,
+      "dri": 91,
+      "def": 37,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-domiciano-cavem",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "Costa Pereira",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 40,
+      "fin": 12,
+      "pas": 57,
+      "dri": 28,
+      "def": 18,
+      "fis": 75,
+      "ref": 85,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 67,
+      "one": 84
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-costa-pereira",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "Santana",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 82,
+      "pas": 84,
+      "dri": 85,
+      "def": 41,
+      "fis": 66
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-santana",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ângelo Martins",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 84,
+      "fin": 49,
+      "pas": 72,
+      "dri": 73,
+      "def": 76,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-angelo-martins",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "Fernando Cruz",
+    "positions": [
+      "LE",
+      "MC"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 80,
+      "fin": 50,
+      "pas": 73,
+      "dri": 74,
+      "def": 72,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-fernando-cruz",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mário João",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 81,
+      "fin": 51,
+      "pas": 74,
+      "dri": 70,
+      "def": 73,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-mario-joao",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Neto",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 62,
+      "fin": 51,
+      "pas": 77,
+      "dri": 68,
+      "def": 81,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-benfica-1961-jose-neto",
+    "team": "Benfica",
+    "year": 1961,
+    "comp": "ucl"
+  }
+]

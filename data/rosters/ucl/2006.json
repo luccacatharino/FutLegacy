@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Barcelona",
+    "year": 2006,
+    "season": "2005/06",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2006_UEFA_Champions_League_final",
+    "selectionReason": "Rijkaard/Ronaldinho e dois picos do jogo coletivo de Guardiola.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 88,
+    "startingXI": [
+      "Víctor Valdés",
+      "Oleguer",
+      "Rafael Márquez",
+      "Carles Puyol",
+      "Giovanni van Bronckhorst",
+      "Edmílson",
+      "Deco",
+      "Mark van Bommel",
+      "Ludovic Giuly",
+      "Ronaldinho",
+      "Samuel Eto'o"
+    ],
+    "playerIds": [
+      "ucl-barcelona-2006-ronaldinho",
+      "ucl-barcelona-2006-samuel-eto-o",
+      "ucl-barcelona-2006-carles-puyol",
+      "ucl-barcelona-2006-deco",
+      "ucl-barcelona-2006-henrik-larsson",
+      "ucl-barcelona-2006-rafael-marquez",
+      "ucl-barcelona-2006-ludovic-giuly",
+      "ucl-barcelona-2006-xavi",
+      "ucl-barcelona-2006-andres-iniesta",
+      "ucl-barcelona-2006-edmilson",
+      "ucl-barcelona-2006-giovanni-van-bronckhorst",
+      "ucl-barcelona-2006-victor-valdes",
+      "ucl-barcelona-2006-mark-van-bommel",
+      "ucl-barcelona-2006-juliano-belletti",
+      "ucl-barcelona-2006-sylvinho",
+      "ucl-barcelona-2006-thiago-motta",
+      "ucl-barcelona-2006-oleguer",
+      "ucl-barcelona-2006-albert-jorquera"
+    ]
+  }
+]

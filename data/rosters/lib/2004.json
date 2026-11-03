@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Once Caldas",
+    "year": 2004,
+    "comp": "lib",
+    "tier": 0,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 84,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Juan Henao",
+      "Miguel Rojas",
+      "Samuel Vanegas",
+      "Édgar Cataño",
+      "John García",
+      "Jhon Viáfara",
+      "Rubén Velásquez",
+      "Diego Arango",
+      "Elkin Soto",
+      "Arnulfo Valentierra",
+      "Jorge Agudelo"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-once-caldas-2004-juan-henao",
+      "lib-once-caldas-2004-miguel-rojas",
+      "lib-once-caldas-2004-samuel-vanegas",
+      "lib-once-caldas-2004-edgar-catano",
+      "lib-once-caldas-2004-john-garcia",
+      "lib-once-caldas-2004-jhon-viafara",
+      "lib-once-caldas-2004-ruben-velasquez",
+      "lib-once-caldas-2004-diego-arango",
+      "lib-once-caldas-2004-elkin-soto",
+      "lib-once-caldas-2004-arnulfo-valentierra",
+      "lib-once-caldas-2004-jorge-agudelo",
+      "lib-once-caldas-2004-dayro-moreno",
+      "lib-once-caldas-2004-juan-gonzalez",
+      "lib-once-caldas-2004-jefrey-diaz",
+      "lib-once-caldas-2004-jonathan-fabbro",
+      "lib-once-caldas-2004-herly-alcazar",
+      "lib-once-caldas-2004-raul-marin",
+      "lib-once-caldas-2004-javier-araujo",
+      "lib-once-caldas-2004-wilmer-ortegon"
+    ]
+  }
+]

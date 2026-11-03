@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Mazarópi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 44,
+      "fin": 17,
+      "pas": 60,
+      "dri": 25,
+      "def": 23,
+      "fis": 79,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Mazarópi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mazarópi",
+    "id": "lib-gremio-1983-mazaropi",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Paulo Roberto",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 77,
+      "fin": 40,
+      "pas": 72,
+      "dri": 71,
+      "def": 73,
+      "fis": 74
+    },
+    "sourceName": "Paulo Roberto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Paulo_Roberto_Curtis_Costa",
+    "id": "lib-gremio-1983-paulo-roberto",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Baidek",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 57,
+      "fin": 27,
+      "pas": 58,
+      "dri": 42,
+      "def": 81,
+      "fis": 85
+    },
+    "sourceName": "Baidek",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Baidek",
+    "id": "lib-gremio-1983-baidek",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo De León",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 68,
+      "fin": 36,
+      "pas": 69,
+      "dri": 51,
+      "def": 94,
+      "fis": 91
+    },
+    "sourceName": "Hugo De León",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hugo_De_León",
+    "id": "lib-gremio-1983-hugo-de-leon",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Casemiro",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 76,
+      "fin": 37,
+      "pas": 70,
+      "dri": 70,
+      "def": 74,
+      "fis": 68
+    },
+    "sourceName": "Casemiro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Casemiro_Mior",
+    "id": "lib-gremio-1983-casemiro",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "China",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 67,
+      "fin": 48,
+      "pas": 81,
+      "dri": 70,
+      "def": 80,
+      "fis": 79
+    },
+    "sourceName": "China",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/China_(footballer,_born_1959)",
+    "id": "lib-gremio-1983-china",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Osvaldo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 70,
+      "fin": 65,
+      "pas": 86,
+      "dri": 81,
+      "def": 66,
+      "fis": 75
+    },
+    "sourceName": "Osvaldo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Osvaldo_Luiz_Vital",
+    "id": "lib-gremio-1983-osvaldo",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Tita",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 89,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 76,
+      "fin": 80,
+      "pas": 90,
+      "dri": 91,
+      "def": 41,
+      "fis": 71
+    },
+    "sourceName": "Tita",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Tita_(footballer,_born_1958)",
+    "id": "lib-gremio-1983-tita",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Renato Gaúcho",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 93,
+    "sourceRole": "RW",
+    "attrs": {
+      "vel": 94,
+      "fin": 88,
+      "pas": 84,
+      "dri": 95,
+      "def": 43,
+      "fis": 74
+    },
+    "sourceName": "Renato Gaúcho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Renato_Portaluppi",
+    "id": "lib-gremio-1983-renato-gaucho",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Caio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 76,
+      "fin": 88,
+      "pas": 63,
+      "dri": 72,
+      "def": 28,
+      "fis": 80
+    },
+    "sourceName": "Caio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luiz_Carlos_Tavares_Franco",
+    "id": "lib-gremio-1983-caio",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Tarciso",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 87,
+    "sourceRole": "LW",
+    "attrs": {
+      "vel": 87,
+      "fin": 78,
+      "pas": 77,
+      "dri": 88,
+      "def": 34,
+      "fis": 68
+    },
+    "sourceName": "Tarciso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Tarciso_de_Souza",
+    "id": "lib-gremio-1983-tarciso",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "César",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 74,
+      "fin": 84,
+      "pas": 62,
+      "dri": 72,
+      "def": 28,
+      "fis": 78
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "César",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/César_(footballer,_born_1956)",
+    "id": "lib-gremio-1983-cesar",
+    "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  }
+]

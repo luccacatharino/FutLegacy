@@ -1,0 +1,67 @@
+# Copa do Mundo — fontes por elenco
+
+Recortes de jogadores reais das campanhas. Não são todos os inscritos. OVR individuais são editoriais; atributos da maioria das seleções são estimativas posicionais derivadas de OVR e função e precisam de revisão individual mais fina. 2026 não está incorporada.
+
+- Uruguai 1950: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)).
+- Brasil 1950: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)).
+- Alemanha 1954: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final).
+- Hungria 1954: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final).
+- Brasil 1958: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final).
+- Suécia 1958: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final).
+- Brasil 1962: 12 atletas. [Fonte](https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_final).
+- Tchecoslováquia 1962: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_final).
+- Inglaterra 1966: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final).
+- Alemanha 1966: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final).
+- Brasil 1970: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final).
+- Itália 1970: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final).
+- Alemanha 1974: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final).
+- Países Baixos 1974: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final).
+- Argentina 1978: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final).
+- Países Baixos 1978: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final).
+- Itália 1982: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final).
+- Alemanha 1982: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final).
+- Argentina 1986: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final).
+- Alemanha 1986: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final).
+- Alemanha 1990: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final).
+- Argentina 1990: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final).
+- Brasil 1994: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final).
+- Itália 1994: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final).
+- França 1998: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final).
+- Brasil 1998: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final).
+- Brasil 2002: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final).
+- Alemanha 2002: 12 atletas. [Fonte](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final).
+- Itália 2006: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final).
+- França 2006: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final).
+- Espanha 2010: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final).
+- Países Baixos 2010: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final).
+- Alemanha 2014: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final).
+- Argentina 2014: 12 atletas. [Fonte](https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final).
+- França 2018: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final).
+- Croácia 2018: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final).
+- Argentina 2022: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final).
+- França 2022: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final).
+- Portugal 2006: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads#Portugal).
+- Brasil 1982: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_squads#Brazil).
+- Países Baixos 1998: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_squads#Netherlands).
+- Uruguai 2022: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads#Uruguay).
+- Chile 1962: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_squads).
+- Portugal 1966: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_squads).
+- Polônia 1974: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_squads).
+- Bélgica 1986: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_squads).
+- Camarões 1990: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads).
+- Bulgária 1994: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads).
+- Suécia 1994: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads).
+- Coreia do Sul 2002: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads).
+- Turquia 2002: 12 atletas. [Fonte](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads).
+- Senegal 2002: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads).
+- Costa Rica 2014: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads).
+- Marrocos 2022: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads).
+- Japão 2022: 12 atletas. [Fonte](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads).
+- Gana 2010: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads).
+- Colômbia 2014: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads).
+- Peru 1970: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_squads).
+- Argélia 2014: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads).
+- Irlanda 1990: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads).
+- Estados Unidos 2002: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads).
+- Romênia 1994: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads).
+- Croácia 2022: 11 atletas. [Fonte](docs/FONTES.md).

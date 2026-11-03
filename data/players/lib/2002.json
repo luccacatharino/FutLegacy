@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Ricardo Tavarelli",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 15,
+      "pas": 62,
+      "dri": 25,
+      "def": 21,
+      "fis": 81,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Ricardo Tavarelli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ricardo_Tavarelli",
+    "id": "lib-olimpia-2002-ricardo-tavarelli",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Isasi",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 71,
+      "def": 75,
+      "fis": 72
+    },
+    "sourceName": "Néstor Isasi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Isasi",
+    "id": "lib-olimpia-2002-nestor-isasi",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelson Zelaya",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 59,
+      "fin": 26,
+      "pas": 61,
+      "dri": 44,
+      "def": 84,
+      "fis": 84
+    },
+    "sourceName": "Nelson Zelaya",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nelson_Zelaya",
+    "id": "lib-olimpia-2002-nelson-zelaya",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Henrique da Silva",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 81,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 67,
+      "def": 74,
+      "fis": 73
+    },
+    "sourceName": "Henrique da Silva",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Henrique_da_Silva_(footballer)",
+    "id": "lib-olimpia-2002-henrique-da-silva",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio Cáceres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 62,
+      "fin": 32,
+      "pas": 63,
+      "dri": 49,
+      "def": 86,
+      "fis": 89
+    },
+    "sourceName": "Julio Cáceres",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_César_Cáceres",
+    "id": "lib-olimpia-2002-julio-caceres",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio Enciso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 66,
+      "fin": 49,
+      "pas": 80,
+      "dri": 66,
+      "def": 82,
+      "fis": 78
+    },
+    "sourceName": "Julio Enciso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_César_Enciso_(footballer,_born_1974)",
+    "id": "lib-olimpia-2002-julio-enciso",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Gastón Córdoba",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 68,
+      "fin": 65,
+      "pas": 84,
+      "dri": 82,
+      "def": 65,
+      "fis": 74
+    },
+    "sourceName": "Gastón Córdoba",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gastón_Córdoba",
+    "id": "lib-olimpia-2002-gaston-cordoba",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Franco",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 82,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 67,
+      "fin": 61,
+      "pas": 83,
+      "dri": 76,
+      "def": 62,
+      "fis": 70
+    },
+    "sourceName": "Juan Carlos Franco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Carlos_Franco",
+    "id": "lib-olimpia-2002-juan-carlos-franco",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Sergio Órteman",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 76,
+      "fin": 82,
+      "pas": 90,
+      "dri": 90,
+      "def": 42,
+      "fis": 68
+    },
+    "sourceName": "Sergio Órteman",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Sergio_Órteman",
+    "id": "lib-olimpia-2002-sergio-orteman",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Richard Báez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 75,
+      "fin": 87,
+      "pas": 62,
+      "dri": 75,
+      "def": 27,
+      "fis": 82
+    },
+    "sourceName": "Richard Báez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Richard_Báez",
+    "id": "lib-olimpia-2002-richard-baez",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Benítez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 77,
+      "fin": 89,
+      "pas": 64,
+      "dri": 74,
+      "def": 29,
+      "fis": 79
+    },
+    "sourceName": "Miguel Benítez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Ángel_Benítez_Pavón",
+    "id": "lib-olimpia-2002-miguel-benitez",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Danilo Aceval",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 36,
+      "fin": 10,
+      "pas": 54,
+      "dri": 21,
+      "def": 14,
+      "fis": 72,
+      "ref": 80,
+      "han": 76,
+      "pos": 78,
+      "div": 79,
+      "kic": 66,
+      "one": 78
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Danilo Aceval",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Danilo_Aceval",
+    "id": "lib-olimpia-2002-danilo-aceval",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Mauro Caballero",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 64,
+      "dri": 74,
+      "def": 30,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Mauro Caballero",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Mauro_Caballero_(footballer,_born_1972)",
+    "id": "lib-olimpia-2002-mauro-caballero",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Virginio Cáceres",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 68,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Virginio Cáceres",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Virginio_Cáceres",
+    "id": "lib-olimpia-2002-virginio-caceres",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Francisco Esteche",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 67,
+      "fin": 60,
+      "pas": 80,
+      "dri": 74,
+      "def": 61,
+      "fis": 69
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Francisco Esteche",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Francisco_Esteche",
+    "id": "lib-olimpia-2002-francisco-esteche",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Estigarribia",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 67,
+      "fin": 60,
+      "pas": 80,
+      "dri": 74,
+      "def": 61,
+      "fis": 69
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Carlos Estigarribia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Estigarribia",
+    "id": "lib-olimpia-2002-carlos-estigarribia",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Hernán López",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 71,
+      "fin": 81,
+      "pas": 59,
+      "dri": 69,
+      "def": 25,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Hernán López",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Hernán_Rodrigo_López",
+    "id": "lib-olimpia-2002-hernan-lopez",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Pedro Benítez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 61,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Pedro Benítez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Pedro_Benítez_(footballer,_born_1981)",
+    "id": "lib-olimpia-2002-pedro-benitez",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Victor Quintana",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 66,
+      "fin": 48,
+      "pas": 79,
+      "dri": 68,
+      "def": 79,
+      "fis": 78
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Victor Quintana",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2002_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Victor_Quintana",
+    "id": "lib-olimpia-2002-victor-quintana",
+    "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  }
+]

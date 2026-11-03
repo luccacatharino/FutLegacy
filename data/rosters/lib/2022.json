@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Flamengo",
+    "year": 2022,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2022_Copa_Libertadores_final",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2022_Copa_Libertadores_final"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "1981: Zico artilheiro e núcleo de Júnior, Leandro e Adílio; 2019: ataque e campanha decisivos de Gabriel Barbosa e Bruno Henrique com o meio de Gerson/Arrascaeta; 2022: campanha invicta, Pedro artilheiro, forte jogo coletivo e Arrascaeta. O título de 2025 é reconhecido no checklist, mas não incluído devido ao limite de três; a escolha editorial prioriza o domínio da campanha de 2022, a força ofensiva de 2019 e a geração fundadora de 1981.",
+    "startingXI": [
+      "Santos",
+      "Rodinei",
+      "David Luiz",
+      "Léo Pereira",
+      "Filipe Luís",
+      "Thiago Maia",
+      "Everton Ribeiro",
+      "João Gomes",
+      "Arrascaeta",
+      "Gabriel Barbosa",
+      "Pedro"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-flamengo-2022-santos",
+      "lib-flamengo-2022-rodinei",
+      "lib-flamengo-2022-david-luiz",
+      "lib-flamengo-2022-leo-pereira",
+      "lib-flamengo-2022-filipe-luis",
+      "lib-flamengo-2022-thiago-maia",
+      "lib-flamengo-2022-everton-ribeiro",
+      "lib-flamengo-2022-joao-gomes",
+      "lib-flamengo-2022-arrascaeta",
+      "lib-flamengo-2022-gabriel-barbosa",
+      "lib-flamengo-2022-pedro",
+      "lib-flamengo-2022-ayrton-lucas",
+      "lib-flamengo-2022-diego-alves",
+      "lib-flamengo-2022-fabricio-bruno",
+      "lib-flamengo-2022-pablo",
+      "lib-flamengo-2022-matheuzinho",
+      "lib-flamengo-2022-erick-pulgar",
+      "lib-flamengo-2022-arturo-vidal",
+      "lib-flamengo-2022-diego",
+      "lib-flamengo-2022-victor-hugo",
+      "lib-flamengo-2022-matheus-franca",
+      "lib-flamengo-2022-everton",
+      "lib-flamengo-2022-marinho"
+    ]
+  },
+  {
+    "name": "Athletico-PR",
+    "year": 2022,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "docs/FONTES.md",
+    "scope": "Recorte XI da campanha anterior, preservado.",
+    "playerIds": [
+      "lib-athletico-pr-2022-bento",
+      "lib-athletico-pr-2022-khellven",
+      "lib-athletico-pr-2022-pedro-henrique",
+      "lib-athletico-pr-2022-thiago-heleno",
+      "lib-athletico-pr-2022-abner",
+      "lib-athletico-pr-2022-fernandinho",
+      "lib-athletico-pr-2022-alex-santana",
+      "lib-athletico-pr-2022-hugo-moura",
+      "lib-athletico-pr-2022-vitinho",
+      "lib-athletico-pr-2022-vitor-roque",
+      "lib-athletico-pr-2022-vitor-bueno"
+    ]
+  }
+]

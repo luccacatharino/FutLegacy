@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Paris Saint-Germain",
+    "year": 2025,
+    "season": "2024/25",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2025_UEFA_Champions_League_final",
+    "selectionReason": "Ambos os títulos concluídos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 93,
+    "startingXI": [
+      "Gianluigi Donnarumma",
+      "Achraf Hakimi",
+      "Marquinhos",
+      "Willian Pacho",
+      "Nuno Mendes",
+      "João Neves",
+      "Vitinha",
+      "Fabián Ruiz",
+      "Désiré Doué",
+      "Ousmane Dembélé",
+      "Khvicha Kvaratskhelia"
+    ],
+    "playerIds": [
+      "ucl-paris-saint-germain-2025-ousmane-dembele",
+      "ucl-paris-saint-germain-2025-gianluigi-donnarumma",
+      "ucl-paris-saint-germain-2025-nuno-mendes",
+      "ucl-paris-saint-germain-2025-vitinha",
+      "ucl-paris-saint-germain-2025-achraf-hakimi",
+      "ucl-paris-saint-germain-2025-khvicha-kvaratskhelia",
+      "ucl-paris-saint-germain-2025-desire-doue",
+      "ucl-paris-saint-germain-2025-joao-neves",
+      "ucl-paris-saint-germain-2025-fabian-ruiz",
+      "ucl-paris-saint-germain-2025-marquinhos",
+      "ucl-paris-saint-germain-2025-bradley-barcola",
+      "ucl-paris-saint-germain-2025-willian-pacho",
+      "ucl-paris-saint-germain-2025-warren-zaire-emery",
+      "ucl-paris-saint-germain-2025-goncalo-ramos",
+      "ucl-paris-saint-germain-2025-lee-kang-in",
+      "ucl-paris-saint-germain-2025-lucas-hernandez",
+      "ucl-paris-saint-germain-2025-matvey-safonov",
+      "ucl-paris-saint-germain-2025-lucas-beraldo",
+      "ucl-paris-saint-germain-2025-senny-mayulu",
+      "ucl-paris-saint-germain-2025-presnel-kimpembe",
+      "ucl-paris-saint-germain-2025-ibrahim-mbaye",
+      "ucl-paris-saint-germain-2025-arnau-tenas"
+    ]
+  }
+]

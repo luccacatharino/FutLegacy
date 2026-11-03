@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Real Madrid",
+    "year": 2017,
+    "season": "2016/17",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2017_UEFA_Champions_League_final",
+    "selectionReason": "Três picos distintos: ataque de Di Stéfano/Puskás, título de Zidane e domínio de 2017.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 91,
+    "startingXI": [
+      "Keylor Navas",
+      "Dani Carvajal",
+      "Sergio Ramos",
+      "Raphaël Varane",
+      "Marcelo",
+      "Casemiro",
+      "Toni Kroos",
+      "Luka Modrić",
+      "Isco",
+      "Karim Benzema",
+      "Cristiano Ronaldo"
+    ],
+    "playerIds": [
+      "ucl-real-madrid-2017-cristiano-ronaldo",
+      "ucl-real-madrid-2017-luka-modric",
+      "ucl-real-madrid-2017-toni-kroos",
+      "ucl-real-madrid-2017-marcelo",
+      "ucl-real-madrid-2017-sergio-ramos",
+      "ucl-real-madrid-2017-casemiro",
+      "ucl-real-madrid-2017-isco",
+      "ucl-real-madrid-2017-dani-carvajal",
+      "ucl-real-madrid-2017-gareth-bale",
+      "ucl-real-madrid-2017-karim-benzema",
+      "ucl-real-madrid-2017-keylor-navas",
+      "ucl-real-madrid-2017-raphael-varane",
+      "ucl-real-madrid-2017-marco-asensio",
+      "ucl-real-madrid-2017-alvaro-morata",
+      "ucl-real-madrid-2017-mateo-kovacic",
+      "ucl-real-madrid-2017-nacho",
+      "ucl-real-madrid-2017-danilo",
+      "ucl-real-madrid-2017-kiko-casilla"
+    ]
+  }
+]

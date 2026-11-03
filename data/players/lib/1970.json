@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Néstor Errea",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 44,
+      "fin": 12,
+      "pas": 55,
+      "dri": 24,
+      "def": 18,
+      "fis": 78,
+      "ref": 86,
+      "han": 82,
+      "pos": 84,
+      "div": 85,
+      "kic": 72,
+      "one": 84
+    },
+    "sourceName": "Néstor Errea",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Errea",
+    "id": "lib-estudiantes-1970-nestor-errea",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Pagnanini",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 77,
+      "fin": 40,
+      "pas": 71,
+      "dri": 72,
+      "def": 73,
+      "fis": 75
+    },
+    "sourceName": "Rubén Pagnanini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rubén_Pagnanini",
+    "id": "lib-estudiantes-1970-ruben-pagnanini",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo Spadaro",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 81,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 77,
+      "fin": 39,
+      "pas": 72,
+      "dri": 71,
+      "def": 71,
+      "fis": 69
+    },
+    "sourceName": "Hugo Spadaro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-estudiantes-1970-hugo-spadaro",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Togneri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 63,
+      "fin": 31,
+      "pas": 64,
+      "dri": 46,
+      "def": 84,
+      "fis": 84
+    },
+    "sourceName": "Néstor Togneri",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Togneri",
+    "id": "lib-estudiantes-1970-nestor-togneri",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Pachamé",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 65,
+      "fin": 48,
+      "pas": 80,
+      "dri": 71,
+      "def": 81,
+      "fis": 84
+    },
+    "sourceName": "Carlos Pachamé",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Pachamé",
+    "id": "lib-estudiantes-1970-carlos-pachame",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Solari",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 69,
+      "fin": 63,
+      "pas": 84,
+      "dri": 81,
+      "def": 64,
+      "fis": 75
+    },
+    "sourceName": "Jorge Solari",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Solari",
+    "id": "lib-estudiantes-1970-jorge-solari",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Bilardo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 67,
+      "pas": 85,
+      "dri": 79,
+      "def": 67,
+      "fis": 73
+    },
+    "sourceName": "Carlos Bilardo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Bilardo",
+    "id": "lib-estudiantes-1970-carlos-bilardo",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Echecopar",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 82,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 86,
+      "fin": 77,
+      "pas": 76,
+      "dri": 84,
+      "def": 33,
+      "fis": 65
+    },
+    "sourceName": "Juan Echecopar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-estudiantes-1970-juan-echecopar",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcos Conigliaro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 77,
+      "fin": 89,
+      "pas": 64,
+      "dri": 74,
+      "def": 29,
+      "fis": 81
+    },
+    "sourceName": "Marcos Conigliaro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Conigliaro",
+    "id": "lib-estudiantes-1970-marcos-conigliaro",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo Flores",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 84,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 87,
+      "fin": 75,
+      "pas": 77,
+      "dri": 89,
+      "def": 35,
+      "fis": 64
+    },
+    "sourceName": "Eduardo Flores",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Eduardo_Flores",
+    "id": "lib-estudiantes-1970-eduardo-flores",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Ramón Verón",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 90,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 77,
+      "fin": 82,
+      "pas": 90,
+      "dri": 92,
+      "def": 42,
+      "fis": 73
+    },
+    "sourceName": "Juan Ramón Verón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Ramón_Verón",
+    "id": "lib-estudiantes-1970-juan-ramon-veron",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Christian Rudzki",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 69,
+      "fin": 62,
+      "pas": 82,
+      "dri": 76,
+      "def": 63,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Christian Rudzki",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Christian_Rudzki",
+    "id": "lib-estudiantes-1970-christian-rudzki",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "José Hugo Medina",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "José Hugo Medina",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/José_Hugo_Medina",
+    "id": "lib-estudiantes-1970-jose-hugo-medina",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  },
+  {
+    "name": "Camilo A. Aguilar",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 69,
+      "fin": 79,
+      "pas": 57,
+      "dri": 67,
+      "def": 23,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Camilo A. Aguilar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1970_Copa_Libertadores_finals",
+    "id": "lib-estudiantes-1970-camilo-a-aguilar",
+    "team": "Estudiantes",
+    "year": 1970,
+    "comp": "lib"
+  }
+]

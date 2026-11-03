@@ -1,0 +1,382 @@
+[
+  {
+    "name": "David Beckham",
+    "positions": [
+      "MD",
+      "MC"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 79,
+      "fin": 85,
+      "pas": 99,
+      "dri": 85,
+      "def": 66,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-david-beckham",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ryan Giggs",
+    "positions": [
+      "PE",
+      "ME",
+      "MD"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 97,
+      "fin": 85,
+      "pas": 91,
+      "dri": 97,
+      "def": 44,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-ryan-giggs",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Dwight Yorke",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 91,
+      "fin": 99,
+      "pas": 73,
+      "dri": 86,
+      "def": 44,
+      "fis": 90
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-dwight-yorke",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jaap Stam",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 81,
+      "fin": 44,
+      "pas": 73,
+      "dri": 61,
+      "def": 98,
+      "fis": 99
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-jaap-stam",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Peter Schmeichel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 67,
+      "dri": 31,
+      "def": 18,
+      "fis": 82,
+      "ref": 95,
+      "han": 90,
+      "pos": 92,
+      "div": 93,
+      "kic": 77,
+      "one": 91
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-peter-schmeichel",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Andy Cole",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 90,
+      "fin": 93,
+      "pas": 72,
+      "dri": 85,
+      "def": 43,
+      "fis": 89
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-andy-cole",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Denis Irwin",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 89,
+      "fin": 59,
+      "pas": 77,
+      "dri": 78,
+      "def": 81,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-denis-irwin",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ole Gunnar Solskjær",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 85,
+      "fin": 93,
+      "pas": 72,
+      "dri": 85,
+      "def": 38,
+      "fis": 84
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1999-ole-gunnar-solskj-r",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gary Neville",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 84,
+      "fin": 54,
+      "pas": 77,
+      "dri": 78,
+      "def": 81,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-gary-neville",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ronny Johnsen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 64,
+      "fin": 39,
+      "pas": 68,
+      "dri": 58,
+      "def": 86,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-ronny-johnsen",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Teddy Sheringham",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 82,
+      "fin": 90,
+      "pas": 69,
+      "dri": 82,
+      "def": 40,
+      "fis": 81
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1999-teddy-sheringham",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nicky Butt",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 73,
+      "fin": 71,
+      "pas": 88,
+      "dri": 83,
+      "def": 66,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-nicky-butt",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jesper Blomqvist",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 83,
+      "fin": 73,
+      "pas": 79,
+      "dri": 79,
+      "def": 51,
+      "fis": 66
+    },
+    "starter": true,
+    "id": "ucl-manchester-united-1999-jesper-blomqvist",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Phil Neville",
+    "positions": [
+      "LD",
+      "LE",
+      "VOL"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 81,
+      "fin": 46,
+      "pas": 69,
+      "dri": 70,
+      "def": 73,
+      "fis": 72
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1999-phil-neville",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "David May",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 57,
+      "fin": 32,
+      "pas": 56,
+      "dri": 46,
+      "def": 79,
+      "fis": 79
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1999-david-may",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Raimond van der Gouw",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 52,
+      "dri": 31,
+      "def": 18,
+      "fis": 67,
+      "ref": 80,
+      "han": 75,
+      "pos": 77,
+      "div": 78,
+      "kic": 62,
+      "one": 76
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1999-raimond-van-der-gouw",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Wes Brown",
+    "positions": [
+      "ZAG",
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 53,
+      "fin": 28,
+      "pas": 57,
+      "dri": 47,
+      "def": 80,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1999-wes-brown",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jonathan Greening",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 73,
+    "attrs": {
+      "vel": 62,
+      "fin": 60,
+      "pas": 77,
+      "dri": 72,
+      "def": 55,
+      "fis": 62
+    },
+    "starter": false,
+    "id": "ucl-manchester-united-1999-jonathan-greening",
+    "team": "Manchester United",
+    "year": 1999,
+    "comp": "ucl"
+  }
+]

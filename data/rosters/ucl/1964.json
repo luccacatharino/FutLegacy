@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Inter",
+    "year": 1964,
+    "season": "1963/64",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1964_European_Cup_final",
+    "selectionReason": "Todos os três títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "Giuliano Sarti",
+      "Tarcisio Burgnich",
+      "Giacinto Facchetti",
+      "Carlo Tagnin",
+      "Aristide Guarneri",
+      "Armando Picchi",
+      "Jair da Costa",
+      "Sandro Mazzola",
+      "Aurelio Milani",
+      "Luis Suárez",
+      "Mario Corso"
+    ],
+    "playerIds": [
+      "ucl-inter-1964-luis-suarez",
+      "ucl-inter-1964-giacinto-facchetti",
+      "ucl-inter-1964-sandro-mazzola",
+      "ucl-inter-1964-armando-picchi",
+      "ucl-inter-1964-mario-corso",
+      "ucl-inter-1964-giuliano-sarti",
+      "ucl-inter-1964-jair-da-costa",
+      "ucl-inter-1964-tarcisio-burgnich",
+      "ucl-inter-1964-aristide-guarneri",
+      "ucl-inter-1964-aurelio-milani",
+      "ucl-inter-1964-carlo-tagnin"
+    ]
+  }
+]

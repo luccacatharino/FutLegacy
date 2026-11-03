@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Sebastián Torrico",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 17,
+      "pas": 63,
+      "dri": 25,
+      "def": 24,
+      "fis": 84,
+      "ref": 91,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 77,
+      "one": 89
+    },
+    "sourceName": "Sebastián Torrico",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Sebastián_Torrico",
+    "id": "lib-san-lorenzo-2014-sebastian-torrico",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio Buffarini",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 81,
+      "fin": 45,
+      "pas": 75,
+      "dri": 71,
+      "def": 78,
+      "fis": 75
+    },
+    "sourceName": "Julio Buffarini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_Buffarini",
+    "id": "lib-san-lorenzo-2014-julio-buffarini",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Fabricio Fontanini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 56,
+      "fin": 26,
+      "pas": 57,
+      "dri": 39,
+      "def": 80,
+      "fis": 80
+    },
+    "sourceName": "Fabricio Fontanini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fabricio_Fontanini",
+    "id": "lib-san-lorenzo-2014-fabricio-fontanini",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Santiago Gentiletti",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 63,
+      "fin": 36,
+      "pas": 65,
+      "dri": 49,
+      "def": 89,
+      "fis": 89
+    },
+    "sourceName": "Santiago Gentiletti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Santiago_Gentiletti",
+    "id": "lib-san-lorenzo-2014-santiago-gentiletti",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Emmanuel Más",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 80,
+      "fin": 41,
+      "pas": 75,
+      "dri": 74,
+      "def": 78,
+      "fis": 76
+    },
+    "sourceName": "Emmanuel Más",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Emmanuel_Más",
+    "id": "lib-san-lorenzo-2014-emmanuel-mas",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Villalba",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 87,
+      "fin": 78,
+      "pas": 77,
+      "dri": 92,
+      "def": 34,
+      "fis": 71
+    },
+    "sourceName": "Héctor Villalba",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Héctor_Villalba",
+    "id": "lib-san-lorenzo-2014-hector-villalba",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Mercier",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 67,
+      "fin": 51,
+      "pas": 81,
+      "dri": 70,
+      "def": 84,
+      "fis": 83
+    },
+    "sourceName": "Juan Mercier",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Ignacio_Mercier",
+    "id": "lib-san-lorenzo-2014-juan-mercier",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Ortigoza",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 91,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 77,
+      "fin": 72,
+      "pas": 92,
+      "dri": 86,
+      "def": 73,
+      "fis": 81
+    },
+    "sourceName": "Néstor Ortigoza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Ortigoza",
+    "id": "lib-san-lorenzo-2014-nestor-ortigoza",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Ignacio Piatti",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 91,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 78,
+      "fin": 84,
+      "pas": 91,
+      "dri": 95,
+      "def": 44,
+      "fis": 70
+    },
+    "sourceName": "Ignacio Piatti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ignacio_Piatti",
+    "id": "lib-san-lorenzo-2014-ignacio-piatti",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Leandro Romagnoli",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 89,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 79,
+      "fin": 82,
+      "pas": 93,
+      "dri": 91,
+      "def": 43,
+      "fis": 71
+    },
+    "sourceName": "Leandro Romagnoli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leandro_Romagnoli",
+    "id": "lib-san-lorenzo-2014-leandro-romagnoli",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Mauro Matos",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 78,
+      "fin": 90,
+      "pas": 65,
+      "dri": 78,
+      "def": 30,
+      "fis": 84
+    },
+    "sourceName": "Mauro Matos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mauro_Matos",
+    "id": "lib-san-lorenzo-2014-mauro-matos",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Walter Kannemann",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 61,
+      "fin": 32,
+      "pas": 62,
+      "dri": 47,
+      "def": 86,
+      "fis": 83
+    },
+    "sourceName": "Walter Kannemann",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Walter_Kannemann",
+    "id": "lib-san-lorenzo-2014-walter-kannemann",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Cristian Álvarez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 37,
+      "fin": 10,
+      "pas": 55,
+      "dri": 22,
+      "def": 15,
+      "fis": 73,
+      "ref": 81,
+      "han": 77,
+      "pos": 79,
+      "div": 80,
+      "kic": 67,
+      "one": 79
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Cristian Álvarez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Cristian_Darío_Álvarez",
+    "id": "lib-san-lorenzo-2014-cristian-alvarez",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Gonzalo Prósperi",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 68,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Gonzalo Prósperi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gonzalo_Prósperi",
+    "id": "lib-san-lorenzo-2014-gonzalo-prosperi",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Enzo Kalinski",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 66,
+      "fin": 48,
+      "pas": 79,
+      "dri": 68,
+      "def": 79,
+      "fis": 78
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Enzo Kalinski",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Enzo_Kalinski",
+    "id": "lib-san-lorenzo-2014-enzo-kalinski",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Pablo Barrientos",
+    "positions": [
+      "MEI",
+      "PD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 76,
+      "fin": 77,
+      "pas": 90,
+      "dri": 87,
+      "def": 38,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Pablo Barrientos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Pablo_Barrientos",
+    "id": "lib-san-lorenzo-2014-pablo-barrientos",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Gonzalo Verón",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 84,
+      "fin": 76,
+      "pas": 75,
+      "dri": 84,
+      "def": 32,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Gonzalo Verón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gonzalo_Verón",
+    "id": "lib-san-lorenzo-2014-gonzalo-veron",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Martín Cauteruccio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 78,
+      "fin": 88,
+      "pas": 66,
+      "dri": 76,
+      "def": 32,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Martín Cauteruccio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Martín_Cauteruccio",
+    "id": "lib-san-lorenzo-2014-martin-cauteruccio",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Mauro Cetto",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 64,
+      "dri": 48,
+      "def": 84,
+      "fis": 85
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Mauro Cetto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Mauro_Cetto",
+    "id": "lib-san-lorenzo-2014-mauro-cetto",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Nicolás Blandi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 74,
+      "fin": 84,
+      "pas": 62,
+      "dri": 72,
+      "def": 28,
+      "fis": 78
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Nicolás Blandi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Nicolás_Blandi",
+    "id": "lib-san-lorenzo-2014-nicolas-blandi",
+    "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  }
+]

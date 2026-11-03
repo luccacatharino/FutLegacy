@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Santos",
+    "year": 2011,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Possui exatamente três títulos: 1962, 1963 e 2011. Todos são obrigatórios.",
+    "startingXI": [
+      "Rafael",
+      "Danilo",
+      "Edu Dracena",
+      "Durval",
+      "Léo",
+      "Arouca",
+      "Adriano",
+      "Ganso",
+      "Elano",
+      "Zé Eduardo",
+      "Neymar"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-santos-2011-rafael",
+      "lib-santos-2011-danilo",
+      "lib-santos-2011-edu-dracena",
+      "lib-santos-2011-durval",
+      "lib-santos-2011-leo",
+      "lib-santos-2011-arouca",
+      "lib-santos-2011-adriano",
+      "lib-santos-2011-ganso",
+      "lib-santos-2011-elano",
+      "lib-santos-2011-ze-eduardo",
+      "lib-santos-2011-neymar",
+      "lib-santos-2011-para",
+      "lib-santos-2011-bruno-rodrigo",
+      "lib-santos-2011-alex-sandro",
+      "lib-santos-2011-aranha",
+      "lib-santos-2011-bruno-aguiar",
+      "lib-santos-2011-charles",
+      "lib-santos-2011-felipe-anderson",
+      "lib-santos-2011-alan-patrick",
+      "lib-santos-2011-keirrison",
+      "lib-santos-2011-diogo",
+      "lib-santos-2011-vladimir",
+      "lib-santos-2011-maikon-leite"
+    ]
+  }
+]

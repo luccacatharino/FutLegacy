@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Ousmane Dembélé",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 97,
+      "fin": 96,
+      "pas": 94,
+      "dri": 99,
+      "def": 42,
+      "fis": 66
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-ousmane-dembele",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 41,
+      "fin": 12,
+      "pas": 67,
+      "dri": 29,
+      "def": 18,
+      "fis": 84,
+      "ref": 95,
+      "han": 92,
+      "pos": 94,
+      "div": 95,
+      "kic": 77,
+      "one": 93
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-gianluigi-donnarumma",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nuno Mendes",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 98,
+      "fin": 65,
+      "pas": 88,
+      "dri": 92,
+      "def": 93,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-nuno-mendes",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Vitinha",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 80,
+      "fin": 83,
+      "pas": 98,
+      "dri": 96,
+      "def": 74,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-vitinha",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Achraf Hakimi",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 92,
+      "fin": 62,
+      "pas": 85,
+      "dri": 86,
+      "def": 84,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-achraf-hakimi",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Khvicha Kvaratskhelia",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 95,
+      "fin": 92,
+      "pas": 86,
+      "dri": 97,
+      "def": 48,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-khvicha-kvaratskhelia",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Désiré Doué",
+    "positions": [
+      "PD",
+      "MEI"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 97,
+      "fin": 94,
+      "pas": 83,
+      "dri": 94,
+      "def": 45,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-desire-doue",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "João Neves",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 80,
+      "fin": 78,
+      "pas": 95,
+      "dri": 90,
+      "def": 78,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-joao-neves",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Fabián Ruiz",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 80,
+      "fin": 78,
+      "pas": 95,
+      "dri": 85,
+      "def": 73,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-fabian-ruiz",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Marquinhos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 69,
+      "fin": 44,
+      "pas": 73,
+      "dri": 58,
+      "def": 91,
+      "fis": 91
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-marquinhos",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bradley Barcola",
+    "positions": [
+      "PE",
+      "PD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 91,
+      "fin": 88,
+      "pas": 82,
+      "dri": 93,
+      "def": 44,
+      "fis": 70
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-bradley-barcola",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Willian Pacho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 69,
+      "fin": 44,
+      "pas": 68,
+      "dri": 58,
+      "def": 91,
+      "fis": 91
+    },
+    "starter": true,
+    "id": "ucl-paris-saint-germain-2025-willian-pacho",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Warren Zaïre-Emery",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 76,
+      "fin": 74,
+      "pas": 86,
+      "dri": 81,
+      "def": 69,
+      "fis": 76
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-warren-zaire-emery",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gonçalo Ramos",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 84,
+      "fin": 87,
+      "pas": 66,
+      "dri": 79,
+      "def": 37,
+      "fis": 83
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-goncalo-ramos",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Lee Kang-in",
+    "positions": [
+      "MEI",
+      "PD",
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 80,
+      "pas": 87,
+      "dri": 88,
+      "def": 39,
+      "fis": 64
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-lee-kang-in",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Lucas Hernandez",
+    "positions": [
+      "ZAG",
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 63,
+      "dri": 53,
+      "def": 86,
+      "fis": 86
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-lucas-hernandez",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Matvey Safonov",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 41,
+      "fin": 12,
+      "pas": 53,
+      "dri": 29,
+      "def": 18,
+      "fis": 70,
+      "ref": 81,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 63,
+      "one": 79
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-matvey-safonov",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Lucas Beraldo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 56,
+      "fin": 31,
+      "pas": 60,
+      "dri": 50,
+      "def": 83,
+      "fis": 78
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-lucas-beraldo",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Senny Mayulu",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 68,
+      "fin": 66,
+      "pas": 83,
+      "dri": 73,
+      "def": 61,
+      "fis": 68
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-senny-mayulu",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Presnel Kimpembe",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 74,
+    "attrs": {
+      "vel": 54,
+      "fin": 29,
+      "pas": 53,
+      "dri": 43,
+      "def": 76,
+      "fis": 76
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-presnel-kimpembe",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ibrahim Mbaye",
+    "positions": [
+      "PE",
+      "PD"
+    ],
+    "ovr": 72,
+    "attrs": {
+      "vel": 75,
+      "fin": 72,
+      "pas": 66,
+      "dri": 77,
+      "def": 23,
+      "fis": 54
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-ibrahim-mbaye",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  },
+  {
+    "name": "Arnau Tenas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 71,
+    "attrs": {
+      "vel": 41,
+      "fin": 12,
+      "pas": 44,
+      "dri": 29,
+      "def": 18,
+      "fis": 61,
+      "ref": 72,
+      "han": 69,
+      "pos": 71,
+      "div": 72,
+      "kic": 54,
+      "one": 70
+    },
+    "starter": false,
+    "id": "ucl-paris-saint-germain-2025-arnau-tenas",
+    "team": "Paris Saint-Germain",
+    "year": 2025,
+    "comp": "ucl"
+  }
+]

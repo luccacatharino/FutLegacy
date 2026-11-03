@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Paris Saint-Germain",
+    "year": 2026,
+    "season": "2025/26",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final",
+    "selectionReason": "Ambos os títulos concluídos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 93,
+    "startingXI": [
+      "Matvey Safonov",
+      "Achraf Hakimi",
+      "Marquinhos",
+      "Willian Pacho",
+      "Nuno Mendes",
+      "João Neves",
+      "Vitinha",
+      "Fabián Ruiz",
+      "Désiré Doué",
+      "Ousmane Dembélé",
+      "Khvicha Kvaratskhelia"
+    ],
+    "playerIds": [
+      "ucl-paris-saint-germain-2026-ousmane-dembele",
+      "ucl-paris-saint-germain-2026-vitinha",
+      "ucl-paris-saint-germain-2026-khvicha-kvaratskhelia",
+      "ucl-paris-saint-germain-2026-nuno-mendes",
+      "ucl-paris-saint-germain-2026-achraf-hakimi",
+      "ucl-paris-saint-germain-2026-desire-doue",
+      "ucl-paris-saint-germain-2026-joao-neves",
+      "ucl-paris-saint-germain-2026-fabian-ruiz",
+      "ucl-paris-saint-germain-2026-marquinhos",
+      "ucl-paris-saint-germain-2026-willian-pacho",
+      "ucl-paris-saint-germain-2026-matvey-safonov",
+      "ucl-paris-saint-germain-2026-bradley-barcola",
+      "ucl-paris-saint-germain-2026-warren-zaire-emery",
+      "ucl-paris-saint-germain-2026-goncalo-ramos",
+      "ucl-paris-saint-germain-2026-illia-zabarnyi",
+      "ucl-paris-saint-germain-2026-lee-kang-in",
+      "ucl-paris-saint-germain-2026-lucas-chevalier",
+      "ucl-paris-saint-germain-2026-lucas-beraldo",
+      "ucl-paris-saint-germain-2026-lucas-hernandez",
+      "ucl-paris-saint-germain-2026-senny-mayulu",
+      "ucl-paris-saint-germain-2026-ibrahim-mbaye",
+      "ucl-paris-saint-germain-2026-dro-fernandez",
+      "ucl-paris-saint-germain-2026-renato-marin"
+    ]
+  }
+]

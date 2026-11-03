@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Milan",
+    "year": 2007,
+    "season": "2006/07",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2007_UEFA_Champions_League_final",
+    "selectionReason": "Picos de Sacchi, Capello e Ancelotti; qualidade coletiva e campanhas dominantes.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "Dida",
+      "Massimo Oddo",
+      "Alessandro Nesta",
+      "Paolo Maldini",
+      "Marek Jankulovski",
+      "Gennaro Gattuso",
+      "Andrea Pirlo",
+      "Massimo Ambrosini",
+      "Clarence Seedorf",
+      "Kaká",
+      "Filippo Inzaghi"
+    ],
+    "playerIds": [
+      "ucl-milan-2007-kaka",
+      "ucl-milan-2007-andrea-pirlo",
+      "ucl-milan-2007-alessandro-nesta",
+      "ucl-milan-2007-paolo-maldini",
+      "ucl-milan-2007-clarence-seedorf",
+      "ucl-milan-2007-filippo-inzaghi",
+      "ucl-milan-2007-gennaro-gattuso",
+      "ucl-milan-2007-dida",
+      "ucl-milan-2007-massimo-ambrosini",
+      "ucl-milan-2007-alberto-gilardino",
+      "ucl-milan-2007-kakha-kaladze",
+      "ucl-milan-2007-cafu",
+      "ucl-milan-2007-marek-jankulovski",
+      "ucl-milan-2007-massimo-oddo",
+      "ucl-milan-2007-serginho",
+      "ucl-milan-2007-cristian-brocchi",
+      "ucl-milan-2007-giuseppe-favalli",
+      "ucl-milan-2007-zeljko-kalac"
+    ]
+  }
+]

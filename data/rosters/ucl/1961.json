@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Benfica",
+    "year": 1961,
+    "season": "1960/61",
+    "comp": "ucl",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1961_European_Cup_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 85,
+    "startingXI": [
+      "Costa Pereira",
+      "Mário João",
+      "Germano",
+      "Ângelo Martins",
+      "José Neto",
+      "Fernando Cruz",
+      "José Augusto",
+      "Santana",
+      "José Águas",
+      "Mário Coluna",
+      "Domiciano Cavém"
+    ],
+    "playerIds": [
+      "ucl-benfica-1961-mario-coluna",
+      "ucl-benfica-1961-jose-aguas",
+      "ucl-benfica-1961-germano",
+      "ucl-benfica-1961-jose-augusto",
+      "ucl-benfica-1961-domiciano-cavem",
+      "ucl-benfica-1961-costa-pereira",
+      "ucl-benfica-1961-santana",
+      "ucl-benfica-1961-angelo-martins",
+      "ucl-benfica-1961-fernando-cruz",
+      "ucl-benfica-1961-mario-joao",
+      "ucl-benfica-1961-jose-neto"
+    ]
+  }
+]

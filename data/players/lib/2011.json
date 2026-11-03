@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Rafael",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 43,
+      "fin": 15,
+      "pas": 59,
+      "dri": 25,
+      "def": 21,
+      "fis": 78,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Rafael",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rafael_Cabral",
+    "id": "lib-santos-2011-rafael",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Danilo",
+    "positions": [
+      "LD",
+      "MC"
+    ],
+    "ovr": 89,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 83,
+      "fin": 46,
+      "pas": 78,
+      "dri": 78,
+      "def": 79,
+      "fis": 78
+    },
+    "sourceName": "Danilo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Danilo_(footballer,_born_July_1991)",
+    "id": "lib-santos-2011-danilo",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Edu Dracena",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 63,
+      "fin": 31,
+      "pas": 65,
+      "dri": 49,
+      "def": 89,
+      "fis": 87
+    },
+    "sourceName": "Edu Dracena",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Edu_Dracena",
+    "id": "lib-santos-2011-edu-dracena",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Durval",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 66,
+      "fin": 33,
+      "pas": 63,
+      "dri": 48,
+      "def": 86,
+      "fis": 89
+    },
+    "sourceName": "Durval",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Durval",
+    "id": "lib-santos-2011-durval",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Léo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 78,
+      "fin": 43,
+      "pas": 72,
+      "dri": 71,
+      "def": 76,
+      "fis": 73
+    },
+    "sourceName": "Léo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Léo_(footballer,_born_1975)",
+    "id": "lib-santos-2011-leo",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Arouca",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 71,
+      "fin": 51,
+      "pas": 85,
+      "dri": 74,
+      "def": 88,
+      "fis": 83
+    },
+    "sourceName": "Arouca",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Arouca_(footballer)",
+    "id": "lib-santos-2011-arouca",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Adriano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 62,
+      "fin": 45,
+      "pas": 77,
+      "dri": 67,
+      "def": 78,
+      "fis": 81
+    },
+    "sourceName": "Adriano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Adriano_(footballer,_born_May_1987)",
+    "id": "lib-santos-2011-adriano",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Ganso",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 92,
+    "sourceRole": "RAM",
+    "attrs": {
+      "vel": 79,
+      "fin": 82,
+      "pas": 92,
+      "dri": 96,
+      "def": 43,
+      "fis": 71
+    },
+    "sourceName": "Ganso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Paulo_Henrique_Ganso",
+    "id": "lib-santos-2011-ganso",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Elano",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 89,
+    "sourceRole": "LAM",
+    "attrs": {
+      "vel": 79,
+      "fin": 79,
+      "pas": 92,
+      "dri": 89,
+      "def": 44,
+      "fis": 70
+    },
+    "sourceName": "Elano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Elano",
+    "id": "lib-santos-2011-elano",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Zé Eduardo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "sourceRole": "RF",
+    "attrs": {
+      "vel": 76,
+      "fin": 88,
+      "pas": 63,
+      "dri": 76,
+      "def": 28,
+      "fis": 82
+    },
+    "sourceName": "Zé Eduardo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Zé_Eduardo_(footballer,_born_1987)",
+    "id": "lib-santos-2011-ze-eduardo",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Neymar",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 96,
+    "sourceRole": "LF",
+    "attrs": {
+      "vel": 98,
+      "fin": 90,
+      "pas": 89,
+      "dri": 97,
+      "def": 46,
+      "fis": 77
+    },
+    "sourceName": "Neymar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Neymar",
+    "id": "lib-santos-2011-neymar",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Pará",
+    "positions": [
+      "LD",
+      "LE"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 79,
+      "fin": 43,
+      "pas": 74,
+      "dri": 70,
+      "def": 75,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "RB",
+    "sourceName": "Pará",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Pará_(footballer,_born_1986)",
+    "id": "lib-santos-2011-para",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Bruno Rodrigo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 62,
+      "fin": 32,
+      "pas": 63,
+      "dri": 47,
+      "def": 83,
+      "fis": 84
+    },
+    "starting": false,
+    "sourceRole": "CB",
+    "sourceName": "Bruno Rodrigo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Bruno_Rodrigo",
+    "id": "lib-santos-2011-bruno-rodrigo",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Alex Sandro",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 82,
+      "fin": 46,
+      "pas": 77,
+      "dri": 74,
+      "def": 78,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "LB",
+    "sourceName": "Alex Sandro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Alex_Sandro",
+    "id": "lib-santos-2011-alex-sandro",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Aranha",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 38,
+      "fin": 10,
+      "pas": 56,
+      "dri": 23,
+      "def": 16,
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 68,
+      "one": 80
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Aranha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Aranha_(footballer,_born_1980)",
+    "id": "lib-santos-2011-aranha",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Bruno Aguiar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 59,
+      "fin": 29,
+      "pas": 60,
+      "dri": 44,
+      "def": 80,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Bruno Aguiar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Bruno_Aguiar_(Brazilian_footballer)",
+    "id": "lib-santos-2011-bruno-aguiar",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Charles",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 65,
+      "fin": 58,
+      "pas": 78,
+      "dri": 72,
+      "def": 59,
+      "fis": 67
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Charles",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Charles_Fernando_Basílio_da_Silva",
+    "id": "lib-santos-2011-charles",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Felipe Anderson",
+    "positions": [
+      "MEI",
+      "PD"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 84,
+      "dri": 81,
+      "def": 32,
+      "fis": 62
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Felipe Anderson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Felipe_Anderson",
+    "id": "lib-santos-2011-felipe-anderson",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Alan Patrick",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 72,
+      "fin": 73,
+      "pas": 86,
+      "dri": 83,
+      "def": 34,
+      "fis": 64
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Alan Patrick",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Alan_Patrick_(footballer,_born_1991)",
+    "id": "lib-santos-2011-alan-patrick",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Keirrison",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Keirrison",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Keirrison",
+    "id": "lib-santos-2011-keirrison",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Diogo",
+    "positions": [
+      "ATA",
+      "PE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Diogo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Diogo_Luís_Santo",
+    "id": "lib-santos-2011-diogo",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Vladimir",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 75,
+    "attrs": {
+      "vel": 33,
+      "fin": 10,
+      "pas": 51,
+      "dri": 18,
+      "def": 11,
+      "fis": 69,
+      "ref": 77,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 63,
+      "one": 75
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Vladimir",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Vladimir_(footballer)",
+    "id": "lib-santos-2011-vladimir",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  },
+  {
+    "name": "Maikon Leite",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 85,
+      "fin": 77,
+      "pas": 76,
+      "dri": 85,
+      "def": 33,
+      "fis": 69
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Maikon Leite",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Maikon_Leite",
+    "id": "lib-santos-2011-maikon-leite",
+    "team": "Santos",
+    "year": 2011,
+    "comp": "lib"
+  }
+]

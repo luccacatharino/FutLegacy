@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Daniel Morón",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 15,
+      "pas": 62,
+      "dri": 24,
+      "def": 21,
+      "fis": 79,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Daniel Morón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Daniel_Morón",
+    "id": "lib-colo-colo-1991-daniel-moron",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Lizardo Garrido",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 61,
+      "fin": 33,
+      "pas": 62,
+      "dri": 49,
+      "def": 86,
+      "fis": 85
+    },
+    "sourceName": "Lizardo Garrido",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Lizardo_Garrido",
+    "id": "lib-colo-colo-1991-lizardo-garrido",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Ramírez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 32,
+      "pas": 61,
+      "dri": 44,
+      "def": 85,
+      "fis": 88
+    },
+    "sourceName": "Miguel Ramírez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Ramírez_(footballer,_born_1970)",
+    "id": "lib-colo-colo-1991-miguel-ramirez",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Javier Margas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 62,
+      "fin": 32,
+      "pas": 64,
+      "dri": 48,
+      "def": 86,
+      "fis": 84
+    },
+    "sourceName": "Javier Margas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Javier_Margas",
+    "id": "lib-colo-colo-1991-javier-margas",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo Vilches",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 64,
+      "fin": 47,
+      "pas": 79,
+      "dri": 70,
+      "def": 80,
+      "fis": 83
+    },
+    "sourceName": "Eduardo Vilches",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Eduardo_Vilches",
+    "id": "lib-colo-colo-1991-eduardo-vilches",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Espinoza",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 81,
+      "fin": 63,
+      "pas": 81,
+      "dri": 81,
+      "def": 60,
+      "fis": 74
+    },
+    "sourceName": "Rubén Espinoza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rubén_Espinoza",
+    "id": "lib-colo-colo-1991-ruben-espinoza",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Gabriel Mendoza",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 85,
+      "fin": 67,
+      "pas": 85,
+      "dri": 83,
+      "def": 64,
+      "fis": 75
+    },
+    "sourceName": "Gabriel Mendoza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gabriel_Mendoza",
+    "id": "lib-colo-colo-1991-gabriel-mendoza",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Peralta",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 80,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 64,
+      "fin": 58,
+      "pas": 80,
+      "dri": 76,
+      "def": 59,
+      "fis": 69
+    },
+    "sourceName": "Juan Carlos Peralta",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-colo-colo-1991-juan-carlos-peralta",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Jaime Pizarro",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 89,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 74,
+      "fin": 68,
+      "pas": 89,
+      "dri": 84,
+      "def": 69,
+      "fis": 77
+    },
+    "sourceName": "Jaime Pizarro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jaime_Pizarro",
+    "id": "lib-colo-colo-1991-jaime-pizarro",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Pérez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 78,
+      "fin": 88,
+      "pas": 64,
+      "dri": 73,
+      "def": 27,
+      "fis": 82
+    },
+    "sourceName": "Luis Pérez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Pérez_Muñoz",
+    "id": "lib-colo-colo-1991-luis-perez",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Barticciotto",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 88,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 90,
+      "fin": 79,
+      "pas": 80,
+      "dri": 93,
+      "def": 39,
+      "fis": 68
+    },
+    "sourceName": "Marcelo Barticciotto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_Barticciotto",
+    "id": "lib-colo-colo-1991-marcelo-barticciotto",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Martínez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 82,
+      "fin": 95,
+      "pas": 68,
+      "dri": 79,
+      "def": 35,
+      "fis": 87
+    },
+    "sourceName": "Rubén Martínez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Rubén_Martínez_(footballer,_born_1964)",
+    "id": "lib-colo-colo-1991-ruben-martinez",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Leonel Herrera",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 64,
+      "dri": 74,
+      "def": 30,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Leonel Herrera",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Leonel_Herrera_Silva",
+    "id": "lib-colo-colo-1991-leonel-herrera",
+    "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  }
+]

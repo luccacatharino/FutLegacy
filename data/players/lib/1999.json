@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Marcos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 94,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 51,
+      "fin": 21,
+      "pas": 66,
+      "dri": 33,
+      "def": 28,
+      "fis": 89,
+      "ref": 96,
+      "han": 92,
+      "pos": 94,
+      "div": 95,
+      "kic": 82,
+      "one": 94
+    },
+    "sourceName": "Marcos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Roberto_Silveira_Reis",
+    "id": "lib-palmeiras-1999-marcos",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Francisco Arce",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 91,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 85,
+      "fin": 51,
+      "pas": 80,
+      "dri": 77,
+      "def": 83,
+      "fis": 82
+    },
+    "sourceName": "Francisco Arce",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Francisco_Javier_Arce",
+    "id": "lib-palmeiras-1999-francisco-arce",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Júnior Baiano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 62,
+      "fin": 30,
+      "pas": 63,
+      "dri": 46,
+      "def": 88,
+      "fis": 86
+    },
+    "sourceName": "Junior Baiano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Junior_Baiano",
+    "id": "lib-palmeiras-1999-junior-baiano",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Roque Júnior",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 63,
+      "fin": 34,
+      "pas": 64,
+      "dri": 47,
+      "def": 88,
+      "fis": 90
+    },
+    "sourceName": "Roque Junior",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roque_Junior",
+    "id": "lib-palmeiras-1999-roque-junior",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Júnior",
+    "positions": [
+      "LE",
+      "MC"
+    ],
+    "ovr": 87,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 82,
+      "fin": 47,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 78
+    },
+    "sourceName": "Júnior",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jenílson_Ângelo_de_Souza",
+    "id": "lib-palmeiras-1999-junior",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "César Sampaio",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 72,
+      "fin": 55,
+      "pas": 86,
+      "dri": 73,
+      "def": 88,
+      "fis": 85
+    },
+    "sourceName": "César Sampaio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/César_Sampaio",
+    "id": "lib-palmeiras-1999-cesar-sampaio",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Rogério",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 83,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 78,
+      "fin": 63,
+      "pas": 79,
+      "dri": 79,
+      "def": 59,
+      "fis": 74
+    },
+    "sourceName": "Rogério",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rogério_Fidélis_Régis",
+    "id": "lib-palmeiras-1999-rogerio",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Alex",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 93,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 84,
+      "fin": 85,
+      "pas": 93,
+      "dri": 97,
+      "def": 45,
+      "fis": 73
+    },
+    "sourceName": "Alex",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alexsandro_de_Souza",
+    "id": "lib-palmeiras-1999-alex",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Zinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 76,
+      "fin": 68,
+      "pas": 91,
+      "dri": 82,
+      "def": 68,
+      "fis": 76
+    },
+    "sourceName": "Zinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Zinho",
+    "id": "lib-palmeiras-1999-zinho",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Paulo Nunes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 88,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 82,
+      "fin": 94,
+      "pas": 64,
+      "dri": 77,
+      "def": 34,
+      "fis": 83
+    },
+    "sourceName": "Paulo Nunes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Paulo_Nunes",
+    "id": "lib-palmeiras-1999-paulo-nunes",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Oséas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 80,
+      "fin": 89,
+      "pas": 66,
+      "dri": 79,
+      "def": 33,
+      "fis": 85
+    },
+    "sourceName": "Oséas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Oséas_Reis_dos_Santos",
+    "id": "lib-palmeiras-1999-oseas",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Evair",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 78,
+      "fin": 93,
+      "pas": 65,
+      "dri": 79,
+      "def": 32,
+      "fis": 82
+    },
+    "sourceName": "Evair",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Evair_Aparecido_Paulino",
+    "id": "lib-palmeiras-1999-evair",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Sérgio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 37,
+      "fin": 10,
+      "pas": 55,
+      "dri": 22,
+      "def": 15,
+      "fis": 73,
+      "ref": 81,
+      "han": 77,
+      "pos": 79,
+      "div": 80,
+      "kic": 67,
+      "one": 79
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Sérgio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Sérgio_Luís_de_Araújo",
+    "id": "lib-palmeiras-1999-sergio",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Galeano",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 68,
+      "fin": 50,
+      "pas": 81,
+      "dri": 70,
+      "def": 81,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Galeano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Aurélio_Galeano",
+    "id": "lib-palmeiras-1999-galeano",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Agnaldo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 59,
+      "fin": 29,
+      "pas": 60,
+      "dri": 44,
+      "def": 80,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Agnaldo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "id": "lib-palmeiras-1999-agnaldo",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubens Júnior",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Rubens Júnior",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Rubens_Rodrigues_dos_Santos_Júnior",
+    "id": "lib-palmeiras-1999-rubens-junior",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Jackson",
+    "positions": [
+      "MD",
+      "MEI"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 79,
+      "fin": 63,
+      "pas": 79,
+      "dri": 77,
+      "def": 58,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Jackson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Jackson_Coelho_Silva",
+    "id": "lib-palmeiras-1999-jackson",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Euller",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 87,
+      "fin": 79,
+      "pas": 78,
+      "dri": 87,
+      "def": 35,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Euller",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Euller_(footballer,_born_1971)",
+    "id": "lib-palmeiras-1999-euller",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  },
+  {
+    "name": "Cléber",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 65,
+      "dri": 49,
+      "def": 85,
+      "fis": 86
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Cléber",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Cléber_Américo_da_Conceição",
+    "id": "lib-palmeiras-1999-cleber",
+    "team": "Palmeiras",
+    "year": 1999,
+    "comp": "lib"
+  }
+]

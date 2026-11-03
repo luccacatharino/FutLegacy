@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Independiente",
+    "file": "assets/badges/clubs/independiente.png",
+    "source": "https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Independiente",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/250px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Racing",
+    "file": "assets/badges/clubs/racing.png",
+    "source": "https://en.wikipedia.org/wiki/Racing_Club_de_Avellaneda",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/250px-Escudo_de_Racing_Club_%282014%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Argentinos Juniors",
+    "file": "assets/badges/clubs/argentinos-juniors.png",
+    "source": "https://en.wikipedia.org/wiki/Argentinos_Juniors",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors_logo.svg/250px-Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Atlético Nacional",
+    "file": "assets/badges/clubs/atletico-nacional.png",
+    "source": "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Nacional",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Atletico_Nacional_Logo.svg/250px-Atletico_Nacional_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Once Caldas",
+    "file": "assets/badges/clubs/once-caldas.png",
+    "source": "https://en.wikipedia.org/wiki/Once_Caldas",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Once_Caldas_logo.svg/250px-Once_Caldas_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "LDU Quito",
+    "file": "assets/badges/clubs/ldu-quito.png",
+    "source": "https://en.wikipedia.org/wiki/LDU_Quito",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg/250px-Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "San Lorenzo",
+    "file": "assets/badges/clubs/san-lorenzo.png",
+    "source": "https://en.wikipedia.org/wiki/San_Lorenzo_de_Almagro",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg/250px-Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Nottingham Forest",
+    "file": "assets/badges/clubs/nottingham-forest.png",
+    "source": "https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/250px-Nottingham_Forest_F.C._logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Feyenoord",
+    "file": "assets/badges/clubs/feyenoord.png",
+    "source": "https://en.wikipedia.org/wiki/Feyenoord",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/250px-Feyenoord_logo_since_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Aston Villa",
+    "file": "assets/badges/clubs/aston-villa.png",
+    "source": "https://en.wikipedia.org/wiki/Aston_Villa_F.C.",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/250px-Aston_Villa_FC_new_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Hamburgo",
+    "file": "assets/badges/clubs/hamburgo.png",
+    "source": "https://en.wikipedia.org/wiki/Hamburger_SV",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/250px-Hamburger_SV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Estrela Vermelha",
+    "file": "assets/badges/clubs/estrela-vermelha.png",
+    "source": "https://en.wikipedia.org/wiki/Red_Star_Belgrade",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c2/Red_Star_Belgrade_crest.svg/250px-Red_Star_Belgrade_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "PSV",
+    "file": "assets/badges/clubs/psv.png",
+    "source": "https://en.wikipedia.org/wiki/PSV_Eindhoven",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/250px-PSV_Eindhoven.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Steaua Bucareste",
+    "file": "assets/badges/clubs/steaua-bucareste.png",
+    "source": "https://en.wikipedia.org/wiki/CSA_Steaua_Bucure%C8%99ti_(football)",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9e/Steaua_Bucure%C8%99ti.svg/250px-Steaua_Bucure%C8%99ti.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Hungria",
+    "file": "assets/badges/nations/hungria.png",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9b/Hungarian_Football_Federation_logo.svg/250px-Hungarian_Football_Federation_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Hungarian_Football_Federation"
+  },
+  {
+    "name": "Suécia",
+    "file": "assets/badges/nations/suecia.png",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8d/Swedish_Football_Association_crest.svg/250px-Swedish_Football_Association_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Swedish_Football_Association"
+  },
+  {
+    "name": "Tchecoslováquia",
+    "file": "assets/badges/nations/tchecoslovaquia.png",
+    "source": "https://en.wikipedia.org/wiki/Czechoslovakia_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/aa/Czechoslovakian_FA_Logo.svg/250px-Czechoslovakian_FA_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Itália",
+    "file": "assets/badges/nations/italia.png",
+    "source": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Italy_National_Football_Team_-_2023.svg/250px-Logo_Italy_National_Football_Team_-_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Chile",
+    "file": "assets/badges/nations/chile.png",
+    "source": "https://en.wikipedia.org/wiki/Chile_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/250px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Bulgária",
+    "file": "assets/badges/nations/bulgaria.png",
+    "source": "https://en.wikipedia.org/wiki/Bulgaria_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/11/Bgnatcrest.png/250px-Bgnatcrest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Turquia",
+    "file": "assets/badges/nations/turquia.png",
+    "source": "https://en.wikipedia.org/wiki/Turkey_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Roundel_flag_of_Turkey.svg/250px-Roundel_flag_of_Turkey.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Colômbia",
+    "file": "assets/badges/nations/colombia.png",
+    "source": "https://en.wikipedia.org/wiki/Colombia_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/FCF-Logo-2023.svg/250px-FCF-Logo-2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Peru",
+    "file": "assets/badges/nations/peru.png",
+    "source": "https://en.wikipedia.org/wiki/Peru_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Fpf-logo.svg/250px-Fpf-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Argélia",
+    "file": "assets/badges/nations/argelia.png",
+    "source": "https://en.wikipedia.org/wiki/Algeria_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2d/Algerian_NT_%28logo%29.png/250px-Algerian_NT_%28logo%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Irlanda",
+    "file": "assets/badges/nations/irlanda.png",
+    "source": "https://en.wikipedia.org/wiki/Republic_of_Ireland_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f8/Republic_of_Ireland_national_football_team_crest.svg/250px-Republic_of_Ireland_national_football_team_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Romênia",
+    "file": "assets/badges/nations/romenia.png",
+    "source": "https://en.wikipedia.org/wiki/Romania_national_football_team",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/Romania_national_football_team_logo.svg/250px-Romania_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "name": "Renan",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 44,
+      "fin": 12,
+      "pas": 60,
+      "dri": 22,
+      "def": 23,
+      "fis": 79,
+      "ref": 88,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 74,
+      "one": 86
+    },
+    "sourceName": "Renan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Renan_Brito_Soares",
+    "id": "lib-internacional-2010-renan",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Nei",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 82,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 78,
+      "fin": 39,
+      "pas": 73,
+      "dri": 71,
+      "def": 76,
+      "fis": 71
+    },
+    "sourceName": "Nei",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nei_(footballer,_born_1985)",
+    "id": "lib-internacional-2010-nei",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Bolívar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 62,
+      "fin": 32,
+      "pas": 64,
+      "dri": 47,
+      "def": 86,
+      "fis": 87
+    },
+    "sourceName": "Bolívar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fabian_Guedes",
+    "id": "lib-internacional-2010-bolivar",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Índio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 66,
+      "dri": 48,
+      "def": 88,
+      "fis": 88
+    },
+    "sourceName": "Índio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Antônio_de_Lima",
+    "id": "lib-internacional-2010-indio",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Kléber",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 88,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 84,
+      "fin": 45,
+      "pas": 79,
+      "dri": 78,
+      "def": 82,
+      "fis": 76
+    },
+    "sourceName": "Kléber",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Kléber_de_Carvalho_Corrêa",
+    "id": "lib-internacional-2010-kleber",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Sandro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 71,
+      "fin": 54,
+      "pas": 85,
+      "dri": 71,
+      "def": 87,
+      "fis": 84
+    },
+    "sourceName": "Sandro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Sandro_Ranieri_Guimarães_Cordeiro",
+    "id": "lib-internacional-2010-sandro",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Pablo Guiñazú",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 68,
+      "fin": 54,
+      "pas": 82,
+      "dri": 75,
+      "def": 86,
+      "fis": 85
+    },
+    "sourceName": "Pablo Guiñazú",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Pablo_Guiñazú",
+    "id": "lib-internacional-2010-pablo-guinazu",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Giuliano",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 92,
+    "sourceRole": "RW",
+    "attrs": {
+      "vel": 81,
+      "fin": 82,
+      "pas": 95,
+      "dri": 96,
+      "def": 47,
+      "fis": 71
+    },
+    "sourceName": "Giuliano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Giuliano_de_Paula",
+    "id": "lib-internacional-2010-giuliano",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Taison",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 89,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 93,
+      "fin": 81,
+      "pas": 79,
+      "dri": 92,
+      "def": 36,
+      "fis": 72
+    },
+    "sourceName": "Taison",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Taison",
+    "id": "lib-internacional-2010-taison",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Andrés D'Alessandro",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 93,
+    "sourceRole": "LW",
+    "attrs": {
+      "vel": 84,
+      "fin": 87,
+      "pas": 97,
+      "dri": 95,
+      "def": 48,
+      "fis": 73
+    },
+    "sourceName": "Andrés D'Alessandro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Andrés_D'Alessandro",
+    "id": "lib-internacional-2010-andres-d-alessandro",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Alecsandro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 77,
+      "fin": 92,
+      "pas": 63,
+      "dri": 75,
+      "def": 31,
+      "fis": 83
+    },
+    "sourceName": "Alecsandro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alecsandro",
+    "id": "lib-internacional-2010-alecsandro",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Rafael Sóbis",
+    "positions": [
+      "ATA",
+      "PE"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 83,
+      "fin": 95,
+      "pas": 69,
+      "dri": 81,
+      "def": 35,
+      "fis": 87
+    },
+    "sourceName": "Rafael Sóbis",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Rafael_Sóbis",
+    "id": "lib-internacional-2010-rafael-sobis",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Abbondanzieri",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 41,
+      "fin": 11,
+      "pas": 59,
+      "dri": 26,
+      "def": 19,
+      "fis": 77,
+      "ref": 85,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 71,
+      "one": 83
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Roberto Abbondanzieri",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Abbondanzieri",
+    "id": "lib-internacional-2010-roberto-abbondanzieri",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Fabiano Eller",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 65,
+      "dri": 49,
+      "def": 85,
+      "fis": 86
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Fabiano Eller",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Fabiano_Eller",
+    "id": "lib-internacional-2010-fabiano-eller",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Andrézinho",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 76,
+      "fin": 77,
+      "pas": 90,
+      "dri": 87,
+      "def": 38,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Andrézinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/André_Luiz_Tavares",
+    "id": "lib-internacional-2010-andrezinho",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Glaydson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 64,
+      "fin": 46,
+      "pas": 77,
+      "dri": 66,
+      "def": 77,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Glaydson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Glaydson",
+    "id": "lib-internacional-2010-glaydson",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Wilson Tiago",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 64,
+      "fin": 46,
+      "pas": 77,
+      "dri": 66,
+      "def": 77,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Wilson Tiago",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Wilson_Tiago",
+    "id": "lib-internacional-2010-wilson-tiago",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Everton",
+    "positions": [
+      "ATA",
+      "PE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Everton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Éverton_Santos_da_Costa",
+    "id": "lib-internacional-2010-everton",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Tinga",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 77,
+      "fin": 70,
+      "pas": 90,
+      "dri": 84,
+      "def": 71,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "CM",
+    "sourceName": "Tinga",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Tinga_(footballer,_born_1978)",
+    "id": "lib-internacional-2010-tinga",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  },
+  {
+    "name": "Leandro Damião",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 64,
+      "dri": 74,
+      "def": 30,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Leandro Damião",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Leandro_Damião",
+    "id": "lib-internacional-2010-leandro-damiao",
+    "team": "Internacional",
+    "year": 2010,
+    "comp": "lib"
+  }
+]

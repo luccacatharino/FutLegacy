@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Palmeiras",
+    "year": 1999,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Possui exatamente três títulos no recorte: 1999, 2020 e 2021. Todos são obrigatórios.",
+    "startingXI": [
+      "Marcos",
+      "Francisco Arce",
+      "Júnior Baiano",
+      "Roque Júnior",
+      "Júnior",
+      "César Sampaio",
+      "Rogério",
+      "Alex",
+      "Zinho",
+      "Paulo Nunes",
+      "Oséas"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-palmeiras-1999-marcos",
+      "lib-palmeiras-1999-francisco-arce",
+      "lib-palmeiras-1999-junior-baiano",
+      "lib-palmeiras-1999-roque-junior",
+      "lib-palmeiras-1999-junior",
+      "lib-palmeiras-1999-cesar-sampaio",
+      "lib-palmeiras-1999-rogerio",
+      "lib-palmeiras-1999-alex",
+      "lib-palmeiras-1999-zinho",
+      "lib-palmeiras-1999-paulo-nunes",
+      "lib-palmeiras-1999-oseas",
+      "lib-palmeiras-1999-evair",
+      "lib-palmeiras-1999-sergio",
+      "lib-palmeiras-1999-galeano",
+      "lib-palmeiras-1999-agnaldo",
+      "lib-palmeiras-1999-rubens-junior",
+      "lib-palmeiras-1999-jackson",
+      "lib-palmeiras-1999-euller",
+      "lib-palmeiras-1999-cleber"
+    ]
+  }
+]

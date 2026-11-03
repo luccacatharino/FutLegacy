@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Real Madrid",
+    "year": 2002,
+    "season": "2001/02",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2002_UEFA_Champions_League_final",
+    "selectionReason": "Três picos distintos: ataque de Di Stéfano/Puskás, título de Zidane e domínio de 2017.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "César",
+      "Míchel Salgado",
+      "Fernando Hierro",
+      "Iván Helguera",
+      "Roberto Carlos",
+      "Claude Makélélé",
+      "Luís Figo",
+      "Santiago Solari",
+      "Zinedine Zidane",
+      "Raúl",
+      "Fernando Morientes"
+    ],
+    "playerIds": [
+      "ucl-real-madrid-2002-zinedine-zidane",
+      "ucl-real-madrid-2002-luis-figo",
+      "ucl-real-madrid-2002-raul",
+      "ucl-real-madrid-2002-roberto-carlos",
+      "ucl-real-madrid-2002-iker-casillas",
+      "ucl-real-madrid-2002-claude-makelele",
+      "ucl-real-madrid-2002-fernando-hierro",
+      "ucl-real-madrid-2002-fernando-morientes",
+      "ucl-real-madrid-2002-ivan-helguera",
+      "ucl-real-madrid-2002-michel-salgado",
+      "ucl-real-madrid-2002-steve-mcmanaman",
+      "ucl-real-madrid-2002-santiago-solari",
+      "ucl-real-madrid-2002-cesar",
+      "ucl-real-madrid-2002-guti",
+      "ucl-real-madrid-2002-pedro-munitis",
+      "ucl-real-madrid-2002-flavio-conceicao",
+      "ucl-real-madrid-2002-aitor-karanka",
+      "ucl-real-madrid-2002-francisco-pavon"
+    ]
+  }
+]

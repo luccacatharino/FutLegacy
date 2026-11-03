@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Jorge Seré",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 17,
+      "pas": 58,
+      "dri": 24,
+      "def": 24,
+      "fis": 79,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Jorge Seré",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Seré",
+    "id": "lib-nacional-1988-jorge-sere",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "José Pintos Saldanha",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 76,
+      "fin": 37,
+      "pas": 70,
+      "dri": 65,
+      "def": 74,
+      "fis": 72
+    },
+    "sourceName": "José Pintos Saldanha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Pintos_Saldanha",
+    "id": "lib-nacional-1988-jose-pintos-saldanha",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo De León",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 68,
+      "fin": 36,
+      "pas": 69,
+      "dri": 51,
+      "def": 94,
+      "fis": 91
+    },
+    "sourceName": "Hugo De León",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hugo_De_León",
+    "id": "lib-nacional-1988-hugo-de-leon",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Felipe Reveléz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 62,
+      "dri": 48,
+      "def": 84,
+      "fis": 87
+    },
+    "sourceName": "Felipe Reveléz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Daniel_Felipe_Revelez",
+    "id": "lib-nacional-1988-felipe-revelez",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Soca",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 75,
+      "fin": 40,
+      "pas": 69,
+      "dri": 70,
+      "def": 73,
+      "fis": 68
+    },
+    "sourceName": "Carlos Soca",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-nacional-1988-carlos-soca",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Santiago Ostolaza",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 69,
+      "fin": 53,
+      "pas": 84,
+      "dri": 75,
+      "def": 86,
+      "fis": 87
+    },
+    "sourceName": "Santiago Ostolaza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Santiago_Ostolaza",
+    "id": "lib-nacional-1988-santiago-ostolaza",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Cardaccio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 64,
+      "pas": 86,
+      "dri": 82,
+      "def": 65,
+      "fis": 73
+    },
+    "sourceName": "Jorge Cardaccio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Daniel_Cardaccio",
+    "id": "lib-nacional-1988-jorge-cardaccio",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Yubert Lemos",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 73,
+      "fin": 73,
+      "pas": 86,
+      "dri": 87,
+      "def": 38,
+      "fis": 65
+    },
+    "sourceName": "Yubert Lemos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-nacional-1988-yubert-lemos",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "William Castro",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 83,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 86,
+      "fin": 77,
+      "pas": 76,
+      "dri": 85,
+      "def": 33,
+      "fis": 64
+    },
+    "sourceName": "William Castro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/William_Castro",
+    "id": "lib-nacional-1988-william-castro",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Ernesto Vargas",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 84,
+      "fin": 78,
+      "pas": 74,
+      "dri": 85,
+      "def": 33,
+      "fis": 64
+    },
+    "sourceName": "Ernesto Vargas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ernesto_Vargas",
+    "id": "lib-nacional-1988-ernesto-vargas",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos de Lima",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 78,
+      "fin": 90,
+      "pas": 64,
+      "dri": 78,
+      "def": 30,
+      "fis": 84
+    },
+    "sourceName": "Juan C. de Lima",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Carlos_de_Lima",
+    "id": "lib-nacional-1988-juan-carlos-de-lima",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel Carreño",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 77,
+      "fin": 87,
+      "pas": 65,
+      "dri": 75,
+      "def": 31,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Daniel Carreño",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Daniel_Carreño",
+    "id": "lib-nacional-1988-daniel-carreno",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Morán",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 70,
+      "fin": 63,
+      "pas": 83,
+      "dri": 77,
+      "def": 64,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Héctor Morán",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Héctor_Morán",
+    "id": "lib-nacional-1988-hector-moran",
+    "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  }
+]

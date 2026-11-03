@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Aston Villa",
+    "year": 1982,
+    "season": "1981/82",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1982_European_Cup_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 85,
+    "startingXI": [
+      "Jimmy Rimmer",
+      "Kenny Swain",
+      "Ken McNaught",
+      "Allan Evans",
+      "Gary Williams",
+      "Dennis Mortimer",
+      "Gordon Cowans",
+      "Des Bremner",
+      "Gary Shaw",
+      "Peter Withe",
+      "Tony Morley"
+    ],
+    "playerIds": [
+      "ucl-aston-villa-1982-gordon-cowans",
+      "ucl-aston-villa-1982-nigel-spink",
+      "ucl-aston-villa-1982-peter-withe",
+      "ucl-aston-villa-1982-tony-morley",
+      "ucl-aston-villa-1982-dennis-mortimer",
+      "ucl-aston-villa-1982-gary-shaw",
+      "ucl-aston-villa-1982-jimmy-rimmer",
+      "ucl-aston-villa-1982-allan-evans",
+      "ucl-aston-villa-1982-ken-mcnaught",
+      "ucl-aston-villa-1982-des-bremner",
+      "ucl-aston-villa-1982-kenny-swain",
+      "ucl-aston-villa-1982-gary-williams",
+      "ucl-aston-villa-1982-colin-gibson",
+      "ucl-aston-villa-1982-andy-blair",
+      "ucl-aston-villa-1982-david-geddis",
+      "ucl-aston-villa-1982-pat-heard"
+    ]
+  }
+]

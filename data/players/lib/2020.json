@@ -1,0 +1,573 @@
+[
+  {
+    "name": "Weverton",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 46,
+      "fin": 19,
+      "pas": 62,
+      "dri": 29,
+      "def": 25,
+      "fis": 84,
+      "ref": 92,
+      "han": 88,
+      "pos": 90,
+      "div": 91,
+      "kic": 78,
+      "one": 90
+    },
+    "sourceName": "Weverton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Weverton_(footballer,_born_1987)",
+    "id": "lib-palmeiras-2020-weverton",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcos Rocha",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 84,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 82,
+      "fin": 45,
+      "pas": 72,
+      "dri": 72,
+      "def": 78,
+      "fis": 76
+    },
+    "sourceName": "Marcos Rocha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Rocha",
+    "id": "lib-palmeiras-2020-marcos-rocha",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Luan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 64,
+      "dri": 43,
+      "def": 87,
+      "fis": 84
+    },
+    "sourceName": "Luan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luan_Garcia",
+    "id": "lib-palmeiras-2020-luan",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Gustavo Gómez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 66,
+      "fin": 36,
+      "pas": 68,
+      "dri": 52,
+      "def": 90,
+      "fis": 90
+    },
+    "sourceName": "Gustavo Gómez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gustavo_Gómez",
+    "id": "lib-palmeiras-2020-gustavo-gomez",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Matías Viña",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 82,
+      "fin": 46,
+      "pas": 76,
+      "dri": 71,
+      "def": 79,
+      "fis": 77
+    },
+    "sourceName": "Matías Viña",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Matías_Viña",
+    "id": "lib-palmeiras-2020-matias-vina",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Danilo",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "DM",
+    "attrs": {
+      "vel": 65,
+      "fin": 48,
+      "pas": 80,
+      "dri": 72,
+      "def": 81,
+      "fis": 81
+    },
+    "sourceName": "Danilo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Danilo_(footballer,_born_2001)",
+    "id": "lib-palmeiras-2020-danilo",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Gabriel Menino",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 84,
+    "sourceRole": "RM",
+    "attrs": {
+      "vel": 80,
+      "fin": 63,
+      "pas": 81,
+      "dri": 76,
+      "def": 60,
+      "fis": 73
+    },
+    "sourceName": "Gabriel Menino",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gabriel_Menino",
+    "id": "lib-palmeiras-2020-gabriel-menino",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Zé Rafael",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "LM",
+    "attrs": {
+      "vel": 68,
+      "fin": 63,
+      "pas": 84,
+      "dri": 80,
+      "def": 64,
+      "fis": 74
+    },
+    "sourceName": "Zé Rafael",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Zé_Rafael",
+    "id": "lib-palmeiras-2020-ze-rafael",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Raphael Veiga",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 76,
+      "fin": 79,
+      "pas": 89,
+      "dri": 88,
+      "def": 40,
+      "fis": 69
+    },
+    "sourceName": "Raphael Veiga",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raphael_Veiga",
+    "id": "lib-palmeiras-2020-raphael-veiga",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Luiz Adriano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 78,
+      "fin": 90,
+      "pas": 64,
+      "dri": 78,
+      "def": 30,
+      "fis": 80
+    },
+    "sourceName": "Luiz Adriano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luiz_Adriano",
+    "id": "lib-palmeiras-2020-luiz-adriano",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Rony",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 90,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 94,
+      "fin": 82,
+      "pas": 84,
+      "dri": 95,
+      "def": 37,
+      "fis": 74
+    },
+    "sourceName": "Rony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rony_(footballer)",
+    "id": "lib-palmeiras-2020-rony",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Breno Lopes",
+    "positions": [
+      "PE",
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 83,
+      "fin": 74,
+      "pas": 73,
+      "dri": 88,
+      "def": 30,
+      "fis": 63
+    },
+    "sourceName": "Breno Lopes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Breno_Lopes_(footballer,_born_1996)",
+    "id": "lib-palmeiras-2020-breno-lopes",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Jailson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 38,
+      "fin": 10,
+      "pas": 56,
+      "dri": 23,
+      "def": 16,
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 68,
+      "one": 80
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Jailson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Jailson_(footballer,_born_1981)",
+    "id": "lib-palmeiras-2020-jailson",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Emerson Santos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 59,
+      "dri": 43,
+      "def": 79,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Emerson Santos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Emerson_Santos_(footballer,_born_1995)",
+    "id": "lib-palmeiras-2020-emerson-santos",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Benjamín Kuscevic",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 59,
+      "dri": 43,
+      "def": 79,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Benjamín Kuscevic",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Benjamín_Kuscevic",
+    "id": "lib-palmeiras-2020-benjamin-kuscevic",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Alan Empereur",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 59,
+      "dri": 43,
+      "def": 79,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Alan Empereur",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Alan_Empereur",
+    "id": "lib-palmeiras-2020-alan-empereur",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Mayke",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 69,
+      "def": 74,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Mayke",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Mayke",
+    "id": "lib-palmeiras-2020-mayke",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Renan",
+    "positions": [
+      "ZAG",
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 61,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Renan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Renan_(footballer,_born_2002)",
+    "id": "lib-palmeiras-2020-renan",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Felipe Melo",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 69,
+      "fin": 51,
+      "pas": 82,
+      "dri": 71,
+      "def": 82,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Felipe Melo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Felipe_Melo",
+    "id": "lib-palmeiras-2020-felipe-melo",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Patrick de Paula",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 68,
+      "fin": 50,
+      "pas": 81,
+      "dri": 70,
+      "def": 81,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Patrick de Paula",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Patrick_de_Paula",
+    "id": "lib-palmeiras-2020-patrick-de-paula",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Gustavo Scarpa",
+    "positions": [
+      "MEI",
+      "ME"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 75,
+      "fin": 76,
+      "pas": 89,
+      "dri": 86,
+      "def": 37,
+      "fis": 67
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Gustavo Scarpa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Gustavo_Scarpa",
+    "id": "lib-palmeiras-2020-gustavo-scarpa",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Lucas Lima",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 71,
+      "fin": 72,
+      "pas": 85,
+      "dri": 82,
+      "def": 33,
+      "fis": 63
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Lucas Lima",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Lucas_Lima_(footballer,_born_1990)",
+    "id": "lib-palmeiras-2020-lucas-lima",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  },
+  {
+    "name": "Willian",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 64,
+      "dri": 74,
+      "def": 30,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Willian",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "playerKey": "https://en.wikipedia.org/wiki/Willian_(footballer,_born_1986)",
+    "id": "lib-palmeiras-2020-willian",
+    "team": "Palmeiras",
+    "year": 2020,
+    "comp": "lib"
+  }
+]

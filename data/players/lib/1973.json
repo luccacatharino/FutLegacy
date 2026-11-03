@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Miguel Ángel Santoro",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 49,
+      "fin": 17,
+      "pas": 64,
+      "dri": 27,
+      "def": 23,
+      "fis": 81,
+      "ref": 91,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 77,
+      "one": 89
+    },
+    "sourceName": "Miguel Ángel Santoro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Ángel_Santoro",
+    "id": "lib-independiente-1973-miguel-angel-santoro",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo Commisso",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 81,
+      "fin": 42,
+      "pas": 71,
+      "dri": 70,
+      "def": 74,
+      "fis": 73
+    },
+    "sourceName": "Eduardo Commisso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Eduardo_Commisso",
+    "id": "lib-independiente-1973-eduardo-commisso",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Francisco Sá",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 61,
+      "dri": 44,
+      "def": 84,
+      "fis": 84
+    },
+    "sourceName": "Francisco Sá",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Francisco_Sá",
+    "id": "lib-independiente-1973-francisco-sa",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Ángel López",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 59,
+      "fin": 29,
+      "pas": 60,
+      "dri": 47,
+      "def": 83,
+      "fis": 85
+    },
+    "sourceName": "Miguel Ángel López",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Ángel_López_(footballer)",
+    "id": "lib-independiente-1973-miguel-angel-lopez",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardo Pavoni",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 88,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 81,
+      "fin": 47,
+      "pas": 75,
+      "dri": 75,
+      "def": 79,
+      "fis": 78
+    },
+    "sourceName": "Ricardo Pavoni",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ricardo_Pavoni",
+    "id": "lib-independiente-1973-ricardo-pavoni",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Alejandro Semenewicz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 65,
+      "fin": 46,
+      "pas": 79,
+      "dri": 70,
+      "def": 83,
+      "fis": 78
+    },
+    "sourceName": "Alejandro Semenewicz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alejandro_Semenewicz",
+    "id": "lib-independiente-1973-alejandro-semenewicz",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Ángel Raimondo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 71,
+      "fin": 62,
+      "pas": 86,
+      "dri": 78,
+      "def": 67,
+      "fis": 71
+    },
+    "sourceName": "Miguel Ángel Raimondo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Ángel_Raimondo",
+    "id": "lib-independiente-1973-miguel-angel-raimondo",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Galván",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 73,
+      "fin": 65,
+      "pas": 89,
+      "dri": 81,
+      "def": 65,
+      "fis": 73
+    },
+    "sourceName": "Rubén Galván",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rubén_Galván_(footballer)",
+    "id": "lib-independiente-1973-ruben-galvan",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel Bertoni",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 89,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 83,
+      "pas": 79,
+      "dri": 94,
+      "def": 38,
+      "fis": 69
+    },
+    "sourceName": "Daniel Bertoni",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Daniel_Bertoni",
+    "id": "lib-independiente-1973-daniel-bertoni",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo Maglioni",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 79,
+      "fin": 92,
+      "pas": 66,
+      "dri": 76,
+      "def": 32,
+      "fis": 83
+    },
+    "sourceName": "Eduardo Maglioni",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Eduardo_Maglioni",
+    "id": "lib-independiente-1973-eduardo-maglioni",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario Mendoza",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 80,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 80,
+      "fin": 74,
+      "pas": 71,
+      "dri": 85,
+      "def": 29,
+      "fis": 60
+    },
+    "sourceName": "Mario Mendoza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mario_Rubén_Mendoza",
+    "id": "lib-independiente-1973-mario-mendoza",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Garisto",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 60,
+      "dri": 47,
+      "def": 87,
+      "fis": 87
+    },
+    "sourceName": "Luis Garisto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Garisto",
+    "id": "lib-independiente-1973-luis-garisto",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Agustín Balbuena",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 90,
+      "fin": 79,
+      "pas": 81,
+      "dri": 92,
+      "def": 34,
+      "fis": 71
+    },
+    "sourceName": "Agustín Balbuena",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Agustín_Balbuena",
+    "id": "lib-independiente-1973-agustin-balbuena",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardo Bochini",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 77,
+      "fin": 80,
+      "pas": 90,
+      "dri": 90,
+      "def": 41,
+      "fis": 71
+    },
+    "sourceName": "Ricardo Bochini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Ricardo_Bochini",
+    "id": "lib-independiente-1973-ricardo-bochini",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Martínez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 68,
+      "fin": 61,
+      "pas": 81,
+      "dri": 75,
+      "def": 62,
+      "fis": 70
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Héctor Martínez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Héctor_Martínez_(footballer,_born_1947)",
+    "id": "lib-independiente-1973-hector-martinez",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Ángel Giachello",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 77,
+      "fin": 87,
+      "pas": 65,
+      "dri": 75,
+      "def": 31,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Miguel Ángel Giachello",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Ángel_Giachello",
+    "id": "lib-independiente-1973-miguel-angel-giachello",
+    "team": "Independiente",
+    "year": 1973,
+    "comp": "lib"
+  }
+]

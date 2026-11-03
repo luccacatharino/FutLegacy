@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Carlos Goyén",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 43,
+      "fin": 16,
+      "pas": 59,
+      "dri": 23,
+      "def": 22,
+      "fis": 82,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Carlos Goyén",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-independiente-1984-carlos-goyen",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Clausen",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 82,
+      "fin": 45,
+      "pas": 76,
+      "dri": 75,
+      "def": 78,
+      "fis": 76
+    },
+    "sourceName": "Néstor Clausen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Clausen",
+    "id": "lib-independiente-1984-nestor-clausen",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo Villaverde",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 64,
+      "fin": 32,
+      "pas": 66,
+      "dri": 48,
+      "def": 85,
+      "fis": 88
+    },
+    "sourceName": "Hugo Villaverde",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hugo_Villaverde",
+    "id": "lib-independiente-1984-hugo-villaverde",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Enzo Trossero",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 64,
+      "fin": 37,
+      "pas": 65,
+      "dri": 51,
+      "def": 90,
+      "fis": 89
+    },
+    "sourceName": "Enzo Trossero",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Enzo_Trossero",
+    "id": "lib-independiente-1984-enzo-trossero",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Enrique",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 82,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 75,
+      "fin": 39,
+      "pas": 69,
+      "dri": 71,
+      "def": 72,
+      "fis": 73
+    },
+    "sourceName": "Carlos Enrique",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Enrique",
+    "id": "lib-independiente-1984-carlos-enrique",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardo Giusti",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 73,
+      "fin": 67,
+      "pas": 88,
+      "dri": 86,
+      "def": 68,
+      "fis": 79
+    },
+    "sourceName": "Ricardo Giusti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ricardo_Giusti",
+    "id": "lib-independiente-1984-ricardo-giusti",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Claudio Marangoni",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 53,
+      "pas": 84,
+      "dri": 74,
+      "def": 86,
+      "fis": 87
+    },
+    "sourceName": "Claudio Marangoni",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Claudio_Marangoni",
+    "id": "lib-independiente-1984-claudio-marangoni",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardo Bochini",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 95,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 82,
+      "fin": 85,
+      "pas": 95,
+      "dri": 95,
+      "def": 46,
+      "fis": 76
+    },
+    "sourceName": "Ricardo Bochini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ricardo_Bochini",
+    "id": "lib-independiente-1984-ricardo-bochini",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Burruchaga",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 91,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 94,
+      "fin": 83,
+      "pas": 84,
+      "dri": 95,
+      "def": 38,
+      "fis": 75
+    },
+    "sourceName": "Jorge Burruchaga",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Burruchaga",
+    "id": "lib-independiente-1984-jorge-burruchaga",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Sergio Buffarini",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 81,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 72,
+      "fin": 84,
+      "pas": 59,
+      "dri": 71,
+      "def": 24,
+      "fis": 78
+    },
+    "sourceName": "Sergio Buffarini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-independiente-1984-sergio-buffarini",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Alejandro Barberón",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 78,
+      "pas": 79,
+      "dri": 89,
+      "def": 33,
+      "fis": 69
+    },
+    "sourceName": "Alejandro Barberón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-independiente-1984-alejandro-barberon",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Gerardo Reinoso",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 73,
+      "fin": 74,
+      "pas": 87,
+      "dri": 84,
+      "def": 35,
+      "fis": 65
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Gerardo Reinoso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gerardo_Reinoso",
+    "id": "lib-independiente-1984-gerardo-reinoso",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  },
+  {
+    "name": "Rodolfo Zimmermann",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 59,
+      "dri": 43,
+      "def": 79,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Rodolfo Zimmermann",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1984_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Rodolfo_Zimmermann",
+    "id": "lib-independiente-1984-rodolfo-zimmermann",
+    "team": "Independiente",
+    "year": 1984,
+    "comp": "lib"
+  }
+]

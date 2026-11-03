@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Palmeiras",
+    "year": 2021,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2021_Copa_Libertadores_final",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2021_Copa_Libertadores_final"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Possui exatamente três títulos no recorte: 1999, 2020 e 2021. Todos são obrigatórios.",
+    "startingXI": [
+      "Weverton",
+      "Mayke",
+      "Gustavo Gómez",
+      "Luan",
+      "Piquerez",
+      "Danilo",
+      "Zé Rafael",
+      "Dudu",
+      "Raphael Veiga",
+      "Gustavo Scarpa",
+      "Rony"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-palmeiras-2021-weverton",
+      "lib-palmeiras-2021-mayke",
+      "lib-palmeiras-2021-gustavo-gomez",
+      "lib-palmeiras-2021-luan",
+      "lib-palmeiras-2021-piquerez",
+      "lib-palmeiras-2021-danilo",
+      "lib-palmeiras-2021-ze-rafael",
+      "lib-palmeiras-2021-dudu",
+      "lib-palmeiras-2021-raphael-veiga",
+      "lib-palmeiras-2021-gustavo-scarpa",
+      "lib-palmeiras-2021-rony",
+      "lib-palmeiras-2021-deyverson",
+      "lib-palmeiras-2021-jailson",
+      "lib-palmeiras-2021-benjamin-kuscevic",
+      "lib-palmeiras-2021-jorge",
+      "lib-palmeiras-2021-patrick",
+      "lib-palmeiras-2021-danilo-barbosa",
+      "lib-palmeiras-2021-gabriel-menino",
+      "lib-palmeiras-2021-felipe-melo",
+      "lib-palmeiras-2021-luiz-adriano",
+      "lib-palmeiras-2021-wesley",
+      "lib-palmeiras-2021-breno-lopes",
+      "lib-palmeiras-2021-gabriel-veron"
+    ]
+  }
+]

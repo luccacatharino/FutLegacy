@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Luis Suárez",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 80,
+      "fin": 85,
+      "pas": 96,
+      "dri": 92,
+      "def": 66,
+      "fis": 75
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-luis-suarez",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Giacinto Facchetti",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 92,
+      "fin": 62,
+      "pas": 85,
+      "dri": 86,
+      "def": 84,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-giacinto-facchetti",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sandro Mazzola",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 85,
+      "fin": 89,
+      "pas": 96,
+      "dri": 97,
+      "def": 48,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-sandro-mazzola",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Armando Picchi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 72,
+      "fin": 42,
+      "pas": 71,
+      "dri": 61,
+      "def": 94,
+      "fis": 94
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-armando-picchi",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mario Corso",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 95,
+      "fin": 87,
+      "pas": 81,
+      "dri": 92,
+      "def": 43,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-mario-corso",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Giuliano Sarti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 63,
+      "dri": 31,
+      "def": 18,
+      "fis": 78,
+      "ref": 91,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 73,
+      "one": 87
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-giuliano-sarti",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jair da Costa",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 90,
+      "fin": 87,
+      "pas": 81,
+      "dri": 92,
+      "def": 43,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-jair-da-costa",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Tarcisio Burgnich",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 86,
+      "fin": 56,
+      "pas": 79,
+      "dri": 80,
+      "def": 83,
+      "fis": 77
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-tarcisio-burgnich",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Aristide Guarneri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 66,
+      "fin": 41,
+      "pas": 65,
+      "dri": 55,
+      "def": 88,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-aristide-guarneri",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Aurelio Milani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 82,
+      "fin": 90,
+      "pas": 69,
+      "dri": 77,
+      "def": 35,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-aurelio-milani",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Carlo Tagnin",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 66,
+      "fin": 55,
+      "pas": 81,
+      "dri": 67,
+      "def": 80,
+      "fis": 79
+    },
+    "starter": true,
+    "id": "ucl-inter-1964-carlo-tagnin",
+    "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  }
+]

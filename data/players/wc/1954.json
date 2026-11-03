@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Toni Turek",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 72,
+      "dri": 38,
+      "def": 24,
+      "fis": 77,
+      "ref": 91,
+      "han": 87,
+      "pos": 88,
+      "div": 89,
+      "kic": 73,
+      "one": 86
+    },
+    "id": "wc-alemanha-1954-toni-turek",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Josef Posipal",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 90,
+      "fin": 64,
+      "pas": 81,
+      "dri": 85,
+      "def": 82,
+      "fis": 81
+    },
+    "id": "wc-alemanha-1954-josef-posipal",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Werner Liebrich",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 74,
+      "fin": 50,
+      "pas": 74,
+      "dri": 55,
+      "def": 92,
+      "fis": 93
+    },
+    "id": "wc-alemanha-1954-werner-liebrich",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Werner Kohlmeyer",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 85,
+      "fin": 59,
+      "pas": 83,
+      "dri": 80,
+      "def": 84,
+      "fis": 76
+    },
+    "id": "wc-alemanha-1954-werner-kohlmeyer",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Horst Eckel",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 77,
+      "fin": 67,
+      "pas": 84,
+      "dri": 80,
+      "def": 90,
+      "fis": 83
+    },
+    "id": "wc-alemanha-1954-horst-eckel",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Karl Mai",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 82,
+      "fin": 71,
+      "pas": 90,
+      "dri": 82,
+      "def": 68,
+      "fis": 79
+    },
+    "id": "wc-alemanha-1954-karl-mai",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Helmut Rahn",
+    "positions": [
+      "PD",
+      "ATA"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 99,
+      "fin": 92,
+      "pas": 91,
+      "dri": 95,
+      "def": 46,
+      "fis": 83
+    },
+    "id": "wc-alemanha-1954-helmut-rahn",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Max Morlock",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 88,
+      "fin": 90,
+      "pas": 94,
+      "dri": 96,
+      "def": 47,
+      "fis": 77
+    },
+    "id": "wc-alemanha-1954-max-morlock",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ottmar Walter",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 88,
+      "fin": 90,
+      "pas": 77,
+      "dri": 80,
+      "def": 41,
+      "fis": 89
+    },
+    "id": "wc-alemanha-1954-ottmar-walter",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Fritz Walter",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 95,
+      "fin": 90,
+      "pas": 99,
+      "dri": 96,
+      "def": 54,
+      "fis": 77
+    },
+    "id": "wc-alemanha-1954-fritz-walter",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hans Schäfer",
+    "positions": [
+      "PE",
+      "ME"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 96,
+      "fin": 87,
+      "pas": 86,
+      "dri": 97,
+      "def": 41,
+      "fis": 78
+    },
+    "id": "wc-alemanha-1954-hans-schafer",
+    "team": "Alemanha",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Gyula Grosics",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 71,
+      "dri": 44,
+      "def": 23,
+      "fis": 83,
+      "ref": 94,
+      "han": 90,
+      "pos": 91,
+      "div": 92,
+      "kic": 76,
+      "one": 89
+    },
+    "id": "wc-hungria-1954-gyula-grosics",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Jenő Buzánszky",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 89,
+      "fin": 63,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
+    },
+    "id": "wc-hungria-1954-jeno-buzanszky",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Gyula Lóránt",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 70,
+      "fin": 53,
+      "pas": 70,
+      "dri": 58,
+      "def": 88,
+      "fis": 89
+    },
+    "id": "wc-hungria-1954-gyula-lorant",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mihály Lantos",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 92,
+      "fin": 59,
+      "pas": 83,
+      "dri": 87,
+      "def": 84,
+      "fis": 83
+    },
+    "id": "wc-hungria-1954-mihaly-lantos",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "József Bozsik",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 84,
+      "fin": 74,
+      "pas": 91,
+      "dri": 87,
+      "def": 97,
+      "fis": 90
+    },
+    "id": "wc-hungria-1954-jozsef-bozsik",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "József Zakariás",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 78,
+      "fin": 68,
+      "pas": 85,
+      "dri": 81,
+      "def": 84,
+      "fis": 84
+    },
+    "id": "wc-hungria-1954-jozsef-zakarias",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Zoltán Czibor",
+    "positions": [
+      "PE",
+      "ME"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 98,
+      "fin": 96,
+      "pas": 88,
+      "dri": 99,
+      "def": 43,
+      "fis": 80
+    },
+    "id": "wc-hungria-1954-zoltan-czibor",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Sándor Kocsis",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 93,
+      "fin": 99,
+      "pas": 82,
+      "dri": 92,
+      "def": 46,
+      "fis": 94
+    },
+    "id": "wc-hungria-1954-sandor-kocsis",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Nándor Hidegkuti",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 91,
+      "fin": 93,
+      "pas": 97,
+      "dri": 99,
+      "def": 50,
+      "fis": 80
+    },
+    "id": "wc-hungria-1954-nandor-hidegkuti",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ferenc Puskás",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 80,
+      "fin": 98,
+      "pas": 91,
+      "dri": 92,
+      "def": 49,
+      "fis": 90
+    },
+    "id": "wc-hungria-1954-ferenc-puskas",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mihály Tóth",
+    "positions": [
+      "PD",
+      "PE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 88,
+      "fin": 86,
+      "pas": 78,
+      "dri": 89,
+      "def": 33,
+      "fis": 70
+    },
+    "id": "wc-hungria-1954-mihaly-toth",
+    "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  }
+]

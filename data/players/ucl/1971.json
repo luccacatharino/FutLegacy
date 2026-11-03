@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Johan Cruyff",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 93,
+      "fin": 93,
+      "pas": 96,
+      "dri": 98,
+      "def": 50,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-johan-cruyff",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Piet Keizer",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 93,
+      "fin": 90,
+      "pas": 84,
+      "dri": 95,
+      "def": 46,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-piet-keizer",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Johan Neeskens",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 78,
+      "fin": 76,
+      "pas": 93,
+      "dri": 88,
+      "def": 71,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-johan-neeskens",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Velibor Vasović",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 67,
+      "fin": 42,
+      "pas": 71,
+      "dri": 56,
+      "def": 89,
+      "fis": 89
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-velibor-vasovic",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Barry Hulshoff",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 68,
+      "fin": 38,
+      "pas": 67,
+      "dri": 57,
+      "def": 90,
+      "fis": 90
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-barry-hulshoff",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gerrie Mühren",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 78,
+      "fin": 76,
+      "pas": 88,
+      "dri": 83,
+      "def": 71,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-gerrie-muhren",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sjaak Swart",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 91,
+      "fin": 88,
+      "pas": 82,
+      "dri": 88,
+      "def": 39,
+      "fis": 70
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-sjaak-swart",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Wim Suurbier",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 87,
+      "fin": 57,
+      "pas": 75,
+      "dri": 76,
+      "def": 79,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-wim-suurbier",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Arie Haan",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 71,
+      "fin": 60,
+      "pas": 81,
+      "dri": 72,
+      "def": 85,
+      "fis": 84
+    },
+    "starter": false,
+    "id": "ucl-ajax-1971-arie-haan",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Dick van Dijk",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 85,
+      "fin": 88,
+      "pas": 67,
+      "dri": 80,
+      "def": 38,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-dick-van-dijk",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Heinz Stuy",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 58,
+      "dri": 31,
+      "def": 18,
+      "fis": 73,
+      "ref": 86,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 68,
+      "one": 82
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-heinz-stuy",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Horst Blankenburg",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 62,
+      "fin": 37,
+      "pas": 66,
+      "dri": 51,
+      "def": 84,
+      "fis": 84
+    },
+    "starter": false,
+    "id": "ucl-ajax-1971-horst-blankenburg",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nico Rijnders",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 65,
+      "fin": 54,
+      "pas": 80,
+      "dri": 71,
+      "def": 84,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-ajax-1971-nico-rijnders",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ruud Suurendonk",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 59,
+      "fin": 48,
+      "pas": 74,
+      "dri": 65,
+      "def": 78,
+      "fis": 72
+    },
+    "starter": false,
+    "id": "ucl-ajax-1971-ruud-suurendonk",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sies Wever",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 73,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 48,
+      "dri": 31,
+      "def": 18,
+      "fis": 63,
+      "ref": 76,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 58,
+      "one": 72
+    },
+    "starter": false,
+    "id": "ucl-ajax-1971-sies-wever",
+    "team": "Ajax",
+    "year": 1971,
+    "comp": "ucl"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Liverpool",
+    "year": 1984,
+    "season": "1983/84",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1984_European_Cup_final",
+    "selectionReason": "Primeira taça, auge de Dalglish/Rush e equipe campeã de Klopp.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 88,
+    "startingXI": [
+      "Bruce Grobbelaar",
+      "Phil Neal",
+      "Mark Lawrenson",
+      "Alan Hansen",
+      "Alan Kennedy",
+      "Sammy Lee",
+      "Craig Johnston",
+      "Graeme Souness",
+      "Ronnie Whelan",
+      "Kenny Dalglish",
+      "Ian Rush"
+    ],
+    "playerIds": [
+      "ucl-liverpool-1984-ian-rush",
+      "ucl-liverpool-1984-kenny-dalglish",
+      "ucl-liverpool-1984-graeme-souness",
+      "ucl-liverpool-1984-alan-hansen",
+      "ucl-liverpool-1984-mark-lawrenson",
+      "ucl-liverpool-1984-phil-neal",
+      "ucl-liverpool-1984-bruce-grobbelaar",
+      "ucl-liverpool-1984-ronnie-whelan",
+      "ucl-liverpool-1984-alan-kennedy",
+      "ucl-liverpool-1984-craig-johnston",
+      "ucl-liverpool-1984-sammy-lee",
+      "ucl-liverpool-1984-steve-nicol",
+      "ucl-liverpool-1984-michael-robinson",
+      "ucl-liverpool-1984-gary-gillespie",
+      "ucl-liverpool-1984-david-hodgson",
+      "ucl-liverpool-1984-bob-bolder"
+    ]
+  }
+]

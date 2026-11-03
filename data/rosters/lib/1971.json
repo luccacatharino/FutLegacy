@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Nacional",
+    "year": 1971,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 87,
+    "selectionReason": "Possui exatamente três títulos: 1971, 1980 e 1988. Todos são obrigatórios.",
+    "startingXI": [
+      "Manga",
+      "Luis Ubiña",
+      "Atilio Ancheta",
+      "Juan Masnik",
+      "Juan Carlos Blanco",
+      "Julio Montero Castillo",
+      "Víctor Espárrago",
+      "Ildo Maneiro",
+      "Luis Cubilla",
+      "Luis Artime",
+      "Julio C. Morales"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-nacional-1971-manga",
+      "lib-nacional-1971-luis-ubina",
+      "lib-nacional-1971-atilio-ancheta",
+      "lib-nacional-1971-juan-masnik",
+      "lib-nacional-1971-juan-carlos-blanco",
+      "lib-nacional-1971-julio-montero-castillo",
+      "lib-nacional-1971-victor-esparrago",
+      "lib-nacional-1971-ildo-maneiro",
+      "lib-nacional-1971-luis-cubilla",
+      "lib-nacional-1971-luis-artime",
+      "lib-nacional-1971-julio-c-morales",
+      "lib-nacional-1971-juan-mujica",
+      "lib-nacional-1971-ignacio-prieto",
+      "lib-nacional-1971-ruben-bareno",
+      "lib-nacional-1971-juan-carlos-mamelli"
+    ]
+  }
+]

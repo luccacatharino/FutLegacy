@@ -1,0 +1,46 @@
+[
+  {
+    "name": "PSV",
+    "year": 1988,
+    "season": "1987/88",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1988_European_Cup_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Hans van Breukelen",
+      "Eric Gerets",
+      "Ivan Nielsen",
+      "Ronald Koeman",
+      "Jan Heintze",
+      "Søren Lerby",
+      "Berry van Aerle",
+      "Gerald Vanenburg",
+      "Edward Linskens",
+      "Wim Kieft",
+      "Hans Gillhaus"
+    ],
+    "playerIds": [
+      "ucl-psv-1988-ronald-koeman",
+      "ucl-psv-1988-gerald-vanenburg",
+      "ucl-psv-1988-hans-van-breukelen",
+      "ucl-psv-1988-s-ren-lerby",
+      "ucl-psv-1988-eric-gerets",
+      "ucl-psv-1988-wim-kieft",
+      "ucl-psv-1988-berry-van-aerle",
+      "ucl-psv-1988-jan-heintze",
+      "ucl-psv-1988-ivan-nielsen",
+      "ucl-psv-1988-hans-gillhaus",
+      "ucl-psv-1988-willy-van-de-kerkhof",
+      "ucl-psv-1988-edward-linskens",
+      "ucl-psv-1988-adick-koot",
+      "ucl-psv-1988-anton-janssen",
+      "ucl-psv-1988-eric-viscaal",
+      "ucl-psv-1988-patrick-lodewijks"
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Ronald Koeman",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 64,
+      "fin": 87,
+      "pas": 96,
+      "dri": 79,
+      "def": 95,
+      "fis": 93
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-ronald-koeman",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gerald Vanenburg",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 91,
+      "fin": 81,
+      "pas": 87,
+      "dri": 92,
+      "def": 64,
+      "fis": 74
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-gerald-vanenburg",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Hans van Breukelen",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 62,
+      "dri": 27,
+      "def": 18,
+      "fis": 81,
+      "ref": 90,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 72,
+      "one": 90
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-hans-van-breukelen",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Søren Lerby",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 74,
+      "fin": 85,
+      "pas": 92,
+      "dri": 84,
+      "def": 84,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-s-ren-lerby",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Eric Gerets",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 91,
+      "fin": 56,
+      "pas": 79,
+      "dri": 80,
+      "def": 83,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-eric-gerets",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Wim Kieft",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 87,
+      "fin": 95,
+      "pas": 74,
+      "dri": 82,
+      "def": 40,
+      "fis": 86
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-wim-kieft",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Berry van Aerle",
+    "positions": [
+      "LD",
+      "MD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 88,
+      "fin": 53,
+      "pas": 76,
+      "dri": 77,
+      "def": 80,
+      "fis": 79
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-berry-van-aerle",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jan Heintze",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 85,
+      "fin": 55,
+      "pas": 78,
+      "dri": 74,
+      "def": 77,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-jan-heintze",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ivan Nielsen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 61,
+      "fin": 36,
+      "pas": 65,
+      "dri": 55,
+      "def": 88,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-ivan-nielsen",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Hans Gillhaus",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 82,
+      "fin": 90,
+      "pas": 64,
+      "dri": 77,
+      "def": 35,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-hans-gillhaus",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Willy van de Kerkhof",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 72,
+      "fin": 70,
+      "pas": 87,
+      "dri": 77,
+      "def": 65,
+      "fis": 72
+    },
+    "starter": false,
+    "id": "ucl-psv-1988-willy-van-de-kerkhof",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Edward Linskens",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 68,
+      "fin": 66,
+      "pas": 83,
+      "dri": 78,
+      "def": 61,
+      "fis": 68
+    },
+    "starter": true,
+    "id": "ucl-psv-1988-edward-linskens",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Adick Koot",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 57,
+      "dri": 47,
+      "def": 80,
+      "fis": 80
+    },
+    "starter": false,
+    "id": "ucl-psv-1988-adick-koot",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Anton Janssen",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 66,
+      "fin": 64,
+      "pas": 81,
+      "dri": 76,
+      "def": 59,
+      "fis": 66
+    },
+    "starter": false,
+    "id": "ucl-psv-1988-anton-janssen",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Eric Viscaal",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 72,
+      "fin": 80,
+      "pas": 59,
+      "dri": 72,
+      "def": 30,
+      "fis": 71
+    },
+    "starter": false,
+    "id": "ucl-psv-1988-eric-viscaal",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  },
+  {
+    "name": "Patrick Lodewijks",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 73,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 44,
+      "dri": 27,
+      "def": 18,
+      "fis": 63,
+      "ref": 72,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 54,
+      "one": 72
+    },
+    "starter": false,
+    "id": "ucl-psv-1988-patrick-lodewijks",
+    "team": "PSV",
+    "year": 1988,
+    "comp": "ucl"
+  }
+]

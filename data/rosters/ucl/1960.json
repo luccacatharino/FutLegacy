@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Real Madrid",
+    "year": 1960,
+    "season": "1959/60",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1960_European_Cup_final",
+    "selectionReason": "Três picos distintos: ataque de Di Stéfano/Puskás, título de Zidane e domínio de 2017.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Rogelio Domínguez",
+      "Marquitos",
+      "Pachín",
+      "José María Vidal",
+      "José Santamaría",
+      "José María Zárraga",
+      "Canário",
+      "Luis del Sol",
+      "Alfredo Di Stéfano",
+      "Ferenc Puskás",
+      "Paco Gento"
+    ],
+    "playerIds": [
+      "ucl-real-madrid-1960-alfredo-di-stefano",
+      "ucl-real-madrid-1960-ferenc-puskas",
+      "ucl-real-madrid-1960-paco-gento",
+      "ucl-real-madrid-1960-jose-santamaria",
+      "ucl-real-madrid-1960-luis-del-sol",
+      "ucl-real-madrid-1960-marquitos",
+      "ucl-real-madrid-1960-jose-maria-zarraga",
+      "ucl-real-madrid-1960-rogelio-dominguez",
+      "ucl-real-madrid-1960-canario",
+      "ucl-real-madrid-1960-jose-maria-vidal",
+      "ucl-real-madrid-1960-pachin"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Liverpool",
+    "year": 1977,
+    "season": "1976/77",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1977_European_Cup_final",
+    "selectionReason": "Primeira taça, auge de Dalglish/Rush e equipe campeã de Klopp.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 86,
+    "startingXI": [
+      "Ray Clemence",
+      "Phil Neal",
+      "Joey Jones",
+      "Tommy Smith",
+      "Ray Kennedy",
+      "Emlyn Hughes",
+      "Kevin Keegan",
+      "Jimmy Case",
+      "Steve Heighway",
+      "Ian Callaghan",
+      "Terry McDermott"
+    ],
+    "playerIds": [
+      "ucl-liverpool-1977-kevin-keegan",
+      "ucl-liverpool-1977-ray-clemence",
+      "ucl-liverpool-1977-emlyn-hughes",
+      "ucl-liverpool-1977-terry-mcdermott",
+      "ucl-liverpool-1977-ray-kennedy",
+      "ucl-liverpool-1977-steve-heighway",
+      "ucl-liverpool-1977-ian-callaghan",
+      "ucl-liverpool-1977-phil-neal",
+      "ucl-liverpool-1977-tommy-smith",
+      "ucl-liverpool-1977-jimmy-case",
+      "ucl-liverpool-1977-david-fairclough",
+      "ucl-liverpool-1977-alec-lindsay",
+      "ucl-liverpool-1977-david-johnson",
+      "ucl-liverpool-1977-joey-jones",
+      "ucl-liverpool-1977-alan-waddle",
+      "ucl-liverpool-1977-peter-mcdonnell"
+    ]
+  }
+]

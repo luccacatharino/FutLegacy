@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Alfredo Di Stéfano",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 88,
+      "fin": 96,
+      "pas": 93,
+      "dri": 95,
+      "def": 66,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-alfredo-di-stefano",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ferenc Puskás",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 80,
+      "fin": 98,
+      "pas": 91,
+      "dri": 92,
+      "def": 38,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-ferenc-puskas",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paco Gento",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 98,
+      "fin": 83,
+      "pas": 85,
+      "dri": 94,
+      "def": 35,
+      "fis": 73
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-paco-gento",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Santamaría",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 69,
+      "fin": 39,
+      "pas": 68,
+      "dri": 58,
+      "def": 91,
+      "fis": 91
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-jose-santamaria",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "Luis del Sol",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 77,
+      "fin": 75,
+      "pas": 92,
+      "dri": 82,
+      "def": 70,
+      "fis": 77
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-luis-del-sol",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "Marquitos",
+    "positions": [
+      "ZAG",
+      "LD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 62,
+      "fin": 37,
+      "pas": 66,
+      "dri": 56,
+      "def": 84,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-marquitos",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "José María Zárraga",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 66,
+      "fin": 55,
+      "pas": 81,
+      "dri": 72,
+      "def": 85,
+      "fis": 79
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-jose-maria-zarraga",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "Rogelio Domínguez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 39,
+      "fin": 12,
+      "pas": 54,
+      "dri": 27,
+      "def": 18,
+      "fis": 73,
+      "ref": 82,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 64,
+      "one": 82
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-rogelio-dominguez",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "Canário",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 85,
+      "fin": 82,
+      "pas": 76,
+      "dri": 87,
+      "def": 33,
+      "fis": 64
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-canario",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "José María Vidal",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 68,
+      "fin": 57,
+      "pas": 78,
+      "dri": 69,
+      "def": 82,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-jose-maria-vidal",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pachín",
+    "positions": [
+      "ZAG",
+      "LE"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 61,
+      "fin": 36,
+      "pas": 65,
+      "dri": 50,
+      "def": 83,
+      "fis": 83
+    },
+    "starter": true,
+    "id": "ucl-real-madrid-1960-pachin",
+    "team": "Real Madrid",
+    "year": 1960,
+    "comp": "ucl"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Nottingham Forest",
+    "year": 1980,
+    "season": "1979/80",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1980_European_Cup_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 86,
+    "startingXI": [
+      "Peter Shilton",
+      "Viv Anderson",
+      "Larry Lloyd",
+      "Kenny Burns",
+      "Frank Gray",
+      "Ian Bowyer",
+      "John McGovern",
+      "Gary Mills",
+      "Martin O'Neill",
+      "John Robertson",
+      "Garry Birtles"
+    ],
+    "playerIds": [
+      "ucl-nottingham-forest-1980-peter-shilton",
+      "ucl-nottingham-forest-1980-john-robertson",
+      "ucl-nottingham-forest-1980-kenny-burns",
+      "ucl-nottingham-forest-1980-garry-birtles",
+      "ucl-nottingham-forest-1980-john-mcgovern",
+      "ucl-nottingham-forest-1980-viv-anderson",
+      "ucl-nottingham-forest-1980-larry-lloyd",
+      "ucl-nottingham-forest-1980-martin-o-neill",
+      "ucl-nottingham-forest-1980-ian-bowyer",
+      "ucl-nottingham-forest-1980-frank-gray",
+      "ucl-nottingham-forest-1980-gary-mills",
+      "ucl-nottingham-forest-1980-david-needham",
+      "ucl-nottingham-forest-1980-john-o-hare",
+      "ucl-nottingham-forest-1980-jimmy-montgomery",
+      "ucl-nottingham-forest-1980-bryn-gunn"
+    ]
+  }
+]

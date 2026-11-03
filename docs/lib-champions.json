@@ -1,0 +1,477 @@
+{
+  "competition": "lib",
+  "through": 2025,
+  "clubs": [
+    {
+      "name": "Independiente",
+      "titleYears": [
+        1964,
+        1965,
+        1972,
+        1973,
+        1974,
+        1975,
+        1984
+      ],
+      "selected": [
+        1964,
+        1973,
+        1984
+      ],
+      "requiredCount": 3,
+      "reason": "1964 representa a primeira conquista e a geração de Santoro/Bernao; 1973 representa a fase do tetracampeonato consecutivo com Bertoni e o jovem Bochini; 1984 reúne Bochini, Marangoni, Giusti e Burruchaga na maturidade. A seleção evita reduzir o clube a três anos seguidos e privilegia três núcleos campeões de qualidade comprovada.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Boca Juniors",
+      "titleYears": [
+        1977,
+        1978,
+        2000,
+        2001,
+        2003,
+        2007
+      ],
+      "selected": [
+        1978,
+        2000,
+        2003
+      ],
+      "requiredCount": 3,
+      "reason": "1978 venceu a final de volta por 4–0, com a base bicampeã; 2000 reúne Riquelme, Palermo, Samuel e Córdoba; 2003 destaca Tevez, Delgado e o núcleo de Bianchi, com 5–1 agregado na final. 2001 e 2007 também seriam escolhas defensáveis; esta seleção editorial pondera domínio coletivo e força das principais peças.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Peñarol",
+      "titleYears": [
+        1960,
+        1961,
+        1966,
+        1982,
+        1987
+      ],
+      "selected": [
+        1960,
+        1966,
+        1982
+      ],
+      "requiredCount": 3,
+      "reason": "1960 é o campeão inaugural com Spencer e Cubilla; 1966 une Mazurkiewicz, Spencer, Rocha e Joya; 1982 é o título da geração de Morena, Olivera e Diogo. São três núcleos fortes distintos, não as três conquistas mais recentes.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "River Plate",
+      "titleYears": [
+        1986,
+        1996,
+        2015,
+        2018
+      ],
+      "selected": [
+        1986,
+        1996,
+        2018
+      ],
+      "requiredCount": 3,
+      "reason": "1986 reúne Pumpido, Ruggeri, Gallego, Alonso e Alzamendi; 1996 acrescenta Francescoli, Crespo e Ortega; 2018 representa o grupo de Gallardo, campeão contra Boca na final. 2015 foi preterido para evitar dois recortes próximos da mesma fase institucional.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Estudiantes",
+      "titleYears": [
+        1968,
+        1969,
+        1970,
+        2009
+      ],
+      "selected": [
+        1968,
+        1970,
+        2009
+      ],
+      "requiredCount": 3,
+      "reason": "1968 é a ruptura continental de Zubeldía; 1970 fecha o tricampeonato, mantendo Verón, Bilardo e Pachamé; 2009 representa a geração de Juan Sebastián Verón e Boselli. 1969 é omitido pelo limite de três, mantendo o início e o fechamento do ciclo tricampeão mais uma geração distinta.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Flamengo",
+      "titleYears": [
+        1981,
+        2019,
+        2022,
+        2025
+      ],
+      "selected": [
+        1981,
+        2019,
+        2022
+      ],
+      "requiredCount": 3,
+      "reason": "1981: Zico artilheiro e núcleo de Júnior, Leandro e Adílio; 2019: ataque e campanha decisivos de Gabriel Barbosa e Bruno Henrique com o meio de Gerson/Arrascaeta; 2022: campanha invicta, Pedro artilheiro, forte jogo coletivo e Arrascaeta. O título de 2025 é reconhecido no checklist, mas não incluído devido ao limite de três; a escolha editorial prioriza o domínio da campanha de 2022, a força ofensiva de 2019 e a geração fundadora de 1981.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Palmeiras",
+      "titleYears": [
+        1999,
+        2020,
+        2021
+      ],
+      "selected": [
+        1999,
+        2020,
+        2021
+      ],
+      "requiredCount": 3,
+      "reason": "Possui exatamente três títulos no recorte: 1999, 2020 e 2021. Todos são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Santos",
+      "titleYears": [
+        1962,
+        1963,
+        2011
+      ],
+      "selected": [
+        1962,
+        1963,
+        2011
+      ],
+      "requiredCount": 3,
+      "reason": "Possui exatamente três títulos: 1962, 1963 e 2011. Todos são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "São Paulo",
+      "titleYears": [
+        1992,
+        1993,
+        2005
+      ],
+      "selected": [
+        1992,
+        1993,
+        2005
+      ],
+      "requiredCount": 3,
+      "reason": "Possui exatamente três títulos: 1992, 1993 e 2005. Todos são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Grêmio",
+      "titleYears": [
+        1983,
+        1995,
+        2017
+      ],
+      "selected": [
+        1983,
+        1995,
+        2017
+      ],
+      "requiredCount": 3,
+      "reason": "Possui exatamente três títulos: 1983, 1995 e 2017. Todos são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Nacional",
+      "titleYears": [
+        1971,
+        1980,
+        1988
+      ],
+      "selected": [
+        1971,
+        1980,
+        1988
+      ],
+      "requiredCount": 3,
+      "reason": "Possui exatamente três títulos: 1971, 1980 e 1988. Todos são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Olimpia",
+      "titleYears": [
+        1979,
+        1990,
+        2002
+      ],
+      "selected": [
+        1979,
+        1990,
+        2002
+      ],
+      "requiredCount": 3,
+      "reason": "Possui exatamente três títulos: 1979, 1990 e 2002. Todos são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Cruzeiro",
+      "titleYears": [
+        1976,
+        1997
+      ],
+      "selected": [
+        1976,
+        1997
+      ],
+      "requiredCount": 2,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Internacional",
+      "titleYears": [
+        2006,
+        2010
+      ],
+      "selected": [
+        2006,
+        2010
+      ],
+      "requiredCount": 2,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Atlético Nacional",
+      "titleYears": [
+        1989,
+        2016
+      ],
+      "selected": [
+        1989,
+        2016
+      ],
+      "requiredCount": 2,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Racing",
+      "titleYears": [
+        1967
+      ],
+      "selected": [
+        1967
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Argentinos Juniors",
+      "titleYears": [
+        1985
+      ],
+      "selected": [
+        1985
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Colo-Colo",
+      "titleYears": [
+        1991
+      ],
+      "selected": [
+        1991
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Vélez Sarsfield",
+      "titleYears": [
+        1994
+      ],
+      "selected": [
+        1994
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Vasco",
+      "titleYears": [
+        1998
+      ],
+      "selected": [
+        1998
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Once Caldas",
+      "titleYears": [
+        2004
+      ],
+      "selected": [
+        2004
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "LDU Quito",
+      "titleYears": [
+        2008
+      ],
+      "selected": [
+        2008
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Corinthians",
+      "titleYears": [
+        2012
+      ],
+      "selected": [
+        2012
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Atlético-MG",
+      "titleYears": [
+        2013
+      ],
+      "selected": [
+        2013
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "San Lorenzo",
+      "titleYears": [
+        2014
+      ],
+      "selected": [
+        2014
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Fluminense",
+      "titleYears": [
+        2023
+      ],
+      "selected": [
+        2023
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    },
+    {
+      "name": "Botafogo",
+      "titleYears": [
+        2024
+      ],
+      "selected": [
+        2024
+      ],
+      "requiredCount": 1,
+      "reason": "Todos os títulos do clube no recorte são obrigatórios.",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/List_of_Copa_Libertadores_finals",
+        "https://www.rsssf.org/sacups/copalib.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Miguel Ángel Santoro",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 48,
+      "fin": 16,
+      "pas": 63,
+      "dri": 26,
+      "def": 22,
+      "fis": 80,
+      "ref": 90,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 76,
+      "one": 88
+    },
+    "sourceName": "Miguel Ángel Santoro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Ángel_Santoro",
+    "id": "lib-independiente-1964-miguel-angel-santoro",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan C. Guzmán",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 77,
+      "fin": 38,
+      "pas": 72,
+      "dri": 69,
+      "def": 70,
+      "fis": 69
+    },
+    "sourceName": "Juan C. Guzmán",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-independiente-1964-juan-c-guzman",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Tomás Rolan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 59,
+      "fin": 27,
+      "pas": 61,
+      "dri": 45,
+      "def": 85,
+      "fis": 84
+    },
+    "sourceName": "Tomás Rolan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-independiente-1964-tomas-rolan",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Ferreiro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 32,
+      "pas": 62,
+      "dri": 44,
+      "def": 85,
+      "fis": 84
+    },
+    "sourceName": "Roberto Ferreiro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Ferreiro",
+    "id": "lib-independiente-1964-roberto-ferreiro",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "David Acevedo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 79,
+      "fin": 40,
+      "pas": 73,
+      "dri": 69,
+      "def": 77,
+      "fis": 74
+    },
+    "sourceName": "David Acevedo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/David_Acevedo",
+    "id": "lib-independiente-1964-david-acevedo",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Maldonado",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 63,
+      "fin": 47,
+      "pas": 78,
+      "dri": 67,
+      "def": 80,
+      "fis": 81
+    },
+    "sourceName": "Jorge Maldonado",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-independiente-1964-jorge-maldonado",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Bernao",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 91,
+      "fin": 80,
+      "pas": 81,
+      "dri": 91,
+      "def": 35,
+      "fis": 70
+    },
+    "sourceName": "Raúl Bernao",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raúl_Bernao",
+    "id": "lib-independiente-1964-raul-bernao",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Pedro Prospitti",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 81,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 68,
+      "fin": 71,
+      "pas": 81,
+      "dri": 83,
+      "def": 32,
+      "fis": 60
+    },
+    "sourceName": "Pedro Prospitti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Pedro_Prospitti",
+    "id": "lib-independiente-1964-pedro-prospitti",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Suárez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 73,
+      "fin": 85,
+      "pas": 60,
+      "dri": 72,
+      "def": 25,
+      "fis": 76
+    },
+    "sourceName": "Luis Suárez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Suárez_(footballer,_born_1938)",
+    "id": "lib-independiente-1964-luis-suarez",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario Rodríguez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 79,
+      "fin": 91,
+      "pas": 65,
+      "dri": 77,
+      "def": 31,
+      "fis": 81
+    },
+    "sourceName": "Mario Rodríguez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mario_Rodríguez_(Argentine_footballer)",
+    "id": "lib-independiente-1964-mario-rodriguez",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Savoy",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 83,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 84,
+      "fin": 75,
+      "pas": 75,
+      "dri": 88,
+      "def": 31,
+      "fis": 65
+    },
+    "sourceName": "Raúl Savoy",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raúl_Savoy",
+    "id": "lib-independiente-1964-raul-savoy",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Zerrillo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 76,
+      "fin": 40,
+      "pas": 71,
+      "dri": 68,
+      "def": 73,
+      "fis": 69
+    },
+    "sourceName": "Héctor Zerrillo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "starting": false,
+    "id": "lib-independiente-1964-hector-zerrillo",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  },
+  {
+    "name": "Osvaldo Mura",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 72,
+      "fin": 73,
+      "pas": 86,
+      "dri": 83,
+      "def": 34,
+      "fis": 64
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Osvaldo Mura",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals",
+    "id": "lib-independiente-1964-osvaldo-mura",
+    "team": "Independiente",
+    "year": 1964,
+    "comp": "lib"
+  }
+]

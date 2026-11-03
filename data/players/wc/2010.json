@@ -1,0 +1,664 @@
+[
+  {
+    "name": "Iker Casillas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 82,
+      "dri": 48,
+      "def": 34,
+      "fis": 87,
+      "ref": 99,
+      "han": 96,
+      "pos": 97,
+      "div": 98,
+      "kic": 82,
+      "one": 95
+    },
+    "id": "wc-espanha-2010-iker-casillas",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Sergio Ramos",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 95,
+      "fin": 69,
+      "pas": 86,
+      "dri": 90,
+      "def": 94,
+      "fis": 86
+    },
+    "id": "wc-espanha-2010-sergio-ramos",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gerard Piqué",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 76,
+      "fin": 59,
+      "pas": 76,
+      "dri": 64,
+      "def": 94,
+      "fis": 95
+    },
+    "id": "wc-espanha-2010-gerard-pique",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Carles Puyol",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 78,
+      "fin": 61,
+      "pas": 78,
+      "dri": 66,
+      "def": 96,
+      "fis": 97
+    },
+    "id": "wc-espanha-2010-carles-puyol",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Joan Capdevila",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 96,
+      "fin": 63,
+      "pas": 87,
+      "dri": 84,
+      "def": 88,
+      "fis": 80
+    },
+    "id": "wc-espanha-2010-joan-capdevila",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Sergio Busquets",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 87,
+      "fin": 70,
+      "pas": 94,
+      "dri": 90,
+      "def": 93,
+      "fis": 93
+    },
+    "id": "wc-espanha-2010-sergio-busquets",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Xabi Alonso",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 90,
+      "fin": 79,
+      "pas": 98,
+      "dri": 97,
+      "def": 76,
+      "fis": 87
+    },
+    "id": "wc-espanha-2010-xabi-alonso",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Xavi",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 98,
+    "attrs": {
+      "vel": 72,
+      "fin": 73,
+      "pas": 98,
+      "dri": 91,
+      "def": 78,
+      "fis": 66
+    },
+    "id": "wc-espanha-2010-xavi",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Andrés Iniesta",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 98,
+    "attrs": {
+      "vel": 94,
+      "fin": 96,
+      "pas": 99,
+      "dri": 99,
+      "def": 53,
+      "fis": 83
+    },
+    "id": "wc-espanha-2010-andres-iniesta",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pedro",
+    "positions": [
+      "PD",
+      "PE"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 93,
+      "fin": 91,
+      "pas": 83,
+      "dri": 94,
+      "def": 38,
+      "fis": 75
+    },
+    "id": "wc-espanha-2010-pedro",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "David Villa",
+    "positions": [
+      "ATA",
+      "PE"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 92,
+      "fin": 99,
+      "pas": 81,
+      "dri": 91,
+      "def": 45,
+      "fis": 93
+    },
+    "id": "wc-espanha-2010-david-villa",
+    "team": "Espanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Maarten Stekelenburg",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 70,
+      "dri": 43,
+      "def": 29,
+      "fis": 82,
+      "ref": 94,
+      "han": 90,
+      "pos": 91,
+      "div": 92,
+      "kic": 76,
+      "one": 89
+    },
+    "id": "wc-paises-baixos-2010-maarten-stekelenburg",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gregory van der Wiel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 91,
+      "fin": 65,
+      "pas": 82,
+      "dri": 86,
+      "def": 83,
+      "fis": 82
+    },
+    "id": "wc-paises-baixos-2010-gregory-van-der-wiel",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "John Heitinga",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 68,
+      "fin": 51,
+      "pas": 68,
+      "dri": 56,
+      "def": 93,
+      "fis": 87
+    },
+    "id": "wc-paises-baixos-2010-john-heitinga",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Joris Mathijsen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 73,
+      "fin": 49,
+      "pas": 73,
+      "dri": 54,
+      "def": 91,
+      "fis": 92
+    },
+    "id": "wc-paises-baixos-2010-joris-mathijsen",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Giovanni van Bronckhorst",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 94,
+      "fin": 68,
+      "pas": 85,
+      "dri": 89,
+      "def": 86,
+      "fis": 85
+    },
+    "id": "wc-paises-baixos-2010-giovanni-van-bronckhorst",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Nigel de Jong",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 81,
+      "fin": 71,
+      "pas": 88,
+      "dri": 84,
+      "def": 87,
+      "fis": 87
+    },
+    "id": "wc-paises-baixos-2010-nigel-de-jong",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Mark van Bommel",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 82,
+      "fin": 72,
+      "pas": 89,
+      "dri": 85,
+      "def": 88,
+      "fis": 88
+    },
+    "id": "wc-paises-baixos-2010-mark-van-bommel",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Arjen Robben",
+    "positions": [
+      "PD",
+      "PE"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 98,
+      "fin": 96,
+      "pas": 88,
+      "dri": 99,
+      "def": 50,
+      "fis": 80
+    },
+    "id": "wc-paises-baixos-2010-arjen-robben",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Wesley Sneijder",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 92,
+      "fin": 94,
+      "pas": 98,
+      "dri": 99,
+      "def": 58,
+      "fis": 81
+    },
+    "id": "wc-paises-baixos-2010-wesley-sneijder",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Dirk Kuyt",
+    "positions": [
+      "PE",
+      "ATA",
+      "MD"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 94,
+      "fin": 92,
+      "pas": 84,
+      "dri": 95,
+      "def": 46,
+      "fis": 76
+    },
+    "id": "wc-paises-baixos-2010-dirk-kuyt",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Robin van Persie",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 89,
+      "fin": 91,
+      "pas": 78,
+      "dri": 81,
+      "def": 42,
+      "fis": 83
+    },
+    "id": "wc-paises-baixos-2010-robin-van-persie",
+    "team": "Países Baixos",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Richard Kingson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 74,
+      "dri": 40,
+      "def": 26,
+      "fis": 79,
+      "ref": 93,
+      "han": 89,
+      "pos": 90,
+      "div": 91,
+      "kic": 75,
+      "one": 88
+    },
+    "id": "wc-gana-2010-richard-kingson",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "John Pantsil",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 87,
+      "fin": 61,
+      "pas": 85,
+      "dri": 82,
+      "def": 86,
+      "fis": 78
+    },
+    "id": "wc-gana-2010-john-pantsil",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "John Mensah",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 76,
+      "fin": 52,
+      "pas": 76,
+      "dri": 57,
+      "def": 94,
+      "fis": 88
+    },
+    "id": "wc-gana-2010-john-mensah",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Isaac Vorsah",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 73,
+      "fin": 49,
+      "pas": 73,
+      "dri": 54,
+      "def": 91,
+      "fis": 85
+    },
+    "id": "wc-gana-2010-isaac-vorsah",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Hans Sarpei",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 89,
+      "fin": 63,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
+    },
+    "id": "wc-gana-2010-hans-sarpei",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Anthony Annan",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 79,
+      "fin": 69,
+      "pas": 86,
+      "dri": 82,
+      "def": 92,
+      "fis": 85
+    },
+    "id": "wc-gana-2010-anthony-annan",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kevin-Prince Boateng",
+    "positions": [
+      "MC",
+      "MEI"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 86,
+      "fin": 82,
+      "pas": 94,
+      "dri": 93,
+      "def": 72,
+      "fis": 83
+    },
+    "id": "wc-gana-2010-kevin-prince-boateng",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kwadwo Asamoah",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 83,
+      "fin": 79,
+      "pas": 98,
+      "dri": 90,
+      "def": 76,
+      "fis": 80
+    },
+    "id": "wc-gana-2010-kwadwo-asamoah",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Sulley Muntari",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 87,
+      "fin": 76,
+      "pas": 95,
+      "dri": 87,
+      "def": 73,
+      "fis": 77
+    },
+    "id": "wc-gana-2010-sulley-muntari",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "André Ayew",
+    "positions": [
+      "PE",
+      "ME"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 95,
+      "fin": 93,
+      "pas": 85,
+      "dri": 96,
+      "def": 40,
+      "fis": 77
+    },
+    "id": "wc-gana-2010-andre-ayew",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Asamoah Gyan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 89,
+      "fin": 98,
+      "pas": 78,
+      "dri": 88,
+      "def": 42,
+      "fis": 90
+    },
+    "id": "wc-gana-2010-asamoah-gyan",
+    "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  }
+]

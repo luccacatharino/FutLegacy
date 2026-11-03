@@ -1,0 +1,395 @@
+[
+  {
+    "name": "Germán Burgos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 61,
+      "dri": 26,
+      "def": 22,
+      "fis": 80,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Germán Burgos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Germán_Burgos",
+    "id": "lib-river-plate-1996-german-burgos",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Hernán Díaz",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 84,
+      "fin": 44,
+      "pas": 78,
+      "dri": 74,
+      "def": 76,
+      "fis": 76
+    },
+    "sourceName": "Hernán Díaz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hernán_Díaz",
+    "id": "lib-river-plate-1996-hernan-diaz",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Celso Ayala",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 65,
+      "fin": 33,
+      "pas": 66,
+      "dri": 49,
+      "def": 91,
+      "fis": 91
+    },
+    "sourceName": "Celso Ayala",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Celso_Ayala",
+    "id": "lib-river-plate-1996-celso-ayala",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Guillermo Rivarola",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 31,
+      "pas": 62,
+      "dri": 45,
+      "def": 85,
+      "fis": 84
+    },
+    "sourceName": "Guillermo Rivarola",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Guillermo_Rivarola",
+    "id": "lib-river-plate-1996-guillermo-rivarola",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardo Altamirano",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 79,
+      "fin": 44,
+      "pas": 74,
+      "dri": 72,
+      "def": 77,
+      "fis": 75
+    },
+    "sourceName": "Ricardo Altamirano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ricardo_Altamirano",
+    "id": "lib-river-plate-1996-ricardo-altamirano",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Matías Almeyda",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 71,
+      "fin": 52,
+      "pas": 86,
+      "dri": 74,
+      "def": 89,
+      "fis": 86
+    },
+    "sourceName": "Matías Almeyda",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Matías_Almeyda",
+    "id": "lib-river-plate-1996-matias-almeyda",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Leonardo Astrada",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 68,
+      "fin": 52,
+      "pas": 83,
+      "dri": 70,
+      "def": 85,
+      "fis": 83
+    },
+    "sourceName": "Leonardo Astrada",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leonardo_Astrada",
+    "id": "lib-river-plate-1996-leonardo-astrada",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Pablo Sorín",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 84,
+      "fin": 63,
+      "pas": 84,
+      "dri": 80,
+      "def": 64,
+      "fis": 74
+    },
+    "sourceName": "Juan Pablo Sorín",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Pablo_Sorín",
+    "id": "lib-river-plate-1996-juan-pablo-sorin",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Ariel Ortega",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 93,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 81,
+      "fin": 84,
+      "pas": 95,
+      "dri": 93,
+      "def": 45,
+      "fis": 73
+    },
+    "sourceName": "Ariel Ortega",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ariel_Ortega",
+    "id": "lib-river-plate-1996-ariel-ortega",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Hernán Crespo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 88,
+      "fin": 98,
+      "pas": 74,
+      "dri": 86,
+      "def": 37,
+      "fis": 92
+    },
+    "sourceName": "Hernán Crespo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hernán_Crespo",
+    "id": "lib-river-plate-1996-hernan-crespo",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Enzo Francescoli",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 94,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 82,
+      "fin": 86,
+      "pas": 95,
+      "dri": 97,
+      "def": 47,
+      "fis": 77
+    },
+    "sourceName": "Enzo Francescoli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Enzo_Francescoli",
+    "id": "lib-river-plate-1996-enzo-francescoli",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Pablo Lavallén",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 70,
+      "def": 74,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Pablo Lavallén",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Pablo_Lavallén",
+    "id": "lib-river-plate-1996-pablo-lavallen",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Gallardo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 80,
+      "fin": 81,
+      "pas": 94,
+      "dri": 91,
+      "def": 42,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Marcelo Gallardo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_Gallardo",
+    "id": "lib-river-plate-1996-marcelo-gallardo",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Andrés Gómez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 65,
+      "fin": 58,
+      "pas": 78,
+      "dri": 72,
+      "def": 59,
+      "fis": 67
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Juan Andrés Gómez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Gómez_(footballer,_born_1971)",
+    "id": "lib-river-plate-1996-juan-andres-gomez",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Escudero",
+    "positions": [
+      "MD",
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 82,
+      "fin": 66,
+      "pas": 82,
+      "dri": 80,
+      "def": 61,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Marcelo Escudero",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marcelo_Escudero",
+    "id": "lib-river-plate-1996-marcelo-escudero",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  },
+  {
+    "name": "Gabriel Cedrés",
+    "positions": [
+      "MD",
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 81,
+      "fin": 65,
+      "pas": 81,
+      "dri": 79,
+      "def": 60,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Gabriel Cedrés",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gabriel_Cedrés",
+    "id": "lib-river-plate-1996-gabriel-cedres",
+    "team": "River Plate",
+    "year": 1996,
+    "comp": "lib"
+  }
+]

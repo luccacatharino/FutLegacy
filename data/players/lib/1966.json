@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Ladislao Mazurkiewicz",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 92,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 50,
+      "fin": 20,
+      "pas": 65,
+      "dri": 29,
+      "def": 27,
+      "fis": 83,
+      "ref": 94,
+      "han": 90,
+      "pos": 92,
+      "div": 93,
+      "kic": 80,
+      "one": 92
+    },
+    "sourceName": "Ladislao Mazurkiewicz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ladislao_Mazurkiewicz",
+    "id": "lib-penarol-1966-ladislao-mazurkiewicz",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Pablo Forlán",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 83,
+      "fin": 46,
+      "pas": 77,
+      "dri": 74,
+      "def": 79,
+      "fis": 77
+    },
+    "sourceName": "Pablo Forlán",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Pablo_Forlán",
+    "id": "lib-penarol-1966-pablo-forlan",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Lezcano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 61,
+      "fin": 34,
+      "pas": 63,
+      "dri": 46,
+      "def": 87,
+      "fis": 87
+    },
+    "sourceName": "Juan Lezcano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Vicente_Lezcano",
+    "id": "lib-penarol-1966-juan-lezcano",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelson Díaz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 27,
+      "pas": 61,
+      "dri": 45,
+      "def": 85,
+      "fis": 84
+    },
+    "sourceName": "Nelson Díaz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nelson_Díaz_(footballer)",
+    "id": "lib-penarol-1966-nelson-diaz",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Omar Caetano",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 80,
+      "fin": 42,
+      "pas": 74,
+      "dri": 71,
+      "def": 79,
+      "fis": 75
+    },
+    "sourceName": "Omar Caetano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Omar_Caetano",
+    "id": "lib-penarol-1966-omar-caetano",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Gonçalves",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 54,
+      "pas": 84,
+      "dri": 73,
+      "def": 87,
+      "fis": 87
+    },
+    "sourceName": "Néstor Gonçalves",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Gonçalves",
+    "id": "lib-penarol-1966-nestor-goncalves",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio Abbadie",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 87,
+      "fin": 78,
+      "pas": 78,
+      "dri": 89,
+      "def": 34,
+      "fis": 71
+    },
+    "sourceName": "Julio Abbadie",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_Abbadie",
+    "id": "lib-penarol-1966-julio-abbadie",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Pedro Rocha",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 93,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 80,
+      "fin": 83,
+      "pas": 94,
+      "dri": 94,
+      "def": 44,
+      "fis": 74
+    },
+    "sourceName": "Pedro Rocha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Pedro_Rocha_(Uruguayan_footballer)",
+    "id": "lib-penarol-1966-pedro-rocha",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Alberto Spencer",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 85,
+      "fin": 98,
+      "pas": 71,
+      "dri": 82,
+      "def": 38,
+      "fis": 89
+    },
+    "sourceName": "Alberto Spencer",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alberto_Spencer",
+    "id": "lib-penarol-1966-alberto-spencer",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio César Cortés",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 70,
+      "fin": 67,
+      "pas": 85,
+      "dri": 81,
+      "def": 67,
+      "fis": 76
+    },
+    "sourceName": "Julio César Cortés",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_César_Cortés",
+    "id": "lib-penarol-1966-julio-cesar-cortes",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Joya",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 89,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 80,
+      "pas": 79,
+      "dri": 93,
+      "def": 36,
+      "fis": 73
+    },
+    "sourceName": "Juan Joya",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Joya",
+    "id": "lib-penarol-1966-juan-joya",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Silva",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 81,
+      "fin": 90,
+      "pas": 67,
+      "dri": 78,
+      "def": 29,
+      "fis": 83
+    },
+    "sourceName": "Héctor Silva",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Héctor_Silva_(Uruguayan_footballer)",
+    "id": "lib-penarol-1966-hector-silva",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  },
+  {
+    "name": "Tabaré González",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 58,
+      "fin": 28,
+      "pas": 59,
+      "dri": 43,
+      "def": 79,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Tabaré González",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "id": "lib-penarol-1966-tabare-gonzalez",
+    "team": "Peñarol",
+    "year": 1966,
+    "comp": "lib"
+  }
+]

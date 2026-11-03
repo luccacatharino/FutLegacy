@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Borussia Dortmund",
+    "year": 1997,
+    "season": "1996/97",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1997_UEFA_Champions_League_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 89,
+    "startingXI": [
+      "Stefan Klos",
+      "Matthias Sammer",
+      "Jürgen Kohler",
+      "Martin Kree",
+      "Stefan Reuter",
+      "Jörg Heinrich",
+      "Paul Lambert",
+      "Paulo Sousa",
+      "Andreas Möller",
+      "Karl-Heinz Riedle",
+      "Stéphane Chapuisat"
+    ],
+    "playerIds": [
+      "ucl-borussia-dortmund-1997-matthias-sammer",
+      "ucl-borussia-dortmund-1997-andreas-moller",
+      "ucl-borussia-dortmund-1997-jurgen-kohler",
+      "ucl-borussia-dortmund-1997-karl-heinz-riedle",
+      "ucl-borussia-dortmund-1997-stephane-chapuisat",
+      "ucl-borussia-dortmund-1997-jorg-heinrich",
+      "ucl-borussia-dortmund-1997-paul-lambert",
+      "ucl-borussia-dortmund-1997-stefan-klos",
+      "ucl-borussia-dortmund-1997-lars-ricken",
+      "ucl-borussia-dortmund-1997-stefan-reuter",
+      "ucl-borussia-dortmund-1997-paulo-sousa",
+      "ucl-borussia-dortmund-1997-martin-kree",
+      "ucl-borussia-dortmund-1997-michael-zorc",
+      "ucl-borussia-dortmund-1997-heiko-herrlich",
+      "ucl-borussia-dortmund-1997-rene-tretschok",
+      "ucl-borussia-dortmund-1997-wolfgang-de-beer"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Santos",
+    "year": 1962,
+    "comp": "lib",
+    "tier": 3,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1962_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1962_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 89,
+    "selectionReason": "Possui exatamente três títulos: 1962, 1963 e 2011. Todos são obrigatórios.",
+    "startingXI": [
+      "Gilmar",
+      "Mauro",
+      "Calvet",
+      "Lima",
+      "Zito",
+      "Dalmo",
+      "Dorval",
+      "Mengálvio",
+      "Coutinho",
+      "Pelé",
+      "Pepe"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-santos-1962-gilmar",
+      "lib-santos-1962-mauro",
+      "lib-santos-1962-calvet",
+      "lib-santos-1962-lima",
+      "lib-santos-1962-zito",
+      "lib-santos-1962-dalmo",
+      "lib-santos-1962-dorval",
+      "lib-santos-1962-mengalvio",
+      "lib-santos-1962-coutinho",
+      "lib-santos-1962-pele",
+      "lib-santos-1962-pepe",
+      "lib-santos-1962-pagao"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Juventus",
+    "year": 1996,
+    "season": "1995/96",
+    "comp": "ucl",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1996_UEFA_Champions_League_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 88,
+    "startingXI": [
+      "Angelo Peruzzi",
+      "Moreno Torricelli",
+      "Ciro Ferrara",
+      "Pietro Vierchowod",
+      "Gianluca Pessotto",
+      "Didier Deschamps",
+      "Paulo Sousa",
+      "Antonio Conte",
+      "Fabrizio Ravanelli",
+      "Gianluca Vialli",
+      "Alessandro Del Piero"
+    ],
+    "playerIds": [
+      "ucl-juventus-1996-alessandro-del-piero",
+      "ucl-juventus-1996-ciro-ferrara",
+      "ucl-juventus-1996-gianluca-vialli",
+      "ucl-juventus-1996-angelo-peruzzi",
+      "ucl-juventus-1996-didier-deschamps",
+      "ucl-juventus-1996-fabrizio-ravanelli",
+      "ucl-juventus-1996-paulo-sousa",
+      "ucl-juventus-1996-vladimir-jugovic",
+      "ucl-juventus-1996-antonio-conte",
+      "ucl-juventus-1996-pietro-vierchowod",
+      "ucl-juventus-1996-angelo-di-livio",
+      "ucl-juventus-1996-moreno-torricelli",
+      "ucl-juventus-1996-gianluca-pessotto",
+      "ucl-juventus-1996-michele-padovano",
+      "ucl-juventus-1996-sergio-porrini",
+      "ucl-juventus-1996-michelangelo-rampulla"
+    ]
+  }
+]

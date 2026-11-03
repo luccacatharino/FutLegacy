@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Benfica",
+    "year": 1962,
+    "season": "1961/62",
+    "comp": "ucl",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1962_European_Cup_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 88,
+    "startingXI": [
+      "Costa Pereira",
+      "Mário João",
+      "Germano",
+      "Ângelo Martins",
+      "Domiciano Cavém",
+      "Fernando Cruz",
+      "José Augusto",
+      "Eusébio",
+      "José Águas",
+      "Mário Coluna",
+      "António Simões"
+    ],
+    "playerIds": [
+      "ucl-benfica-1962-eusebio",
+      "ucl-benfica-1962-mario-coluna",
+      "ucl-benfica-1962-jose-aguas",
+      "ucl-benfica-1962-germano",
+      "ucl-benfica-1962-jose-augusto",
+      "ucl-benfica-1962-antonio-simoes",
+      "ucl-benfica-1962-costa-pereira",
+      "ucl-benfica-1962-domiciano-cavem",
+      "ucl-benfica-1962-angelo-martins",
+      "ucl-benfica-1962-fernando-cruz",
+      "ucl-benfica-1962-mario-joao"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bayern",
+    "year": 1974,
+    "season": "1973/74",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1974_European_Cup_final",
+    "selectionReason": "Primeiro título de Beckenbauer e as duas tríplices coroas.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 86,
+    "startingXI": [
+      "Sepp Maier",
+      "Johnny Hansen",
+      "Hans-Georg Schwarzenbeck",
+      "Franz Beckenbauer",
+      "Paul Breitner",
+      "Rainer Zobel",
+      "Jupp Kapellmann",
+      "Franz Roth",
+      "Conny Torstensson",
+      "Uli Hoeneß",
+      "Gerd Müller"
+    ],
+    "playerIds": [
+      "ucl-bayern-1974-gerd-muller",
+      "ucl-bayern-1974-franz-beckenbauer",
+      "ucl-bayern-1974-sepp-maier",
+      "ucl-bayern-1974-paul-breitner",
+      "ucl-bayern-1974-uli-hoene",
+      "ucl-bayern-1974-hans-georg-schwarzenbeck",
+      "ucl-bayern-1974-franz-roth",
+      "ucl-bayern-1974-jupp-kapellmann",
+      "ucl-bayern-1974-conny-torstensson",
+      "ucl-bayern-1974-johnny-hansen",
+      "ucl-bayern-1974-bernd-durnberger",
+      "ucl-bayern-1974-rainer-zobel"
+    ]
+  }
+]

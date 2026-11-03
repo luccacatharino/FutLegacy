@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Liverpool",
+    "year": 2019,
+    "season": "2018/19",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2019_UEFA_Champions_League_final",
+    "selectionReason": "Primeira taça, auge de Dalglish/Rush e equipe campeã de Klopp.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 91,
+    "startingXI": [
+      "Alisson",
+      "Trent Alexander-Arnold",
+      "Joël Matip",
+      "Virgil van Dijk",
+      "Andy Robertson",
+      "Jordan Henderson",
+      "Fabinho",
+      "Georginio Wijnaldum",
+      "Mohamed Salah",
+      "Roberto Firmino",
+      "Sadio Mané"
+    ],
+    "playerIds": [
+      "ucl-liverpool-2019-virgil-van-dijk",
+      "ucl-liverpool-2019-mohamed-salah",
+      "ucl-liverpool-2019-sadio-mane",
+      "ucl-liverpool-2019-alisson",
+      "ucl-liverpool-2019-roberto-firmino",
+      "ucl-liverpool-2019-andy-robertson",
+      "ucl-liverpool-2019-trent-alexander-arnold",
+      "ucl-liverpool-2019-fabinho",
+      "ucl-liverpool-2019-georginio-wijnaldum",
+      "ucl-liverpool-2019-james-milner",
+      "ucl-liverpool-2019-joel-matip",
+      "ucl-liverpool-2019-jordan-henderson",
+      "ucl-liverpool-2019-divock-origi",
+      "ucl-liverpool-2019-joe-gomez",
+      "ucl-liverpool-2019-dejan-lovren",
+      "ucl-liverpool-2019-xherdan-shaqiri",
+      "ucl-liverpool-2019-adam-lallana",
+      "ucl-liverpool-2019-daniel-sturridge",
+      "ucl-liverpool-2019-simon-mignolet",
+      "ucl-liverpool-2019-alex-oxlade-chamberlain",
+      "ucl-liverpool-2019-alberto-moreno",
+      "ucl-liverpool-2019-caoimhin-kelleher",
+      "ucl-liverpool-2019-rhian-brewster"
+    ]
+  }
+]

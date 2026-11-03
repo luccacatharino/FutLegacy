@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Michel Platini",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 80,
+      "fin": 97,
+      "pas": 99,
+      "dri": 96,
+      "def": 43,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-michel-platini",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gaetano Scirea",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 77,
+      "fin": 48,
+      "pas": 90,
+      "dri": 79,
+      "def": 97,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-gaetano-scirea",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Zbigniew Boniek",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 88,
+      "fin": 96,
+      "pas": 75,
+      "dri": 88,
+      "def": 46,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-zbigniew-boniek",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Antonio Cabrini",
+    "positions": [
+      "LE",
+      "ME"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 91,
+      "fin": 61,
+      "pas": 84,
+      "dri": 80,
+      "def": 83,
+      "fis": 82
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-antonio-cabrini",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Marco Tardelli",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 79,
+      "fin": 77,
+      "pas": 94,
+      "dri": 84,
+      "def": 72,
+      "fis": 79
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-marco-tardelli",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Massimo Bonini",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 72,
+      "fin": 61,
+      "pas": 82,
+      "dri": 73,
+      "def": 86,
+      "fis": 85
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-massimo-bonini",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paolo Rossi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 85,
+      "fin": 93,
+      "pas": 67,
+      "dri": 80,
+      "def": 38,
+      "fis": 84
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-paolo-rossi",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Stefano Tacconi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 61,
+      "dri": 31,
+      "def": 18,
+      "fis": 76,
+      "ref": 89,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 71,
+      "one": 85
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-stefano-tacconi",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sergio Brio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 65,
+      "fin": 35,
+      "pas": 64,
+      "dri": 54,
+      "def": 87,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-sergio-brio",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Luciano Favero",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 81,
+      "fin": 51,
+      "pas": 74,
+      "dri": 75,
+      "def": 73,
+      "fis": 72
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-luciano-favero",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Massimo Briaschi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 82,
+      "fin": 72,
+      "pas": 78,
+      "dri": 83,
+      "def": 50,
+      "fis": 65
+    },
+    "starter": true,
+    "id": "ucl-juventus-1985-massimo-briaschi",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Beniamino Vignola",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 72,
+      "fin": 76,
+      "pas": 83,
+      "dri": 84,
+      "def": 40,
+      "fis": 60
+    },
+    "starter": false,
+    "id": "ucl-juventus-1985-beniamino-vignola",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Cesare Prandelli",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 69,
+      "fin": 67,
+      "pas": 79,
+      "dri": 74,
+      "def": 62,
+      "fis": 69
+    },
+    "starter": false,
+    "id": "ucl-juventus-1985-cesare-prandelli",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nicola Caricola",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 57,
+      "fin": 32,
+      "pas": 61,
+      "dri": 46,
+      "def": 79,
+      "fis": 79
+    },
+    "starter": false,
+    "id": "ucl-juventus-1985-nicola-caricola",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Luciano Bodini",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 43,
+      "fin": 12,
+      "pas": 52,
+      "dri": 31,
+      "def": 18,
+      "fis": 67,
+      "ref": 80,
+      "han": 75,
+      "pos": 77,
+      "div": 78,
+      "kic": 62,
+      "one": 76
+    },
+    "starter": false,
+    "id": "ucl-juventus-1985-luciano-bodini",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bruno Limido",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 68,
+      "fin": 61,
+      "pas": 78,
+      "dri": 73,
+      "def": 61,
+      "fis": 68
+    },
+    "starter": false,
+    "id": "ucl-juventus-1985-bruno-limido",
+    "team": "Juventus",
+    "year": 1985,
+    "comp": "ucl"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib",
+    "tier": 0,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 87,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Sebastián Torrico",
+      "Julio Buffarini",
+      "Fabricio Fontanini",
+      "Santiago Gentiletti",
+      "Emmanuel Más",
+      "Héctor Villalba",
+      "Juan Mercier",
+      "Néstor Ortigoza",
+      "Ignacio Piatti",
+      "Leandro Romagnoli",
+      "Mauro Matos"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-san-lorenzo-2014-sebastian-torrico",
+      "lib-san-lorenzo-2014-julio-buffarini",
+      "lib-san-lorenzo-2014-fabricio-fontanini",
+      "lib-san-lorenzo-2014-santiago-gentiletti",
+      "lib-san-lorenzo-2014-emmanuel-mas",
+      "lib-san-lorenzo-2014-hector-villalba",
+      "lib-san-lorenzo-2014-juan-mercier",
+      "lib-san-lorenzo-2014-nestor-ortigoza",
+      "lib-san-lorenzo-2014-ignacio-piatti",
+      "lib-san-lorenzo-2014-leandro-romagnoli",
+      "lib-san-lorenzo-2014-mauro-matos",
+      "lib-san-lorenzo-2014-walter-kannemann",
+      "lib-san-lorenzo-2014-cristian-alvarez",
+      "lib-san-lorenzo-2014-gonzalo-prosperi",
+      "lib-san-lorenzo-2014-enzo-kalinski",
+      "lib-san-lorenzo-2014-pablo-barrientos",
+      "lib-san-lorenzo-2014-gonzalo-veron",
+      "lib-san-lorenzo-2014-martin-cauteruccio",
+      "lib-san-lorenzo-2014-mauro-cetto",
+      "lib-san-lorenzo-2014-nicolas-blandi"
+    ]
+  }
+]

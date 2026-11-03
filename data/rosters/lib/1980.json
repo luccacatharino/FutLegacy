@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Nacional",
+    "year": 1980,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 86,
+    "selectionReason": "Possui exatamente três títulos: 1971, 1980 e 1988. Todos são obrigatórios.",
+    "startingXI": [
+      "Rodolfo Rodríguez",
+      "José H. Moreira",
+      "Juan Carlos Blanco",
+      "Hugo De León",
+      "Washington González",
+      "Víctor Espárrago",
+      "Eduardo de la Peña",
+      "Arsenio Luzardo",
+      "Alberto Bica",
+      "Waldemar Victorino",
+      "Julio César Morales"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-nacional-1980-rodolfo-rodriguez",
+      "lib-nacional-1980-jose-h-moreira",
+      "lib-nacional-1980-juan-carlos-blanco",
+      "lib-nacional-1980-hugo-de-leon",
+      "lib-nacional-1980-washington-gonzalez",
+      "lib-nacional-1980-victor-esparrago",
+      "lib-nacional-1980-eduardo-de-la-pena",
+      "lib-nacional-1980-arsenio-luzardo",
+      "lib-nacional-1980-alberto-bica",
+      "lib-nacional-1980-waldemar-victorino",
+      "lib-nacional-1980-julio-cesar-morales",
+      "lib-nacional-1980-dardo-perez"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Alemanha",
+    "year": 1954,
+    "comp": "wc",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-alemanha-1954-toni-turek",
+      "wc-alemanha-1954-josef-posipal",
+      "wc-alemanha-1954-werner-liebrich",
+      "wc-alemanha-1954-werner-kohlmeyer",
+      "wc-alemanha-1954-horst-eckel",
+      "wc-alemanha-1954-karl-mai",
+      "wc-alemanha-1954-helmut-rahn",
+      "wc-alemanha-1954-max-morlock",
+      "wc-alemanha-1954-ottmar-walter",
+      "wc-alemanha-1954-fritz-walter",
+      "wc-alemanha-1954-hans-schafer"
+    ]
+  },
+  {
+    "name": "Hungria",
+    "year": 1954,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-hungria-1954-gyula-grosics",
+      "wc-hungria-1954-jeno-buzanszky",
+      "wc-hungria-1954-gyula-lorant",
+      "wc-hungria-1954-mihaly-lantos",
+      "wc-hungria-1954-jozsef-bozsik",
+      "wc-hungria-1954-jozsef-zakarias",
+      "wc-hungria-1954-zoltan-czibor",
+      "wc-hungria-1954-sandor-kocsis",
+      "wc-hungria-1954-nandor-hidegkuti",
+      "wc-hungria-1954-ferenc-puskas",
+      "wc-hungria-1954-mihaly-toth"
+    ]
+  }
+]

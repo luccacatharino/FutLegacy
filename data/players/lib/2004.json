@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Juan Henao",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 50,
+      "fin": 20,
+      "pas": 66,
+      "dri": 28,
+      "def": 27,
+      "fis": 85,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Juan Henao",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Henao",
+    "id": "lib-once-caldas-2004-juan-henao",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Rojas",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 76,
+      "fin": 39,
+      "pas": 70,
+      "dri": 69,
+      "def": 72,
+      "fis": 68
+    },
+    "sourceName": "Miguel Rojas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Miguel_Rojas_(footballer)",
+    "id": "lib-once-caldas-2004-miguel-rojas",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Samuel Vanegas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 31,
+      "pas": 61,
+      "dri": 45,
+      "def": 85,
+      "fis": 86
+    },
+    "sourceName": "Samuel Vanegas",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Samuel_Vanegas",
+    "id": "lib-once-caldas-2004-samuel-vanegas",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Édgar Cataño",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 61,
+      "fin": 32,
+      "pas": 63,
+      "dri": 44,
+      "def": 86,
+      "fis": 84
+    },
+    "sourceName": "Édgar Cataño",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-once-caldas-2004-edgar-catano",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "John García",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 73,
+      "fin": 40,
+      "pas": 68,
+      "dri": 67,
+      "def": 72,
+      "fis": 70
+    },
+    "sourceName": "John García",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/John_Edwin_García",
+    "id": "lib-once-caldas-2004-john-garcia",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Jhon Viáfara",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 67,
+      "fin": 48,
+      "pas": 82,
+      "dri": 69,
+      "def": 80,
+      "fis": 82
+    },
+    "sourceName": "Jhon Viáfara",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jhon_Viáfara",
+    "id": "lib-once-caldas-2004-jhon-viafara",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubén Velásquez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 69,
+      "fin": 61,
+      "pas": 85,
+      "dri": 77,
+      "def": 66,
+      "fis": 72
+    },
+    "sourceName": "Rubén Velásquez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rubén_Darío_Velázquez",
+    "id": "lib-once-caldas-2004-ruben-velasquez",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Diego Arango",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 80,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 63,
+      "fin": 46,
+      "pas": 77,
+      "dri": 62,
+      "def": 79,
+      "fis": 76
+    },
+    "sourceName": "Diego Arango",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-once-caldas-2004-diego-arango",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Elkin Soto",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 78,
+      "fin": 79,
+      "pas": 91,
+      "dri": 89,
+      "def": 39,
+      "fis": 68
+    },
+    "sourceName": "Elkin Soto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Elkin_Soto",
+    "id": "lib-once-caldas-2004-elkin-soto",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Arnulfo Valentierra",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 90,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 77,
+      "fin": 80,
+      "pas": 90,
+      "dri": 93,
+      "def": 41,
+      "fis": 72
+    },
+    "sourceName": "Arnulfo Valentierra",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Arnulfo_Valentierra",
+    "id": "lib-once-caldas-2004-arnulfo-valentierra",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Agudelo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 62,
+      "dri": 70,
+      "def": 25,
+      "fis": 77
+    },
+    "sourceName": "Jorge Agudelo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-once-caldas-2004-jorge-agudelo",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Dayro Moreno",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 62,
+      "dri": 73,
+      "def": 25,
+      "fis": 79
+    },
+    "sourceName": "Dayro Moreno",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Dayro_Moreno",
+    "id": "lib-once-caldas-2004-dayro-moreno",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan González",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 35,
+      "fin": 10,
+      "pas": 53,
+      "dri": 20,
+      "def": 13,
+      "fis": 71,
+      "ref": 79,
+      "han": 75,
+      "pos": 77,
+      "div": 78,
+      "kic": 65,
+      "one": 77
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Juan C. González",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Carlos_González",
+    "id": "lib-once-caldas-2004-juan-gonzalez",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Jefrey Díaz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 59,
+      "fin": 29,
+      "pas": 60,
+      "dri": 44,
+      "def": 80,
+      "fis": 81
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Jefrey Díaz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "id": "lib-once-caldas-2004-jefrey-diaz",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Jonathan Fabbro",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 74,
+      "fin": 75,
+      "pas": 88,
+      "dri": 85,
+      "def": 36,
+      "fis": 66
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Jonathan Fabbro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Jonathan_Fabbro",
+    "id": "lib-once-caldas-2004-jonathan-fabbro",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Herly Alcázar",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 75,
+      "fin": 85,
+      "pas": 63,
+      "dri": 73,
+      "def": 29,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Herly Alcázar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Herly_Alcázar",
+    "id": "lib-once-caldas-2004-herly-alcazar",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Marín",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 65,
+      "fin": 58,
+      "pas": 78,
+      "dri": 72,
+      "def": 59,
+      "fis": 67
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Raúl Marín",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "id": "lib-once-caldas-2004-raul-marin",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Javier Araujo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 84,
+      "dri": 81,
+      "def": 32,
+      "fis": 62
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Javier Araujo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Javier_Araujo",
+    "id": "lib-once-caldas-2004-javier-araujo",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  },
+  {
+    "name": "Wilmer Ortegón",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 71,
+      "fin": 81,
+      "pas": 59,
+      "dri": 69,
+      "def": 25,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Wilmer Ortegón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "id": "lib-once-caldas-2004-wilmer-ortegon",
+    "team": "Once Caldas",
+    "year": 2004,
+    "comp": "lib"
+  }
+]

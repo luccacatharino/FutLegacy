@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Steaua Bucareste",
+    "year": 1986,
+    "season": "1985/86",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1986_European_Cup_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 85,
+    "startingXI": [
+      "Helmut Duckadam",
+      "Ștefan Iovan",
+      "Ilie Bărbulescu",
+      "Adrian Bumbescu",
+      "Lucian Bălan",
+      "Miodrag Belodedici",
+      "Marius Lăcătuș",
+      "Mihail Majearu",
+      "Victor Pițurcă",
+      "Gabi Balint",
+      "László Bölöni"
+    ],
+    "playerIds": [
+      "ucl-steaua-bucareste-1986-helmut-duckadam",
+      "ucl-steaua-bucareste-1986-miodrag-belodedici",
+      "ucl-steaua-bucareste-1986-marius-lacatus",
+      "ucl-steaua-bucareste-1986-laszlo-boloni",
+      "ucl-steaua-bucareste-1986-victor-piturca",
+      "ucl-steaua-bucareste-1986-gabi-balint",
+      "ucl-steaua-bucareste-1986-adrian-bumbescu",
+      "ucl-steaua-bucareste-1986-stefan-iovan",
+      "ucl-steaua-bucareste-1986-mihail-majearu",
+      "ucl-steaua-bucareste-1986-ilie-barbulescu",
+      "ucl-steaua-bucareste-1986-anghel-iordanescu",
+      "ucl-steaua-bucareste-1986-lucian-balan",
+      "ucl-steaua-bucareste-1986-marin-radu"
+    ]
+  }
+]

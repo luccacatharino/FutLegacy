@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Juventus",
+    "year": 1985,
+    "season": "1984/85",
+    "comp": "ucl",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1985_European_Cup_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 88,
+    "startingXI": [
+      "Stefano Tacconi",
+      "Luciano Favero",
+      "Antonio Cabrini",
+      "Massimo Bonini",
+      "Sergio Brio",
+      "Gaetano Scirea",
+      "Massimo Briaschi",
+      "Marco Tardelli",
+      "Paolo Rossi",
+      "Michel Platini",
+      "Zbigniew Boniek"
+    ],
+    "playerIds": [
+      "ucl-juventus-1985-michel-platini",
+      "ucl-juventus-1985-gaetano-scirea",
+      "ucl-juventus-1985-zbigniew-boniek",
+      "ucl-juventus-1985-antonio-cabrini",
+      "ucl-juventus-1985-marco-tardelli",
+      "ucl-juventus-1985-massimo-bonini",
+      "ucl-juventus-1985-paolo-rossi",
+      "ucl-juventus-1985-stefano-tacconi",
+      "ucl-juventus-1985-sergio-brio",
+      "ucl-juventus-1985-luciano-favero",
+      "ucl-juventus-1985-massimo-briaschi",
+      "ucl-juventus-1985-beniamino-vignola",
+      "ucl-juventus-1985-cesare-prandelli",
+      "ucl-juventus-1985-nicola-caricola",
+      "ucl-juventus-1985-luciano-bodini",
+      "ucl-juventus-1985-bruno-limido"
+    ]
+  }
+]

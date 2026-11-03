@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Palmeiras",
+    "year": 2020,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 86,
+    "selectionReason": "Possui exatamente três títulos no recorte: 1999, 2020 e 2021. Todos são obrigatórios.",
+    "startingXI": [
+      "Weverton",
+      "Marcos Rocha",
+      "Luan",
+      "Gustavo Gómez",
+      "Matías Viña",
+      "Danilo",
+      "Gabriel Menino",
+      "Zé Rafael",
+      "Raphael Veiga",
+      "Luiz Adriano",
+      "Rony"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-palmeiras-2020-weverton",
+      "lib-palmeiras-2020-marcos-rocha",
+      "lib-palmeiras-2020-luan",
+      "lib-palmeiras-2020-gustavo-gomez",
+      "lib-palmeiras-2020-matias-vina",
+      "lib-palmeiras-2020-danilo",
+      "lib-palmeiras-2020-gabriel-menino",
+      "lib-palmeiras-2020-ze-rafael",
+      "lib-palmeiras-2020-raphael-veiga",
+      "lib-palmeiras-2020-luiz-adriano",
+      "lib-palmeiras-2020-rony",
+      "lib-palmeiras-2020-breno-lopes",
+      "lib-palmeiras-2020-jailson",
+      "lib-palmeiras-2020-emerson-santos",
+      "lib-palmeiras-2020-benjamin-kuscevic",
+      "lib-palmeiras-2020-alan-empereur",
+      "lib-palmeiras-2020-mayke",
+      "lib-palmeiras-2020-renan",
+      "lib-palmeiras-2020-felipe-melo",
+      "lib-palmeiras-2020-patrick-de-paula",
+      "lib-palmeiras-2020-gustavo-scarpa",
+      "lib-palmeiras-2020-lucas-lima",
+      "lib-palmeiras-2020-willian"
+    ]
+  }
+]

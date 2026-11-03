@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Inter",
+    "year": 2010,
+    "season": "2009/10",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2010_UEFA_Champions_League_final",
+    "selectionReason": "Todos os três títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 91,
+    "startingXI": [
+      "Júlio César",
+      "Maicon",
+      "Lúcio",
+      "Walter Samuel",
+      "Cristian Chivu",
+      "Javier Zanetti",
+      "Esteban Cambiasso",
+      "Wesley Sneijder",
+      "Samuel Eto'o",
+      "Diego Milito",
+      "Goran Pandev"
+    ],
+    "playerIds": [
+      "ucl-inter-2010-diego-milito",
+      "ucl-inter-2010-wesley-sneijder",
+      "ucl-inter-2010-maicon",
+      "ucl-inter-2010-julio-cesar",
+      "ucl-inter-2010-esteban-cambiasso",
+      "ucl-inter-2010-samuel-eto-o",
+      "ucl-inter-2010-javier-zanetti",
+      "ucl-inter-2010-lucio",
+      "ucl-inter-2010-walter-samuel",
+      "ucl-inter-2010-dejan-stankovic",
+      "ucl-inter-2010-goran-pandev",
+      "ucl-inter-2010-cristian-chivu",
+      "ucl-inter-2010-ivan-cordoba",
+      "ucl-inter-2010-marco-materazzi",
+      "ucl-inter-2010-sulley-muntari",
+      "ucl-inter-2010-mario-balotelli",
+      "ucl-inter-2010-francesco-toldo",
+      "ucl-inter-2010-mcdonald-mariga"
+    ]
+  }
+]

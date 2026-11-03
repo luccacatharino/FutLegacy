@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Porto",
+    "year": 1987,
+    "season": "1986/87",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1987_European_Cup_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 85,
+    "startingXI": [
+      "Józef Młynarczyk",
+      "João Pinto",
+      "Eduardo Luís",
+      "Celso",
+      "Augusto Inácio",
+      "Jaime Magalhães",
+      "Quim",
+      "António Sousa",
+      "António André",
+      "Paulo Futre",
+      "Rabah Madjer"
+    ],
+    "playerIds": [
+      "ucl-porto-1987-paulo-futre",
+      "ucl-porto-1987-rabah-madjer",
+      "ucl-porto-1987-jozef-m-ynarczyk",
+      "ucl-porto-1987-joao-pinto",
+      "ucl-porto-1987-antonio-frasco",
+      "ucl-porto-1987-antonio-sousa",
+      "ucl-porto-1987-juary",
+      "ucl-porto-1987-antonio-andre",
+      "ucl-porto-1987-celso",
+      "ucl-porto-1987-jaime-magalhaes",
+      "ucl-porto-1987-augusto-inacio",
+      "ucl-porto-1987-walter-casagrande",
+      "ucl-porto-1987-eduardo-luis",
+      "ucl-porto-1987-quim",
+      "ucl-porto-1987-festas",
+      "ucl-porto-1987-ze-beto"
+    ]
+  }
+]

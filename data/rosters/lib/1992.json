@@ -1,0 +1,49 @@
+[
+  {
+    "name": "São Paulo",
+    "year": 1992,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Possui exatamente três títulos: 1992, 1993 e 2005. Todos são obrigatórios.",
+    "startingXI": [
+      "Zetti",
+      "Cafu",
+      "Antônio Carlos",
+      "Ronaldão",
+      "Iván",
+      "Adílson",
+      "Pintado",
+      "Raí",
+      "Müller",
+      "Palhinha",
+      "Elivélton"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-sao-paulo-1992-zetti",
+      "lib-sao-paulo-1992-cafu",
+      "lib-sao-paulo-1992-antonio-carlos",
+      "lib-sao-paulo-1992-ronaldao",
+      "lib-sao-paulo-1992-ivan",
+      "lib-sao-paulo-1992-adilson",
+      "lib-sao-paulo-1992-pintado",
+      "lib-sao-paulo-1992-rai",
+      "lib-sao-paulo-1992-muller",
+      "lib-sao-paulo-1992-palhinha",
+      "lib-sao-paulo-1992-elivelton",
+      "lib-sao-paulo-1992-macedo",
+      "lib-sao-paulo-1992-bonequini",
+      "lib-sao-paulo-1992-sidnei",
+      "lib-sao-paulo-1992-suelio",
+      "lib-sao-paulo-1992-rinaldo"
+    ]
+  }
+]

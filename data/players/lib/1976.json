@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Raul",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 45,
+      "fin": 16,
+      "pas": 61,
+      "dri": 27,
+      "def": 23,
+      "fis": 78,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Raul",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raul_Plassman",
+    "id": "lib-cruzeiro-1976-raul",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelinho",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 91,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 88,
+      "fin": 49,
+      "pas": 83,
+      "dri": 78,
+      "def": 81,
+      "fis": 82
+    },
+    "sourceName": "Nelinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Nelinho",
+    "id": "lib-cruzeiro-1976-nelinho",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Morais",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 59,
+      "fin": 30,
+      "pas": 61,
+      "dri": 46,
+      "def": 84,
+      "fis": 82
+    },
+    "sourceName": "Morais",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Francisco_de_Morais",
+    "id": "lib-cruzeiro-1976-morais",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Darci",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 59,
+      "fin": 27,
+      "pas": 60,
+      "dri": 43,
+      "def": 80,
+      "fis": 80
+    },
+    "sourceName": "Darci",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Darci_Menezes",
+    "id": "lib-cruzeiro-1976-darci",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Vanderlei",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 80,
+      "fin": 44,
+      "pas": 70,
+      "dri": 71,
+      "def": 77,
+      "fis": 75
+    },
+    "sourceName": "Vanderlei",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Vanderlei_Lázaro",
+    "id": "lib-cruzeiro-1976-vanderlei",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Piazza",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 55,
+      "pas": 85,
+      "dri": 76,
+      "def": 87,
+      "fis": 89
+    },
+    "sourceName": "Piazza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Wilson_da_Silva_Piazza",
+    "id": "lib-cruzeiro-1976-piazza",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 68,
+      "fin": 63,
+      "pas": 83,
+      "dri": 81,
+      "def": 64,
+      "fis": 71
+    },
+    "sourceName": "Eduardo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Eduardo_Amorim_(footballer)",
+    "id": "lib-cruzeiro-1976-eduardo",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Zé Carlos",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 74,
+      "fin": 80,
+      "pas": 88,
+      "dri": 88,
+      "def": 40,
+      "fis": 66
+    },
+    "sourceName": "Zé Carlos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Zé_Carlos_(footballer,_born_1945)",
+    "id": "lib-cruzeiro-1976-ze-carlos",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Jairzinho",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 89,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 81,
+      "pas": 80,
+      "dri": 92,
+      "def": 37,
+      "fis": 72
+    },
+    "sourceName": "Jairzinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jairzinho",
+    "id": "lib-cruzeiro-1976-jairzinho",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Joãozinho",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 88,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 89,
+      "fin": 83,
+      "pas": 80,
+      "dri": 89,
+      "def": 38,
+      "fis": 72
+    },
+    "sourceName": "Joãozinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/João_Soares_Almeida_Filho",
+    "id": "lib-cruzeiro-1976-joaozinho",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Palhinha",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 93,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 84,
+      "fin": 99,
+      "pas": 70,
+      "dri": 81,
+      "def": 38,
+      "fis": 89
+    },
+    "sourceName": "Palhinha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Palhinha_(Vanderlei_Eustáquio_de_Oliveira)",
+    "id": "lib-cruzeiro-1976-palhinha",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Valdo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 66,
+      "fin": 59,
+      "pas": 79,
+      "dri": 73,
+      "def": 60,
+      "fis": 68
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Valdo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Euriovaldo_Teixeira?action=edit&amp;redlink=1",
+    "id": "lib-cruzeiro-1976-valdo",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  },
+  {
+    "name": "Ronaldo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 70,
+      "fin": 63,
+      "pas": 83,
+      "dri": 77,
+      "def": 64,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Ronaldo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Ronaldo_Drummond",
+    "id": "lib-cruzeiro-1976-ronaldo",
+    "team": "Cruzeiro",
+    "year": 1976,
+    "comp": "lib"
+  }
+]

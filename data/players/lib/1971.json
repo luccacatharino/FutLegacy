@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Manga",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 50,
+      "fin": 18,
+      "pas": 65,
+      "dri": 30,
+      "def": 24,
+      "fis": 82,
+      "ref": 92,
+      "han": 88,
+      "pos": 90,
+      "div": 91,
+      "kic": 78,
+      "one": 90
+    },
+    "sourceName": "Manga",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Manga_(footballer,_born_1937)",
+    "id": "lib-nacional-1971-manga",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Ubiña",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 82,
+      "fin": 42,
+      "pas": 76,
+      "dri": 71,
+      "def": 79,
+      "fis": 73
+    },
+    "sourceName": "Luis Ubiña",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Ubiña",
+    "id": "lib-nacional-1971-luis-ubina",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Atilio Ancheta",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 65,
+      "dri": 50,
+      "def": 88,
+      "fis": 87
+    },
+    "sourceName": "Atilio Ancheta",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Atilio_Ancheta",
+    "id": "lib-nacional-1971-atilio-ancheta",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Masnik",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 63,
+      "fin": 31,
+      "pas": 65,
+      "dri": 45,
+      "def": 84,
+      "fis": 86
+    },
+    "sourceName": "Juan Masnik",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Masnik",
+    "id": "lib-nacional-1971-juan-masnik",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Blanco",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 79,
+      "fin": 40,
+      "pas": 74,
+      "dri": 69,
+      "def": 77,
+      "fis": 72
+    },
+    "sourceName": "Juan Carlos Blanco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Carlos_Blanco_(footballer,_born_1946)",
+    "id": "lib-nacional-1971-juan-carlos-blanco",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio Montero Castillo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 70,
+      "fin": 53,
+      "pas": 80,
+      "dri": 70,
+      "def": 86,
+      "fis": 85
+    },
+    "sourceName": "Julio Montero Castillo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_Montero_Castillo",
+    "id": "lib-nacional-1971-julio-montero-castillo",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Víctor Espárrago",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 72,
+      "fin": 66,
+      "pas": 88,
+      "dri": 81,
+      "def": 67,
+      "fis": 76
+    },
+    "sourceName": "Víctor Espárrago",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Víctor_Espárrago",
+    "id": "lib-nacional-1971-victor-esparrago",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Ildo Maneiro",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 72,
+      "fin": 75,
+      "pas": 86,
+      "dri": 89,
+      "def": 36,
+      "fis": 64
+    },
+    "sourceName": "Ildo Maneiro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ildo_Maneiro",
+    "id": "lib-nacional-1971-ildo-maneiro",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Cubilla",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 90,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 90,
+      "fin": 83,
+      "pas": 80,
+      "dri": 91,
+      "def": 38,
+      "fis": 71
+    },
+    "sourceName": "Luis Cubilla",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Cubilla",
+    "id": "lib-nacional-1971-luis-cubilla",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Artime",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 81,
+      "fin": 95,
+      "pas": 68,
+      "dri": 79,
+      "def": 34,
+      "fis": 85
+    },
+    "sourceName": "Luis Artime",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luis_Artime",
+    "id": "lib-nacional-1971-luis-artime",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio C. Morales",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 87,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 87,
+      "fin": 80,
+      "pas": 78,
+      "dri": 88,
+      "def": 35,
+      "fis": 70
+    },
+    "sourceName": "Julio C. Morales",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Julio_Morales_(Uruguayan_footballer)",
+    "id": "lib-nacional-1971-julio-c-morales",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Mujica",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 72,
+      "def": 75,
+      "fis": 75
+    },
+    "sourceName": "Juan Mujica",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Mujica",
+    "id": "lib-nacional-1971-juan-mujica",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Ignacio Prieto",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 74,
+      "fin": 67,
+      "pas": 87,
+      "dri": 81,
+      "def": 68,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Ignacio Prieto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Ignacio_Prieto",
+    "id": "lib-nacional-1971-ignacio-prieto",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Rúben Bareño",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 81,
+      "fin": 73,
+      "pas": 72,
+      "dri": 81,
+      "def": 29,
+      "fis": 65
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Rúben Bareño",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Rúben_Bareño",
+    "id": "lib-nacional-1971-ruben-bareno",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Mamelli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 72,
+      "fin": 82,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 76
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Juan Carlos Mamelli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Carlos_Mamelli",
+    "id": "lib-nacional-1971-juan-carlos-mamelli",
+    "team": "Nacional",
+    "year": 1971,
+    "comp": "lib"
+  }
+]

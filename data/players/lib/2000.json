@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Óscar Córdoba",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 91,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 51,
+      "fin": 21,
+      "pas": 62,
+      "dri": 30,
+      "def": 28,
+      "fis": 84,
+      "ref": 93,
+      "han": 89,
+      "pos": 91,
+      "div": 92,
+      "kic": 79,
+      "one": 91
+    },
+    "sourceName": "Óscar Córdoba",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Óscar_Córdoba",
+    "id": "lib-boca-juniors-2000-oscar-cordoba",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Cristian Traverso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 64,
+      "fin": 47,
+      "pas": 79,
+      "dri": 67,
+      "def": 80,
+      "fis": 83
+    },
+    "sourceName": "Cristian Traverso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Cristian_Traverso",
+    "id": "lib-boca-juniors-2000-cristian-traverso",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Bermúdez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 90,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 69,
+      "fin": 39,
+      "pas": 66,
+      "dri": 52,
+      "def": 93,
+      "fis": 91
+    },
+    "sourceName": "Jorge Bermúdez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Bermúdez",
+    "id": "lib-boca-juniors-2000-jorge-bermudez",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Sebastián Battaglia",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "CB",
+    "attrs": {
+      "vel": 71,
+      "fin": 66,
+      "pas": 87,
+      "dri": 82,
+      "def": 67,
+      "fis": 76
+    },
+    "sourceName": "Sebastián Battaglia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Sebastián_Battaglia",
+    "id": "lib-boca-juniors-2000-sebastian-battaglia",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Walter Samuel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 70,
+      "fin": 37,
+      "pas": 67,
+      "dri": 50,
+      "def": 90,
+      "fis": 90
+    },
+    "sourceName": "Walter Samuel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Walter_Samuel",
+    "id": "lib-boca-juniors-2000-walter-samuel",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo Ibarra",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 87,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 83,
+      "fin": 46,
+      "pas": 78,
+      "dri": 75,
+      "def": 79,
+      "fis": 75
+    },
+    "sourceName": "Hugo Ibarra",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Hugo_Ibarra",
+    "id": "lib-boca-juniors-2000-hugo-ibarra",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "José Basualdo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 71,
+      "fin": 66,
+      "pas": 87,
+      "dri": 80,
+      "def": 67,
+      "fis": 73
+    },
+    "sourceName": "José Basualdo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Basualdo",
+    "id": "lib-boca-juniors-2000-jose-basualdo",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Rodolfo Arruabarrena",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 88,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 84,
+      "fin": 46,
+      "pas": 78,
+      "dri": 74,
+      "def": 78,
+      "fis": 76
+    },
+    "sourceName": "Rodolfo Arruabarrena",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rodolfo_Arruabarrena",
+    "id": "lib-boca-juniors-2000-rodolfo-arruabarrena",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Román Riquelme",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 96,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 66,
+      "fin": 87,
+      "pas": 96,
+      "dri": 94,
+      "def": 51,
+      "fis": 78
+    },
+    "sourceName": "Juan Román Riquelme",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Román_Riquelme",
+    "id": "lib-boca-juniors-2000-juan-roman-riquelme",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Martín Palermo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 87,
+      "fin": 96,
+      "pas": 73,
+      "dri": 85,
+      "def": 40,
+      "fis": 90
+    },
+    "sourceName": "Martín Palermo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Martín_Palermo",
+    "id": "lib-boca-juniors-2000-martin-palermo",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Guillermo Barros Schelotto",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 90,
+    "sourceRole": "CF",
+    "attrs": {
+      "vel": 90,
+      "fin": 81,
+      "pas": 81,
+      "dri": 95,
+      "def": 37,
+      "fis": 72
+    },
+    "sourceName": "Guillermo Barros Schelotto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Guillermo_Barros_Schelotto",
+    "id": "lib-boca-juniors-2000-guillermo-barros-schelotto",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Nicolás Burdisso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 59,
+      "fin": 30,
+      "pas": 60,
+      "dri": 44,
+      "def": 84,
+      "fis": 83
+    },
+    "sourceName": "Nicolás Burdisso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Nicolás_Burdisso",
+    "id": "lib-boca-juniors-2000-nicolas-burdisso",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Gustavo Barros Schelotto",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 71,
+      "fin": 64,
+      "pas": 84,
+      "dri": 78,
+      "def": 65,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "CM",
+    "sourceName": "Gustavo Barros Schelotto",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gustavo_Barros_Schelotto",
+    "id": "lib-boca-juniors-2000-gustavo-barros-schelotto",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Christian Giménez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 84,
+      "dri": 81,
+      "def": 32,
+      "fis": 62
+    },
+    "starting": false,
+    "sourceRole": "AM",
+    "sourceName": "Christian Giménez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Christian_Giménez_(footballer,_born_1981)",
+    "id": "lib-boca-juniors-2000-christian-gimenez",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Antonio Barijho",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 78,
+      "fin": 88,
+      "pas": 66,
+      "dri": 76,
+      "def": 32,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "CF",
+    "sourceName": "Antonio Barijho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Antonio_Barijho",
+    "id": "lib-boca-juniors-2000-antonio-barijho",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Abbondanzieri",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 42,
+      "fin": 12,
+      "pas": 60,
+      "dri": 27,
+      "def": 20,
+      "fis": 78,
+      "ref": 86,
+      "han": 82,
+      "pos": 84,
+      "div": 85,
+      "kic": 72,
+      "one": 84
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Roberto Abbondanzieri",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Roberto_Abbondanzieri",
+    "id": "lib-boca-juniors-2000-roberto-abbondanzieri",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "Aníbal Matellán",
+    "positions": [
+      "ZAG",
+      "LE"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 62,
+      "fin": 32,
+      "pas": 63,
+      "dri": 47,
+      "def": 83,
+      "fis": 84
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Aníbal Matellán",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Aníbal_Matellán",
+    "id": "lib-boca-juniors-2000-anibal-matellan",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  },
+  {
+    "name": "César La Paglia",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 84,
+      "dri": 81,
+      "def": 32,
+      "fis": 62
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "César La Paglia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/César_La_Paglia",
+    "id": "lib-boca-juniors-2000-cesar-la-paglia",
+    "team": "Boca Juniors",
+    "year": 2000,
+    "comp": "lib"
+  }
+]

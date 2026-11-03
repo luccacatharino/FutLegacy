@@ -1,0 +1,665 @@
+[
+  {
+    "name": "Fabien Barthez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 75,
+      "dri": 48,
+      "def": 27,
+      "fis": 87,
+      "ref": 97,
+      "han": 93,
+      "pos": 94,
+      "div": 95,
+      "kic": 79,
+      "one": 92
+    },
+    "id": "wc-franca-1998-fabien-barthez",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Lilian Thuram",
+    "positions": [
+      "LD",
+      "ZAG"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 99,
+      "fin": 69,
+      "pas": 93,
+      "dri": 90,
+      "def": 94,
+      "fis": 93
+    },
+    "id": "wc-franca-1998-lilian-thuram",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Laurent Blanc",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 77,
+      "fin": 53,
+      "pas": 77,
+      "dri": 65,
+      "def": 95,
+      "fis": 96
+    },
+    "id": "wc-franca-1998-laurent-blanc",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Marcel Desailly",
+    "positions": [
+      "ZAG",
+      "VOL"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 77,
+      "fin": 60,
+      "pas": 77,
+      "dri": 65,
+      "def": 95,
+      "fis": 96
+    },
+    "id": "wc-franca-1998-marcel-desailly",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Bixente Lizarazu",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 99,
+      "fin": 66,
+      "pas": 90,
+      "dri": 87,
+      "def": 91,
+      "fis": 90
+    },
+    "id": "wc-franca-1998-bixente-lizarazu",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Didier Deschamps",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 87,
+      "fin": 70,
+      "pas": 94,
+      "dri": 83,
+      "def": 93,
+      "fis": 93
+    },
+    "id": "wc-franca-1998-didier-deschamps",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Emmanuel Petit",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 91,
+      "fin": 80,
+      "pas": 99,
+      "dri": 91,
+      "def": 77,
+      "fis": 88
+    },
+    "id": "wc-franca-1998-emmanuel-petit",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Christian Karembeu",
+    "positions": [
+      "MC",
+      "MD"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 86,
+      "fin": 75,
+      "pas": 94,
+      "dri": 86,
+      "def": 72,
+      "fis": 76
+    },
+    "id": "wc-franca-1998-christian-karembeu",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Zinedine Zidane",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 79,
+      "fin": 86,
+      "pas": 96,
+      "dri": 97,
+      "def": 58,
+      "fis": 82
+    },
+    "id": "wc-franca-1998-zinedine-zidane",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Youri Djorkaeff",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 92,
+      "fin": 87,
+      "pas": 98,
+      "dri": 93,
+      "def": 51,
+      "fis": 74
+    },
+    "id": "wc-franca-1998-youri-djorkaeff",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Stéphane Guivarc’h",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 81,
+      "fin": 83,
+      "pas": 70,
+      "dri": 73,
+      "def": 34,
+      "fis": 75
+    },
+    "id": "wc-franca-1998-stephane-guivarc-h",
+    "team": "França",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Taffarel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 77,
+      "dri": 43,
+      "def": 29,
+      "fis": 82,
+      "ref": 95,
+      "han": 91,
+      "pos": 92,
+      "div": 93,
+      "kic": 77,
+      "one": 90
+    },
+    "id": "wc-brasil-1998-taffarel",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Cafu",
+    "positions": [
+      "LD",
+      "MD"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 99,
+      "fin": 67,
+      "pas": 91,
+      "dri": 88,
+      "def": 92,
+      "fis": 91
+    },
+    "id": "wc-brasil-1998-cafu",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Aldair",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 72,
+      "fin": 55,
+      "pas": 72,
+      "dri": 60,
+      "def": 97,
+      "fis": 91
+    },
+    "id": "wc-brasil-1998-aldair",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Júnior Baiano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 85,
+      "fis": 86
+    },
+    "id": "wc-brasil-1998-junior-baiano",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Roberto Carlos",
+    "positions": [
+      "LE",
+      "ME"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 99,
+      "fin": 67,
+      "pas": 91,
+      "dri": 88,
+      "def": 92,
+      "fis": 91
+    },
+    "id": "wc-brasil-1998-roberto-carlos",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Dunga",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 85,
+      "fin": 68,
+      "pas": 92,
+      "dri": 81,
+      "def": 91,
+      "fis": 91
+    },
+    "id": "wc-brasil-1998-dunga",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "César Sampaio",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 81,
+      "fin": 71,
+      "pas": 95,
+      "dri": 84,
+      "def": 94,
+      "fis": 87
+    },
+    "id": "wc-brasil-1998-cesar-sampaio",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Rivaldo",
+    "positions": [
+      "MEI",
+      "PE"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 90,
+      "fin": 92,
+      "pas": 99,
+      "dri": 98,
+      "def": 56,
+      "fis": 79
+    },
+    "id": "wc-brasil-1998-rivaldo",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Leonardo",
+    "positions": [
+      "ME",
+      "MC"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 91,
+      "fin": 83,
+      "pas": 85,
+      "dri": 91,
+      "def": 64,
+      "fis": 78
+    },
+    "id": "wc-brasil-1998-leonardo",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Bebeto",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 89,
+      "fin": 91,
+      "pas": 78,
+      "dri": 81,
+      "def": 42,
+      "fis": 90
+    },
+    "id": "wc-brasil-1998-bebeto",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Ronaldo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 95,
+      "fin": 97,
+      "pas": 84,
+      "dri": 87,
+      "def": 48,
+      "fis": 96
+    },
+    "id": "wc-brasil-1998-ronaldo",
+    "team": "Brasil",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Edwin van der Sar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 77,
+      "dri": 43,
+      "def": 29,
+      "fis": 82,
+      "ref": 95,
+      "han": 91,
+      "pos": 92,
+      "div": 93,
+      "kic": 77,
+      "one": 90
+    },
+    "id": "wc-paises-baixos-1998-edwin-van-der-sar",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Michael Reiziger",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 92,
+      "fin": 66,
+      "pas": 83,
+      "dri": 87,
+      "def": 84,
+      "fis": 83
+    },
+    "id": "wc-paises-baixos-1998-michael-reiziger",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Jaap Stam",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 80,
+      "fin": 56,
+      "pas": 80,
+      "dri": 61,
+      "def": 98,
+      "fis": 99
+    },
+    "id": "wc-paises-baixos-1998-jaap-stam",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Frank de Boer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 74,
+      "fin": 57,
+      "pas": 81,
+      "dri": 62,
+      "def": 99,
+      "fis": 93
+    },
+    "id": "wc-paises-baixos-1998-frank-de-boer",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Arthur Numan",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 94,
+      "fin": 61,
+      "pas": 85,
+      "dri": 89,
+      "def": 86,
+      "fis": 85
+    },
+    "id": "wc-paises-baixos-1998-arthur-numan",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Wim Jonk",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 79,
+      "fin": 69,
+      "pas": 93,
+      "dri": 82,
+      "def": 92,
+      "fis": 85
+    },
+    "id": "wc-paises-baixos-1998-wim-jonk",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Edgar Davids",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 92,
+      "fin": 81,
+      "pas": 99,
+      "dri": 92,
+      "def": 78,
+      "fis": 89
+    },
+    "id": "wc-paises-baixos-1998-edgar-davids",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Ronald de Boer",
+    "positions": [
+      "MD",
+      "MEI"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 97,
+      "fin": 82,
+      "pas": 91,
+      "dri": 90,
+      "def": 63,
+      "fis": 84
+    },
+    "id": "wc-paises-baixos-1998-ronald-de-boer",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Phillip Cocu",
+    "positions": [
+      "MC",
+      "ME"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 84,
+      "fin": 80,
+      "pas": 99,
+      "dri": 91,
+      "def": 77,
+      "fis": 81
+    },
+    "id": "wc-paises-baixos-1998-phillip-cocu",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Dennis Bergkamp",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 97,
+    "attrs": {
+      "vel": 92,
+      "fin": 99,
+      "pas": 81,
+      "dri": 91,
+      "def": 52,
+      "fis": 93
+    },
+    "id": "wc-paises-baixos-1998-dennis-bergkamp",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  },
+  {
+    "name": "Patrick Kluivert",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 89,
+      "fin": 98,
+      "pas": 78,
+      "dri": 88,
+      "def": 49,
+      "fis": 90
+    },
+    "id": "wc-paises-baixos-1998-patrick-kluivert",
+    "team": "Países Baixos",
+    "year": 1998,
+    "comp": "wc"
+  }
+]

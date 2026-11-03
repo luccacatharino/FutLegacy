@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Roque Máspoli",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 70,
+      "dri": 43,
+      "def": 22,
+      "fis": 82,
+      "ref": 93,
+      "han": 89,
+      "pos": 90,
+      "div": 91,
+      "kic": 75,
+      "one": 88
+    },
+    "id": "wc-uruguai-1950-roque-maspoli",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Matías González",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 72,
+      "fin": 48,
+      "pas": 72,
+      "dri": 53,
+      "def": 90,
+      "fis": 91
+    },
+    "id": "wc-uruguai-1950-matias-gonzalez",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Eusebio Tejera",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 65,
+      "fin": 48,
+      "pas": 72,
+      "dri": 53,
+      "def": 90,
+      "fis": 84
+    },
+    "id": "wc-uruguai-1950-eusebio-tejera",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Schubert Gambetta",
+    "positions": [
+      "VOL",
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 77,
+      "fin": 67,
+      "pas": 84,
+      "dri": 80,
+      "def": 83,
+      "fis": 83
+    },
+    "id": "wc-uruguai-1950-schubert-gambetta",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Obdulio Varela",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 85,
+      "fin": 75,
+      "pas": 92,
+      "dri": 88,
+      "def": 91,
+      "fis": 91
+    },
+    "id": "wc-uruguai-1950-obdulio-varela",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Víctor Rodríguez Andrade",
+    "positions": [
+      "LE",
+      "VOL"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 92,
+      "fin": 59,
+      "pas": 83,
+      "dri": 87,
+      "def": 84,
+      "fis": 83
+    },
+    "id": "wc-uruguai-1950-victor-rodriguez-andrade",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Alcides Ghiggia",
+    "positions": [
+      "PD",
+      "MD"
+    ],
+    "ovr": 93,
+    "attrs": {
+      "vel": 99,
+      "fin": 92,
+      "pas": 91,
+      "dri": 95,
+      "def": 46,
+      "fis": 76
+    },
+    "id": "wc-uruguai-1950-alcides-ghiggia",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Julio Pérez",
+    "positions": [
+      "MEI",
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 79,
+      "fin": 81,
+      "pas": 92,
+      "dri": 87,
+      "def": 45,
+      "fis": 68
+    },
+    "id": "wc-uruguai-1950-julio-perez",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Óscar Míguez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 89,
+      "fin": 91,
+      "pas": 78,
+      "dri": 88,
+      "def": 42,
+      "fis": 90
+    },
+    "id": "wc-uruguai-1950-oscar-miguez",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Juan Schiaffino",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 95,
+      "fin": 90,
+      "pas": 99,
+      "dri": 96,
+      "def": 54,
+      "fis": 77
+    },
+    "id": "wc-uruguai-1950-juan-schiaffino",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Rubén Morán",
+    "positions": [
+      "PE",
+      "ME"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 81,
+      "fin": 79,
+      "pas": 78,
+      "dri": 82,
+      "def": 33,
+      "fis": 63
+    },
+    "id": "wc-uruguai-1950-ruben-moran",
+    "team": "Uruguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Barbosa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 67,
+      "dri": 33,
+      "def": 19,
+      "fis": 79,
+      "ref": 87,
+      "han": 83,
+      "pos": 84,
+      "div": 85,
+      "kic": 69,
+      "one": 82
+    },
+    "id": "wc-brasil-1950-barbosa",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Augusto",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 85,
+      "fis": 86
+    },
+    "id": "wc-brasil-1950-augusto",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Juvenal",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 68,
+      "fin": 44,
+      "pas": 68,
+      "dri": 56,
+      "def": 86,
+      "fis": 87
+    },
+    "id": "wc-brasil-1950-juvenal",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bauer",
+    "positions": [
+      "VOL",
+      "LD"
+    ],
+    "ovr": 89,
+    "attrs": {
+      "vel": 83,
+      "fin": 66,
+      "pas": 90,
+      "dri": 79,
+      "def": 89,
+      "fis": 89
+    },
+    "id": "wc-brasil-1950-bauer",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Danilo Alvim",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 83,
+      "fin": 73,
+      "pas": 90,
+      "dri": 86,
+      "def": 89,
+      "fis": 89
+    },
+    "id": "wc-brasil-1950-danilo-alvim",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bigode",
+    "positions": [
+      "LE",
+      "VOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 88,
+      "fin": 55,
+      "pas": 79,
+      "dri": 76,
+      "def": 80,
+      "fis": 79
+    },
+    "id": "wc-brasil-1950-bigode",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Friaça",
+    "positions": [
+      "PD",
+      "MD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 89,
+      "fin": 87,
+      "pas": 86,
+      "dri": 90,
+      "def": 41,
+      "fis": 71
+    },
+    "id": "wc-brasil-1950-friaca",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Zizinho",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 94,
+      "fin": 89,
+      "pas": 99,
+      "dri": 95,
+      "def": 53,
+      "fis": 83
+    },
+    "id": "wc-brasil-1950-zizinho",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ademir de Menezes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 95,
+    "attrs": {
+      "vel": 93,
+      "fin": 95,
+      "pas": 82,
+      "dri": 92,
+      "def": 46,
+      "fis": 94
+    },
+    "id": "wc-brasil-1950-ademir-de-menezes",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Jair",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 90,
+      "fin": 85,
+      "pas": 96,
+      "dri": 91,
+      "def": 49,
+      "fis": 79
+    },
+    "id": "wc-brasil-1950-jair",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Chico",
+    "positions": [
+      "PE",
+      "ME"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 95,
+      "fin": 93,
+      "pas": 85,
+      "dri": 96,
+      "def": 40,
+      "fis": 77
+    },
+    "id": "wc-brasil-1950-chico",
+    "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  }
+]

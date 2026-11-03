@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Manchester United",
+    "year": 2008,
+    "season": "2007/08",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2008_UEFA_Champions_League_final",
+    "selectionReason": "Todos os três títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 91,
+    "startingXI": [
+      "Edwin van der Sar",
+      "Wes Brown",
+      "Rio Ferdinand",
+      "Nemanja Vidić",
+      "Patrice Evra",
+      "Owen Hargreaves",
+      "Paul Scholes",
+      "Michael Carrick",
+      "Cristiano Ronaldo",
+      "Wayne Rooney",
+      "Carlos Tevez"
+    ],
+    "playerIds": [
+      "ucl-manchester-united-2008-cristiano-ronaldo",
+      "ucl-manchester-united-2008-rio-ferdinand",
+      "ucl-manchester-united-2008-edwin-van-der-sar",
+      "ucl-manchester-united-2008-nemanja-vidic",
+      "ucl-manchester-united-2008-wayne-rooney",
+      "ucl-manchester-united-2008-paul-scholes",
+      "ucl-manchester-united-2008-carlos-tevez",
+      "ucl-manchester-united-2008-patrice-evra",
+      "ucl-manchester-united-2008-michael-carrick",
+      "ucl-manchester-united-2008-ryan-giggs",
+      "ucl-manchester-united-2008-owen-hargreaves",
+      "ucl-manchester-united-2008-wes-brown",
+      "ucl-manchester-united-2008-anderson",
+      "ucl-manchester-united-2008-darren-fletcher",
+      "ucl-manchester-united-2008-john-o-shea",
+      "ucl-manchester-united-2008-nani",
+      "ucl-manchester-united-2008-mikael-silvestre",
+      "ucl-manchester-united-2008-tomasz-kuszczak"
+    ]
+  }
+]

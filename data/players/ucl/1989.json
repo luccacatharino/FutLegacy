@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Marco van Basten",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 96,
+    "attrs": {
+      "vel": 88,
+      "fin": 99,
+      "pas": 88,
+      "dri": 95,
+      "def": 36,
+      "fis": 87
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-marco-van-basten",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Franco Baresi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 84,
+      "fin": 44,
+      "pas": 88,
+      "dri": 76,
+      "def": 99,
+      "fis": 85
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-franco-baresi",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ruud Gullit",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 91,
+      "fin": 94,
+      "pas": 94,
+      "dri": 95,
+      "def": 77,
+      "fis": 98
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-ruud-gullit",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Frank Rijkaard",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 79,
+      "fin": 73,
+      "pas": 90,
+      "dri": 82,
+      "def": 96,
+      "fis": 95
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-frank-rijkaard",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paolo Maldini",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 90,
+    "attrs": {
+      "vel": 89,
+      "fin": 59,
+      "pas": 82,
+      "dri": 83,
+      "def": 81,
+      "fis": 80
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-paolo-maldini",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Roberto Donadoni",
+    "positions": [
+      "ME",
+      "MD"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 88,
+      "fin": 78,
+      "pas": 84,
+      "dri": 89,
+      "def": 61,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-roberto-donadoni",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Carlo Ancelotti",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 79,
+      "fin": 72,
+      "pas": 89,
+      "dri": 84,
+      "def": 72,
+      "fis": 79
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-carlo-ancelotti",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mauro Tassotti",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 85,
+      "fin": 55,
+      "pas": 78,
+      "dri": 79,
+      "def": 82,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-mauro-tassotti",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Alessandro Costacurta",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 66,
+      "fin": 41,
+      "pas": 65,
+      "dri": 55,
+      "def": 88,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-alessandro-costacurta",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Giovanni Galli",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 40,
+      "fin": 12,
+      "pas": 57,
+      "dri": 28,
+      "def": 18,
+      "fis": 75,
+      "ref": 85,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 67,
+      "one": 84
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-giovanni-galli",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pietro Paolo Virdis",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 85,
+      "fin": 88,
+      "pas": 67,
+      "dri": 80,
+      "def": 38,
+      "fis": 84
+    },
+    "starter": false,
+    "id": "ucl-milan-1989-pietro-paolo-virdis",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Alberico Evani",
+    "positions": [
+      "ME",
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 86,
+      "fin": 76,
+      "pas": 77,
+      "dri": 82,
+      "def": 54,
+      "fis": 69
+    },
+    "starter": false,
+    "id": "ucl-milan-1989-alberico-evani",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Filippo Galli",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 60,
+      "fin": 35,
+      "pas": 64,
+      "dri": 54,
+      "def": 82,
+      "fis": 82
+    },
+    "starter": false,
+    "id": "ucl-milan-1989-filippo-galli",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Angelo Colombo",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 82,
+      "fin": 72,
+      "pas": 78,
+      "dri": 78,
+      "def": 50,
+      "fis": 65
+    },
+    "starter": true,
+    "id": "ucl-milan-1989-angelo-colombo",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Roberto Mussi",
+    "positions": [
+      "LD",
+      "LE"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 79,
+      "fin": 49,
+      "pas": 72,
+      "dri": 68,
+      "def": 71,
+      "fis": 70
+    },
+    "starter": false,
+    "id": "ucl-milan-1989-roberto-mussi",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  },
+  {
+    "name": "Davide Pinato",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 73,
+    "attrs": {
+      "vel": 40,
+      "fin": 12,
+      "pas": 45,
+      "dri": 28,
+      "def": 18,
+      "fis": 63,
+      "ref": 73,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 55,
+      "one": 72
+    },
+    "starter": false,
+    "id": "ucl-milan-1989-davide-pinato",
+    "team": "Milan",
+    "year": 1989,
+    "comp": "ucl"
+  }
+]

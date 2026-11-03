@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Danrlei",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 45,
+      "fin": 15,
+      "pas": 61,
+      "dri": 27,
+      "def": 22,
+      "fis": 79,
+      "ref": 90,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 76,
+      "one": 88
+    },
+    "sourceName": "Danrlei",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Danrlei",
+    "id": "lib-gremio-1995-danrlei",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Francisco Arce",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 91,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 85,
+      "fin": 51,
+      "pas": 80,
+      "dri": 77,
+      "def": 83,
+      "fis": 82
+    },
+    "sourceName": "Francisco Arce",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Francisco_Arce",
+    "id": "lib-gremio-1995-francisco-arce",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Catalino Rivarola",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 62,
+      "fin": 32,
+      "pas": 64,
+      "dri": 45,
+      "def": 86,
+      "fis": 86
+    },
+    "sourceName": "Catalino Rivarola",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Catalino_Rivarola",
+    "id": "lib-gremio-1995-catalino-rivarola",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Adílson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 62,
+      "dri": 45,
+      "def": 84,
+      "fis": 85
+    },
+    "sourceName": "Adílson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Adílson_Batista",
+    "id": "lib-gremio-1995-adilson",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Roger",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 87,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 81,
+      "fin": 46,
+      "pas": 76,
+      "dri": 74,
+      "def": 79,
+      "fis": 77
+    },
+    "sourceName": "Roger",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Roger_Machado_Marques",
+    "id": "lib-gremio-1995-roger",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Dinho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 67,
+      "fin": 53,
+      "pas": 82,
+      "dri": 73,
+      "def": 85,
+      "fis": 82
+    },
+    "sourceName": "Dinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Dinho_(Brazilian_footballer)",
+    "id": "lib-gremio-1995-dinho",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Goiano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 65,
+      "fin": 50,
+      "pas": 79,
+      "dri": 68,
+      "def": 82,
+      "fis": 82
+    },
+    "sourceName": "Goiano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luís_Carlos_Goiano",
+    "id": "lib-gremio-1995-goiano",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Arílson",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 73,
+      "fin": 74,
+      "pas": 87,
+      "dri": 84,
+      "def": 39,
+      "fis": 63
+    },
+    "sourceName": "Arílson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Arílson",
+    "id": "lib-gremio-1995-arilson",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Miguel",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 72,
+      "fin": 69,
+      "pas": 88,
+      "dri": 81,
+      "def": 69,
+      "fis": 75
+    },
+    "sourceName": "Carlos Miguel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Miguel_(footballer,_born_1972)",
+    "id": "lib-gremio-1995-carlos-miguel",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Paulo Nunes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 85,
+      "fin": 97,
+      "pas": 67,
+      "dri": 80,
+      "def": 37,
+      "fis": 86
+    },
+    "sourceName": "Paulo Nunes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Paulo_Nunes",
+    "id": "lib-gremio-1995-paulo-nunes",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario Jardel",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 86,
+      "fin": 96,
+      "pas": 72,
+      "dri": 82,
+      "def": 40,
+      "fis": 90
+    },
+    "sourceName": "Mario Jardel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mario_Jardel",
+    "id": "lib-gremio-1995-mario-jardel",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Nildo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 68,
+      "fin": 61,
+      "pas": 81,
+      "dri": 75,
+      "def": 62,
+      "fis": 70
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Nildo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Nildo_(footballer,_born_1966)",
+    "id": "lib-gremio-1995-nildo",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Alexandre Gaúcho",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 71,
+      "fin": 81,
+      "pas": 59,
+      "dri": 69,
+      "def": 25,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Alexandre Gaúcho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Alexandre_Gaúcho",
+    "id": "lib-gremio-1995-alexandre-gaucho",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  },
+  {
+    "name": "Luciano Dias",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 61,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Luciano Dias",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Luciano_Dias",
+    "id": "lib-gremio-1995-luciano-dias",
+    "team": "Grêmio",
+    "year": 1995,
+    "comp": "lib"
+  }
+]

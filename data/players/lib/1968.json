@@ -1,0 +1,364 @@
+[
+  {
+    "name": "Alberto José Poletti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 44,
+      "fin": 17,
+      "pas": 60,
+      "dri": 25,
+      "def": 23,
+      "fis": 78,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 75,
+      "one": 87
+    },
+    "sourceName": "Alberto José Poletti",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alberto_José_Poletti",
+    "id": "lib-estudiantes-1968-alberto-jose-poletti",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Ramón Aguirre Suárez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 61,
+      "fin": 32,
+      "pas": 62,
+      "dri": 44,
+      "def": 86,
+      "fis": 85
+    },
+    "sourceName": "Ramón Aguirre Suárez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ramón_Aguirre_Suárez",
+    "id": "lib-estudiantes-1968-ramon-aguirre-suarez",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Madero",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 59,
+      "fin": 32,
+      "pas": 60,
+      "dri": 47,
+      "def": 85,
+      "fis": 87
+    },
+    "sourceName": "Raúl Madero",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Raúl_Madero_(footballer)",
+    "id": "lib-estudiantes-1968-raul-madero",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Oscar Malbernat",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 82,
+      "fin": 43,
+      "pas": 76,
+      "dri": 75,
+      "def": 80,
+      "fis": 74
+    },
+    "sourceName": "Oscar Malbernat",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Oscar_Malbernat",
+    "id": "lib-estudiantes-1968-oscar-malbernat",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Pachamé",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 65,
+      "fin": 48,
+      "pas": 80,
+      "dri": 71,
+      "def": 81,
+      "fis": 84
+    },
+    "sourceName": "Carlos Pachamé",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Pachamé",
+    "id": "lib-estudiantes-1968-carlos-pachame",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "José Hugo Medina",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 73,
+      "fin": 38,
+      "pas": 68,
+      "dri": 66,
+      "def": 71,
+      "fis": 68
+    },
+    "sourceName": "José Hugo Medina",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Hugo_Medina",
+    "id": "lib-estudiantes-1968-jose-hugo-medina",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Bilardo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 71,
+      "fin": 68,
+      "pas": 86,
+      "dri": 80,
+      "def": 68,
+      "fis": 74
+    },
+    "sourceName": "Carlos Bilardo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Bilardo",
+    "id": "lib-estudiantes-1968-carlos-bilardo",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo Flores",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 87,
+      "fin": 75,
+      "pas": 77,
+      "dri": 89,
+      "def": 35,
+      "fis": 64
+    },
+    "sourceName": "Eduardo Flores",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Eduardo_Flores",
+    "id": "lib-estudiantes-1968-eduardo-flores",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Felipe Ribaudo",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 80,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 81,
+      "fin": 73,
+      "pas": 72,
+      "dri": 85,
+      "def": 29,
+      "fis": 61
+    },
+    "sourceName": "Felipe Ribaudo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-estudiantes-1968-felipe-ribaudo",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcos Conigliaro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 78,
+      "fin": 90,
+      "pas": 65,
+      "dri": 75,
+      "def": 30,
+      "fis": 82
+    },
+    "sourceName": "Marcos Conigliaro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Conigliaro",
+    "id": "lib-estudiantes-1968-marcos-conigliaro",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Ramón Verón",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 91,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 78,
+      "fin": 83,
+      "pas": 91,
+      "dri": 93,
+      "def": 43,
+      "fis": 74
+    },
+    "sourceName": "Juan Ramón Verón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Ramón_Verón",
+    "id": "lib-estudiantes-1968-juan-ramon-veron",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Rodolfo Fucceneco",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 76,
+      "fin": 40,
+      "pas": 71,
+      "dri": 69,
+      "def": 73,
+      "fis": 68
+    },
+    "sourceName": "Rodolfo Fucceneco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": false,
+    "id": "lib-estudiantes-1968-rodolfo-fucceneco",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Hugo Spadaro",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 77,
+      "fin": 39,
+      "pas": 72,
+      "dri": 71,
+      "def": 71,
+      "fis": 69
+    },
+    "sourceName": "Hugo Spadaro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "starting": false,
+    "id": "lib-estudiantes-1968-hugo-spadaro",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Lavezzi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 79,
+      "fin": 71,
+      "pas": 70,
+      "dri": 79,
+      "def": 27,
+      "fis": 63
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Luis Lavezzi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "id": "lib-estudiantes-1968-luis-lavezzi",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Togneri",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 67,
+      "fin": 49,
+      "pas": 80,
+      "dri": 69,
+      "def": 80,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Néstor Togneri",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Néstor_Togneri",
+    "id": "lib-estudiantes-1968-nestor-togneri",
+    "team": "Estudiantes",
+    "year": 1968,
+    "comp": "lib"
+  }
+]

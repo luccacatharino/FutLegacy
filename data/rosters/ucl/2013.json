@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Bayern",
+    "year": 2013,
+    "season": "2012/13",
+    "comp": "ucl",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2013_UEFA_Champions_League_final",
+    "selectionReason": "Primeiro título de Beckenbauer e as duas tríplices coroas.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 91,
+    "startingXI": [
+      "Manuel Neuer",
+      "Philipp Lahm",
+      "Jérôme Boateng",
+      "Dante",
+      "David Alaba",
+      "Javi Martínez",
+      "Bastian Schweinsteiger",
+      "Arjen Robben",
+      "Thomas Müller",
+      "Franck Ribéry",
+      "Mario Mandžukić"
+    ],
+    "playerIds": [
+      "ucl-bayern-2013-franck-ribery",
+      "ucl-bayern-2013-arjen-robben",
+      "ucl-bayern-2013-philipp-lahm",
+      "ucl-bayern-2013-bastian-schweinsteiger",
+      "ucl-bayern-2013-manuel-neuer",
+      "ucl-bayern-2013-thomas-muller",
+      "ucl-bayern-2013-javi-martinez",
+      "ucl-bayern-2013-david-alaba",
+      "ucl-bayern-2013-mario-mandzukic",
+      "ucl-bayern-2013-dante",
+      "ucl-bayern-2013-mario-gomez",
+      "ucl-bayern-2013-jerome-boateng",
+      "ucl-bayern-2013-luiz-gustavo",
+      "ucl-bayern-2013-claudio-pizarro",
+      "ucl-bayern-2013-daniel-van-buyten",
+      "ucl-bayern-2013-xherdan-shaqiri",
+      "ucl-bayern-2013-anatoliy-tymoshchuk",
+      "ucl-bayern-2013-tom-starke"
+    ]
+  }
+]

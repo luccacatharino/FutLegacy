@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Olimpia",
+    "year": 1979,
+    "comp": "lib",
+    "tier": 0,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 83,
+    "selectionReason": "Possui exatamente três títulos: 1979, 1990 e 2002. Todos são obrigatórios.",
+    "startingXI": [
+      "Ever Almeida",
+      "Rubén Jiménez",
+      "Alicio Solalinde",
+      "Miguel A. Piazza",
+      "Enrique Villalba",
+      "Carlos Kiese",
+      "Luis Torres",
+      "Roberto Paredes",
+      "Osvaldo Aquino",
+      "Hugo Talavera",
+      "Evaristo Isasi"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-olimpia-1979-ever-almeida",
+      "lib-olimpia-1979-ruben-jimenez",
+      "lib-olimpia-1979-alicio-solalinde",
+      "lib-olimpia-1979-miguel-a-piazza",
+      "lib-olimpia-1979-enrique-villalba",
+      "lib-olimpia-1979-carlos-kiese",
+      "lib-olimpia-1979-luis-torres",
+      "lib-olimpia-1979-roberto-paredes",
+      "lib-olimpia-1979-osvaldo-aquino",
+      "lib-olimpia-1979-hugo-talavera",
+      "lib-olimpia-1979-evaristo-isasi",
+      "lib-olimpia-1979-rogelio-delgado",
+      "lib-olimpia-1979-jorge-guasch"
+    ]
+  }
+]

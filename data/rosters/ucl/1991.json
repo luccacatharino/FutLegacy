@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Estrela Vermelha",
+    "year": 1991,
+    "season": "1990/91",
+    "comp": "ucl",
+    "tier": 0,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1991_European_Cup_final",
+    "selectionReason": "Título único.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Stevan Stojanović",
+      "Refik Šabanadžović",
+      "Ilija Najdoski",
+      "Siniša Mihajlović",
+      "Slobodan Marović",
+      "Miodrag Belodedici",
+      "Dragiša Binić",
+      "Robert Prosinečki",
+      "Dejan Savićević",
+      "Vladimir Jugović",
+      "Darko Pančev"
+    ],
+    "playerIds": [
+      "ucl-estrela-vermelha-1991-dejan-savicevic",
+      "ucl-estrela-vermelha-1991-darko-pancev",
+      "ucl-estrela-vermelha-1991-robert-prosinecki",
+      "ucl-estrela-vermelha-1991-miodrag-belodedici",
+      "ucl-estrela-vermelha-1991-sinisa-mihajlovic",
+      "ucl-estrela-vermelha-1991-vladimir-jugovic",
+      "ucl-estrela-vermelha-1991-stevan-stojanovic",
+      "ucl-estrela-vermelha-1991-dragisa-binic",
+      "ucl-estrela-vermelha-1991-ilija-najdoski",
+      "ucl-estrela-vermelha-1991-refik-sabanadzovic",
+      "ucl-estrela-vermelha-1991-slobodan-marovic",
+      "ucl-estrela-vermelha-1991-vladan-lukic",
+      "ucl-estrela-vermelha-1991-vlada-stosic",
+      "ucl-estrela-vermelha-1991-rade-tosic",
+      "ucl-estrela-vermelha-1991-ivica-momcilovic",
+      "ucl-estrela-vermelha-1991-milic-jovanovic"
+    ]
+  }
+]

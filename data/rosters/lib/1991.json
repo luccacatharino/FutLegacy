@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib",
+    "tier": 0,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 86,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Daniel Morón",
+      "Lizardo Garrido",
+      "Miguel Ramírez",
+      "Javier Margas",
+      "Eduardo Vilches",
+      "Rubén Espinoza",
+      "Gabriel Mendoza",
+      "Juan Carlos Peralta",
+      "Jaime Pizarro",
+      "Luis Pérez",
+      "Marcelo Barticciotto"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-colo-colo-1991-daniel-moron",
+      "lib-colo-colo-1991-lizardo-garrido",
+      "lib-colo-colo-1991-miguel-ramirez",
+      "lib-colo-colo-1991-javier-margas",
+      "lib-colo-colo-1991-eduardo-vilches",
+      "lib-colo-colo-1991-ruben-espinoza",
+      "lib-colo-colo-1991-gabriel-mendoza",
+      "lib-colo-colo-1991-juan-carlos-peralta",
+      "lib-colo-colo-1991-jaime-pizarro",
+      "lib-colo-colo-1991-luis-perez",
+      "lib-colo-colo-1991-marcelo-barticciotto",
+      "lib-colo-colo-1991-ruben-martinez",
+      "lib-colo-colo-1991-leonel-herrera"
+    ]
+  }
+]

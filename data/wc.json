@@ -1,0 +1,5952 @@
+[
+  {
+    "name": "Uruguai",
+    "year": 1950,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Roque Máspoli",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Matías González",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Eusebio Tejera",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Schubert Gambetta",
+        "positions": [
+          "VOL",
+          "LD"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Obdulio Varela",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Víctor Rodríguez Andrade",
+        "positions": [
+          "LE",
+          "VOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Alcides Ghiggia",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Julio Pérez",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Óscar Míguez",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Juan Schiaffino",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Rubén Morán",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 79
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1950,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Barbosa",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Augusto",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Juvenal",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Bauer",
+        "positions": [
+          "VOL",
+          "LD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Danilo Alvim",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Bigode",
+        "positions": [
+          "LE",
+          "VOL"
+        ],
+        "ovr": 82
+      },
+      {
+        "name": "Friaça",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Zizinho",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Ademir de Menezes",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Jair",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Chico",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 90
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1954,
+    "comp": "wc",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Toni Turek",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Josef Posipal",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Werner Liebrich",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Werner Kohlmeyer",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Horst Eckel",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Karl Mai",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Helmut Rahn",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Max Morlock",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Ottmar Walter",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Fritz Walter",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Hans Schäfer",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 90
+      }
+    ]
+  },
+  {
+    "name": "Hungria",
+    "year": 1954,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Gyula Grosics",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Jenő Buzánszky",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Gyula Lóránt",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Mihály Lantos",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "József Bozsik",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "József Zakariás",
+        "positions": [
+          "VOL",
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Zoltán Czibor",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Sándor Kocsis",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Nándor Hidegkuti",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Ferenc Puskás",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Mihály Tóth",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 83
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1958,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Gilmar",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Djalma Santos",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Bellini",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Orlando",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Nílton Santos",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Zito",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Didi",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Garrincha",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Pelé",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Vavá",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Zagallo",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 90
+      }
+    ]
+  },
+  {
+    "name": "Suécia",
+    "year": 1958,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Kalle Svensson",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Orvar Bergmark",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Bengt Gustavsson",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Sven Axbom",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 83
+      },
+      {
+        "name": "Reino Börjesson",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Sigge Parling",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Kurt Hamrin",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Gunnar Gren",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Agne Simonsson",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Nils Liedholm",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Lennart Skoglund",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 91
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1962,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Gilmar",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Djalma Santos",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Mauro Ramos",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Zózimo",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Nílton Santos",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Zito",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Didi",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Garrincha",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Amarildo",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Vavá",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Zagallo",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Pelé",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 90
+      }
+    ]
+  },
+  {
+    "name": "Tchecoslováquia",
+    "year": 1962,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Viliam Schrojf",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Jiří Tichý",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Ján Popluhár",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Ladislav Novák",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Svatopluk Pluskal",
+        "positions": [
+          "VOL",
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Josef Masopust",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Tomáš Pospíchal",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Adolf Scherer",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Josef Kadraba",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Andrej Kvašňák",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Josef Jelínek",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 84
+      }
+    ]
+  },
+  {
+    "name": "Inglaterra",
+    "year": 1966,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Gordon Banks",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "George Cohen",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Jack Charlton",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Bobby Moore",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Ray Wilson",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Nobby Stiles",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Alan Ball",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Bobby Charlton",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Geoff Hurst",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Roger Hunt",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Martin Peters",
+        "positions": [
+          "ME",
+          "MC"
+        ],
+        "ovr": 91
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1966,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Hans Tilkowski",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Horst-Dieter Höttges",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Willi Schulz",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Wolfgang Weber",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Karl-Heinz Schnellinger",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Franz Beckenbauer",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Wolfgang Overath",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Helmut Haller",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Sigfried Held",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Uwe Seeler",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Lothar Emmerich",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 88
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1970,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Félix",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Carlos Alberto",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Brito",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Piazza",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Everaldo",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Clodoaldo",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Gérson",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Jairzinho",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Pelé",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 99
+      },
+      {
+        "name": "Tostão",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Rivellino",
+        "positions": [
+          "ME",
+          "MEI"
+        ],
+        "ovr": 95
+      }
+    ]
+  },
+  {
+    "name": "Itália",
+    "year": 1970,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Enrico Albertosi",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Tarcisio Burgnich",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Roberto Rosato",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Pierluigi Cera",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Giacinto Facchetti",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Mario Bertini",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Giancarlo De Sisti",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Angelo Domenghini",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Sandro Mazzola",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Roberto Boninsegna",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Gigi Riva",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 94
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1974,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Sepp Maier",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Berti Vogts",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Hans-Georg Schwarzenbeck",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Franz Beckenbauer",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Paul Breitner",
+        "positions": [
+          "LE",
+          "MC"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Rainer Bonhof",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Wolfgang Overath",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Uli Hoeneß",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Jürgen Grabowski",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Gerd Müller",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Bernd Hölzenbein",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 89
+      }
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 1974,
+    "comp": "wc",
+    "tier": 3,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Jan Jongbloed",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Wim Suurbier",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Wim Rijsbergen",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Arie Haan",
+        "positions": [
+          "ZAG",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Ruud Krol",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Wim Jansen",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Johan Neeskens",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Willem van Hanegem",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Johnny Rep",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Johan Cruyff",
+        "positions": [
+          "ATA",
+          "MEI",
+          "PE"
+        ],
+        "ovr": 99
+      },
+      {
+        "name": "Rob Rensenbrink",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 93
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "year": 1978,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Ubaldo Fillol",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Jorge Olguín",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Luis Galván",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Daniel Passarella",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Alberto Tarantini",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Osvaldo Ardiles",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Américo Gallego",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Mario Kempes",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Daniel Bertoni",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Leopoldo Luque",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Oscar Ortiz",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 88
+      }
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 1978,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Jan Jongbloed",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Wim Jansen",
+        "positions": [
+          "LD",
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Ernie Brandts",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Ruud Krol",
+        "positions": [
+          "ZAG",
+          "LE"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Jan Poortvliet",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Johan Neeskens",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Arie Haan",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Willy van de Kerkhof",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "René van de Kerkhof",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Johnny Rep",
+        "positions": [
+          "ATA",
+          "PD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Rob Rensenbrink",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 94
+      }
+    ]
+  },
+  {
+    "name": "Itália",
+    "year": 1982,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Dino Zoff",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Claudio Gentile",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Gaetano Scirea",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Fulvio Collovati",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Antonio Cabrini",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Marco Tardelli",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Gabriele Oriali",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Bruno Conti",
+        "positions": [
+          "PD",
+          "MEI"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Paolo Rossi",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Francesco Graziani",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Giancarlo Antognoni",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 91
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1982,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Harald Schumacher",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Manfred Kaltz",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Karlheinz Förster",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Bernd Förster",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Uli Stielike",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Hans-Peter Briegel",
+        "positions": [
+          "LE",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Paul Breitner",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Wolfgang Dremmler",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Pierre Littbarski",
+        "positions": [
+          "PD",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Klaus Fischer",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Karl-Heinz Rummenigge",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 93
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "year": 1986,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Nery Pumpido",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "José Luis Cuciuffo",
+        "positions": [
+          "ZAG",
+          "LD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "José Luis Brown",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Oscar Ruggeri",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Julio Olarticoechea",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Ricardo Giusti",
+        "positions": [
+          "MD",
+          "VOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Sergio Batista",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Héctor Enrique",
+        "positions": [
+          "MC"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Jorge Burruchaga",
+        "positions": [
+          "MEI",
+          "MD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Jorge Valdano",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Diego Maradona",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 99
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1986,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Harald Schumacher",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Thomas Berthold",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Ditmar Jakobs",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Karlheinz Förster",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Hans-Peter Briegel",
+        "positions": [
+          "LE",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Lothar Matthäus",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Andreas Brehme",
+        "positions": [
+          "ME",
+          "LE"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Norbert Eder",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Felix Magath",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Karl-Heinz Rummenigge",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Rudi Völler",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Bodo Illgner",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Thomas Berthold",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Klaus Augenthaler",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Jürgen Kohler",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Guido Buchwald",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Andreas Brehme",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Lothar Matthäus",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Thomas Häßler",
+        "positions": [
+          "MEI",
+          "MD"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Pierre Littbarski",
+        "positions": [
+          "MEI",
+          "PD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Jürgen Klinsmann",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Rudi Völler",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Sergio Goycochea",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Juan Simón",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "José Serrizuela",
+        "positions": [
+          "ZAG",
+          "LD"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Oscar Ruggeri",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Néstor Lorenzo",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 82
+      },
+      {
+        "name": "Roberto Sensini",
+        "positions": [
+          "LD",
+          "VOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "José Basualdo",
+        "positions": [
+          "MD",
+          "MC"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Pedro Troglio",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Jorge Burruchaga",
+        "positions": [
+          "MEI",
+          "MD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Diego Maradona",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Gustavo Dezotti",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 81
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Taffarel",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Jorginho",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Aldair",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Márcio Santos",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Branco",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Dunga",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Mauro Silva",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Mazinho",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Zinho",
+        "positions": [
+          "ME",
+          "MC"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Bebeto",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Romário",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 98
+      }
+    ]
+  },
+  {
+    "name": "Itália",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Gianluca Pagliuca",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Roberto Mussi",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Franco Baresi",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Paolo Maldini",
+        "positions": [
+          "ZAG",
+          "LE"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Antonio Benarrivo",
+        "positions": [
+          "LE",
+          "LD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Demetrio Albertini",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Dino Baggio",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Roberto Donadoni",
+        "positions": [
+          "MD",
+          "ME"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Nicola Berti",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Roberto Baggio",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Daniele Massaro",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 88
+      }
+    ]
+  },
+  {
+    "name": "França",
+    "year": 1998,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Fabien Barthez",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Lilian Thuram",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Laurent Blanc",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Marcel Desailly",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Bixente Lizarazu",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Didier Deschamps",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Emmanuel Petit",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Christian Karembeu",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Zinedine Zidane",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Youri Djorkaeff",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Stéphane Guivarc’h",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 81
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1998,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Taffarel",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Cafu",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Aldair",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Júnior Baiano",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Roberto Carlos",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Dunga",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "César Sampaio",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Rivaldo",
+        "positions": [
+          "MEI",
+          "PE"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Leonardo",
+        "positions": [
+          "ME",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Bebeto",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Ronaldo",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 96
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Marcos",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Cafu",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Lúcio",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Roque Júnior",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Edmílson",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Roberto Carlos",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Gilberto Silva",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Kléberson",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Ronaldinho Gaúcho",
+        "positions": [
+          "MEI",
+          "PD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Rivaldo",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Ronaldo",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 99
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Oliver Kahn",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Torsten Frings",
+        "positions": [
+          "MD",
+          "LD",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Carsten Ramelow",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Christoph Metzelder",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Thomas Linke",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Dietmar Hamann",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Bernd Schneider",
+        "positions": [
+          "MEI",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Jens Jeremies",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Marco Bode",
+        "positions": [
+          "ME",
+          "LE"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Oliver Neuville",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Miroslav Klose",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Michael Ballack",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 95
+      }
+    ]
+  },
+  {
+    "name": "Itália",
+    "year": 2006,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Gianluigi Buffon",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Gianluca Zambrotta",
+        "positions": [
+          "LD",
+          "LE"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Fabio Cannavaro",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Marco Materazzi",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Fabio Grosso",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Gennaro Gattuso",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Andrea Pirlo",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Mauro Camoranesi",
+        "positions": [
+          "MD",
+          "PD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Simone Perrotta",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Francesco Totti",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Luca Toni",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 91
+      }
+    ]
+  },
+  {
+    "name": "França",
+    "year": 2006,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Fabien Barthez",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Willy Sagnol",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Lilian Thuram",
+        "positions": [
+          "ZAG",
+          "LD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "William Gallas",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Éric Abidal",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Patrick Vieira",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Claude Makélélé",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Franck Ribéry",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Zinedine Zidane",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Florent Malouda",
+        "positions": [
+          "ME",
+          "PE"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Thierry Henry",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 94
+      }
+    ]
+  },
+  {
+    "name": "Espanha",
+    "year": 2010,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Iker Casillas",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Sergio Ramos",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Gerard Piqué",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Carles Puyol",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Joan Capdevila",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Sergio Busquets",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Xabi Alonso",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Xavi",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Andrés Iniesta",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Pedro",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "David Villa",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 96
+      }
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 2010,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Maarten Stekelenburg",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Gregory van der Wiel",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "John Heitinga",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Joris Mathijsen",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Giovanni van Bronckhorst",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Nigel de Jong",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Mark van Bommel",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Arjen Robben",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Wesley Sneijder",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Dirk Kuyt",
+        "positions": [
+          "PE",
+          "ATA",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Robin van Persie",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 89
+      }
+    ]
+  },
+  {
+    "name": "Alemanha",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Manuel Neuer",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Philipp Lahm",
+        "positions": [
+          "LD",
+          "VOL"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Jérôme Boateng",
+        "positions": [
+          "ZAG",
+          "LD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Mats Hummels",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Benedikt Höwedes",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Bastian Schweinsteiger",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Sami Khedira",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Toni Kroos",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Mesut Özil",
+        "positions": [
+          "MEI",
+          "ME"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Thomas Müller",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Miroslav Klose",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 90
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Sergio Romero",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Pablo Zabaleta",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Martín Demichelis",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Ezequiel Garay",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Marcos Rojo",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Javier Mascherano",
+        "positions": [
+          "VOL",
+          "ZAG"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Lucas Biglia",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Enzo Pérez",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Lionel Messi",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Gonzalo Higuaín",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Ezequiel Lavezzi",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Ángel Di María",
+        "positions": [
+          "ME",
+          "PE"
+        ],
+        "ovr": 93
+      }
+    ]
+  },
+  {
+    "name": "França",
+    "year": 2018,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Hugo Lloris",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Benjamin Pavard",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Raphaël Varane",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Samuel Umtiti",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Lucas Hernández",
+        "positions": [
+          "LE",
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "N’Golo Kanté",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Paul Pogba",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Kylian Mbappé",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Antoine Griezmann",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Blaise Matuidi",
+        "positions": [
+          "ME",
+          "MC"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Olivier Giroud",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 87
+      }
+    ]
+  },
+  {
+    "name": "Croácia",
+    "year": 2018,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Danijel Subašić",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Šime Vrsaljko",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Dejan Lovren",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Domagoj Vida",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Ivan Strinić",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Marcelo Brozović",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Luka Modrić",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Ivan Rakitić",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Ante Rebić",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Ivan Perišić",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Mario Mandžukić",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 3,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Emiliano Martínez",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Nahuel Molina",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Cristian Romero",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Nicolás Otamendi",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Nicolás Tagliafico",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Enzo Fernández",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Rodrigo De Paul",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Alexis Mac Allister",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Ángel Di María",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Julián Álvarez",
+        "positions": [
+          "ATA",
+          "PD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Lionel Messi",
+        "positions": [
+          "MEI",
+          "ATA",
+          "PD"
+        ],
+        "ovr": 99
+      }
+    ]
+  },
+  {
+    "name": "França",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Hugo Lloris",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Jules Koundé",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Raphaël Varane",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Dayot Upamecano",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Theo Hernández",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Aurélien Tchouaméni",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Adrien Rabiot",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Antoine Griezmann",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "positions": [
+          "PD",
+          "PE"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Olivier Giroud",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Kylian Mbappé",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 98
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "year": 2006,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads#Portugal",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Ricardo",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Miguel",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Ricardo Carvalho",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Fernando Meira",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Nuno Valente",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Costinha",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Maniche",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Deco",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Luís Figo",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "positions": [
+          "PE",
+          "PD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Pauleta",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 85
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "year": 1982,
+    "comp": "wc",
+    "tier": 2,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_squads#Brazil",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Waldir Peres",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 83
+      },
+      {
+        "name": "Leandro",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Oscar",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Luizinho",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Júnior",
+        "positions": [
+          "LE",
+          "MC"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Toninho Cerezo",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Falcão",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Sócrates",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Zico",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Éder",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Serginho Chulapa",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 86
+      }
+    ]
+  },
+  {
+    "name": "Países Baixos",
+    "year": 1998,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_squads#Netherlands",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Edwin van der Sar",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Michael Reiziger",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Jaap Stam",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Frank de Boer",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Arthur Numan",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Wim Jonk",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Edgar Davids",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Ronald de Boer",
+        "positions": [
+          "MD",
+          "MEI"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Phillip Cocu",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Dennis Bergkamp",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Patrick Kluivert",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 94
+      }
+    ]
+  },
+  {
+    "name": "Uruguai",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads#Uruguay",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Sergio Rochet",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 83
+      },
+      {
+        "name": "Guillermo Varela",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 77
+      },
+      {
+        "name": "José Giménez",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Diego Godín",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 79
+      },
+      {
+        "name": "Mathías Olivera",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 81
+      },
+      {
+        "name": "Matías Vecino",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 78
+      },
+      {
+        "name": "Federico Valverde",
+        "positions": [
+          "MC",
+          "MD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Arrascaeta",
+        "positions": [
+          "MEI",
+          "ME"
+        ],
+        "ovr": 83
+      },
+      {
+        "name": "Facundo Pellistri",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 77
+      },
+      {
+        "name": "Luis Suárez",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 79
+      },
+      {
+        "name": "Darwin Núñez",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 81
+      }
+    ]
+  },
+  {
+    "name": "Chile",
+    "year": 1962,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Misael Escuti",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Luis Eyzaguirre",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Raúl Sánchez",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Sergio Navarro",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Carlos Contreras",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Eladio Rojas",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Jorge Toro",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Jaime Ramírez",
+        "positions": [
+          "PD",
+          "MEI"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Honorino Landa",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Leonel Sánchez",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Alberto Fouillioux",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 86
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "year": 1966,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "José Pereira",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "João Morais",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Vicente Lucas",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Alexandre Baptista",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Hilário",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Mário Coluna",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Jaime Graça",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "José Augusto",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Eusébio",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "José Torres",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "António Simões",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 92
+      }
+    ]
+  },
+  {
+    "name": "Polônia",
+    "year": 1974,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Jan Tomaszewski",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Antoni Szymanowski",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Jerzy Gorgoń",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Władysław Żmuda",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Adam Musiał",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Henryk Kasperczak",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Kazimierz Deyna",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Zygmunt Maszczyk",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Grzegorz Lato",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Andrzej Szarmach",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Robert Gadocha",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 92
+      }
+    ]
+  },
+  {
+    "name": "Bélgica",
+    "year": 1986,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Jean-Marie Pfaff",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Eric Gerets",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Georges Grün",
+        "positions": [
+          "ZAG",
+          "LD"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Michel Renquin",
+        "positions": [
+          "ZAG",
+          "LE"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Stéphane Demol",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Franky Vercauteren",
+        "positions": [
+          "ME",
+          "PE"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Franky Van der Elst",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Enzo Scifo",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Jan Ceulemans",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Daniel Veyt",
+        "positions": [
+          "ATA",
+          "PD"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Nico Claesen",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 88
+      }
+    ]
+  },
+  {
+    "name": "Camarões",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Thomas N’Kono",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Stephen Tataw",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Emmanuel Kundé",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "André Kana-Biyik",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Jules Onana",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 83
+      },
+      {
+        "name": "Bertin Ebwellé",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Benjamin Massing",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 82
+      },
+      {
+        "name": "Cyrille Makanaky",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Louis-Paul M’Fédé",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "François Omam-Biyik",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Roger Milla",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 94
+      }
+    ]
+  },
+  {
+    "name": "Bulgária",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Borislav Mihaylov",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Emil Kremenliev",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Trifon Ivanov",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Petar Hubchev",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Tsanko Tsvetanov",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Zlatko Yankov",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Yordan Letchkov",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Krasimir Balakov",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Daniel Borimirov",
+        "positions": [
+          "ME",
+          "MC"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Emil Kostadinov",
+        "positions": [
+          "PD",
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Hristo Stoichkov",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 98
+      }
+    ]
+  },
+  {
+    "name": "Suécia",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Thomas Ravelli",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Roland Nilsson",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Patrik Andersson",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Joachim Björklund",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Roger Ljung",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Jonas Thern",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Stefan Schwarz",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Tomas Brolin",
+        "positions": [
+          "MEI",
+          "PD"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Håkan Mild",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Kenneth Andersson",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Martin Dahlin",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      }
+    ]
+  },
+  {
+    "name": "Coreia do Sul",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Lee Woon-jae",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Choi Jin-cheul",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Hong Myung-bo",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Kim Tae-young",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Song Chong-gug",
+        "positions": [
+          "MD",
+          "LD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Lee Young-pyo",
+        "positions": [
+          "ME",
+          "LE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Kim Nam-il",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Yoo Sang-chul",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Park Ji-sung",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Seol Ki-hyeon",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Ahn Jung-hwan",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 90
+      }
+    ]
+  },
+  {
+    "name": "Turquia",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Rüştü Reçber",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Ümit Davala",
+        "positions": [
+          "MD",
+          "LD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Alpay Özalan",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Bülent Korkmaz",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Fatih Akyel",
+        "positions": [
+          "ZAG",
+          "LD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Ergün Penbe",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Tugay Kerimoğlu",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Emre Belözoğlu",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Yıldıray Baştürk",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Hasan Şaş",
+        "positions": [
+          "PE",
+          "MEI"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "İlhan Mansız",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Hakan Şükür",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 89
+      }
+    ]
+  },
+  {
+    "name": "Senegal",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Tony Sylva",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Habib Beye",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Lamine Diatta",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Aliou Cissé",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Omar Daf",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Ferdinand Coly",
+        "positions": [
+          "MD",
+          "LD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Salif Diao",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Papa Bouba Diop",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Khalilou Fadiga",
+        "positions": [
+          "MEI",
+          "ME"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "El Hadji Diouf",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Henri Camara",
+        "positions": [
+          "ATA",
+          "PD"
+        ],
+        "ovr": 91
+      }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Keylor Navas",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 97
+      },
+      {
+        "name": "Cristian Gamboa",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Óscar Duarte",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Giancarlo González",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Michael Umaña",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Júnior Díaz",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Yeltsin Tejeda",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Celso Borges",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Christian Bolaños",
+        "positions": [
+          "MD",
+          "MEI"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Bryan Ruiz",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Joel Campbell",
+        "positions": [
+          "ATA",
+          "PD"
+        ],
+        "ovr": 91
+      }
+    ]
+  },
+  {
+    "name": "Marrocos",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Yassine Bounou",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Achraf Hakimi",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Nayef Aguerd",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Romain Saïss",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Noussair Mazraoui",
+        "positions": [
+          "LE",
+          "LD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Sofyan Amrabat",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Azzedine Ounahi",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Selim Amallah",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Hakim Ziyech",
+        "positions": [
+          "PD",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Sofiane Boufal",
+        "positions": [
+          "PE",
+          "MEI"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Youssef En-Nesyri",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 91
+      }
+    ]
+  },
+  {
+    "name": "Japão",
+    "year": 2022,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Shuichi Gonda",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Takehiro Tomiyasu",
+        "positions": [
+          "ZAG",
+          "LD"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Maya Yoshida",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Ko Itakura",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Yuto Nagatomo",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Wataru Endo",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Hidemasa Morita",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Junya Ito",
+        "positions": [
+          "MD",
+          "PD"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Daichi Kamada",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Ritsu Doan",
+        "positions": [
+          "PD",
+          "MEI"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Daizen Maeda",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Kaoru Mitoma",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 90
+      }
+    ]
+  },
+  {
+    "name": "Gana",
+    "year": 2010,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Richard Kingson",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "John Pantsil",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "John Mensah",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Isaac Vorsah",
+        "positions": [
+          "ZAG",
+          "VOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Hans Sarpei",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Anthony Annan",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Kevin-Prince Boateng",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Kwadwo Asamoah",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Sulley Muntari",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "André Ayew",
+        "positions": [
+          "PE",
+          "ME"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Asamoah Gyan",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      }
+    ]
+  },
+  {
+    "name": "Colômbia",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "David Ospina",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Camilo Zúñiga",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Cristián Zapata",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Mario Yepes",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Pablo Armero",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Carlos Sánchez",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Abel Aguilar",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Juan Cuadrado",
+        "positions": [
+          "PD",
+          "MD"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "James Rodríguez",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Víctor Ibarbo",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Teófilo Gutiérrez",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 89
+      }
+    ]
+  },
+  {
+    "name": "Peru",
+    "year": 1970,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Luis Rubiños",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Eloy Campos",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Héctor Chumpitaz",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Nicolás Fuentes",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Orlando de la Torre",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Roberto Challe",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Ramón Mifflin",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Pedro Pablo León",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Teófilo Cubillas",
+        "positions": [
+          "MEI",
+          "ATA"
+        ],
+        "ovr": 96
+      },
+      {
+        "name": "Hugo Sotil",
+        "positions": [
+          "ATA",
+          "PE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Alberto Gallardo",
+        "positions": [
+          "PE",
+          "ATA"
+        ],
+        "ovr": 92
+      }
+    ]
+  },
+  {
+    "name": "Argélia",
+    "year": 2014,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Raïs M’Bolhi",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Aïssa Mandi",
+        "positions": [
+          "LD",
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Rafik Halliche",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Essaïd Belkalem",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Djamel Mesbah",
+        "positions": [
+          "LE",
+          "ME"
+        ],
+        "ovr": 84
+      },
+      {
+        "name": "Medhi Lacen",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Mehdi Mostefa",
+        "positions": [
+          "VOL",
+          "LD"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Saphir Taïder",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Sofiane Feghouli",
+        "positions": [
+          "PD",
+          "MEI"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Yacine Brahimi",
+        "positions": [
+          "MEI",
+          "PE"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Islam Slimani",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 93
+      }
+    ]
+  },
+  {
+    "name": "Irlanda",
+    "year": 1990,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Packie Bonner",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Chris Morris",
+        "positions": [
+          "LD"
+        ],
+        "ovr": 86
+      },
+      {
+        "name": "Mick McCarthy",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "David O’Leary",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Steve Staunton",
+        "positions": [
+          "LE"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Paul McGrath",
+        "positions": [
+          "VOL",
+          "ZAG"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Andy Townsend",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 89
+      },
+      {
+        "name": "Ray Houghton",
+        "positions": [
+          "MD",
+          "MC"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Kevin Sheedy",
+        "positions": [
+          "ME",
+          "MEI"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Tony Cascarino",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Niall Quinn",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 86
+      }
+    ]
+  },
+  {
+    "name": "Estados Unidos",
+    "year": 2002,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Brad Friedel",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 95
+      },
+      {
+        "name": "Tony Sanneh",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Eddie Pope",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Gregg Berhalter",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Frankie Hejduk",
+        "positions": [
+          "LE",
+          "LD"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Pablo Mastroeni",
+        "positions": [
+          "VOL",
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Claudio Reyna",
+        "positions": [
+          "MC",
+          "MEI"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "John O’Brien",
+        "positions": [
+          "MC",
+          "VOL"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "DaMarcus Beasley",
+        "positions": [
+          "ME",
+          "PE"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Landon Donovan",
+        "positions": [
+          "ATA",
+          "MEI"
+        ],
+        "ovr": 93
+      },
+      {
+        "name": "Brian McBride",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 92
+      }
+    ]
+  },
+  {
+    "name": "Romênia",
+    "year": 1994,
+    "comp": "wc",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "players": [
+      {
+        "name": "Florin Prunea",
+        "positions": [
+          "GOL"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Dan Petrescu",
+        "positions": [
+          "LD",
+          "MD"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Miodrag Belodedici",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 92
+      },
+      {
+        "name": "Daniel Prodan",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 87
+      },
+      {
+        "name": "Gheorghe Mihali",
+        "positions": [
+          "ZAG"
+        ],
+        "ovr": 85
+      },
+      {
+        "name": "Gheorghe Popescu",
+        "positions": [
+          "VOL",
+          "ZAG"
+        ],
+        "ovr": 91
+      },
+      {
+        "name": "Ioan Lupescu",
+        "positions": [
+          "VOL",
+          "MC"
+        ],
+        "ovr": 88
+      },
+      {
+        "name": "Dorinel Munteanu",
+        "positions": [
+          "MC",
+          "ME"
+        ],
+        "ovr": 90
+      },
+      {
+        "name": "Gheorghe Hagi",
+        "positions": [
+          "MEI",
+          "MC"
+        ],
+        "ovr": 98
+      },
+      {
+        "name": "Ilie Dumitrescu",
+        "positions": [
+          "PE",
+          "MEI"
+        ],
+        "ovr": 94
+      },
+      {
+        "name": "Florin Răducioiu",
+        "positions": [
+          "ATA"
+        ],
+        "ovr": 94
+      }
+    ]
+  }
+]

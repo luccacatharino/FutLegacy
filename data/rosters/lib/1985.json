@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib",
+    "tier": 0,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 85,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Enrique Vidallé",
+      "Carmelo Villalba",
+      "José Luis Pavoni",
+      "Jorge Olguín",
+      "Adrián Domenech",
+      "Emilio Commisso",
+      "Sergio Batista",
+      "Mario Videla",
+      "José Antonio Castro",
+      "Claudio Borghi",
+      "Carlos Ereros"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-argentinos-juniors-1985-enrique-vidalle",
+      "lib-argentinos-juniors-1985-carmelo-villalba",
+      "lib-argentinos-juniors-1985-jose-luis-pavoni",
+      "lib-argentinos-juniors-1985-jorge-olguin",
+      "lib-argentinos-juniors-1985-adrian-domenech",
+      "lib-argentinos-juniors-1985-emilio-commisso",
+      "lib-argentinos-juniors-1985-sergio-batista",
+      "lib-argentinos-juniors-1985-mario-videla",
+      "lib-argentinos-juniors-1985-jose-antonio-castro",
+      "lib-argentinos-juniors-1985-claudio-borghi",
+      "lib-argentinos-juniors-1985-carlos-ereros",
+      "lib-argentinos-juniors-1985-jorge-pellegrini",
+      "lib-argentinos-juniors-1985-armando-dely-valdes",
+      "lib-argentinos-juniors-1985-juan-jose-lopez",
+      "lib-argentinos-juniors-1985-renato-corsi",
+      "lib-argentinos-juniors-1985-carlos-mayor",
+      "lib-argentinos-juniors-1985-miguel-lemme"
+    ]
+  }
+]

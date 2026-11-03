@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Chelsea",
+    "year": 2012,
+    "season": "2011/12",
+    "comp": "ucl",
+    "tier": 1,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
+    "selectionReason": "Ambos os títulos.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 86,
+    "startingXI": [
+      "Petr Čech",
+      "José Bosingwa",
+      "David Luiz",
+      "Gary Cahill",
+      "Ashley Cole",
+      "Mikel John Obi",
+      "Frank Lampard",
+      "Salomon Kalou",
+      "Juan Mata",
+      "Ryan Bertrand",
+      "Didier Drogba"
+    ],
+    "playerIds": [
+      "ucl-chelsea-2012-didier-drogba",
+      "ucl-chelsea-2012-petr-cech",
+      "ucl-chelsea-2012-ashley-cole",
+      "ucl-chelsea-2012-frank-lampard",
+      "ucl-chelsea-2012-juan-mata",
+      "ucl-chelsea-2012-david-luiz",
+      "ucl-chelsea-2012-fernando-torres",
+      "ucl-chelsea-2012-gary-cahill",
+      "ucl-chelsea-2012-michael-essien",
+      "ucl-chelsea-2012-mikel-john-obi",
+      "ucl-chelsea-2012-florent-malouda",
+      "ucl-chelsea-2012-salomon-kalou",
+      "ucl-chelsea-2012-daniel-sturridge",
+      "ucl-chelsea-2012-jose-bosingwa",
+      "ucl-chelsea-2012-paulo-ferreira",
+      "ucl-chelsea-2012-ryan-bertrand",
+      "ucl-chelsea-2012-oriol-romeu",
+      "ucl-chelsea-2012-ross-turnbull"
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Ian Rush",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 93,
+      "fin": 98,
+      "pas": 78,
+      "dri": 85,
+      "def": 35,
+      "fis": 79
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-ian-rush",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Kenny Dalglish",
+    "positions": [
+      "ATA",
+      "MEI"
+    ],
+    "ovr": 94,
+    "attrs": {
+      "vel": 83,
+      "fin": 95,
+      "pas": 96,
+      "dri": 94,
+      "def": 44,
+      "fis": 78
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-kenny-dalglish",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Graeme Souness",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 92,
+    "attrs": {
+      "vel": 81,
+      "fin": 79,
+      "pas": 96,
+      "dri": 91,
+      "def": 74,
+      "fis": 81
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-graeme-souness",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Alan Hansen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 91,
+    "attrs": {
+      "vel": 70,
+      "fin": 45,
+      "pas": 74,
+      "dri": 59,
+      "def": 92,
+      "fis": 92
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-alan-hansen",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mark Lawrenson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 66,
+      "fin": 41,
+      "pas": 70,
+      "dri": 60,
+      "def": 88,
+      "fis": 88
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-mark-lawrenson",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Phil Neal",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 85,
+      "fin": 55,
+      "pas": 78,
+      "dri": 79,
+      "def": 82,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-phil-neal",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bruce Grobbelaar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 42,
+      "fin": 12,
+      "pas": 60,
+      "dri": 30,
+      "def": 18,
+      "fis": 76,
+      "ref": 88,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 70,
+      "one": 85
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-bruce-grobbelaar",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ronnie Whelan",
+    "positions": [
+      "ME",
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 88,
+      "fin": 78,
+      "pas": 84,
+      "dri": 84,
+      "def": 56,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-ronnie-whelan",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Alan Kennedy",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 85,
+      "fin": 55,
+      "pas": 73,
+      "dri": 74,
+      "def": 77,
+      "fis": 76
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-alan-kennedy",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Craig Johnston",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 71,
+      "fin": 69,
+      "pas": 86,
+      "dri": 81,
+      "def": 69,
+      "fis": 71
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-craig-johnston",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sammy Lee",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 86,
+      "fin": 71,
+      "pas": 77,
+      "dri": 82,
+      "def": 54,
+      "fis": 69
+    },
+    "starter": true,
+    "id": "ucl-liverpool-1984-sammy-lee",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Steve Nicol",
+    "positions": [
+      "LD",
+      "LE"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 82,
+      "fin": 52,
+      "pas": 75,
+      "dri": 71,
+      "def": 74,
+      "fis": 73
+    },
+    "starter": false,
+    "id": "ucl-liverpool-1984-steve-nicol",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Michael Robinson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 76,
+      "fin": 84,
+      "pas": 63,
+      "dri": 76,
+      "def": 34,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-liverpool-1984-michael-robinson",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gary Gillespie",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 60,
+      "fin": 30,
+      "pas": 59,
+      "dri": 49,
+      "def": 82,
+      "fis": 82
+    },
+    "starter": false,
+    "id": "ucl-liverpool-1984-gary-gillespie",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "David Hodgson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 76,
+      "fin": 84,
+      "pas": 58,
+      "dri": 71,
+      "def": 29,
+      "fis": 75
+    },
+    "starter": false,
+    "id": "ucl-liverpool-1984-david-hodgson",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  },
+  {
+    "name": "Bob Bolder",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 73,
+    "attrs": {
+      "vel": 42,
+      "fin": 12,
+      "pas": 47,
+      "dri": 30,
+      "def": 18,
+      "fis": 63,
+      "ref": 75,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 57,
+      "one": 72
+    },
+    "starter": false,
+    "id": "ucl-liverpool-1984-bob-bolder",
+    "team": "Liverpool",
+    "year": 1984,
+    "comp": "ucl"
+  }
+]

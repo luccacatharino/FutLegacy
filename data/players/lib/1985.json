@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Enrique Vidallé",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 44,
+      "fin": 12,
+      "pas": 59,
+      "dri": 25,
+      "def": 23,
+      "fis": 79,
+      "ref": 88,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 74,
+      "one": 86
+    },
+    "sourceName": "Enrique Vidallé",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Enrique_Vidallé",
+    "id": "lib-argentinos-juniors-1985-enrique-vidalle",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Carmelo Villalba",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 80,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 78,
+      "fin": 39,
+      "pas": 68,
+      "dri": 66,
+      "def": 71,
+      "fis": 71
+    },
+    "sourceName": "Carmelo Villalba",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Carmelo_Villalba",
+    "id": "lib-argentinos-juniors-1985-carmelo-villalba",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "José Luis Pavoni",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 59,
+      "fin": 31,
+      "pas": 61,
+      "dri": 44,
+      "def": 84,
+      "fis": 87
+    },
+    "sourceName": "José Luis Pavoni",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Luis_Pavoni",
+    "id": "lib-argentinos-juniors-1985-jose-luis-pavoni",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Olguín",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 61,
+      "fin": 33,
+      "pas": 62,
+      "dri": 49,
+      "def": 86,
+      "fis": 88
+    },
+    "sourceName": "Jorge Olguín",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Olguín",
+    "id": "lib-argentinos-juniors-1985-jorge-olguin",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Adrián Domenech",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 84,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 77,
+      "fin": 42,
+      "pas": 72,
+      "dri": 74,
+      "def": 75,
+      "fis": 72
+    },
+    "sourceName": "Adrián Domenech",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Adrián_Domenech",
+    "id": "lib-argentinos-juniors-1985-adrian-domenech",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Emilio Commisso",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 68,
+      "fin": 62,
+      "pas": 83,
+      "dri": 79,
+      "def": 63,
+      "fis": 72
+    },
+    "sourceName": "Emilio Commisso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Emilio_Commisso",
+    "id": "lib-argentinos-juniors-1985-emilio-commisso",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Sergio Batista",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 66,
+      "fin": 51,
+      "pas": 80,
+      "dri": 70,
+      "def": 83,
+      "fis": 83
+    },
+    "sourceName": "Sergio Batista",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Sergio_Batista",
+    "id": "lib-argentinos-juniors-1985-sergio-batista",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario Videla",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 69,
+      "fin": 66,
+      "pas": 84,
+      "dri": 82,
+      "def": 66,
+      "fis": 72
+    },
+    "sourceName": "Mario Videla",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mario_Videla",
+    "id": "lib-argentinos-juniors-1985-mario-videla",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "José Antonio Castro",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 83,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 84,
+      "fin": 75,
+      "pas": 74,
+      "dri": 84,
+      "def": 31,
+      "fis": 66
+    },
+    "sourceName": "José Antonio Castro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Antonio_Castro",
+    "id": "lib-argentinos-juniors-1985-jose-antonio-castro",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Claudio Borghi",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 92,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 81,
+      "fin": 85,
+      "pas": 95,
+      "dri": 92,
+      "def": 46,
+      "fis": 73
+    },
+    "sourceName": "Claudio Borghi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Claudio_Borghi_(football_manager)",
+    "id": "lib-argentinos-juniors-1985-claudio-borghi",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Ereros",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 74,
+      "fin": 87,
+      "pas": 61,
+      "dri": 73,
+      "def": 27,
+      "fis": 79
+    },
+    "sourceName": "Carlos Ereros",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": true,
+    "id": "lib-argentinos-juniors-1985-carlos-ereros",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Pellegrini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 59,
+      "fin": 29,
+      "pas": 56,
+      "dri": 39,
+      "def": 83,
+      "fis": 80
+    },
+    "sourceName": "Jorge Pellegrini",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Jorge_Pellegrini",
+    "id": "lib-argentinos-juniors-1985-jorge-pellegrini",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Armando Dely Valdés",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 74,
+      "fin": 84,
+      "pas": 62,
+      "dri": 72,
+      "def": 28,
+      "fis": 78
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Armando Dely Valdés",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Armando_Dely_Valdés",
+    "id": "lib-argentinos-juniors-1985-armando-dely-valdes",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan José López",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 73,
+      "fin": 66,
+      "pas": 86,
+      "dri": 80,
+      "def": 67,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Juan José López",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_José_López",
+    "id": "lib-argentinos-juniors-1985-juan-jose-lopez",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Renato Corsi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 78,
+      "fin": 62,
+      "pas": 78,
+      "dri": 76,
+      "def": 57,
+      "fis": 72
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Renato Corsi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Renato_Corsi",
+    "id": "lib-argentinos-juniors-1985-renato-corsi",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Mayor",
+    "positions": [
+      "LE",
+      "ZAG"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Carlos Mayor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Carlos_Mayor",
+    "id": "lib-argentinos-juniors-1985-carlos-mayor",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Lemme",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 62,
+      "fin": 44,
+      "pas": 75,
+      "dri": 64,
+      "def": 75,
+      "fis": 74
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Miguel Lemme",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1985_Copa_Libertadores_finals",
+    "id": "lib-argentinos-juniors-1985-miguel-lemme",
+    "team": "Argentinos Juniors",
+    "year": 1985,
+    "comp": "lib"
+  }
+]

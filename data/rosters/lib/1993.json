@@ -1,0 +1,51 @@
+[
+  {
+    "name": "São Paulo",
+    "year": 1993,
+    "comp": "lib",
+    "tier": 2,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Possui exatamente três títulos: 1992, 1993 e 2005. Todos são obrigatórios.",
+    "startingXI": [
+      "Zetti",
+      "Vitor",
+      "Válber",
+      "Gilmar",
+      "Ronaldo Luiz",
+      "Pintado",
+      "Dinho",
+      "Raí",
+      "Cafu",
+      "Palhinha",
+      "Müller"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-sao-paulo-1993-zetti",
+      "lib-sao-paulo-1993-vitor",
+      "lib-sao-paulo-1993-valber",
+      "lib-sao-paulo-1993-gilmar",
+      "lib-sao-paulo-1993-ronaldo-luiz",
+      "lib-sao-paulo-1993-pintado",
+      "lib-sao-paulo-1993-dinho",
+      "lib-sao-paulo-1993-rai",
+      "lib-sao-paulo-1993-cafu",
+      "lib-sao-paulo-1993-palhinha",
+      "lib-sao-paulo-1993-muller",
+      "lib-sao-paulo-1993-toninho-cerezo",
+      "lib-sao-paulo-1993-gilberto",
+      "lib-sao-paulo-1993-adilson",
+      "lib-sao-paulo-1993-andre-luiz",
+      "lib-sao-paulo-1993-cate",
+      "lib-sao-paulo-1993-elivelton",
+      "lib-sao-paulo-1993-marcos-adriano"
+    ]
+  }
+]

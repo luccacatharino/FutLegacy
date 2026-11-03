@@ -1,0 +1,48 @@
+[
+  {
+    "name": "França",
+    "year": 2018,
+    "comp": "wc",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-franca-2018-hugo-lloris",
+      "wc-franca-2018-benjamin-pavard",
+      "wc-franca-2018-raphael-varane",
+      "wc-franca-2018-samuel-umtiti",
+      "wc-franca-2018-lucas-hernandez",
+      "wc-franca-2018-n-golo-kante",
+      "wc-franca-2018-paul-pogba",
+      "wc-franca-2018-kylian-mbappe",
+      "wc-franca-2018-antoine-griezmann",
+      "wc-franca-2018-blaise-matuidi",
+      "wc-franca-2018-olivier-giroud"
+    ]
+  },
+  {
+    "name": "Croácia",
+    "year": 2018,
+    "comp": "wc",
+    "tier": 1,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final",
+    "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
+    "ratingMethod": "Avaliação editorial própria do desempenho na edição, sem importação de notas de jogos comerciais.",
+    "playerIds": [
+      "wc-croacia-2018-danijel-subasic",
+      "wc-croacia-2018-sime-vrsaljko",
+      "wc-croacia-2018-dejan-lovren",
+      "wc-croacia-2018-domagoj-vida",
+      "wc-croacia-2018-ivan-strinic",
+      "wc-croacia-2018-marcelo-brozovic",
+      "wc-croacia-2018-luka-modric",
+      "wc-croacia-2018-ivan-rakitic",
+      "wc-croacia-2018-ante-rebic",
+      "wc-croacia-2018-ivan-perisic",
+      "wc-croacia-2018-mario-mandzukic"
+    ]
+  }
+]

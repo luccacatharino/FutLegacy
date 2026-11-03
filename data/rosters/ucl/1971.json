@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Ajax",
+    "year": 1971,
+    "season": "1970/71",
+    "comp": "ucl",
+    "tier": 2,
+    "champion": true,
+    "source": "https://en.wikipedia.org/wiki/1971_European_Cup_final",
+    "selectionReason": "Início e ápice do tricampeonato de Cruyff, mais a geração invicta de 1995.",
+    "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
+    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
+    "ovr": 87,
+    "startingXI": [
+      "Heinz Stuy",
+      "Velibor Vasović",
+      "Wim Suurbier",
+      "Barry Hulshoff",
+      "Nico Rijnders",
+      "Johan Neeskens",
+      "Sjaak Swart",
+      "Gerrie Mühren",
+      "Dick van Dijk",
+      "Piet Keizer",
+      "Johan Cruyff"
+    ],
+    "playerIds": [
+      "ucl-ajax-1971-johan-cruyff",
+      "ucl-ajax-1971-piet-keizer",
+      "ucl-ajax-1971-johan-neeskens",
+      "ucl-ajax-1971-velibor-vasovic",
+      "ucl-ajax-1971-barry-hulshoff",
+      "ucl-ajax-1971-gerrie-muhren",
+      "ucl-ajax-1971-sjaak-swart",
+      "ucl-ajax-1971-wim-suurbier",
+      "ucl-ajax-1971-arie-haan",
+      "ucl-ajax-1971-dick-van-dijk",
+      "ucl-ajax-1971-heinz-stuy",
+      "ucl-ajax-1971-horst-blankenburg",
+      "ucl-ajax-1971-nico-rijnders",
+      "ucl-ajax-1971-ruud-suurendonk",
+      "ucl-ajax-1971-sies-wever"
+    ]
+  }
+]

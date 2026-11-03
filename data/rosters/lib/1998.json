@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Vasco",
+    "year": 1998,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 88,
+    "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
+    "startingXI": [
+      "Carlos Germano",
+      "Vágner",
+      "Odvan",
+      "Mauro Galvão",
+      "Luisinho",
+      "Felipe",
+      "Nasa",
+      "Juninho",
+      "Pedrinho",
+      "Luizão",
+      "Donizete"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-vasco-1998-carlos-germano",
+      "lib-vasco-1998-vagner",
+      "lib-vasco-1998-odvan",
+      "lib-vasco-1998-mauro-galvao",
+      "lib-vasco-1998-luisinho",
+      "lib-vasco-1998-felipe",
+      "lib-vasco-1998-nasa",
+      "lib-vasco-1998-juninho",
+      "lib-vasco-1998-pedrinho",
+      "lib-vasco-1998-luizao",
+      "lib-vasco-1998-donizete",
+      "lib-vasco-1998-ramon",
+      "lib-vasco-1998-marcio",
+      "lib-vasco-1998-alex-pinho",
+      "lib-vasco-1998-vitor",
+      "lib-vasco-1998-valber",
+      "lib-vasco-1998-nelson",
+      "lib-vasco-1998-mauricinho"
+    ]
+  }
+]

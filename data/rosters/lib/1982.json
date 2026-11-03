@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Peñarol",
+    "year": 1982,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 86,
+    "selectionReason": "1960 é o campeão inaugural com Spencer e Cubilla; 1966 une Mazurkiewicz, Spencer, Rocha e Joya; 1982 é o título da geração de Morena, Olivera e Diogo. São três núcleos fortes distintos, não as três conquistas mais recentes.",
+    "startingXI": [
+      "Gustavo Fernández",
+      "Víctor Diogo",
+      "Walter Olivera",
+      "Nelson Gutiérrez",
+      "Juan V. Morales",
+      "Mario Saralegui",
+      "Miguel Bossio",
+      "Jair",
+      "Ernesto Vargas",
+      "Fernando Morena",
+      "Venancio Ramos"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-penarol-1982-gustavo-fernandez",
+      "lib-penarol-1982-victor-diogo",
+      "lib-penarol-1982-walter-olivera",
+      "lib-penarol-1982-nelson-gutierrez",
+      "lib-penarol-1982-juan-v-morales",
+      "lib-penarol-1982-mario-saralegui",
+      "lib-penarol-1982-miguel-bossio",
+      "lib-penarol-1982-jair",
+      "lib-penarol-1982-ernesto-vargas",
+      "lib-penarol-1982-fernando-morena",
+      "lib-penarol-1982-venancio-ramos",
+      "lib-penarol-1982-walkir-silva",
+      "lib-penarol-1982-daniel-rodriguez"
+    ]
+  }
+]

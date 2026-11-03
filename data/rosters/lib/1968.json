@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Estudiantes",
+    "year": 1968,
+    "comp": "lib",
+    "tier": 1,
+    "champion": true,
+    "source": "Fichas das finais da Libertadores; recorte de titulares e reservas selecionados, não todos os inscritos.",
+    "url": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals"
+    ],
+    "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
+    "ovr": 85,
+    "selectionReason": "1968 é a ruptura continental de Zubeldía; 1970 fecha o tricampeonato, mantendo Verón, Bilardo e Pachamé; 2009 representa a geração de Juan Sebastián Verón e Boselli. 1969 é omitido pelo limite de três, mantendo o início e o fechamento do ciclo tricampeão mais uma geração distinta.",
+    "startingXI": [
+      "Alberto José Poletti",
+      "Ramón Aguirre Suárez",
+      "Raúl Madero",
+      "Oscar Malbernat",
+      "Carlos Pachamé",
+      "José Hugo Medina",
+      "Carlos Bilardo",
+      "Eduardo Flores",
+      "Felipe Ribaudo",
+      "Marcos Conigliaro",
+      "Juan Ramón Verón"
+    ],
+    "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "playerIds": [
+      "lib-estudiantes-1968-alberto-jose-poletti",
+      "lib-estudiantes-1968-ramon-aguirre-suarez",
+      "lib-estudiantes-1968-raul-madero",
+      "lib-estudiantes-1968-oscar-malbernat",
+      "lib-estudiantes-1968-carlos-pachame",
+      "lib-estudiantes-1968-jose-hugo-medina",
+      "lib-estudiantes-1968-carlos-bilardo",
+      "lib-estudiantes-1968-eduardo-flores",
+      "lib-estudiantes-1968-felipe-ribaudo",
+      "lib-estudiantes-1968-marcos-conigliaro",
+      "lib-estudiantes-1968-juan-ramon-veron",
+      "lib-estudiantes-1968-rodolfo-fucceneco",
+      "lib-estudiantes-1968-hugo-spadaro",
+      "lib-estudiantes-1968-luis-lavezzi",
+      "lib-estudiantes-1968-nestor-togneri"
+    ]
+  }
+]

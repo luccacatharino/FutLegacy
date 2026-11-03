@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Mariano Andújar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 90,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 47,
+      "fin": 17,
+      "pas": 62,
+      "dri": 26,
+      "def": 24,
+      "fis": 81,
+      "ref": 92,
+      "han": 88,
+      "pos": 90,
+      "div": 91,
+      "kic": 78,
+      "one": 90
+    },
+    "sourceName": "Mariano Andújar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mariano_Andújar",
+    "id": "lib-estudiantes-2009-mariano-andujar",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Christian Cellay",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 84,
+    "sourceRole": "RB",
+    "attrs": {
+      "vel": 79,
+      "fin": 42,
+      "pas": 74,
+      "dri": 71,
+      "def": 75,
+      "fis": 75
+    },
+    "sourceName": "Christian Cellay",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Christian_Cellay",
+    "id": "lib-estudiantes-2009-christian-cellay",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Rolando Schiavi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 67,
+      "fin": 37,
+      "pas": 64,
+      "dri": 49,
+      "def": 91,
+      "fis": 90
+    },
+    "sourceName": "Rolando Schiavi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rolando_Schiavi",
+    "id": "lib-estudiantes-2009-rolando-schiavi",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Leandro Desábato",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 88,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 67,
+      "fin": 35,
+      "pas": 68,
+      "dri": 49,
+      "def": 88,
+      "fis": 90
+    },
+    "sourceName": "Leandro Desábato",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leandro_Desábato",
+    "id": "lib-estudiantes-2009-leandro-desabato",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Germán Ré",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 84,
+    "sourceRole": "LB",
+    "attrs": {
+      "vel": 80,
+      "fin": 42,
+      "pas": 75,
+      "dri": 72,
+      "def": 74,
+      "fis": 73
+    },
+    "sourceName": "Germán Ré",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Germán_Ré",
+    "id": "lib-estudiantes-2009-german-re",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Rodrigo Braña",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 67,
+      "fin": 50,
+      "pas": 81,
+      "dri": 73,
+      "def": 83,
+      "fis": 85
+    },
+    "sourceName": "Rodrigo Braña",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rodrigo_Braña",
+    "id": "lib-estudiantes-2009-rodrigo-brana",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Enzo Pérez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 74,
+      "fin": 66,
+      "pas": 89,
+      "dri": 86,
+      "def": 71,
+      "fis": 77
+    },
+    "sourceName": "Enzo Pérez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Enzo_Pérez",
+    "id": "lib-estudiantes-2009-enzo-perez",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Sebastián Verón",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 95,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 79,
+      "fin": 74,
+      "pas": 95,
+      "dri": 90,
+      "def": 75,
+      "fis": 85
+    },
+    "sourceName": "Juan Sebastián Verón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Sebastián_Verón",
+    "id": "lib-estudiantes-2009-juan-sebastian-veron",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Leandro Benítez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 78,
+      "fin": 78,
+      "pas": 87,
+      "dri": 91,
+      "def": 38,
+      "fis": 70
+    },
+    "sourceName": "Leandro Benítez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leandro_Benítez",
+    "id": "lib-estudiantes-2009-leandro-benitez",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Mauro Boselli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 93,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 85,
+      "fin": 97,
+      "pas": 71,
+      "dri": 83,
+      "def": 37,
+      "fis": 89
+    },
+    "sourceName": "Mauro Boselli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mauro_Boselli",
+    "id": "lib-estudiantes-2009-mauro-boselli",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Gastón Fernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 90,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 81,
+      "fin": 93,
+      "pas": 67,
+      "dri": 80,
+      "def": 33,
+      "fis": 84
+    },
+    "sourceName": "Gastón Fernández",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Gastón_Fernández",
+    "id": "lib-estudiantes-2009-gaston-fernandez",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "José Calderón",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 74,
+      "fin": 88,
+      "pas": 60,
+      "dri": 72,
+      "def": 27,
+      "fis": 82
+    },
+    "sourceName": "José Calderón",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/José_Luis_Calderón",
+    "id": "lib-estudiantes-2009-jose-calderon",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Damián Albil",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 36,
+      "fin": 10,
+      "pas": 54,
+      "dri": 21,
+      "def": 14,
+      "fis": 72,
+      "ref": 80,
+      "han": 76,
+      "pos": 78,
+      "div": 79,
+      "kic": 66,
+      "one": 78
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Damián Albil",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Damián_Albil",
+    "id": "lib-estudiantes-2009-damian-albil",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Díaz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 77,
+      "fin": 41,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 71
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Juan Díaz",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Manuel_Díaz",
+    "id": "lib-estudiantes-2009-juan-diaz",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Federico Fernández",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 61,
+      "fin": 31,
+      "pas": 62,
+      "dri": 46,
+      "def": 82,
+      "fis": 83
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Federico Fernández",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Federico_Fernández_(footballer)",
+    "id": "lib-estudiantes-2009-federico-fernandez",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Cristian Sánchez Prette",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 84,
+      "dri": 81,
+      "def": 32,
+      "fis": 62
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Cristian Sánchez Prette",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Cristian_Sánchez_Prette",
+    "id": "lib-estudiantes-2009-cristian-sanchez-prette",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Maximiliano Núñez",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 82,
+      "fin": 74,
+      "pas": 73,
+      "dri": 82,
+      "def": 30,
+      "fis": 66
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Maximiliano Núñez",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Maximiliano_Núñez",
+    "id": "lib-estudiantes-2009-maximiliano-nunez",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Salgueiro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 76,
+      "fin": 86,
+      "pas": 64,
+      "dri": 74,
+      "def": 30,
+      "fis": 80
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Juan Salgueiro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Juan_Manuel_Salgueiro",
+    "id": "lib-estudiantes-2009-juan-salgueiro",
+    "team": "Estudiantes",
+    "year": 2009,
+    "comp": "lib"
+  }
+]

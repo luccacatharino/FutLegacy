@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Victor",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 94,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 51,
+      "fin": 21,
+      "pas": 67,
+      "dri": 31,
+      "def": 28,
+      "fis": 86,
+      "ref": 96,
+      "han": 92,
+      "pos": 94,
+      "div": 95,
+      "kic": 82,
+      "one": 94
+    },
+    "sourceName": "Victor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Victor_Leandro_Bagy",
+    "id": "lib-atletico-mg-2013-victor",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Michel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 79,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 73,
+      "fin": 36,
+      "pas": 68,
+      "dri": 68,
+      "def": 69,
+      "fis": 68
+    },
+    "sourceName": "Michel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Michel_Macedo_(footballer)",
+    "id": "lib-atletico-mg-2013-michel",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Leonardo Silva",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 65,
+      "fin": 38,
+      "pas": 67,
+      "dri": 51,
+      "def": 91,
+      "fis": 92
+    },
+    "sourceName": "Leonardo Silva",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Leonardo_Silva_(footballer,_born_1979)",
+    "id": "lib-atletico-mg-2013-leonardo-silva",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Réver",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 89,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 64,
+      "fin": 34,
+      "pas": 65,
+      "dri": 51,
+      "def": 88,
+      "fis": 91
+    },
+    "sourceName": "Réver",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Réver",
+    "id": "lib-atletico-mg-2013-rever",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Júnior César",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 78,
+      "fin": 42,
+      "pas": 73,
+      "dri": 73,
+      "def": 75,
+      "fis": 73
+    },
+    "sourceName": "Júnior César",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Júnior_César",
+    "id": "lib-atletico-mg-2013-junior-cesar",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Josué",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 87,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 68,
+      "fin": 51,
+      "pas": 82,
+      "dri": 69,
+      "def": 84,
+      "fis": 81
+    },
+    "sourceName": "Josué",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Josué_Anunciado_de_Oliveira",
+    "id": "lib-atletico-mg-2013-josue",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Pierre",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 70,
+      "fin": 53,
+      "pas": 84,
+      "dri": 70,
+      "def": 86,
+      "fis": 83
+    },
+    "sourceName": "Pierre",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Lucas_Pierre_Santos_Oliveira",
+    "id": "lib-atletico-mg-2013-pierre",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Ronaldinho",
+    "positions": [
+      "MEI",
+      "PE"
+    ],
+    "ovr": 95,
+    "sourceRole": "MF",
+    "attrs": {
+      "vel": 82,
+      "fin": 88,
+      "pas": 96,
+      "dri": 98,
+      "def": 48,
+      "fis": 78
+    },
+    "sourceName": "Ronaldinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Ronaldinho",
+    "id": "lib-atletico-mg-2013-ronaldinho",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Bernard",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 92,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 92,
+      "fin": 83,
+      "pas": 83,
+      "dri": 95,
+      "def": 39,
+      "fis": 76
+    },
+    "sourceName": "Bernard",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Bernard_(footballer)",
+    "id": "lib-atletico-mg-2013-bernard",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Diego Tardelli",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 92,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 82,
+      "fin": 94,
+      "pas": 68,
+      "dri": 82,
+      "def": 34,
+      "fis": 90
+    },
+    "sourceName": "Diego Tardelli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Diego_Tardelli",
+    "id": "lib-atletico-mg-2013-diego-tardelli",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Jô",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 93,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 83,
+      "fin": 98,
+      "pas": 70,
+      "dri": 84,
+      "def": 37,
+      "fis": 90
+    },
+    "sourceName": "Jô",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jô",
+    "id": "lib-atletico-mg-2013-jo",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcos Rocha",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 85,
+      "fin": 48,
+      "pas": 75,
+      "dri": 75,
+      "def": 81,
+      "fis": 79
+    },
+    "sourceName": "Marcos Rocha",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "starting": false,
+    "playerKey": "https://en.wikipedia.org/wiki/Marcos_Rocha",
+    "id": "lib-atletico-mg-2013-marcos-rocha",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Richarlyson",
+    "positions": [
+      "LE",
+      "VOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 81,
+      "fin": 45,
+      "pas": 76,
+      "dri": 73,
+      "def": 77,
+      "fis": 75
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Richarlyson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Richarlyson",
+    "id": "lib-atletico-mg-2013-richarlyson",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Luan",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 87,
+    "attrs": {
+      "vel": 80,
+      "fin": 90,
+      "pas": 68,
+      "dri": 78,
+      "def": 34,
+      "fis": 84
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Luan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Luan_Madson_Gedeão_de_Paiva",
+    "id": "lib-atletico-mg-2013-luan",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Giovanni",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 38,
+      "fin": 10,
+      "pas": 56,
+      "dri": 23,
+      "def": 16,
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 68,
+      "one": 80
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Giovanni",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Giovanni_Aparecido_Adriano_dos_Santos",
+    "id": "lib-atletico-mg-2013-giovanni",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Gilberto Silva",
+    "positions": [
+      "VOL",
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 67,
+      "fin": 49,
+      "pas": 80,
+      "dri": 69,
+      "def": 80,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Gilberto Silva",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Gilberto_Silva",
+    "id": "lib-atletico-mg-2013-gilberto-silva",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Rosinei",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 67,
+      "fin": 60,
+      "pas": 80,
+      "dri": 74,
+      "def": 61,
+      "fis": 69
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Rosinei",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Rosinei_Adolfo",
+    "id": "lib-atletico-mg-2013-rosinei",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Alecsandro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 75,
+      "fin": 85,
+      "pas": 63,
+      "dri": 73,
+      "def": 29,
+      "fis": 79
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Alecsandro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Alecsandro",
+    "id": "lib-atletico-mg-2013-alecsandro",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Guilherme",
+    "positions": [
+      "MEI",
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 73,
+      "fin": 74,
+      "pas": 87,
+      "dri": 84,
+      "def": 35,
+      "fis": 65
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Guilherme",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Guilherme_Milhomem_Gusmão",
+    "id": "lib-atletico-mg-2013-guilherme",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Leandro Donizete",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 70,
+      "fin": 52,
+      "pas": 83,
+      "dri": 72,
+      "def": 83,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Leandro Donizete",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2013_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Leandro_Donizete",
+    "id": "lib-atletico-mg-2013-leandro-donizete",
+    "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  }
+]

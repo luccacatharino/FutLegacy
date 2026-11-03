@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Rogério Ceni",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 95,
+    "sourceRole": "GK",
+    "attrs": {
+      "vel": 53,
+      "fin": 21,
+      "pas": 68,
+      "dri": 35,
+      "def": 32,
+      "fis": 90,
+      "ref": 97,
+      "han": 93,
+      "pos": 95,
+      "div": 96,
+      "kic": 83,
+      "one": 95
+    },
+    "sourceName": "Rogério Ceni",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Rogério_Ceni",
+    "id": "lib-sao-paulo-2005-rogerio-ceni",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Cicinho",
+    "positions": [
+      "LD",
+      "MD"
+    ],
+    "ovr": 88,
+    "sourceRole": "RWB",
+    "attrs": {
+      "vel": 82,
+      "fin": 48,
+      "pas": 76,
+      "dri": 74,
+      "def": 80,
+      "fis": 79
+    },
+    "sourceName": "Cicinho",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Cicinho",
+    "id": "lib-sao-paulo-2005-cicinho",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Fabão",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 87,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 65,
+      "fin": 32,
+      "pas": 66,
+      "dri": 49,
+      "def": 90,
+      "fis": 86
+    },
+    "sourceName": "Fabão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Fabão_(footballer,_born_1976)",
+    "id": "lib-sao-paulo-2005-fabao",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Diego Lugano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 92,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 67,
+      "fin": 37,
+      "pas": 69,
+      "dri": 55,
+      "def": 91,
+      "fis": 91
+    },
+    "sourceName": "Diego Lugano",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Diego_Lugano",
+    "id": "lib-sao-paulo-2005-diego-lugano",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Alex Bruno",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "sourceRole": "DF",
+    "attrs": {
+      "vel": 64,
+      "fin": 32,
+      "pas": 61,
+      "dri": 48,
+      "def": 85,
+      "fis": 85
+    },
+    "sourceName": "Alex",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Alex_Bruno_(footballer,_born_1982)",
+    "id": "lib-sao-paulo-2005-alex-bruno",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Júnior",
+    "positions": [
+      "LE",
+      "MC"
+    ],
+    "ovr": 87,
+    "sourceRole": "LWB",
+    "attrs": {
+      "vel": 82,
+      "fin": 47,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 78
+    },
+    "sourceName": "Júnior",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Jenílson_Ângelo_de_Souza",
+    "id": "lib-sao-paulo-2005-junior",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Mineiro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 89,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 71,
+      "fin": 54,
+      "pas": 85,
+      "dri": 74,
+      "def": 87,
+      "fis": 87
+    },
+    "sourceName": "Mineiro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Mineiro_(footballer,_born_1975)",
+    "id": "lib-sao-paulo-2005-mineiro",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Josué",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 88,
+    "sourceRole": "CM",
+    "attrs": {
+      "vel": 69,
+      "fin": 52,
+      "pas": 83,
+      "dri": 70,
+      "def": 85,
+      "fis": 82
+    },
+    "sourceName": "Josué",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Josué_Anunciado_de_Oliveira",
+    "id": "lib-sao-paulo-2005-josue",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Danilo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 87,
+    "sourceRole": "AM",
+    "attrs": {
+      "vel": 74,
+      "fin": 77,
+      "pas": 88,
+      "dri": 91,
+      "def": 38,
+      "fis": 67
+    },
+    "sourceName": "Danilo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Danilo_Larangera",
+    "id": "lib-sao-paulo-2005-danilo",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Luizão",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 91,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 83,
+      "fin": 95,
+      "pas": 69,
+      "dri": 82,
+      "def": 35,
+      "fis": 87
+    },
+    "sourceName": "Luizão",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Luiz_Bombonato_Goulart",
+    "id": "lib-sao-paulo-2005-luizao",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Amoroso",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 92,
+    "sourceRole": "FW",
+    "attrs": {
+      "vel": 86,
+      "fin": 96,
+      "pas": 72,
+      "dri": 81,
+      "def": 35,
+      "fis": 87
+    },
+    "sourceName": "Amoroso",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "starting": true,
+    "playerKey": "https://en.wikipedia.org/wiki/Márcio_Amoroso",
+    "id": "lib-sao-paulo-2005-amoroso",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Roger",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 35,
+      "fin": 10,
+      "pas": 53,
+      "dri": 20,
+      "def": 13,
+      "fis": 71,
+      "ref": 79,
+      "han": 75,
+      "pos": 77,
+      "div": 78,
+      "kic": 65,
+      "one": 77
+    },
+    "starting": false,
+    "sourceRole": "GK",
+    "sourceName": "Roger",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Roger_José_de_Noronha_Silva",
+    "id": "lib-sao-paulo-2005-roger",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Edcarlos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 63,
+      "fin": 33,
+      "pas": 64,
+      "dri": 48,
+      "def": 84,
+      "fis": 85
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Edcarlos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Edcarlos",
+    "id": "lib-sao-paulo-2005-edcarlos",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Fábio Santos",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 80,
+      "fin": 44,
+      "pas": 75,
+      "dri": 72,
+      "def": 76,
+      "fis": 74
+    },
+    "starting": false,
+    "sourceRole": "DF",
+    "sourceName": "Fábio Santos",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Fábio_Santos_Romeu",
+    "id": "lib-sao-paulo-2005-fabio-santos",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Alê",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 78,
+    "attrs": {
+      "vel": 62,
+      "fin": 44,
+      "pas": 75,
+      "dri": 64,
+      "def": 75,
+      "fis": 74
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Alê",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Alexandre_Luiz_Fernandes",
+    "id": "lib-sao-paulo-2005-ale",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Renan",
+    "positions": [
+      "VOL",
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 61,
+      "fin": 43,
+      "pas": 74,
+      "dri": 63,
+      "def": 74,
+      "fis": 73
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Renan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Renan_Teixeira_da_Silva",
+    "id": "lib-sao-paulo-2005-renan",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Souza",
+    "positions": [
+      "MD",
+      "MEI"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 83,
+      "fin": 67,
+      "pas": 83,
+      "dri": 81,
+      "def": 62,
+      "fis": 77
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Souza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Williamis_de_Souza_Silva",
+    "id": "lib-sao-paulo-2005-souza",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Diego Tardelli",
+    "positions": [
+      "ATA",
+      "PD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 78,
+      "fin": 88,
+      "pas": 66,
+      "dri": 76,
+      "def": 32,
+      "fis": 82
+    },
+    "starting": false,
+    "sourceRole": "FW",
+    "sourceName": "Diego Tardelli",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Diego_Tardelli",
+    "id": "lib-sao-paulo-2005-diego-tardelli",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  },
+  {
+    "name": "Marco Antônio",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 79,
+    "attrs": {
+      "vel": 70,
+      "fin": 71,
+      "pas": 84,
+      "dri": 81,
+      "def": 32,
+      "fis": 62
+    },
+    "starting": false,
+    "sourceRole": "MF",
+    "sourceName": "Marco Antônio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "playerKey": "https://en.wikipedia.org/wiki/Marco_Antônio_Miranda_Filho",
+    "id": "lib-sao-paulo-2005-marco-antonio",
+    "team": "São Paulo",
+    "year": 2005,
+    "comp": "lib"
+  }
+]
