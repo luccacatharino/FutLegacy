@@ -14,6 +14,7 @@ assert.deepEqual(Array.from(batch.matches[1].result.score),[1,0]);assert.deepEqu
 FL.commitRound(c,batch);assert.deepEqual(c.tournament.bracket[1].map(x=>Array.from(x)),[['a','d']]);assert.equal(c.tournament.knockoutRounds[1].legs,1);
 const tie=FL.tieSummary(c.tournament,0,['a','b']);assert.deepEqual(Array.from(tie.score),[2,1]);assert.equal(tie.winner,'a');assert.equal(tie.matches.length,2);
 assert.equal(FL.tieSummary(c.tournament,0,['c','d']).winner,'d');
+assert.deepEqual(Array.from(FL.tieSummary(c.tournament,0,['c','d']).penalties),[3,4],'penalties must follow bracket team order');
 // A drawn first leg never starts penalties or eliminates the user.
 const p={comp:'ucl',tournament:{teams:['me','r','s','t'].map(team),groups:[],schedule:[],results:[],round:0,stage:'knockout',bracket:[],knockoutRounds:[],formatVersion:3,twoLegged:true}};
 FL.addKnockoutStage(p.tournament,[['me','r'],['s','t']]);FL.simulate=()=>({score:[0,0],stats:[{},{}],goals:[],ratings:{},seed:1});const first=FL.nextRound(p);assert(first.matches.every(m=>!m.penalties));FL.commitRound(p,first);assert(!p.tournament.eliminated);assert(!p.tournament.done);assert.equal(p.tournament.round,1);
