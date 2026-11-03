@@ -53,4 +53,10 @@ Esta é a primeira versão funcional, não a conclusão de todos os refinamentos
 ## Publicação solicitada
 Repositório público **FutLegacy**, todos os arquivos versionados e GitHub Pages a partir da branch principal, pasta raiz. A entrega de publicação exige confirmar o deploy e acessar o jogo publicado. Não declarar concluída enquanto isso estiver pendente.
 
-Os torneios são históricos fictícios: misturam equipes de anos diferentes, não reconstituem edições oficiais. Sem escudos, fotos, uniformes licenciados, moedas ou progressão.
+Os torneios são históricos fictícios: misturam equipes de anos diferentes, não reconstituem edições oficiais. Sem moedas ou progressão. Fotos e logos adicionados nesta revisão possuem fontes documentadas nos créditos.
+
+## Interface de draft e arquivos locais
+
+O draft agora mostra um campo vertical clicável com posições específicas para 4-3-3, 4-4-2 e 3-5-2, ofertas em lista e resumo do time. Clique em uma vaga livre antes de escolher um jogador. As fotos de Messi, Cristiano Ronaldo, Mbappé e Neymar e as logos das competições ficam em `assets/`, sem chamadas externas para jogar. Fontes e licenças estão em `docs/CREDITOS.html` e `docs/asset-sources.json`.
+
+Pasta local principal desta entrega: `outputs/projetos/futlegacy/jogo`. Referências e versões anteriores ficam em pastas irmãs dentro de `projetos/futlegacy`.
