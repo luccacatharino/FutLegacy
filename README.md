@@ -82,3 +82,5 @@ Notas reequilibradas com tetos por competição e exceções históricas; atribu
 Libertadores e Champions têm ida e volta nas oitavas, quartas e semifinais; final em jogo único. Classifica o maior placar agregado, sem gol fora de casa. Empate agregado é decidido nos pênaltis após a volta, mesmo quando o placar dessa partida não é empate. São 13 partidas para um finalista. A Copa continua em jogo único, com sete partidas para o finalista. Campanhas salvas na fase de grupos recebem o novo formato; mata-matas já iniciados preservam seu calendário.
 
 A dificuldade foi suavizada novamente: eficiência efetiva dos adversários contra o usuário passa de 98% para 96%, preservando os OVR visíveis e os resultados já disputados.
+
+As oitavas são sorteadas: líderes enfrentam segundos colocados de outro grupo. O sorteio ocorre uma vez, é salvo na campanha e define o caminho seguinte da chave.
