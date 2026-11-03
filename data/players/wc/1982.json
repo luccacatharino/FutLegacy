@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 72,
-      "dri": 38,
-      "def": 24,
-      "fis": 84,
-      "ref": 92,
-      "han": 88,
-      "pos": 89,
-      "div": 90,
-      "kic": 74,
-      "one": 87
+      "vel": 42,
+      "fin": 14,
+      "pas": 68,
+      "dri": 36,
+      "def": 23,
+      "fis": 79,
+      "ref": 87,
+      "han": 83,
+      "pos": 84,
+      "div": 85,
+      "kic": 70,
+      "one": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-italia-1982-dino-zoff",
     "team": "Itália",
     "year": 1982,
@@ -30,15 +32,17 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 88,
-      "fin": 62,
-      "pas": 86,
-      "dri": 83,
-      "def": 87,
-      "fis": 79
+      "vel": 83,
+      "fin": 58,
+      "pas": 81,
+      "dri": 78,
+      "def": 82,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-italia-1982-claudio-gentile",
     "team": "Itália",
     "year": 1982,
@@ -50,15 +54,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 75,
-      "fin": 51,
-      "pas": 75,
-      "dri": 63,
-      "def": 93,
-      "fis": 94
+      "vel": 70,
+      "fin": 48,
+      "pas": 70,
+      "dri": 59,
+      "def": 87,
+      "fis": 88
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-italia-1982-gaetano-scirea",
     "team": "Itália",
     "year": 1982,
@@ -69,15 +75,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 70,
-      "fin": 46,
-      "pas": 70,
-      "dri": 51,
-      "def": 88,
-      "fis": 82
+      "vel": 66,
+      "fin": 43,
+      "pas": 66,
+      "dri": 48,
+      "def": 83,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-italia-1982-fulvio-collovati",
     "team": "Itália",
     "year": 1982,
@@ -88,15 +96,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 88,
-      "fin": 62,
-      "pas": 86,
-      "dri": 83,
-      "def": 87,
-      "fis": 79
+      "vel": 83,
+      "fin": 58,
+      "pas": 81,
+      "dri": 78,
+      "def": 82,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-italia-1982-antonio-cabrini",
     "team": "Itália",
     "year": 1982,
@@ -108,15 +118,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 84,
-      "fin": 80,
-      "pas": 92,
-      "dri": 91,
-      "def": 70,
-      "fis": 81
+      "vel": 79,
+      "fin": 76,
+      "pas": 87,
+      "dri": 86,
+      "def": 66,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-italia-1982-marco-tardelli",
     "team": "Itália",
     "year": 1982,
@@ -128,15 +140,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 72,
-      "fin": 62,
-      "pas": 86,
-      "dri": 75,
-      "def": 85,
-      "fis": 78
+      "vel": 68,
+      "fin": 58,
+      "pas": 81,
+      "dri": 70,
+      "def": 80,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-italia-1982-gabriele-oriali",
     "team": "Itália",
     "year": 1982,
@@ -148,15 +162,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 94,
-      "fin": 92,
-      "pas": 84,
-      "dri": 95,
-      "def": 39,
-      "fis": 76
+      "vel": 89,
+      "fin": 87,
+      "pas": 79,
+      "dri": 90,
+      "def": 37,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-italia-1982-bruno-conti",
     "team": "Itália",
     "year": 1982,
@@ -167,15 +183,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 91,
-      "fin": 99,
-      "pas": 80,
-      "dri": 90,
-      "def": 44,
-      "fis": 92
+      "vel": 85,
+      "fin": 93,
+      "pas": 75,
+      "dri": 84,
+      "def": 41,
+      "fis": 86
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-italia-1982-paolo-rossi",
     "team": "Itália",
     "year": 1982,
@@ -187,15 +205,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 81,
-      "fin": 83,
-      "pas": 70,
-      "dri": 73,
-      "def": 34,
-      "fis": 82
+      "vel": 76,
+      "fin": 78,
+      "pas": 66,
+      "dri": 69,
+      "def": 32,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-italia-1982-francesco-graziani",
     "team": "Itália",
     "year": 1982,
@@ -207,15 +227,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 83,
-      "pas": 87,
-      "dri": 89,
-      "def": 40,
-      "fis": 70
+      "vel": 76,
+      "fin": 78,
+      "pas": 82,
+      "dri": 84,
+      "def": 38,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-italia-1982-giancarlo-antognoni",
     "team": "Itália",
     "year": 1982,
@@ -226,21 +248,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 66,
-      "dri": 39,
-      "def": 18,
-      "fis": 78,
-      "ref": 89,
-      "han": 85,
-      "pos": 86,
-      "div": 87,
-      "kic": 71,
-      "one": 84
+      "vel": 42,
+      "fin": 14,
+      "pas": 62,
+      "dri": 37,
+      "def": 17,
+      "fis": 73,
+      "ref": 84,
+      "han": 80,
+      "pos": 81,
+      "div": 82,
+      "kic": 67,
+      "one": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-alemanha-1982-harald-schumacher",
     "team": "Alemanha",
     "year": 1982,
@@ -252,15 +276,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 91,
-      "fin": 58,
-      "pas": 82,
-      "dri": 79,
-      "def": 83,
-      "fis": 82
+      "vel": 86,
+      "fin": 55,
+      "pas": 77,
+      "dri": 74,
+      "def": 78,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-alemanha-1982-manfred-kaltz",
     "team": "Alemanha",
     "year": 1982,
@@ -271,15 +297,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 69,
-      "dri": 57,
-      "def": 87,
-      "fis": 88
+      "vel": 65,
+      "fin": 49,
+      "pas": 65,
+      "dri": 54,
+      "def": 82,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-alemanha-1982-karlheinz-forster",
     "team": "Alemanha",
     "year": 1982,
@@ -290,15 +318,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 66,
-      "fin": 42,
-      "pas": 66,
-      "dri": 47,
-      "def": 84,
-      "fis": 78
+      "vel": 62,
+      "fin": 39,
+      "pas": 62,
+      "dri": 44,
+      "def": 79,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-alemanha-1982-bernd-forster",
     "team": "Alemanha",
     "year": 1982,
@@ -310,15 +340,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 66,
-      "fin": 49,
-      "pas": 66,
-      "dri": 54,
-      "def": 91,
-      "fis": 85
+      "vel": 62,
+      "fin": 46,
+      "pas": 62,
+      "dri": 51,
+      "def": 86,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-alemanha-1982-uli-stielike",
     "team": "Alemanha",
     "year": 1982,
@@ -330,15 +362,17 @@
       "LE",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 86,
-      "fin": 60,
-      "pas": 77,
-      "dri": 81,
-      "def": 85,
-      "fis": 77
+      "vel": 81,
+      "fin": 56,
+      "pas": 72,
+      "dri": 76,
+      "def": 80,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-alemanha-1982-hans-peter-briegel",
     "team": "Alemanha",
     "year": 1982,
@@ -350,15 +384,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 82,
-      "fin": 78,
-      "pas": 90,
-      "dri": 89,
-      "def": 75,
-      "fis": 79
+      "vel": 77,
+      "fin": 74,
+      "pas": 85,
+      "dri": 84,
+      "def": 71,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-alemanha-1982-paul-breitner",
     "team": "Alemanha",
     "year": 1982,
@@ -370,15 +406,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 76,
-      "fin": 65,
-      "pas": 84,
-      "dri": 83,
-      "def": 62,
-      "fis": 73
+      "vel": 71,
+      "fin": 61,
+      "pas": 79,
+      "dri": 78,
+      "def": 58,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-alemanha-1982-wolfgang-dremmler",
     "team": "Alemanha",
     "year": 1982,
@@ -390,15 +428,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 91,
-      "fin": 89,
-      "pas": 81,
-      "dri": 92,
-      "def": 36,
-      "fis": 73
+      "vel": 86,
+      "fin": 84,
+      "pas": 76,
+      "dri": 87,
+      "def": 34,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-alemanha-1982-pierre-littbarski",
     "team": "Alemanha",
     "year": 1982,
@@ -409,15 +449,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 84,
-      "fin": 86,
-      "pas": 73,
-      "dri": 76,
-      "def": 37,
-      "fis": 78
+      "vel": 79,
+      "fin": 81,
+      "pas": 69,
+      "dri": 71,
+      "def": 35,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-alemanha-1982-klaus-fischer",
     "team": "Alemanha",
     "year": 1982,
@@ -429,15 +471,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 86,
-      "fin": 88,
-      "pas": 75,
-      "dri": 78,
-      "def": 39,
-      "fis": 87
+      "vel": 81,
+      "fin": 83,
+      "pas": 71,
+      "dri": 74,
+      "def": 37,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-alemanha-1982-karl-heinz-rummenigge",
     "team": "Alemanha",
     "year": 1982,
@@ -448,21 +492,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 64,
-      "dri": 30,
-      "def": 16,
-      "fis": 69,
-      "ref": 83,
-      "han": 79,
-      "pos": 80,
-      "div": 81,
-      "kic": 65,
-      "one": 78
+      "vel": 42,
+      "fin": 14,
+      "pas": 60,
+      "dri": 28,
+      "def": 15,
+      "fis": 65,
+      "ref": 78,
+      "han": 74,
+      "pos": 75,
+      "div": 76,
+      "kic": 61,
+      "one": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-brasil-1982-waldir-peres",
     "team": "Brasil",
     "year": 1982,
@@ -474,15 +520,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 90,
-      "fin": 64,
-      "pas": 81,
-      "dri": 85,
-      "def": 82,
-      "fis": 81
+      "vel": 85,
+      "fin": 60,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-brasil-1982-leandro",
     "team": "Brasil",
     "year": 1982,
@@ -493,15 +541,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 63,
-      "fin": 46,
-      "pas": 70,
-      "dri": 51,
-      "def": 88,
-      "fis": 82
+      "vel": 59,
+      "fin": 43,
+      "pas": 66,
+      "dri": 48,
+      "def": 83,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-brasil-1982-oscar",
     "team": "Brasil",
     "year": 1982,
@@ -512,15 +562,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 63,
+      "dri": 52,
+      "def": 80,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-brasil-1982-luizinho",
     "team": "Brasil",
     "year": 1982,
@@ -532,15 +584,17 @@
       "LE",
       "MC"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 93,
-      "fin": 67,
-      "pas": 84,
-      "dri": 88,
-      "def": 92,
-      "fis": 84
+      "vel": 87,
+      "fin": 63,
+      "pas": 78,
+      "dri": 82,
+      "def": 86,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1982-junior",
     "team": "Brasil",
     "year": 1982,
@@ -552,15 +606,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 84,
-      "fin": 67,
-      "pas": 91,
-      "dri": 87,
-      "def": 90,
-      "fis": 90
+      "vel": 78,
+      "fin": 63,
+      "pas": 85,
+      "dri": 81,
+      "def": 84,
+      "fis": 84
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1982-toninho-cerezo",
     "team": "Brasil",
     "year": 1982,
@@ -572,15 +628,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 91,
-      "fin": 80,
-      "pas": 99,
-      "dri": 91,
-      "def": 77,
-      "fis": 88
+      "vel": 85,
+      "fin": 75,
+      "pas": 93,
+      "dri": 85,
+      "def": 72,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-brasil-1982-falcao",
     "team": "Brasil",
     "year": 1982,
@@ -592,15 +650,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 90,
-      "fin": 92,
-      "pas": 96,
-      "dri": 98,
-      "def": 49,
-      "fis": 79
+      "vel": 84,
+      "fin": 86,
+      "pas": 90,
+      "dri": 92,
+      "def": 46,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-brasil-1982-socrates",
     "team": "Brasil",
     "year": 1982,
@@ -612,15 +672,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 95,
+    "ovr": 89,
     "attrs": {
-      "vel": 81,
-      "fin": 94,
-      "pas": 95,
-      "dri": 94,
-      "def": 54,
-      "fis": 77
+      "vel": 76,
+      "fin": 88,
+      "pas": 89,
+      "dri": 88,
+      "def": 51,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 95,
     "id": "wc-brasil-1982-zico",
     "team": "Brasil",
     "year": 1982,
@@ -632,15 +694,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 97,
-      "fin": 88,
-      "pas": 87,
-      "dri": 91,
-      "def": 42,
-      "fis": 79
+      "vel": 92,
+      "fin": 83,
+      "pas": 82,
+      "dri": 86,
+      "def": 40,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-1982-eder",
     "team": "Brasil",
     "year": 1982,
@@ -651,15 +715,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 78,
-      "fin": 80,
-      "pas": 67,
-      "dri": 77,
-      "def": 31,
-      "fis": 79
+      "vel": 73,
+      "fin": 75,
+      "pas": 63,
+      "dri": 72,
+      "def": 29,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-brasil-1982-serginho-chulapa",
     "team": "Brasil",
     "year": 1982,

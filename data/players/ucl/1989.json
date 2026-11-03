@@ -4,16 +4,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 96,
+    "ovr": 90,
     "attrs": {
-      "vel": 88,
-      "fin": 99,
-      "pas": 88,
-      "dri": 95,
-      "def": 36,
-      "fis": 87
+      "vel": 83,
+      "fin": 93,
+      "pas": 83,
+      "dri": 89,
+      "def": 34,
+      "fis": 82
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 96,
     "id": "ucl-milan-1989-marco-van-basten",
     "team": "Milan",
     "year": 1989,
@@ -24,16 +25,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 84,
-      "fin": 44,
-      "pas": 88,
-      "dri": 76,
-      "def": 99,
-      "fis": 85
+      "vel": 79,
+      "fin": 41,
+      "pas": 82,
+      "dri": 71,
+      "def": 93,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-milan-1989-franco-baresi",
     "team": "Milan",
     "year": 1989,
@@ -45,16 +47,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 91,
-      "fin": 94,
-      "pas": 94,
-      "dri": 95,
-      "def": 77,
-      "fis": 98
+      "vel": 85,
+      "fin": 88,
+      "pas": 88,
+      "dri": 89,
+      "def": 72,
+      "fis": 92
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-milan-1989-ruud-gullit",
     "team": "Milan",
     "year": 1989,
@@ -66,16 +69,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 79,
-      "fin": 73,
-      "pas": 90,
-      "dri": 82,
-      "def": 96,
-      "fis": 95
+      "vel": 74,
+      "fin": 68,
+      "pas": 84,
+      "dri": 77,
+      "def": 90,
+      "fis": 89
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-milan-1989-frank-rijkaard",
     "team": "Milan",
     "year": 1989,
@@ -86,16 +90,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 89,
-      "fin": 59,
-      "pas": 82,
-      "dri": 83,
-      "def": 81,
-      "fis": 80
+      "vel": 84,
+      "fin": 56,
+      "pas": 77,
+      "dri": 78,
+      "def": 77,
+      "fis": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-milan-1989-paolo-maldini",
     "team": "Milan",
     "year": 1989,
@@ -107,16 +112,17 @@
       "ME",
       "MD"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 88,
-      "fin": 78,
-      "pas": 84,
-      "dri": 89,
-      "def": 61,
-      "fis": 71
+      "vel": 83,
+      "fin": 74,
+      "pas": 79,
+      "dri": 84,
+      "def": 58,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-milan-1989-roberto-donadoni",
     "team": "Milan",
     "year": 1989,
@@ -127,16 +133,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 79,
-      "fin": 72,
-      "pas": 89,
-      "dri": 84,
-      "def": 72,
-      "fis": 79
+      "vel": 74,
+      "fin": 68,
+      "pas": 84,
+      "dri": 79,
+      "def": 68,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-milan-1989-carlo-ancelotti",
     "team": "Milan",
     "year": 1989,
@@ -147,16 +154,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 55,
-      "pas": 78,
-      "dri": 79,
-      "def": 82,
-      "fis": 76
+      "vel": 80,
+      "fin": 52,
+      "pas": 74,
+      "dri": 74,
+      "def": 77,
+      "fis": 72
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-milan-1989-mauro-tassotti",
     "team": "Milan",
     "year": 1989,
@@ -167,16 +175,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 66,
-      "fin": 41,
-      "pas": 65,
-      "dri": 55,
-      "def": 88,
-      "fis": 88
+      "vel": 62,
+      "fin": 39,
+      "pas": 61,
+      "dri": 52,
+      "def": 83,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-milan-1989-alessandro-costacurta",
     "team": "Milan",
     "year": 1989,
@@ -187,22 +196,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 40,
-      "fin": 12,
-      "pas": 57,
-      "dri": 28,
-      "def": 18,
-      "fis": 75,
-      "ref": 85,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 67,
-      "one": 84
+      "vel": 38,
+      "fin": 11,
+      "pas": 54,
+      "dri": 26,
+      "def": 17,
+      "fis": 71,
+      "ref": 80,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 63,
+      "one": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-milan-1989-giovanni-galli",
     "team": "Milan",
     "year": 1989,
@@ -213,16 +223,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 85,
-      "fin": 88,
-      "pas": 67,
-      "dri": 80,
-      "def": 38,
-      "fis": 84
+      "vel": 80,
+      "fin": 83,
+      "pas": 63,
+      "dri": 75,
+      "def": 36,
+      "fis": 79
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-milan-1989-pietro-paolo-virdis",
     "team": "Milan",
     "year": 1989,
@@ -234,16 +245,17 @@
       "ME",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 86,
-      "fin": 76,
-      "pas": 77,
-      "dri": 82,
-      "def": 54,
-      "fis": 69
+      "vel": 81,
+      "fin": 71,
+      "pas": 72,
+      "dri": 77,
+      "def": 51,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-milan-1989-alberico-evani",
     "team": "Milan",
     "year": 1989,
@@ -254,16 +266,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 60,
-      "fin": 35,
-      "pas": 64,
-      "dri": 54,
-      "def": 82,
-      "fis": 82
+      "vel": 56,
+      "fin": 33,
+      "pas": 60,
+      "dri": 51,
+      "def": 77,
+      "fis": 77
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-milan-1989-filippo-galli",
     "team": "Milan",
     "year": 1989,
@@ -274,16 +287,17 @@
     "positions": [
       "MD"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 82,
-      "fin": 72,
-      "pas": 78,
-      "dri": 78,
-      "def": 50,
-      "fis": 65
+      "vel": 77,
+      "fin": 68,
+      "pas": 73,
+      "dri": 73,
+      "def": 47,
+      "fis": 61
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-milan-1989-angelo-colombo",
     "team": "Milan",
     "year": 1989,
@@ -295,16 +309,17 @@
       "LD",
       "LE"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 79,
-      "fin": 49,
-      "pas": 72,
-      "dri": 68,
-      "def": 71,
-      "fis": 70
+      "vel": 74,
+      "fin": 46,
+      "pas": 67,
+      "dri": 64,
+      "def": 67,
+      "fis": 66
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-milan-1989-roberto-mussi",
     "team": "Milan",
     "year": 1989,
@@ -315,22 +330,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 73,
+    "ovr": 69,
     "attrs": {
-      "vel": 40,
-      "fin": 12,
-      "pas": 45,
-      "dri": 28,
-      "def": 18,
-      "fis": 63,
-      "ref": 73,
-      "han": 71,
-      "pos": 73,
-      "div": 74,
-      "kic": 55,
-      "one": 72
+      "vel": 38,
+      "fin": 11,
+      "pas": 43,
+      "dri": 26,
+      "def": 17,
+      "fis": 60,
+      "ref": 69,
+      "han": 67,
+      "pos": 69,
+      "div": 70,
+      "kic": 52,
+      "one": 68
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 73,
     "id": "ucl-milan-1989-davide-pinato",
     "team": "Milan",
     "year": 1989,

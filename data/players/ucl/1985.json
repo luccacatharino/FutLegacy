@@ -4,16 +4,17 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 80,
-      "fin": 97,
-      "pas": 99,
-      "dri": 96,
-      "def": 43,
-      "fis": 72
+      "vel": 75,
+      "fin": 91,
+      "pas": 93,
+      "dri": 90,
+      "def": 40,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "ucl-juventus-1985-michel-platini",
     "team": "Juventus",
     "year": 1985,
@@ -24,16 +25,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 77,
-      "fin": 48,
-      "pas": 90,
-      "dri": 79,
-      "def": 97,
-      "fis": 84
+      "vel": 72,
+      "fin": 45,
+      "pas": 84,
+      "dri": 74,
+      "def": 91,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-juventus-1985-gaetano-scirea",
     "team": "Juventus",
     "year": 1985,
@@ -45,16 +47,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 88,
-      "fin": 96,
-      "pas": 75,
-      "dri": 88,
-      "def": 46,
-      "fis": 87
+      "vel": 82,
+      "fin": 90,
+      "pas": 70,
+      "dri": 82,
+      "def": 43,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-juventus-1985-zbigniew-boniek",
     "team": "Juventus",
     "year": 1985,
@@ -66,16 +69,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 91,
-      "fin": 61,
-      "pas": 84,
-      "dri": 80,
-      "def": 83,
-      "fis": 82
+      "vel": 85,
+      "fin": 57,
+      "pas": 78,
+      "dri": 75,
+      "def": 78,
+      "fis": 77
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-juventus-1985-antonio-cabrini",
     "team": "Juventus",
     "year": 1985,
@@ -86,16 +90,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 79,
-      "fin": 77,
-      "pas": 94,
-      "dri": 84,
-      "def": 72,
-      "fis": 79
+      "vel": 75,
+      "fin": 73,
+      "pas": 89,
+      "dri": 79,
+      "def": 68,
+      "fis": 75
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-juventus-1985-marco-tardelli",
     "team": "Juventus",
     "year": 1985,
@@ -107,16 +112,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 61,
-      "pas": 82,
-      "dri": 73,
-      "def": 86,
-      "fis": 85
+      "vel": 68,
+      "fin": 57,
+      "pas": 77,
+      "dri": 69,
+      "def": 81,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-juventus-1985-massimo-bonini",
     "team": "Juventus",
     "year": 1985,
@@ -127,16 +133,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 85,
-      "fin": 93,
-      "pas": 67,
-      "dri": 80,
-      "def": 38,
-      "fis": 84
+      "vel": 80,
+      "fin": 88,
+      "pas": 63,
+      "dri": 75,
+      "def": 36,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-juventus-1985-paolo-rossi",
     "team": "Juventus",
     "year": 1985,
@@ -147,22 +154,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 61,
-      "dri": 31,
-      "def": 18,
-      "fis": 76,
-      "ref": 89,
-      "han": 84,
-      "pos": 86,
-      "div": 87,
-      "kic": 71,
-      "one": 85
+      "vel": 41,
+      "fin": 11,
+      "pas": 57,
+      "dri": 29,
+      "def": 17,
+      "fis": 72,
+      "ref": 84,
+      "han": 79,
+      "pos": 81,
+      "div": 82,
+      "kic": 67,
+      "one": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-juventus-1985-stefano-tacconi",
     "team": "Juventus",
     "year": 1985,
@@ -173,16 +181,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 65,
-      "fin": 35,
-      "pas": 64,
-      "dri": 54,
-      "def": 87,
-      "fis": 87
+      "vel": 61,
+      "fin": 33,
+      "pas": 60,
+      "dri": 51,
+      "def": 82,
+      "fis": 82
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-juventus-1985-sergio-brio",
     "team": "Juventus",
     "year": 1985,
@@ -194,16 +203,17 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 81,
-      "fin": 51,
-      "pas": 74,
-      "dri": 75,
-      "def": 73,
-      "fis": 72
+      "vel": 76,
+      "fin": 48,
+      "pas": 69,
+      "dri": 70,
+      "def": 69,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-juventus-1985-luciano-favero",
     "team": "Juventus",
     "year": 1985,
@@ -214,16 +224,17 @@
     "positions": [
       "MD"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 82,
-      "fin": 72,
-      "pas": 78,
-      "dri": 83,
-      "def": 50,
-      "fis": 65
+      "vel": 77,
+      "fin": 68,
+      "pas": 73,
+      "dri": 78,
+      "def": 47,
+      "fis": 61
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-juventus-1985-massimo-briaschi",
     "team": "Juventus",
     "year": 1985,
@@ -234,16 +245,17 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 72,
-      "fin": 76,
-      "pas": 83,
-      "dri": 84,
-      "def": 40,
-      "fis": 60
+      "vel": 68,
+      "fin": 71,
+      "pas": 78,
+      "dri": 79,
+      "def": 38,
+      "fis": 56
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-juventus-1985-beniamino-vignola",
     "team": "Juventus",
     "year": 1985,
@@ -254,16 +266,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 69,
-      "fin": 67,
-      "pas": 79,
-      "dri": 74,
-      "def": 62,
-      "fis": 69
+      "vel": 65,
+      "fin": 63,
+      "pas": 74,
+      "dri": 69,
+      "def": 58,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-juventus-1985-cesare-prandelli",
     "team": "Juventus",
     "year": 1985,
@@ -274,16 +287,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 57,
-      "fin": 32,
-      "pas": 61,
-      "dri": 46,
-      "def": 79,
-      "fis": 79
+      "vel": 53,
+      "fin": 30,
+      "pas": 57,
+      "dri": 43,
+      "def": 74,
+      "fis": 74
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-juventus-1985-nicola-caricola",
     "team": "Juventus",
     "year": 1985,
@@ -294,22 +308,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 52,
-      "dri": 31,
-      "def": 18,
-      "fis": 67,
-      "ref": 80,
-      "han": 75,
-      "pos": 77,
-      "div": 78,
-      "kic": 62,
-      "one": 76
+      "vel": 40,
+      "fin": 11,
+      "pas": 49,
+      "dri": 29,
+      "def": 17,
+      "fis": 63,
+      "ref": 75,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 58,
+      "one": 71
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-juventus-1985-luciano-bodini",
     "team": "Juventus",
     "year": 1985,
@@ -320,16 +335,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 71,
     "attrs": {
-      "vel": 68,
-      "fin": 61,
-      "pas": 78,
-      "dri": 73,
-      "def": 61,
-      "fis": 68
+      "vel": 64,
+      "fin": 57,
+      "pas": 73,
+      "dri": 68,
+      "def": 57,
+      "fis": 64
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 76,
     "id": "ucl-juventus-1985-bruno-limido",
     "team": "Juventus",
     "year": 1985,

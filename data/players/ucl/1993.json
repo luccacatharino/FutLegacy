@@ -5,16 +5,17 @@
       "MEI",
       "PD"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 88,
-      "fin": 92,
-      "pas": 99,
-      "dri": 95,
-      "def": 51,
-      "fis": 76
+      "vel": 82,
+      "fin": 86,
+      "pas": 93,
+      "dri": 89,
+      "def": 48,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-marseille-1993-abedi-pele",
     "team": "Marseille",
     "year": 1993,
@@ -25,16 +26,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 87,
-      "fin": 95,
-      "pas": 74,
-      "dri": 87,
-      "def": 45,
-      "fis": 86
+      "vel": 81,
+      "fin": 89,
+      "pas": 69,
+      "dri": 81,
+      "def": 42,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-marseille-1993-alen-boksic",
     "team": "Marseille",
     "year": 1993,
@@ -46,16 +48,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 70,
-      "fin": 45,
-      "pas": 69,
-      "dri": 59,
-      "def": 92,
-      "fis": 92
+      "vel": 66,
+      "fin": 43,
+      "pas": 65,
+      "dri": 56,
+      "def": 87,
+      "fis": 87
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-marseille-1993-marcel-desailly",
     "team": "Marseille",
     "year": 1993,
@@ -67,16 +70,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 75,
-      "fin": 64,
-      "pas": 85,
-      "dri": 76,
-      "def": 89,
-      "fis": 88
+      "vel": 71,
+      "fin": 60,
+      "pas": 80,
+      "dri": 72,
+      "def": 84,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-marseille-1993-didier-deschamps",
     "team": "Marseille",
     "year": 1993,
@@ -87,16 +91,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 66,
-      "fin": 41,
-      "pas": 70,
-      "dri": 60,
-      "def": 88,
-      "fis": 88
+      "vel": 62,
+      "fin": 39,
+      "pas": 66,
+      "dri": 57,
+      "def": 83,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-marseille-1993-basile-boli",
     "team": "Marseille",
     "year": 1993,
@@ -108,16 +113,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 73,
-      "fin": 62,
-      "pas": 88,
-      "dri": 74,
-      "def": 87,
-      "fis": 86
+      "vel": 69,
+      "fin": 58,
+      "pas": 83,
+      "dri": 70,
+      "def": 82,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-marseille-1993-franck-sauzee",
     "team": "Marseille",
     "year": 1993,
@@ -128,16 +134,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 85,
-      "fin": 93,
-      "pas": 72,
-      "dri": 85,
-      "def": 38,
-      "fis": 84
+      "vel": 80,
+      "fin": 88,
+      "pas": 68,
+      "dri": 80,
+      "def": 36,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-marseille-1993-rudi-voller",
     "team": "Marseille",
     "year": 1993,
@@ -148,22 +155,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 44,
-      "fin": 12,
-      "pas": 62,
-      "dri": 32,
-      "def": 18,
-      "fis": 76,
-      "ref": 90,
-      "han": 84,
-      "pos": 86,
-      "div": 87,
-      "kic": 72,
-      "one": 85
+      "vel": 41,
+      "fin": 11,
+      "pas": 58,
+      "dri": 30,
+      "def": 17,
+      "fis": 72,
+      "ref": 85,
+      "han": 79,
+      "pos": 81,
+      "div": 82,
+      "kic": 68,
+      "one": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-marseille-1993-fabien-barthez",
     "team": "Marseille",
     "year": 1993,
@@ -174,16 +182,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 87,
-      "fin": 52,
-      "pas": 75,
-      "dri": 76,
-      "def": 79,
-      "fis": 78
+      "vel": 82,
+      "fin": 49,
+      "pas": 71,
+      "dri": 72,
+      "def": 74,
+      "fis": 73
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-marseille-1993-jocelyn-angloma",
     "team": "Marseille",
     "year": 1993,
@@ -194,16 +203,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 81,
-      "fin": 51,
-      "pas": 74,
-      "dri": 75,
-      "def": 78,
-      "fis": 72
+      "vel": 76,
+      "fin": 48,
+      "pas": 70,
+      "dri": 70,
+      "def": 73,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-marseille-1993-eric-di-meco",
     "team": "Marseille",
     "year": 1993,
@@ -214,16 +224,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 59,
-      "fin": 34,
-      "pas": 63,
-      "dri": 53,
-      "def": 86,
-      "fis": 81
+      "vel": 55,
+      "fin": 32,
+      "pas": 59,
+      "dri": 50,
+      "def": 81,
+      "fis": 76
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-marseille-1993-bernard-casoni",
     "team": "Marseille",
     "year": 1993,
@@ -235,16 +246,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 75,
-      "fin": 79,
-      "pas": 86,
-      "dri": 82,
-      "def": 38,
-      "fis": 63
+      "vel": 70,
+      "fin": 74,
+      "pas": 81,
+      "dri": 77,
+      "def": 36,
+      "fis": 59
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-marseille-1993-jean-marc-ferreri",
     "team": "Marseille",
     "year": 1993,
@@ -256,16 +268,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 69,
-      "fin": 67,
-      "pas": 84,
-      "dri": 79,
-      "def": 62,
-      "fis": 69
+      "vel": 65,
+      "fin": 63,
+      "pas": 79,
+      "dri": 74,
+      "def": 58,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-marseille-1993-jean-philippe-durand",
     "team": "Marseille",
     "year": 1993,
@@ -276,22 +289,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 44,
-      "fin": 12,
-      "pas": 56,
-      "dri": 32,
-      "def": 18,
-      "fis": 70,
-      "ref": 84,
-      "han": 78,
-      "pos": 80,
-      "div": 81,
-      "kic": 66,
-      "one": 79
+      "vel": 41,
+      "fin": 11,
+      "pas": 53,
+      "dri": 30,
+      "def": 17,
+      "fis": 66,
+      "ref": 79,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 62,
+      "one": 74
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-marseille-1993-pascal-olmeta",
     "team": "Marseille",
     "year": 1993,
@@ -302,16 +316,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 71,
-      "fin": 64,
-      "pas": 81,
-      "dri": 76,
-      "def": 64,
-      "fis": 71
+      "vel": 67,
+      "fin": 60,
+      "pas": 76,
+      "dri": 71,
+      "def": 60,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-marseille-1993-jean-jacques-eydelie",
     "team": "Marseille",
     "year": 1993,
@@ -323,16 +338,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 69,
-      "fin": 62,
-      "pas": 79,
-      "dri": 74,
-      "def": 62,
-      "fis": 69
+      "vel": 65,
+      "fin": 58,
+      "pas": 74,
+      "dri": 69,
+      "def": 58,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-marseille-1993-jean-christophe-thomas",
     "team": "Marseille",
     "year": 1993,

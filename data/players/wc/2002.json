@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 73,
-      "dri": 46,
-      "def": 25,
-      "fis": 85,
-      "ref": 94,
-      "han": 90,
-      "pos": 91,
-      "div": 92,
-      "kic": 76,
-      "one": 89
+      "vel": 42,
+      "fin": 14,
+      "pas": 68,
+      "dri": 43,
+      "def": 23,
+      "fis": 79,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-2002-marcos",
     "team": "Brasil",
     "year": 2002,
@@ -30,15 +32,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 97,
-      "fin": 64,
-      "pas": 88,
-      "dri": 85,
-      "def": 89,
-      "fis": 88
+      "vel": 91,
+      "fin": 60,
+      "pas": 82,
+      "dri": 79,
+      "def": 83,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-2002-cafu",
     "team": "Brasil",
     "year": 2002,
@@ -49,15 +53,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 72,
-      "fin": 48,
-      "pas": 72,
-      "dri": 60,
-      "def": 90,
-      "fis": 91
+      "vel": 68,
+      "fin": 45,
+      "pas": 68,
+      "dri": 57,
+      "def": 85,
+      "fis": 86
     },
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "wc-brasil-2002-lucio",
     "team": "Brasil",
     "year": 2002,
@@ -68,15 +74,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 66,
-      "fin": 42,
-      "pas": 66,
-      "dri": 54,
-      "def": 84,
-      "fis": 85
+      "vel": 62,
+      "fin": 39,
+      "pas": 62,
+      "dri": 51,
+      "def": 79,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-brasil-2002-roque-junior",
     "team": "Brasil",
     "year": 2002,
@@ -88,15 +96,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 66,
-      "fin": 49,
-      "pas": 73,
-      "dri": 54,
-      "def": 91,
-      "fis": 85
+      "vel": 62,
+      "fin": 46,
+      "pas": 69,
+      "dri": 51,
+      "def": 86,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-brasil-2002-edmilson",
     "team": "Brasil",
     "year": 2002,
@@ -108,15 +118,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 98,
-      "fin": 65,
-      "pas": 89,
-      "dri": 86,
-      "def": 90,
-      "fis": 89
+      "vel": 92,
+      "fin": 61,
+      "pas": 83,
+      "dri": 80,
+      "def": 84,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "wc-brasil-2002-roberto-carlos",
     "team": "Brasil",
     "year": 2002,
@@ -127,15 +139,17 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 81,
-      "fin": 71,
-      "pas": 88,
-      "dri": 84,
-      "def": 87,
-      "fis": 87
+      "vel": 77,
+      "fin": 67,
+      "pas": 83,
+      "dri": 79,
+      "def": 82,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-2002-gilberto-silva",
     "team": "Brasil",
     "year": 2002,
@@ -147,15 +161,17 @@
       "MC",
       "MD"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 80,
-      "fin": 76,
-      "pas": 88,
-      "dri": 87,
-      "def": 73,
-      "fis": 77
+      "vel": 75,
+      "fin": 72,
+      "pas": 83,
+      "dri": 82,
+      "def": 69,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-brasil-2002-kleberson",
     "team": "Brasil",
     "year": 2002,
@@ -167,15 +183,17 @@
       "MEI",
       "PD"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 89,
-      "fin": 91,
-      "pas": 95,
-      "dri": 97,
-      "def": 48,
-      "fis": 78
+      "vel": 83,
+      "fin": 85,
+      "pas": 89,
+      "dri": 91,
+      "def": 45,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "wc-brasil-2002-ronaldinho-gaucho",
     "team": "Brasil",
     "year": 2002,
@@ -187,15 +205,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 88,
-      "fin": 90,
-      "pas": 99,
-      "dri": 96,
-      "def": 54,
-      "fis": 77
+      "vel": 82,
+      "fin": 84,
+      "pas": 93,
+      "dri": 90,
+      "def": 51,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-brasil-2002-rivaldo",
     "team": "Brasil",
     "year": 2002,
@@ -206,15 +226,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 96,
-      "fin": 98,
-      "pas": 85,
-      "dri": 88,
-      "def": 49,
-      "fis": 97
+      "vel": 90,
+      "fin": 92,
+      "pas": 80,
+      "dri": 83,
+      "def": 46,
+      "fis": 91
     },
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "wc-brasil-2002-ronaldo",
     "team": "Brasil",
     "year": 2002,
@@ -225,21 +247,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 95,
+    "ovr": 89,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 80,
-      "dri": 46,
-      "def": 32,
-      "fis": 85,
-      "ref": 98,
-      "han": 94,
-      "pos": 95,
-      "div": 96,
-      "kic": 80,
-      "one": 93
+      "vel": 42,
+      "fin": 14,
+      "pas": 75,
+      "dri": 43,
+      "def": 30,
+      "fis": 80,
+      "ref": 92,
+      "han": 88,
+      "pos": 89,
+      "div": 90,
+      "kic": 75,
+      "one": 87
     },
+    "ratingRevision": 4,
+    "previousOvr": 95,
     "id": "wc-alemanha-2002-oliver-kahn",
     "team": "Alemanha",
     "year": 2002,
@@ -252,15 +276,17 @@
       "LD",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 83,
-      "fin": 75,
-      "pas": 84,
-      "dri": 83,
-      "def": 56,
-      "fis": 70
+      "vel": 78,
+      "fin": 70,
+      "pas": 79,
+      "dri": 78,
+      "def": 53,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-alemanha-2002-torsten-frings",
     "team": "Alemanha",
     "year": 2002,
@@ -272,15 +298,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 63,
-      "fin": 46,
-      "pas": 63,
-      "dri": 51,
-      "def": 81,
-      "fis": 82
+      "vel": 59,
+      "fin": 43,
+      "pas": 59,
+      "dri": 48,
+      "def": 76,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-alemanha-2002-carsten-ramelow",
     "team": "Alemanha",
     "year": 2002,
@@ -291,15 +319,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 64,
-      "fin": 47,
-      "pas": 64,
-      "dri": 52,
-      "def": 82,
-      "fis": 83
+      "vel": 60,
+      "fin": 44,
+      "pas": 60,
+      "dri": 49,
+      "def": 77,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-alemanha-2002-christoph-metzelder",
     "team": "Alemanha",
     "year": 2002,
@@ -310,15 +340,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 65,
-      "fin": 48,
-      "pas": 65,
-      "dri": 53,
-      "def": 83,
-      "fis": 84
+      "vel": 61,
+      "fin": 45,
+      "pas": 61,
+      "dri": 50,
+      "def": 78,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-alemanha-2002-thomas-linke",
     "team": "Alemanha",
     "year": 2002,
@@ -330,15 +362,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 74,
-      "fin": 64,
-      "pas": 88,
-      "dri": 77,
-      "def": 87,
-      "fis": 80
+      "vel": 70,
+      "fin": 60,
+      "pas": 83,
+      "dri": 72,
+      "def": 82,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-alemanha-2002-dietmar-hamann",
     "team": "Alemanha",
     "year": 2002,
@@ -350,15 +384,17 @@
       "MEI",
       "MD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 84,
-      "fin": 79,
-      "pas": 90,
-      "dri": 85,
-      "def": 43,
-      "fis": 73
+      "vel": 79,
+      "fin": 74,
+      "pas": 85,
+      "dri": 80,
+      "def": 40,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-alemanha-2002-bernd-schneider",
     "team": "Alemanha",
     "year": 2002,
@@ -370,15 +406,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 75,
-      "fin": 58,
-      "pas": 82,
-      "dri": 71,
-      "def": 81,
-      "fis": 74
+      "vel": 70,
+      "fin": 54,
+      "pas": 77,
+      "dri": 67,
+      "def": 76,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-alemanha-2002-jens-jeremies",
     "team": "Alemanha",
     "year": 2002,
@@ -390,15 +428,17 @@
       "ME",
       "LE"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 86,
-      "fin": 71,
-      "pas": 80,
-      "dri": 79,
-      "def": 52,
-      "fis": 73
+      "vel": 81,
+      "fin": 67,
+      "pas": 75,
+      "dri": 74,
+      "def": 49,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-alemanha-2002-marco-bode",
     "team": "Alemanha",
     "year": 2002,
@@ -410,15 +450,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 79,
-      "fin": 88,
-      "pas": 68,
-      "dri": 78,
-      "def": 32,
-      "fis": 80
+      "vel": 74,
+      "fin": 83,
+      "pas": 64,
+      "dri": 73,
+      "def": 30,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-alemanha-2002-oliver-neuville",
     "team": "Alemanha",
     "year": 2002,
@@ -429,15 +471,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 70,
-      "dri": 80,
-      "def": 41,
-      "fis": 82
+      "vel": 76,
+      "fin": 85,
+      "pas": 66,
+      "dri": 75,
+      "def": 39,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-alemanha-2002-miroslav-klose",
     "team": "Alemanha",
     "year": 2002,
@@ -449,15 +493,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 87,
-      "fin": 76,
-      "pas": 95,
-      "dri": 87,
-      "def": 73,
-      "fis": 84
+      "vel": 82,
+      "fin": 72,
+      "pas": 90,
+      "dri": 82,
+      "def": 69,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-alemanha-2002-michael-ballack",
     "team": "Alemanha",
     "year": 2002,
@@ -468,21 +514,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 71,
-      "dri": 37,
-      "def": 23,
-      "fis": 76,
-      "ref": 89,
-      "han": 85,
-      "pos": 86,
-      "div": 87,
-      "kic": 71,
-      "one": 84
+      "vel": 42,
+      "fin": 14,
+      "pas": 67,
+      "dri": 35,
+      "def": 22,
+      "fis": 72,
+      "ref": 84,
+      "han": 80,
+      "pos": 81,
+      "div": 82,
+      "kic": 67,
+      "one": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-coreia-do-sul-2002-lee-woon-jae",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -493,15 +541,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 62,
-      "fin": 45,
-      "pas": 62,
-      "dri": 50,
-      "def": 87,
-      "fis": 81
+      "vel": 58,
+      "fin": 42,
+      "pas": 58,
+      "dri": 47,
+      "def": 82,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-coreia-do-sul-2002-choi-jin-cheul",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -513,15 +563,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 73,
-      "fin": 49,
-      "pas": 73,
-      "dri": 54,
-      "def": 91,
-      "fis": 85
+      "vel": 69,
+      "fin": 46,
+      "pas": 69,
+      "dri": 51,
+      "def": 86,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-coreia-do-sul-2002-hong-myung-bo",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -532,15 +584,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 67,
-      "fin": 43,
-      "pas": 67,
-      "dri": 48,
-      "def": 85,
-      "fis": 79
+      "vel": 63,
+      "fin": 40,
+      "pas": 63,
+      "dri": 45,
+      "def": 80,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-coreia-do-sul-2002-kim-tae-young",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -552,15 +606,17 @@
       "MD",
       "LD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 83,
-      "fin": 75,
-      "pas": 84,
-      "dri": 83,
-      "def": 56,
-      "fis": 70
+      "vel": 78,
+      "fin": 70,
+      "pas": 79,
+      "dri": 78,
+      "def": 53,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-coreia-do-sul-2002-song-chong-gug",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -572,15 +628,17 @@
       "ME",
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 88,
-      "fin": 73,
-      "pas": 82,
-      "dri": 88,
-      "def": 54,
-      "fis": 75
+      "vel": 83,
+      "fin": 69,
+      "pas": 77,
+      "dri": 83,
+      "def": 51,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-coreia-do-sul-2002-lee-young-pyo",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -592,15 +650,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 72,
-      "fin": 62,
-      "pas": 79,
-      "dri": 75,
-      "def": 78,
-      "fis": 78
+      "vel": 68,
+      "fin": 58,
+      "pas": 74,
+      "dri": 70,
+      "def": 73,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-coreia-do-sul-2002-kim-nam-il",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -612,15 +672,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 82,
-      "fin": 71,
-      "pas": 90,
-      "dri": 82,
-      "def": 68,
-      "fis": 79
+      "vel": 77,
+      "fin": 67,
+      "pas": 85,
+      "dri": 77,
+      "def": 64,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-coreia-do-sul-2002-yoo-sang-chul",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -632,15 +694,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 79,
-      "fin": 75,
-      "pas": 94,
-      "dri": 86,
-      "def": 72,
-      "fis": 76
+      "vel": 74,
+      "fin": 71,
+      "pas": 89,
+      "dri": 81,
+      "def": 68,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-coreia-do-sul-2002-park-ji-sung",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -652,15 +716,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 88,
-      "fin": 86,
-      "pas": 78,
-      "dri": 89,
-      "def": 33,
-      "fis": 70
+      "vel": 83,
+      "fin": 81,
+      "pas": 73,
+      "dri": 84,
+      "def": 31,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-coreia-do-sul-2002-seol-ki-hyeon",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -672,15 +738,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 78,
-      "fin": 87,
-      "pas": 74,
-      "dri": 77,
-      "def": 38,
-      "fis": 79
+      "vel": 73,
+      "fin": 82,
+      "pas": 70,
+      "dri": 72,
+      "def": 36,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-coreia-do-sul-2002-ahn-jung-hwan",
     "team": "Coreia do Sul",
     "year": 2002,
@@ -691,21 +759,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 74,
-      "dri": 40,
-      "def": 26,
-      "fis": 79,
-      "ref": 93,
-      "han": 89,
-      "pos": 90,
-      "div": 91,
-      "kic": 75,
-      "one": 88
+      "vel": 43,
+      "fin": 14,
+      "pas": 70,
+      "dri": 38,
+      "def": 25,
+      "fis": 75,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-turquia-2002-rustu-recber",
     "team": "Turquia",
     "year": 2002,
@@ -717,15 +787,17 @@
       "MD",
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 89,
-      "fin": 74,
-      "pas": 83,
-      "dri": 82,
-      "def": 55,
-      "fis": 76
+      "vel": 84,
+      "fin": 70,
+      "pas": 78,
+      "dri": 77,
+      "def": 52,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-turquia-2002-umit-davala",
     "team": "Turquia",
     "year": 2002,
@@ -736,15 +808,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 63,
+      "dri": 52,
+      "def": 80,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-turquia-2002-alpay-ozalan",
     "team": "Turquia",
     "year": 2002,
@@ -755,15 +829,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 67,
-      "dri": 55,
-      "def": 92,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 63,
+      "dri": 52,
+      "def": 87,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-turquia-2002-bulent-korkmaz",
     "team": "Turquia",
     "year": 2002,
@@ -775,15 +851,17 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 66,
-      "fin": 42,
-      "pas": 66,
-      "dri": 54,
-      "def": 84,
-      "fis": 85
+      "vel": 62,
+      "fin": 39,
+      "pas": 62,
+      "dri": 51,
+      "def": 79,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-turquia-2002-fatih-akyel",
     "team": "Turquia",
     "year": 2002,
@@ -795,15 +873,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 85,
-      "fin": 59,
-      "pas": 76,
-      "dri": 80,
-      "def": 84,
-      "fis": 76
+      "vel": 80,
+      "fin": 55,
+      "pas": 71,
+      "dri": 75,
+      "def": 79,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-turquia-2002-ergun-penbe",
     "team": "Turquia",
     "year": 2002,
@@ -815,15 +895,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 74,
-      "fin": 64,
-      "pas": 81,
-      "dri": 77,
-      "def": 87,
-      "fis": 80
+      "vel": 70,
+      "fin": 60,
+      "pas": 76,
+      "dri": 72,
+      "def": 82,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-turquia-2002-tugay-kerimoglu",
     "team": "Turquia",
     "year": 2002,
@@ -835,15 +917,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 83,
-      "fin": 72,
-      "pas": 91,
-      "dri": 90,
-      "def": 69,
-      "fis": 80
+      "vel": 78,
+      "fin": 68,
+      "pas": 86,
+      "dri": 85,
+      "def": 65,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-turquia-2002-emre-belozoglu",
     "team": "Turquia",
     "year": 2002,
@@ -855,15 +939,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 82,
-      "fin": 84,
-      "pas": 88,
-      "dri": 90,
-      "def": 48,
-      "fis": 71
+      "vel": 77,
+      "fin": 79,
+      "pas": 83,
+      "dri": 85,
+      "def": 45,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-turquia-2002-y-ld-ray-basturk",
     "team": "Turquia",
     "year": 2002,
@@ -875,15 +961,17 @@
       "PE",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 97,
-      "fin": 88,
-      "pas": 87,
-      "dri": 91,
-      "def": 42,
-      "fis": 79
+      "vel": 92,
+      "fin": 83,
+      "pas": 82,
+      "dri": 86,
+      "def": 40,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-turquia-2002-hasan-sas",
     "team": "Turquia",
     "year": 2002,
@@ -894,15 +982,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 85,
-      "fin": 87,
-      "pas": 74,
-      "dri": 77,
-      "def": 38,
-      "fis": 79
+      "vel": 80,
+      "fin": 82,
+      "pas": 70,
+      "dri": 72,
+      "def": 36,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-turquia-2002-ilhan-mans-z",
     "team": "Turquia",
     "year": 2002,
@@ -913,15 +1003,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 87,
-      "pas": 67,
-      "dri": 77,
-      "def": 38,
-      "fis": 79
+      "vel": 73,
+      "fin": 82,
+      "pas": 63,
+      "dri": 72,
+      "def": 36,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-turquia-2002-hakan-sukur",
     "team": "Turquia",
     "year": 2002,
@@ -932,21 +1024,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 67,
-      "dri": 33,
-      "def": 19,
-      "fis": 79,
-      "ref": 87,
-      "han": 83,
-      "pos": 84,
-      "div": 85,
-      "kic": 69,
-      "one": 82
+      "vel": 42,
+      "fin": 14,
+      "pas": 63,
+      "dri": 31,
+      "def": 18,
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 79,
+      "div": 80,
+      "kic": 65,
+      "one": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-senegal-2002-tony-sylva",
     "team": "Senegal",
     "year": 2002,
@@ -958,15 +1052,17 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 82,
-      "fin": 56,
-      "pas": 73,
-      "dri": 77,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 52,
+      "pas": 68,
+      "dri": 72,
+      "def": 69,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-senegal-2002-habib-beye",
     "team": "Senegal",
     "year": 2002,
@@ -977,15 +1073,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 64,
-      "fin": 40,
-      "pas": 64,
-      "dri": 52,
-      "def": 82,
-      "fis": 83
+      "vel": 60,
+      "fin": 38,
+      "pas": 60,
+      "dri": 49,
+      "def": 77,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-senegal-2002-lamine-diatta",
     "team": "Senegal",
     "year": 2002,
@@ -997,15 +1095,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 67,
-      "fin": 43,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 63,
+      "fin": 40,
+      "pas": 63,
+      "dri": 52,
+      "def": 80,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-senegal-2002-aliou-cisse",
     "team": "Senegal",
     "year": 2002,
@@ -1016,15 +1116,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 86,
-      "fin": 53,
-      "pas": 77,
-      "dri": 74,
-      "def": 78,
-      "fis": 77
+      "vel": 81,
+      "fin": 50,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-senegal-2002-omar-daf",
     "team": "Senegal",
     "year": 2002,
@@ -1036,15 +1138,17 @@
       "MD",
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 84,
-      "fin": 76,
-      "pas": 78,
-      "dri": 84,
-      "def": 50,
-      "fis": 71
+      "vel": 79,
+      "fin": 71,
+      "pas": 73,
+      "dri": 79,
+      "def": 47,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-senegal-2002-ferdinand-coly",
     "team": "Senegal",
     "year": 2002,
@@ -1056,15 +1160,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 80,
-      "fin": 69,
-      "pas": 88,
-      "dri": 80,
-      "def": 66,
-      "fis": 77
+      "vel": 75,
+      "fin": 65,
+      "pas": 83,
+      "dri": 75,
+      "def": 62,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-senegal-2002-salif-diao",
     "team": "Senegal",
     "year": 2002,
@@ -1076,15 +1182,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 84,
-      "fin": 73,
-      "pas": 92,
-      "dri": 84,
-      "def": 70,
-      "fis": 81
+      "vel": 79,
+      "fin": 69,
+      "pas": 87,
+      "dri": 79,
+      "def": 66,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-senegal-2002-papa-bouba-diop",
     "team": "Senegal",
     "year": 2002,
@@ -1096,15 +1204,17 @@
       "MEI",
       "ME"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 86,
-      "dri": 88,
-      "def": 46,
-      "fis": 69
+      "vel": 75,
+      "fin": 77,
+      "pas": 81,
+      "dri": 83,
+      "def": 43,
+      "fis": 65
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-senegal-2002-khalilou-fadiga",
     "team": "Senegal",
     "year": 2002,
@@ -1116,15 +1226,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 89,
-      "fin": 91,
-      "pas": 78,
-      "dri": 81,
-      "def": 42,
-      "fis": 83
+      "vel": 84,
+      "fin": 86,
+      "pas": 74,
+      "dri": 76,
+      "def": 40,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-senegal-2002-el-hadji-diouf",
     "team": "Senegal",
     "year": 2002,
@@ -1136,15 +1248,17 @@
       "ATA",
       "PD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 70,
-      "dri": 80,
-      "def": 34,
-      "fis": 82
+      "vel": 76,
+      "fin": 85,
+      "pas": 66,
+      "dri": 75,
+      "def": 32,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-senegal-2002-henri-camara",
     "team": "Senegal",
     "year": 2002,
@@ -1155,21 +1269,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 70,
-      "dri": 43,
-      "def": 22,
-      "fis": 82,
-      "ref": 93,
-      "han": 89,
-      "pos": 90,
-      "div": 91,
-      "kic": 75,
-      "one": 88
+      "vel": 43,
+      "fin": 14,
+      "pas": 66,
+      "dri": 41,
+      "def": 21,
+      "fis": 77,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-estados-unidos-2002-brad-friedel",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1181,15 +1297,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 91,
-      "fin": 58,
-      "pas": 82,
-      "dri": 79,
-      "def": 83,
-      "fis": 75
+      "vel": 86,
+      "fin": 55,
+      "pas": 77,
+      "dri": 74,
+      "def": 78,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-estados-unidos-2002-tony-sanneh",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1200,15 +1318,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 65,
-      "fin": 48,
-      "pas": 65,
-      "dri": 53,
-      "def": 90,
-      "fis": 84
+      "vel": 61,
+      "fin": 45,
+      "pas": 61,
+      "dri": 50,
+      "def": 85,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-estados-unidos-2002-eddie-pope",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1219,15 +1339,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 64,
-      "fin": 47,
-      "pas": 64,
-      "dri": 52,
-      "def": 82,
-      "fis": 83
+      "vel": 60,
+      "fin": 44,
+      "pas": 60,
+      "dri": 49,
+      "def": 77,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-estados-unidos-2002-gregg-berhalter",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1239,15 +1361,17 @@
       "LE",
       "LD"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 84,
-      "fin": 58,
-      "pas": 75,
-      "dri": 79,
-      "def": 76,
-      "fis": 75
+      "vel": 79,
+      "fin": 54,
+      "pas": 70,
+      "dri": 74,
+      "def": 71,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-estados-unidos-2002-frankie-hejduk",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1259,15 +1383,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 72,
-      "fin": 62,
-      "pas": 79,
-      "dri": 75,
-      "def": 78,
-      "fis": 78
+      "vel": 68,
+      "fin": 58,
+      "pas": 74,
+      "dri": 70,
+      "def": 73,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-estados-unidos-2002-pablo-mastroeni",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1279,15 +1405,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 83,
-      "fin": 79,
-      "pas": 91,
-      "dri": 90,
-      "def": 69,
-      "fis": 80
+      "vel": 78,
+      "fin": 75,
+      "pas": 86,
+      "dri": 85,
+      "def": 65,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-estados-unidos-2002-claudio-reyna",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1299,15 +1427,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 82,
-      "fin": 71,
-      "pas": 90,
-      "dri": 89,
-      "def": 68,
-      "fis": 79
+      "vel": 77,
+      "fin": 67,
+      "pas": 85,
+      "dri": 84,
+      "def": 64,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-estados-unidos-2002-john-o-brien",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1319,15 +1449,17 @@
       "ME",
       "PE"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 88,
-      "fin": 73,
-      "pas": 82,
-      "dri": 81,
-      "def": 54,
-      "fis": 68
+      "vel": 83,
+      "fin": 69,
+      "pas": 77,
+      "dri": 76,
+      "def": 51,
+      "fis": 64
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-estados-unidos-2002-damarcus-beasley",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1339,15 +1471,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 84,
-      "fin": 93,
-      "pas": 73,
-      "dri": 83,
-      "def": 37,
-      "fis": 85
+      "vel": 79,
+      "fin": 88,
+      "pas": 69,
+      "dri": 78,
+      "def": 35,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-estados-unidos-2002-landon-donovan",
     "team": "Estados Unidos",
     "year": 2002,
@@ -1358,15 +1492,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 83,
-      "fin": 92,
-      "pas": 72,
-      "dri": 82,
-      "def": 36,
-      "fis": 84
+      "vel": 78,
+      "fin": 87,
+      "pas": 68,
+      "dri": 77,
+      "def": 34,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-estados-unidos-2002-brian-mcbride",
     "team": "Estados Unidos",
     "year": 2002,

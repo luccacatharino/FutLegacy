@@ -7,7 +7,7 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-brasil-2002-marcos",
       "wc-brasil-2002-cafu",
@@ -30,7 +30,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-alemanha-2002-oliver-kahn",
       "wc-alemanha-2002-torsten-frings",
@@ -54,7 +54,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-coreia-do-sul-2002-lee-woon-jae",
       "wc-coreia-do-sul-2002-choi-jin-cheul",
@@ -77,7 +77,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-turquia-2002-rustu-recber",
       "wc-turquia-2002-umit-davala",
@@ -101,7 +101,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-senegal-2002-tony-sylva",
       "wc-senegal-2002-habib-beye",
@@ -124,7 +124,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-estados-unidos-2002-brad-friedel",
       "wc-estados-unidos-2002-tony-sanneh",

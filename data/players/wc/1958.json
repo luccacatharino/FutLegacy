@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 70,
-      "dri": 43,
-      "def": 22,
-      "fis": 82,
-      "ref": 93,
-      "han": 89,
-      "pos": 90,
-      "div": 91,
-      "kic": 75,
-      "one": 88
+      "vel": 43,
+      "fin": 14,
+      "pas": 66,
+      "dri": 41,
+      "def": 21,
+      "fis": 77,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-1958-gilmar",
     "team": "Brasil",
     "year": 1958,
@@ -29,15 +31,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 95,
-      "fin": 69,
-      "pas": 86,
-      "dri": 90,
-      "def": 87,
-      "fis": 86
+      "vel": 89,
+      "fin": 64,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1958-djalma-santos",
     "team": "Brasil",
     "year": 1958,
@@ -48,15 +52,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 69,
-      "dri": 57,
-      "def": 87,
-      "fis": 88
+      "vel": 65,
+      "fin": 49,
+      "pas": 65,
+      "dri": 54,
+      "def": 82,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-brasil-1958-bellini",
     "team": "Brasil",
     "year": 1958,
@@ -67,15 +73,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 69,
-      "fin": 45,
-      "pas": 69,
-      "dri": 50,
-      "def": 87,
-      "fis": 88
+      "vel": 65,
+      "fin": 42,
+      "pas": 65,
+      "dri": 47,
+      "def": 82,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-brasil-1958-orlando",
     "team": "Brasil",
     "year": 1958,
@@ -86,15 +94,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 96,
-      "fin": 70,
-      "pas": 87,
-      "dri": 91,
-      "def": 88,
-      "fis": 87
+      "vel": 90,
+      "fin": 65,
+      "pas": 81,
+      "dri": 85,
+      "def": 82,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "wc-brasil-1958-nilton-santos",
     "team": "Brasil",
     "year": 1958,
@@ -106,15 +116,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 79,
-      "fin": 69,
-      "pas": 86,
-      "dri": 82,
-      "def": 85,
-      "fis": 85
+      "vel": 75,
+      "fin": 65,
+      "pas": 81,
+      "dri": 77,
+      "def": 80,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "wc-brasil-1958-zito",
     "team": "Brasil",
     "year": 1958,
@@ -126,15 +138,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 86,
-      "fin": 82,
-      "pas": 99,
-      "dri": 93,
-      "def": 79,
-      "fis": 83
+      "vel": 81,
+      "fin": 77,
+      "pas": 93,
+      "dri": 87,
+      "def": 74,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-brasil-1958-didi",
     "team": "Brasil",
     "year": 1958,
@@ -146,15 +160,17 @@
       "PD",
       "MD"
     ],
-    "ovr": 96,
+    "ovr": 90,
     "attrs": {
-      "vel": 96,
-      "fin": 85,
-      "pas": 87,
-      "dri": 99,
-      "def": 51,
-      "fis": 81
+      "vel": 90,
+      "fin": 80,
+      "pas": 82,
+      "dri": 93,
+      "def": 48,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 96,
     "id": "wc-brasil-1958-garrincha",
     "team": "Brasil",
     "year": 1958,
@@ -166,15 +182,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 93,
-      "fin": 97,
-      "pas": 94,
-      "dri": 97,
-      "def": 48,
-      "fis": 85
+      "vel": 87,
+      "fin": 91,
+      "pas": 88,
+      "dri": 91,
+      "def": 45,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "wc-brasil-1958-pele",
     "team": "Brasil",
     "year": 1958,
@@ -185,15 +203,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 86,
-      "fin": 95,
-      "pas": 75,
-      "dri": 85,
-      "def": 46,
-      "fis": 87
+      "vel": 80,
+      "fin": 89,
+      "pas": 70,
+      "dri": 79,
+      "def": 43,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1958-vava",
     "team": "Brasil",
     "year": 1958,
@@ -205,15 +225,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 90,
-      "fin": 88,
-      "pas": 87,
-      "dri": 91,
-      "def": 42,
-      "fis": 72
+      "vel": 85,
+      "fin": 83,
+      "pas": 82,
+      "dri": 86,
+      "def": 40,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "wc-brasil-1958-zagallo",
     "team": "Brasil",
     "year": 1958,
@@ -224,21 +246,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 62,
-      "dri": 28,
-      "def": 14,
-      "fis": 74,
-      "ref": 82,
-      "han": 78,
-      "pos": 79,
-      "div": 80,
-      "kic": 64,
-      "one": 77
+      "vel": 42,
+      "fin": 14,
+      "pas": 58,
+      "dri": 26,
+      "def": 13,
+      "fis": 69,
+      "ref": 77,
+      "han": 73,
+      "pos": 74,
+      "div": 75,
+      "kic": 60,
+      "one": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-suecia-1958-kalle-svensson",
     "team": "Suécia",
     "year": 1958,
@@ -249,15 +273,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 83,
-      "fin": 57,
-      "pas": 81,
-      "dri": 78,
-      "def": 82,
-      "fis": 74
+      "vel": 78,
+      "fin": 54,
+      "pas": 76,
+      "dri": 73,
+      "def": 77,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-suecia-1958-orvar-bergmark",
     "team": "Suécia",
     "year": 1958,
@@ -268,15 +294,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 62,
-      "fin": 45,
-      "pas": 62,
-      "dri": 50,
-      "def": 80,
-      "fis": 81
+      "vel": 58,
+      "fin": 42,
+      "pas": 58,
+      "dri": 47,
+      "def": 75,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-suecia-1958-bengt-gustavsson",
     "team": "Suécia",
     "year": 1958,
@@ -287,15 +315,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 80,
-      "fin": 54,
-      "pas": 71,
-      "dri": 75,
-      "def": 72,
-      "fis": 71
+      "vel": 75,
+      "fin": 50,
+      "pas": 66,
+      "dri": 70,
+      "def": 67,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "wc-suecia-1958-sven-axbom",
     "team": "Suécia",
     "year": 1958,
@@ -307,15 +337,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 68,
-      "fin": 58,
-      "pas": 75,
-      "dri": 71,
-      "def": 81,
-      "fis": 74
+      "vel": 64,
+      "fin": 54,
+      "pas": 70,
+      "dri": 66,
+      "def": 76,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-suecia-1958-reino-borjesson",
     "team": "Suécia",
     "year": 1958,
@@ -327,15 +359,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 73,
-      "fin": 56,
-      "pas": 80,
-      "dri": 69,
-      "def": 79,
-      "fis": 79
+      "vel": 68,
+      "fin": 52,
+      "pas": 75,
+      "dri": 65,
+      "def": 74,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-suecia-1958-sigge-parling",
     "team": "Suécia",
     "year": 1958,
@@ -347,15 +381,17 @@
       "PD",
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 92,
-      "fin": 83,
-      "pas": 82,
-      "dri": 93,
-      "def": 37,
-      "fis": 74
+      "vel": 87,
+      "fin": 78,
+      "pas": 77,
+      "dri": 88,
+      "def": 35,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-suecia-1958-kurt-hamrin",
     "team": "Suécia",
     "year": 1958,
@@ -367,15 +403,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 82,
-      "fin": 77,
-      "pas": 88,
-      "dri": 90,
-      "def": 41,
-      "fis": 71
+      "vel": 77,
+      "fin": 72,
+      "pas": 83,
+      "dri": 85,
+      "def": 39,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-suecia-1958-gunnar-gren",
     "team": "Suécia",
     "year": 1958,
@@ -386,15 +424,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 80,
-      "fin": 89,
-      "pas": 69,
-      "dri": 79,
-      "def": 40,
-      "fis": 81
+      "vel": 75,
+      "fin": 84,
+      "pas": 65,
+      "dri": 74,
+      "def": 38,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-suecia-1958-agne-simonsson",
     "team": "Suécia",
     "year": 1958,
@@ -406,15 +446,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 74,
-      "pas": 93,
-      "dri": 85,
-      "def": 71,
-      "fis": 75
+      "vel": 80,
+      "fin": 70,
+      "pas": 88,
+      "dri": 80,
+      "def": 67,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-suecia-1958-nils-liedholm",
     "team": "Suécia",
     "year": 1958,
@@ -426,15 +468,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 93,
-      "fin": 84,
-      "pas": 83,
-      "dri": 87,
-      "def": 38,
-      "fis": 68
+      "vel": 88,
+      "fin": 79,
+      "pas": 78,
+      "dri": 82,
+      "def": 36,
+      "fis": 64
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-suecia-1958-lennart-skoglund",
     "team": "Suécia",
     "year": 1958,

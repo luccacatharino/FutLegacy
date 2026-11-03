@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 9,
-      "pas": 66,
-      "dri": 25,
-      "def": 19,
-      "fis": 84,
-      "ref": 94,
-      "han": 86,
-      "pos": 89,
-      "div": 92,
-      "kic": 70,
-      "one": 96
+      "vel": 42,
+      "fin": 8,
+      "pas": 62,
+      "dri": 23,
+      "def": 18,
+      "fis": 78,
+      "ref": 88,
+      "han": 80,
+      "pos": 83,
+      "div": 86,
+      "kic": 65,
+      "one": 90
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-argentina-2022-emiliano-martinez",
     "team": "Argentina",
     "year": 2022,
@@ -30,15 +32,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 86,
-      "fin": 57,
-      "pas": 77,
-      "dri": 76,
-      "def": 79,
-      "fis": 75
+      "vel": 81,
+      "fin": 54,
+      "pas": 72,
+      "dri": 72,
+      "def": 74,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-argentina-2022-nahuel-molina",
     "team": "Argentina",
     "year": 2022,
@@ -49,15 +53,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 74,
-      "fin": 36,
-      "pas": 68,
-      "dri": 51,
-      "def": 90,
-      "fis": 89
+      "vel": 70,
+      "fin": 34,
+      "pas": 64,
+      "dri": 48,
+      "def": 85,
+      "fis": 84
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-argentina-2022-cristian-romero",
     "team": "Argentina",
     "year": 2022,
@@ -68,15 +74,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 56,
-      "fin": 36,
-      "pas": 72,
-      "dri": 49,
-      "def": 90,
-      "fis": 86
+      "vel": 53,
+      "fin": 34,
+      "pas": 68,
+      "dri": 46,
+      "def": 85,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-argentina-2022-nicolas-otamendi",
     "team": "Argentina",
     "year": 2022,
@@ -88,15 +96,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 77,
-      "fin": 39,
-      "pas": 73,
-      "dri": 69,
-      "def": 80,
-      "fis": 77
+      "vel": 72,
+      "fin": 37,
+      "pas": 69,
+      "dri": 65,
+      "def": 75,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-argentina-2022-nicolas-tagliafico",
     "team": "Argentina",
     "year": 2022,
@@ -108,15 +118,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 75,
-      "fin": 73,
-      "pas": 90,
-      "dri": 85,
-      "def": 80,
-      "fis": 79
+      "vel": 71,
+      "fin": 69,
+      "pas": 85,
+      "dri": 80,
+      "def": 76,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-argentina-2022-enzo-fernandez",
     "team": "Argentina",
     "year": 2022,
@@ -128,15 +140,17 @@
       "MC",
       "MD"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 77,
-      "fin": 66,
-      "pas": 88,
-      "dri": 83,
-      "def": 77,
-      "fis": 82
+      "vel": 73,
+      "fin": 62,
+      "pas": 83,
+      "dri": 78,
+      "def": 73,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "wc-argentina-2022-rodrigo-de-paul",
     "team": "Argentina",
     "year": 2022,
@@ -149,15 +163,17 @@
       "MEI",
       "ME"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 72,
-      "fin": 75,
-      "pas": 88,
-      "dri": 86,
-      "def": 75,
-      "fis": 74
+      "vel": 68,
+      "fin": 71,
+      "pas": 83,
+      "dri": 81,
+      "def": 71,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "wc-argentina-2022-alexis-mac-allister",
     "team": "Argentina",
     "year": 2022,
@@ -170,15 +186,17 @@
       "PD",
       "ME"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 83,
-      "fin": 81,
-      "pas": 91,
-      "dri": 92,
-      "def": 42,
-      "fis": 65
+      "vel": 78,
+      "fin": 77,
+      "pas": 86,
+      "dri": 87,
+      "def": 40,
+      "fis": 61
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-argentina-2022-angel-di-maria",
     "team": "Argentina",
     "year": 2022,
@@ -190,15 +208,17 @@
       "ATA",
       "PD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 88,
-      "fin": 90,
-      "pas": 77,
-      "dri": 85,
-      "def": 56,
-      "fis": 79
+      "vel": 82,
+      "fin": 84,
+      "pas": 72,
+      "dri": 79,
+      "def": 52,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-argentina-2022-julian-alvarez",
     "team": "Argentina",
     "year": 2022,
@@ -211,15 +231,17 @@
       "MEI",
       "PD"
     ],
-    "ovr": 97,
+    "ovr": 98,
     "attrs": {
-      "vel": 78,
-      "fin": 95,
-      "pas": 98,
-      "dri": 97,
+      "vel": 79,
+      "fin": 96,
+      "pas": 99,
+      "dri": 98,
       "def": 29,
-      "fis": 67
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "wc-argentina-2022-lionel-messi",
     "team": "Argentina",
     "year": 2022,
@@ -230,21 +252,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 44,
-      "fin": 10,
-      "pas": 64,
-      "dri": 23,
-      "def": 16,
-      "fis": 74,
-      "ref": 90,
-      "han": 83,
-      "pos": 86,
-      "div": 88,
-      "kic": 67,
-      "one": 86
+      "vel": 41,
+      "fin": 9,
+      "pas": 60,
+      "dri": 22,
+      "def": 15,
+      "fis": 70,
+      "ref": 85,
+      "han": 78,
+      "pos": 81,
+      "div": 83,
+      "kic": 63,
+      "one": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-franca-2022-hugo-lloris",
     "team": "França",
     "year": 2022,
@@ -256,15 +280,17 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 79,
-      "fin": 31,
-      "pas": 76,
-      "dri": 69,
-      "def": 85,
-      "fis": 79
+      "vel": 74,
+      "fin": 29,
+      "pas": 71,
+      "dri": 65,
+      "def": 80,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-franca-2022-jules-kounde",
     "team": "França",
     "year": 2022,
@@ -275,15 +301,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 73,
-      "fin": 35,
-      "pas": 73,
-      "dri": 54,
-      "def": 88,
-      "fis": 81
+      "vel": 69,
+      "fin": 33,
+      "pas": 69,
+      "dri": 51,
+      "def": 83,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-franca-2022-raphael-varane",
     "team": "França",
     "year": 2022,
@@ -294,15 +322,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 82,
-      "fin": 32,
-      "pas": 77,
-      "dri": 61,
-      "def": 83,
-      "fis": 87
+      "vel": 77,
+      "fin": 30,
+      "pas": 72,
+      "dri": 57,
+      "def": 78,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-franca-2022-dayot-upamecano",
     "team": "França",
     "year": 2022,
@@ -314,15 +344,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 94,
-      "fin": 68,
-      "pas": 79,
-      "dri": 80,
-      "def": 75,
-      "fis": 85
+      "vel": 89,
+      "fin": 64,
+      "pas": 74,
+      "dri": 75,
+      "def": 71,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-franca-2022-theo-hernandez",
     "team": "França",
     "year": 2022,
@@ -334,15 +366,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 64,
-      "pas": 84,
-      "dri": 76,
-      "def": 88,
-      "fis": 87
+      "vel": 68,
+      "fin": 60,
+      "pas": 79,
+      "dri": 72,
+      "def": 83,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-franca-2022-aurelien-tchouameni",
     "team": "França",
     "year": 2022,
@@ -354,15 +388,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 73,
-      "fin": 64,
-      "pas": 80,
-      "dri": 78,
-      "def": 81,
-      "fis": 82
+      "vel": 69,
+      "fin": 60,
+      "pas": 75,
+      "dri": 73,
+      "def": 76,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-franca-2022-adrien-rabiot",
     "team": "França",
     "year": 2022,
@@ -374,15 +410,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 77,
-      "fin": 80,
-      "pas": 96,
-      "dri": 88,
-      "def": 75,
-      "fis": 76
+      "vel": 72,
+      "fin": 75,
+      "pas": 90,
+      "dri": 82,
+      "def": 70,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "wc-franca-2022-antoine-griezmann",
     "team": "França",
     "year": 2022,
@@ -394,15 +432,17 @@
       "PD",
       "PE"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 94,
-      "fin": 68,
-      "pas": 80,
-      "dri": 90,
-      "def": 32,
-      "fis": 56
+      "vel": 88,
+      "fin": 64,
+      "pas": 75,
+      "dri": 85,
+      "def": 30,
+      "fis": 53
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-franca-2022-ousmane-dembele",
     "team": "França",
     "year": 2022,
@@ -413,15 +453,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 56,
-      "fin": 91,
-      "pas": 74,
-      "dri": 65,
-      "def": 38,
-      "fis": 87
+      "vel": 53,
+      "fin": 86,
+      "pas": 70,
+      "dri": 61,
+      "def": 36,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-franca-2022-olivier-giroud",
     "team": "França",
     "year": 2022,
@@ -433,15 +475,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 94,
     "attrs": {
-      "vel": 99,
-      "fin": 96,
-      "pas": 83,
-      "dri": 97,
-      "def": 28,
-      "fis": 80
+      "vel": 96,
+      "fin": 93,
+      "pas": 80,
+      "dri": 94,
+      "def": 27,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "wc-franca-2022-kylian-mbappe",
     "team": "França",
     "year": 2022,
@@ -452,21 +496,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 45,
-      "fin": 9,
-      "pas": 61,
-      "dri": 25,
-      "def": 15,
-      "fis": 77,
-      "ref": 81,
-      "han": 77,
-      "pos": 79,
-      "div": 80,
-      "kic": 65,
-      "one": 78
+      "vel": 42,
+      "fin": 8,
+      "pas": 57,
+      "dri": 23,
+      "def": 14,
+      "fis": 72,
+      "ref": 76,
+      "han": 72,
+      "pos": 74,
+      "div": 75,
+      "kic": 61,
+      "one": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-uruguai-2022-sergio-rochet",
     "team": "Uruguai",
     "year": 2022,
@@ -478,15 +524,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 75,
+    "ovr": 70,
     "attrs": {
-      "vel": 77,
-      "fin": 34,
-      "pas": 65,
-      "dri": 64,
-      "def": 72,
-      "fis": 68
+      "vel": 72,
+      "fin": 32,
+      "pas": 61,
+      "dri": 60,
+      "def": 67,
+      "fis": 63
     },
+    "ratingRevision": 4,
+    "previousOvr": 75,
     "id": "wc-uruguai-2022-guillermo-varela",
     "team": "Uruguai",
     "year": 2022,
@@ -497,15 +545,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 67,
-      "fin": 38,
-      "pas": 66,
-      "dri": 48,
-      "def": 84,
-      "fis": 85
+      "vel": 63,
+      "fin": 36,
+      "pas": 62,
+      "dri": 45,
+      "def": 79,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-uruguai-2022-jose-gimenez",
     "team": "Uruguai",
     "year": 2022,
@@ -516,15 +566,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 43,
-      "fin": 37,
-      "pas": 63,
-      "dri": 40,
-      "def": 82,
-      "fis": 79
+      "vel": 40,
+      "fin": 35,
+      "pas": 59,
+      "dri": 37,
+      "def": 77,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "wc-uruguai-2022-diego-godin",
     "team": "Uruguai",
     "year": 2022,
@@ -536,15 +588,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 79,
-      "fin": 39,
-      "pas": 73,
-      "dri": 67,
-      "def": 77,
-      "fis": 79
+      "vel": 74,
+      "fin": 37,
+      "pas": 68,
+      "dri": 63,
+      "def": 72,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-uruguai-2022-mathias-olivera",
     "team": "Uruguai",
     "year": 2022,
@@ -556,15 +610,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 71,
     "attrs": {
-      "vel": 65,
-      "fin": 57,
-      "pas": 70,
-      "dri": 61,
-      "def": 76,
-      "fis": 78
+      "vel": 61,
+      "fin": 53,
+      "pas": 65,
+      "dri": 57,
+      "def": 71,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 76,
     "id": "wc-uruguai-2022-matias-vecino",
     "team": "Uruguai",
     "year": 2022,
@@ -576,15 +632,17 @@
       "MC",
       "MD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 85,
-      "fin": 76,
-      "pas": 81,
-      "dri": 77,
-      "def": 73,
-      "fis": 85
+      "vel": 80,
+      "fin": 71,
+      "pas": 76,
+      "dri": 72,
+      "def": 69,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-uruguai-2022-federico-valverde",
     "team": "Uruguai",
     "year": 2022,
@@ -596,15 +654,17 @@
       "MEI",
       "ME"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 75,
-      "fin": 80,
-      "pas": 84,
-      "dri": 85,
-      "def": 39,
-      "fis": 63
+      "vel": 70,
+      "fin": 75,
+      "pas": 79,
+      "dri": 80,
+      "def": 37,
+      "fis": 59
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-uruguai-2022-arrascaeta",
     "team": "Uruguai",
     "year": 2022,
@@ -616,15 +676,17 @@
       "PD",
       "MD"
     ],
-    "ovr": 75,
+    "ovr": 70,
     "attrs": {
-      "vel": 85,
-      "fin": 59,
-      "pas": 66,
-      "dri": 79,
-      "def": 31,
-      "fis": 51
+      "vel": 79,
+      "fin": 55,
+      "pas": 62,
+      "dri": 74,
+      "def": 29,
+      "fis": 48
     },
+    "ratingRevision": 4,
+    "previousOvr": 75,
     "id": "wc-uruguai-2022-facundo-pellistri",
     "team": "Uruguai",
     "year": 2022,
@@ -635,15 +697,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 58,
-      "fin": 82,
-      "pas": 77,
-      "dri": 73,
-      "def": 30,
-      "fis": 73
+      "vel": 54,
+      "fin": 77,
+      "pas": 72,
+      "dri": 68,
+      "def": 28,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-uruguai-2022-luis-suarez",
     "team": "Uruguai",
     "year": 2022,
@@ -655,15 +719,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 90,
-      "fin": 75,
-      "pas": 59,
-      "dri": 71,
-      "def": 34,
-      "fis": 83
+      "vel": 84,
+      "fin": 70,
+      "pas": 55,
+      "dri": 67,
+      "def": 32,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-uruguai-2022-darwin-nunez",
     "team": "Uruguai",
     "year": 2022,
@@ -674,21 +740,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 72,
-      "dri": 45,
-      "def": 24,
-      "fis": 84,
-      "ref": 94,
-      "han": 90,
-      "pos": 91,
-      "div": 92,
-      "kic": 76,
-      "one": 89
+      "vel": 42,
+      "fin": 14,
+      "pas": 67,
+      "dri": 42,
+      "def": 22,
+      "fis": 78,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-marrocos-2022-yassine-bounou",
     "team": "Marrocos",
     "year": 2022,
@@ -700,15 +768,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 95,
-      "fin": 62,
-      "pas": 86,
-      "dri": 90,
-      "def": 87,
-      "fis": 86
+      "vel": 90,
+      "fin": 59,
+      "pas": 81,
+      "dri": 85,
+      "def": 82,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-marrocos-2022-achraf-hakimi",
     "team": "Marrocos",
     "year": 2022,
@@ -719,15 +789,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 69,
-      "fin": 45,
-      "pas": 69,
-      "dri": 57,
-      "def": 87,
-      "fis": 88
+      "vel": 65,
+      "fin": 42,
+      "pas": 65,
+      "dri": 54,
+      "def": 82,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-marrocos-2022-nayef-aguerd",
     "team": "Marrocos",
     "year": 2022,
@@ -738,15 +810,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 74,
-      "dri": 55,
-      "def": 92,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 70,
+      "dri": 52,
+      "def": 87,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-marrocos-2022-romain-saiss",
     "team": "Marrocos",
     "year": 2022,
@@ -758,15 +832,17 @@
       "LE",
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 87,
-      "fin": 61,
-      "pas": 78,
-      "dri": 82,
-      "def": 79,
-      "fis": 78
+      "vel": 82,
+      "fin": 57,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-marrocos-2022-noussair-mazraoui",
     "team": "Marrocos",
     "year": 2022,
@@ -777,15 +853,17 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 81,
-      "fin": 71,
-      "pas": 88,
-      "dri": 84,
-      "def": 94,
-      "fis": 87
+      "vel": 76,
+      "fin": 66,
+      "pas": 82,
+      "dri": 78,
+      "def": 88,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-marrocos-2022-sofyan-amrabat",
     "team": "Marrocos",
     "year": 2022,
@@ -797,15 +875,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 81,
-      "fin": 77,
-      "pas": 96,
-      "dri": 88,
-      "def": 74,
-      "fis": 78
+      "vel": 76,
+      "fin": 73,
+      "pas": 91,
+      "dri": 83,
+      "def": 70,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-marrocos-2022-azzedine-ounahi",
     "team": "Marrocos",
     "year": 2022,
@@ -817,15 +897,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 76,
-      "fin": 72,
-      "pas": 84,
-      "dri": 83,
-      "def": 69,
-      "fis": 73
+      "vel": 71,
+      "fin": 68,
+      "pas": 79,
+      "dri": 78,
+      "def": 65,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-marrocos-2022-selim-amallah",
     "team": "Marrocos",
     "year": 2022,
@@ -837,15 +919,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 90,
-      "fin": 88,
-      "pas": 80,
-      "dri": 91,
-      "def": 42,
-      "fis": 72
+      "vel": 85,
+      "fin": 83,
+      "pas": 75,
+      "dri": 86,
+      "def": 40,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-marrocos-2022-hakim-ziyech",
     "team": "Marrocos",
     "year": 2022,
@@ -857,15 +941,17 @@
       "PE",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 92,
-      "fin": 83,
-      "pas": 82,
-      "dri": 86,
-      "def": 37,
-      "fis": 74
+      "vel": 87,
+      "fin": 78,
+      "pas": 77,
+      "dri": 81,
+      "def": 35,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-marrocos-2022-sofiane-boufal",
     "team": "Marrocos",
     "year": 2022,
@@ -876,15 +962,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 70,
-      "dri": 80,
-      "def": 34,
-      "fis": 82
+      "vel": 76,
+      "fin": 85,
+      "pas": 66,
+      "dri": 75,
+      "def": 32,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-marrocos-2022-youssef-en-nesyri",
     "team": "Marrocos",
     "year": 2022,
@@ -895,21 +983,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 66,
-      "dri": 32,
-      "def": 18,
-      "fis": 71,
-      "ref": 85,
-      "han": 81,
-      "pos": 82,
-      "div": 83,
-      "kic": 67,
-      "one": 80
+      "vel": 42,
+      "fin": 14,
+      "pas": 62,
+      "dri": 30,
+      "def": 17,
+      "fis": 67,
+      "ref": 80,
+      "han": 76,
+      "pos": 77,
+      "div": 78,
+      "kic": 63,
+      "one": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-japao-2022-shuichi-gonda",
     "team": "Japão",
     "year": 2022,
@@ -921,15 +1011,17 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 68,
-      "fin": 44,
-      "pas": 68,
-      "dri": 49,
-      "def": 86,
-      "fis": 80
+      "vel": 64,
+      "fin": 41,
+      "pas": 64,
+      "dri": 46,
+      "def": 81,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-japao-2022-takehiro-tomiyasu",
     "team": "Japão",
     "year": 2022,
@@ -940,15 +1032,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 65,
-      "fin": 41,
-      "pas": 65,
-      "dri": 53,
-      "def": 83,
-      "fis": 84
+      "vel": 61,
+      "fin": 38,
+      "pas": 61,
+      "dri": 50,
+      "def": 78,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-japao-2022-maya-yoshida",
     "team": "Japão",
     "year": 2022,
@@ -960,15 +1054,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 63,
-      "fin": 46,
-      "pas": 63,
-      "dri": 51,
-      "def": 88,
-      "fis": 82
+      "vel": 59,
+      "fin": 43,
+      "pas": 59,
+      "dri": 48,
+      "def": 83,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-japao-2022-ko-itakura",
     "team": "Japão",
     "year": 2022,
@@ -980,15 +1076,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 86,
-      "fin": 53,
-      "pas": 77,
-      "dri": 74,
-      "def": 78,
-      "fis": 70
+      "vel": 81,
+      "fin": 50,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-japao-2022-yuto-nagatomo",
     "team": "Japão",
     "year": 2022,
@@ -1000,15 +1098,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 73,
-      "fin": 63,
-      "pas": 87,
-      "dri": 76,
-      "def": 86,
-      "fis": 79
+      "vel": 69,
+      "fin": 59,
+      "pas": 82,
+      "dri": 71,
+      "def": 81,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-japao-2022-wataru-endo",
     "team": "Japão",
     "year": 2022,
@@ -1020,15 +1120,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 80,
-      "fin": 69,
-      "pas": 88,
-      "dri": 80,
-      "def": 66,
-      "fis": 70
+      "vel": 75,
+      "fin": 65,
+      "pas": 83,
+      "dri": 75,
+      "def": 62,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-japao-2022-hidemasa-morita",
     "team": "Japão",
     "year": 2022,
@@ -1040,15 +1142,17 @@
       "MD",
       "PD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 87,
-      "fin": 72,
-      "pas": 81,
-      "dri": 87,
-      "def": 53,
-      "fis": 74
+      "vel": 82,
+      "fin": 68,
+      "pas": 76,
+      "dri": 82,
+      "def": 50,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-japao-2022-junya-ito",
     "team": "Japão",
     "year": 2022,
@@ -1060,15 +1164,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 78,
-      "fin": 80,
-      "pas": 84,
-      "dri": 86,
-      "def": 37,
-      "fis": 67
+      "vel": 73,
+      "fin": 75,
+      "pas": 79,
+      "dri": 81,
+      "def": 35,
+      "fis": 63
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-japao-2022-daichi-kamada",
     "team": "Japão",
     "year": 2022,
@@ -1080,15 +1186,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 88,
-      "fin": 86,
-      "pas": 78,
-      "dri": 89,
-      "def": 40,
-      "fis": 70
+      "vel": 83,
+      "fin": 81,
+      "pas": 73,
+      "dri": 84,
+      "def": 38,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-japao-2022-ritsu-doan",
     "team": "Japão",
     "year": 2022,
@@ -1100,15 +1208,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 76,
-      "fin": 85,
-      "pas": 65,
-      "dri": 75,
-      "def": 36,
-      "fis": 77
+      "vel": 71,
+      "fin": 80,
+      "pas": 61,
+      "dri": 70,
+      "def": 34,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-japao-2022-daizen-maeda",
     "team": "Japão",
     "year": 2022,
@@ -1120,15 +1230,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 92,
-      "fin": 83,
-      "pas": 82,
-      "dri": 86,
-      "def": 37,
-      "fis": 67
+      "vel": 87,
+      "fin": 78,
+      "pas": 77,
+      "dri": 81,
+      "def": 35,
+      "fis": 63
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-japao-2022-kaoru-mitoma",
     "team": "Japão",
     "year": 2022,
@@ -1139,21 +1251,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 46,
-      "fin": 9,
-      "pas": 67,
-      "dri": 23,
-      "def": 18,
-      "fis": 77,
-      "ref": 95,
-      "han": 85,
-      "pos": 88,
-      "div": 92,
-      "kic": 69,
-      "one": 94
+      "vel": 43,
+      "fin": 8,
+      "pas": 63,
+      "dri": 21,
+      "def": 17,
+      "fis": 72,
+      "ref": 89,
+      "han": 79,
+      "pos": 82,
+      "div": 86,
+      "kic": 64,
+      "one": 88
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-croacia-2022-dominik-livakovic",
     "team": "Croácia",
     "year": 2022,
@@ -1165,15 +1279,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 87,
-      "fin": 40,
-      "pas": 76,
-      "dri": 74,
-      "def": 78,
-      "fis": 73
+      "vel": 82,
+      "fin": 38,
+      "pas": 71,
+      "dri": 70,
+      "def": 73,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-croacia-2022-josip-juranovic",
     "team": "Croácia",
     "year": 2022,
@@ -1184,15 +1300,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 53,
-      "fin": 34,
-      "pas": 65,
-      "dri": 43,
-      "def": 84,
-      "fis": 83
+      "vel": 50,
+      "fin": 32,
+      "pas": 61,
+      "dri": 40,
+      "def": 79,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-croacia-2022-dejan-lovren",
     "team": "Croácia",
     "year": 2022,
@@ -1204,15 +1322,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 83,
-      "fin": 39,
-      "pas": 83,
-      "dri": 72,
-      "def": 92,
-      "fis": 88
+      "vel": 78,
+      "fin": 36,
+      "pas": 78,
+      "dri": 67,
+      "def": 86,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-croacia-2022-josko-gvardiol",
     "team": "Croácia",
     "year": 2022,
@@ -1224,15 +1344,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 77,
-      "fin": 41,
-      "pas": 81,
-      "dri": 71,
-      "def": 73,
-      "fis": 70
+      "vel": 72,
+      "fin": 38,
+      "pas": 76,
+      "dri": 67,
+      "def": 68,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-croacia-2022-borna-sosa",
     "team": "Croácia",
     "year": 2022,
@@ -1244,15 +1366,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 68,
-      "fin": 61,
-      "pas": 91,
-      "dri": 79,
-      "def": 84,
-      "fis": 83
+      "vel": 64,
+      "fin": 57,
+      "pas": 86,
+      "dri": 74,
+      "def": 79,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-croacia-2022-marcelo-brozovic",
     "team": "Croácia",
     "year": 2022,
@@ -1264,15 +1388,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 77,
-      "fin": 57,
-      "pas": 88,
-      "dri": 93,
-      "def": 69,
-      "fis": 72
+      "vel": 73,
+      "fin": 54,
+      "pas": 83,
+      "dri": 88,
+      "def": 65,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-croacia-2022-mateo-kovacic",
     "team": "Croácia",
     "year": 2022,
@@ -1284,15 +1410,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 75,
-      "fin": 77,
-      "pas": 96,
-      "dri": 94,
-      "def": 72,
-      "fis": 72
+      "vel": 70,
+      "fin": 72,
+      "pas": 90,
+      "dri": 88,
+      "def": 67,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "wc-croacia-2022-luka-modric",
     "team": "Croácia",
     "year": 2022,
@@ -1305,15 +1433,17 @@
       "MC",
       "PD"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 69,
-      "fin": 72,
-      "pas": 75,
-      "dri": 73,
-      "def": 57,
-      "fis": 73
+      "vel": 65,
+      "fin": 68,
+      "pas": 70,
+      "dri": 68,
+      "def": 53,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-croacia-2022-mario-pasalic",
     "team": "Croácia",
     "year": 2022,
@@ -1326,15 +1456,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 71,
-      "fin": 83,
-      "pas": 77,
-      "dri": 82,
-      "def": 33,
-      "fis": 68
+      "vel": 67,
+      "fin": 78,
+      "pas": 72,
+      "dri": 77,
+      "def": 31,
+      "fis": 64
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-croacia-2022-andrej-kramaric",
     "team": "Croácia",
     "year": 2022,
@@ -1346,15 +1478,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 84,
-      "dri": 80,
-      "def": 62,
-      "fis": 82
+      "vel": 75,
+      "fin": 77,
+      "pas": 79,
+      "dri": 75,
+      "def": 58,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-croacia-2022-ivan-perisic",
     "team": "Croácia",
     "year": 2022,

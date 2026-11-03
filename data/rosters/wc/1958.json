@@ -7,7 +7,7 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-brasil-1958-gilmar",
       "wc-brasil-1958-djalma-santos",
@@ -30,7 +30,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-suecia-1958-kalle-svensson",
       "wc-suecia-1958-orvar-bergmark",

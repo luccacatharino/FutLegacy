@@ -7,7 +7,7 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-alemanha-2014-manuel-neuer",
       "wc-alemanha-2014-philipp-lahm",
@@ -30,7 +30,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-argentina-2014-sergio-romero",
       "wc-argentina-2014-pablo-zabaleta",
@@ -54,7 +54,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-costa-rica-2014-keylor-navas",
       "wc-costa-rica-2014-cristian-gamboa",
@@ -77,7 +77,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-colombia-2014-david-ospina",
       "wc-colombia-2014-camilo-zuniga",
@@ -100,7 +100,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-argelia-2014-rais-m-bolhi",
       "wc-argelia-2014-aissa-mandi",

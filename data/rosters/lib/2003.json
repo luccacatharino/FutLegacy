@@ -11,7 +11,6 @@
       "https://en.wikipedia.org/wiki/2003_Copa_Libertadores_finals"
     ],
     "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
-    "ovr": 89,
     "selectionReason": "1978 venceu a final de volta por 4–0, com a base bicampeã; 2000 reúne Riquelme, Palermo, Samuel e Córdoba; 2003 destaca Tevez, Delgado e o núcleo de Bianchi, com 5–1 agregado na final. 2001 e 2007 também seriam escolhas defensáveis; esta seleção editorial pondera domínio coletivo e força das principais peças.",
     "startingXI": [
       "Roberto Abbondanzieri",
@@ -27,6 +26,7 @@
       "Carlos Tevez"
     ],
     "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-boca-juniors-2003-roberto-abbondanzieri",
       "lib-boca-juniors-2003-hugo-ibarra",

@@ -11,7 +11,6 @@
       "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals"
     ],
     "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
-    "ovr": 89,
     "selectionReason": "1968 é a ruptura continental de Zubeldía; 1970 fecha o tricampeonato, mantendo Verón, Bilardo e Pachamé; 2009 representa a geração de Juan Sebastián Verón e Boselli. 1969 é omitido pelo limite de três, mantendo o início e o fechamento do ciclo tricampeão mais uma geração distinta.",
     "startingXI": [
       "Mariano Andújar",
@@ -27,6 +26,7 @@
       "Gastón Fernández"
     ],
     "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-estudiantes-2009-mariano-andujar",
       "lib-estudiantes-2009-christian-cellay",

@@ -5,16 +5,17 @@
       "MEI",
       "PD"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 91,
-      "fin": 91,
-      "pas": 93,
-      "dri": 98,
-      "def": 30,
-      "fis": 70
+      "vel": 85,
+      "fin": 85,
+      "pas": 87,
+      "dri": 92,
+      "def": 28,
+      "fis": 66
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-estrela-vermelha-1991-dejan-savicevic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -25,16 +26,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 84,
-      "fin": 97,
-      "pas": 74,
-      "dri": 85,
-      "def": 28,
-      "fis": 83
+      "vel": 79,
+      "fin": 91,
+      "pas": 69,
+      "dri": 80,
+      "def": 26,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-estrela-vermelha-1991-darko-pancev",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -45,16 +47,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 79,
-      "fin": 84,
-      "pas": 97,
-      "dri": 96,
-      "def": 50,
-      "fis": 72
+      "vel": 74,
+      "fin": 79,
+      "pas": 91,
+      "dri": 90,
+      "def": 47,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-estrela-vermelha-1991-robert-prosinecki",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -66,16 +69,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 68,
-      "fin": 43,
-      "pas": 72,
-      "dri": 62,
-      "def": 90,
-      "fis": 90
+      "vel": 64,
+      "fin": 41,
+      "pas": 68,
+      "dri": 59,
+      "def": 85,
+      "fis": 85
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-estrela-vermelha-1991-miodrag-belodedici",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -87,16 +91,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 70,
-      "fin": 40,
-      "pas": 69,
-      "dri": 59,
-      "def": 92,
-      "fis": 92
+      "vel": 66,
+      "fin": 38,
+      "pas": 65,
+      "dri": 56,
+      "def": 87,
+      "fis": 87
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-estrela-vermelha-1991-sinisa-mihajlovic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -108,16 +113,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 75,
-      "fin": 73,
-      "pas": 90,
-      "dri": 85,
-      "def": 73,
-      "fis": 75
+      "vel": 71,
+      "fin": 69,
+      "pas": 85,
+      "dri": 80,
+      "def": 69,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-estrela-vermelha-1991-vladimir-jugovic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -128,22 +134,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 59,
-      "dri": 30,
-      "def": 18,
-      "fis": 75,
-      "ref": 87,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 69,
-      "one": 84
+      "vel": 40,
+      "fin": 11,
+      "pas": 56,
+      "dri": 28,
+      "def": 17,
+      "fis": 71,
+      "ref": 82,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 65,
+      "one": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-estrela-vermelha-1991-stevan-stojanovic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -154,16 +161,17 @@
     "positions": [
       "MD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 85,
-      "fin": 75,
-      "pas": 81,
-      "dri": 81,
-      "def": 53,
-      "fis": 68
+      "vel": 80,
+      "fin": 70,
+      "pas": 76,
+      "dri": 76,
+      "def": 50,
+      "fis": 64
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-estrela-vermelha-1991-dragisa-binic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -174,16 +182,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 63,
-      "fin": 38,
-      "pas": 62,
-      "dri": 52,
-      "def": 85,
-      "fis": 85
+      "vel": 59,
+      "fin": 36,
+      "pas": 58,
+      "dri": 49,
+      "def": 80,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-estrela-vermelha-1991-ilija-najdoski",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -194,16 +203,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 82,
-      "fin": 52,
-      "pas": 75,
-      "dri": 71,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 49,
+      "pas": 70,
+      "dri": 67,
+      "def": 69,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-estrela-vermelha-1991-refik-sabanadzovic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -214,16 +224,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 78,
-      "fin": 48,
-      "pas": 71,
-      "dri": 72,
-      "def": 75,
-      "fis": 69
+      "vel": 73,
+      "fin": 45,
+      "pas": 67,
+      "dri": 68,
+      "def": 70,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-estrela-vermelha-1991-slobodan-marovic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -234,16 +245,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 76,
-      "fin": 84,
-      "pas": 63,
-      "dri": 76,
-      "def": 29,
-      "fis": 75
+      "vel": 71,
+      "fin": 79,
+      "pas": 59,
+      "dri": 71,
+      "def": 27,
+      "fis": 70
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-estrela-vermelha-1991-vladan-lukic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -254,16 +266,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 66,
-      "fin": 64,
-      "pas": 81,
-      "dri": 76,
-      "def": 64,
-      "fis": 66
+      "vel": 62,
+      "fin": 60,
+      "pas": 76,
+      "dri": 71,
+      "def": 60,
+      "fis": 62
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-estrela-vermelha-1991-vlada-stosic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -274,16 +287,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 71,
     "attrs": {
-      "vel": 57,
-      "fin": 27,
-      "pas": 56,
-      "dri": 46,
-      "def": 79,
-      "fis": 79
+      "vel": 53,
+      "fin": 25,
+      "pas": 52,
+      "dri": 43,
+      "def": 74,
+      "fis": 74
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 76,
     "id": "ucl-estrela-vermelha-1991-rade-tosic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -295,16 +309,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 75,
+    "ovr": 70,
     "attrs": {
-      "vel": 61,
-      "fin": 50,
-      "pas": 71,
-      "dri": 62,
-      "def": 75,
-      "fis": 74
+      "vel": 57,
+      "fin": 47,
+      "pas": 66,
+      "dri": 58,
+      "def": 70,
+      "fis": 69
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 75,
     "id": "ucl-estrela-vermelha-1991-ivica-momcilovic",
     "team": "Estrela Vermelha",
     "year": 1991,
@@ -315,22 +330,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 72,
+    "ovr": 68,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 46,
-      "dri": 30,
-      "def": 18,
-      "fis": 62,
-      "ref": 74,
-      "han": 70,
-      "pos": 72,
-      "div": 73,
-      "kic": 56,
-      "one": 71
+      "vel": 40,
+      "fin": 11,
+      "pas": 43,
+      "dri": 28,
+      "def": 17,
+      "fis": 59,
+      "ref": 70,
+      "han": 66,
+      "pos": 68,
+      "div": 69,
+      "kic": 53,
+      "one": 67
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 72,
     "id": "ucl-estrela-vermelha-1991-milic-jovanovic",
     "team": "Estrela Vermelha",
     "year": 1991,

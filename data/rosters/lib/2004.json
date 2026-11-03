@@ -11,7 +11,6 @@
       "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals"
     ],
     "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
-    "ovr": 84,
     "selectionReason": "Todos os títulos do clube no recorte são obrigatórios.",
     "startingXI": [
       "Juan Henao",
@@ -27,6 +26,7 @@
       "Jorge Agudelo"
     ],
     "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-once-caldas-2004-juan-henao",
       "lib-once-caldas-2004-miguel-rojas",

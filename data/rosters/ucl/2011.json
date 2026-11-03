@@ -9,8 +9,7 @@
     "source": "https://en.wikipedia.org/wiki/2011_UEFA_Champions_League_final",
     "selectionReason": "Rijkaard/Ronaldinho e dois picos do jogo coletivo de Guardiola.",
     "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
-    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
-    "ovr": 93,
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "startingXI": [
       "Víctor Valdés",
       "Dani Alves",
@@ -53,6 +52,7 @@
     "champion": false,
     "source": "docs/FONTES.md",
     "scope": "Recorte XI da campanha anterior, preservado.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "ucl-manchester-united-2011-edwin-van-der-sar",
       "ucl-manchester-united-2011-fabio",

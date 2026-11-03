@@ -5,16 +5,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 96,
-      "fin": 98,
-      "pas": 87,
-      "dri": 97,
-      "def": 36,
-      "fis": 90
+      "vel": 90,
+      "fin": 92,
+      "pas": 82,
+      "dri": 91,
+      "def": 34,
+      "fis": 84
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "ucl-benfica-1962-eusebio",
     "team": "Benfica",
     "year": 1962,
@@ -26,16 +27,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 79,
-      "fin": 83,
-      "pas": 94,
-      "dri": 90,
-      "def": 72,
-      "fis": 83
+      "vel": 74,
+      "fin": 78,
+      "pas": 88,
+      "dri": 84,
+      "def": 67,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-benfica-1962-mario-coluna",
     "team": "Benfica",
     "year": 1962,
@@ -46,16 +48,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 88,
-      "fin": 96,
-      "pas": 75,
-      "dri": 88,
-      "def": 46,
-      "fis": 87
+      "vel": 82,
+      "fin": 90,
+      "pas": 70,
+      "dri": 82,
+      "def": 43,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-benfica-1962-jose-aguas",
     "team": "Benfica",
     "year": 1962,
@@ -66,16 +69,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 72,
-      "fin": 42,
-      "pas": 71,
-      "dri": 61,
-      "def": 94,
-      "fis": 94
+      "vel": 67,
+      "fin": 39,
+      "pas": 66,
+      "dri": 57,
+      "def": 88,
+      "fis": 88
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-benfica-1962-germano",
     "team": "Benfica",
     "year": 1962,
@@ -86,16 +90,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 94,
-      "fin": 91,
-      "pas": 80,
-      "dri": 91,
-      "def": 42,
-      "fis": 73
+      "vel": 89,
+      "fin": 86,
+      "pas": 76,
+      "dri": 86,
+      "def": 40,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-benfica-1962-jose-augusto",
     "team": "Benfica",
     "year": 1962,
@@ -106,16 +111,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 92,
-      "fin": 89,
-      "pas": 83,
-      "dri": 89,
-      "def": 40,
-      "fis": 71
+      "vel": 87,
+      "fin": 84,
+      "pas": 78,
+      "dri": 84,
+      "def": 38,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-benfica-1962-antonio-simoes",
     "team": "Benfica",
     "year": 1962,
@@ -126,22 +132,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 41,
-      "fin": 12,
-      "pas": 59,
-      "dri": 29,
-      "def": 18,
-      "fis": 76,
-      "ref": 87,
-      "han": 84,
-      "pos": 86,
-      "div": 87,
-      "kic": 69,
-      "one": 85
+      "vel": 39,
+      "fin": 11,
+      "pas": 56,
+      "dri": 27,
+      "def": 17,
+      "fis": 72,
+      "ref": 82,
+      "han": 79,
+      "pos": 81,
+      "div": 82,
+      "kic": 65,
+      "one": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-benfica-1962-costa-pereira",
     "team": "Benfica",
     "year": 1962,
@@ -153,16 +160,17 @@
       "VOL",
       "PD"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 70,
-      "fin": 59,
-      "pas": 85,
-      "dri": 76,
-      "def": 84,
-      "fis": 83
+      "vel": 66,
+      "fin": 56,
+      "pas": 80,
+      "dri": 72,
+      "def": 79,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-benfica-1962-domiciano-cavem",
     "team": "Benfica",
     "year": 1962,
@@ -173,16 +181,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 81,
-      "fin": 51,
-      "pas": 74,
-      "dri": 75,
-      "def": 78,
-      "fis": 72
+      "vel": 76,
+      "fin": 48,
+      "pas": 70,
+      "dri": 70,
+      "def": 73,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-benfica-1962-angelo-martins",
     "team": "Benfica",
     "year": 1962,
@@ -194,16 +203,17 @@
       "LE",
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 82,
-      "fin": 52,
-      "pas": 75,
-      "dri": 71,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 49,
+      "pas": 70,
+      "dri": 67,
+      "def": 69,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-benfica-1962-fernando-cruz",
     "team": "Benfica",
     "year": 1962,
@@ -214,16 +224,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 83,
-      "fin": 53,
-      "pas": 71,
-      "dri": 72,
-      "def": 75,
-      "fis": 74
+      "vel": 78,
+      "fin": 50,
+      "pas": 67,
+      "dri": 68,
+      "def": 70,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-benfica-1962-mario-joao",
     "team": "Benfica",
     "year": 1962,

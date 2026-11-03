@@ -5,16 +5,17 @@
       "ATA",
       "PD"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 97,
-      "fin": 96,
-      "pas": 94,
-      "dri": 99,
-      "def": 42,
-      "fis": 66
+      "vel": 91,
+      "fin": 90,
+      "pas": 88,
+      "dri": 93,
+      "def": 39,
+      "fis": 62
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "ucl-paris-saint-germain-2025-ousmane-dembele",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -25,22 +26,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 41,
-      "fin": 12,
-      "pas": 67,
-      "dri": 29,
-      "def": 18,
-      "fis": 84,
-      "ref": 95,
-      "han": 92,
-      "pos": 94,
-      "div": 95,
-      "kic": 77,
-      "one": 93
+      "vel": 38,
+      "fin": 11,
+      "pas": 63,
+      "dri": 27,
+      "def": 17,
+      "fis": 79,
+      "ref": 89,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 72,
+      "one": 87
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-paris-saint-germain-2025-gianluigi-donnarumma",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -51,16 +53,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 98,
-      "fin": 65,
-      "pas": 88,
-      "dri": 92,
-      "def": 93,
-      "fis": 83
+      "vel": 92,
+      "fin": 61,
+      "pas": 82,
+      "dri": 86,
+      "def": 87,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-paris-saint-germain-2025-nuno-mendes",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -72,16 +75,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 80,
-      "fin": 83,
-      "pas": 98,
-      "dri": 96,
-      "def": 74,
-      "fis": 68
+      "vel": 75,
+      "fin": 78,
+      "pas": 92,
+      "dri": 90,
+      "def": 69,
+      "fis": 64
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-paris-saint-germain-2025-vitinha",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -92,16 +96,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 92,
-      "fin": 62,
-      "pas": 85,
-      "dri": 86,
-      "def": 84,
-      "fis": 83
+      "vel": 86,
+      "fin": 58,
+      "pas": 80,
+      "dri": 80,
+      "def": 79,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-paris-saint-germain-2025-achraf-hakimi",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -113,16 +118,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 95,
-      "fin": 92,
-      "pas": 86,
-      "dri": 97,
-      "def": 48,
-      "fis": 74
+      "vel": 89,
+      "fin": 86,
+      "pas": 80,
+      "dri": 91,
+      "def": 45,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-paris-saint-germain-2025-khvicha-kvaratskhelia",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -134,16 +140,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 97,
-      "fin": 94,
-      "pas": 83,
-      "dri": 94,
-      "def": 45,
-      "fis": 76
+      "vel": 91,
+      "fin": 88,
+      "pas": 78,
+      "dri": 88,
+      "def": 42,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-paris-saint-germain-2025-desire-doue",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -155,16 +162,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 80,
-      "fin": 78,
-      "pas": 95,
-      "dri": 90,
-      "def": 78,
-      "fis": 80
+      "vel": 75,
+      "fin": 73,
+      "pas": 89,
+      "dri": 84,
+      "def": 73,
+      "fis": 75
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-paris-saint-germain-2025-joao-neves",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -175,16 +183,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 80,
-      "fin": 78,
-      "pas": 95,
-      "dri": 85,
-      "def": 73,
-      "fis": 80
+      "vel": 76,
+      "fin": 74,
+      "pas": 90,
+      "dri": 80,
+      "def": 69,
+      "fis": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-paris-saint-germain-2025-fabian-ruiz",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -195,16 +204,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 69,
-      "fin": 44,
-      "pas": 73,
-      "dri": 58,
-      "def": 91,
-      "fis": 91
+      "vel": 65,
+      "fin": 42,
+      "pas": 69,
+      "dri": 55,
+      "def": 86,
+      "fis": 86
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-paris-saint-germain-2025-marquinhos",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -216,16 +226,17 @@
       "PE",
       "PD"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 91,
-      "fin": 88,
-      "pas": 82,
-      "dri": 93,
-      "def": 44,
-      "fis": 70
+      "vel": 86,
+      "fin": 83,
+      "pas": 77,
+      "dri": 88,
+      "def": 42,
+      "fis": 66
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-paris-saint-germain-2025-bradley-barcola",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -236,16 +247,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 69,
-      "fin": 44,
-      "pas": 68,
-      "dri": 58,
-      "def": 91,
-      "fis": 91
+      "vel": 65,
+      "fin": 42,
+      "pas": 64,
+      "dri": 55,
+      "def": 86,
+      "fis": 86
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-paris-saint-germain-2025-willian-pacho",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -257,16 +269,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 76,
-      "fin": 74,
-      "pas": 86,
-      "dri": 81,
-      "def": 69,
-      "fis": 76
+      "vel": 72,
+      "fin": 70,
+      "pas": 81,
+      "dri": 76,
+      "def": 65,
+      "fis": 72
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-paris-saint-germain-2025-warren-zaire-emery",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -277,16 +290,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 84,
-      "fin": 87,
-      "pas": 66,
-      "dri": 79,
-      "def": 37,
-      "fis": 83
+      "vel": 79,
+      "fin": 82,
+      "pas": 62,
+      "dri": 74,
+      "def": 35,
+      "fis": 78
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-paris-saint-germain-2025-goncalo-ramos",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -299,16 +313,17 @@
       "PD",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 76,
-      "fin": 80,
-      "pas": 87,
-      "dri": 88,
-      "def": 39,
-      "fis": 64
+      "vel": 71,
+      "fin": 75,
+      "pas": 82,
+      "dri": 83,
+      "def": 37,
+      "fis": 60
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-paris-saint-germain-2025-lee-kang-in",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -320,16 +335,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 64,
-      "fin": 34,
-      "pas": 63,
-      "dri": 53,
-      "def": 86,
-      "fis": 86
+      "vel": 60,
+      "fin": 32,
+      "pas": 59,
+      "dri": 50,
+      "def": 81,
+      "fis": 81
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-paris-saint-germain-2025-lucas-hernandez",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -340,22 +356,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 41,
-      "fin": 12,
-      "pas": 53,
-      "dri": 29,
-      "def": 18,
-      "fis": 70,
-      "ref": 81,
-      "han": 78,
-      "pos": 80,
-      "div": 81,
-      "kic": 63,
-      "one": 79
+      "vel": 38,
+      "fin": 11,
+      "pas": 50,
+      "dri": 27,
+      "def": 17,
+      "fis": 66,
+      "ref": 76,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 59,
+      "one": 74
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-paris-saint-germain-2025-matvey-safonov",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -366,16 +383,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 56,
-      "fin": 31,
-      "pas": 60,
-      "dri": 50,
-      "def": 83,
-      "fis": 78
+      "vel": 52,
+      "fin": 29,
+      "pas": 56,
+      "dri": 47,
+      "def": 78,
+      "fis": 73
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-paris-saint-germain-2025-lucas-beraldo",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -387,16 +405,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 68,
-      "fin": 66,
-      "pas": 83,
-      "dri": 73,
-      "def": 61,
-      "fis": 68
+      "vel": 64,
+      "fin": 62,
+      "pas": 78,
+      "dri": 68,
+      "def": 57,
+      "fis": 64
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-paris-saint-germain-2025-senny-mayulu",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -407,16 +426,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 70,
     "attrs": {
-      "vel": 54,
-      "fin": 29,
-      "pas": 53,
-      "dri": 43,
-      "def": 76,
-      "fis": 76
+      "vel": 51,
+      "fin": 27,
+      "pas": 50,
+      "dri": 41,
+      "def": 72,
+      "fis": 72
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 74,
     "id": "ucl-paris-saint-germain-2025-presnel-kimpembe",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -428,16 +448,17 @@
       "PE",
       "PD"
     ],
-    "ovr": 72,
+    "ovr": 68,
     "attrs": {
-      "vel": 75,
-      "fin": 72,
-      "pas": 66,
-      "dri": 77,
-      "def": 23,
-      "fis": 54
+      "vel": 71,
+      "fin": 68,
+      "pas": 62,
+      "dri": 73,
+      "def": 22,
+      "fis": 51
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 72,
     "id": "ucl-paris-saint-germain-2025-ibrahim-mbaye",
     "team": "Paris Saint-Germain",
     "year": 2025,
@@ -448,22 +469,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 71,
+    "ovr": 67,
     "attrs": {
-      "vel": 41,
-      "fin": 12,
-      "pas": 44,
-      "dri": 29,
-      "def": 18,
-      "fis": 61,
-      "ref": 72,
-      "han": 69,
-      "pos": 71,
-      "div": 72,
-      "kic": 54,
-      "one": 70
+      "vel": 39,
+      "fin": 11,
+      "pas": 42,
+      "dri": 27,
+      "def": 17,
+      "fis": 58,
+      "ref": 68,
+      "han": 65,
+      "pos": 67,
+      "div": 68,
+      "kic": 51,
+      "one": 66
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 71,
     "id": "ucl-paris-saint-germain-2025-arnau-tenas",
     "team": "Paris Saint-Germain",
     "year": 2025,

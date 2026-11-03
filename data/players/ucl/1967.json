@@ -4,16 +4,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 95,
+    "ovr": 89,
     "attrs": {
-      "vel": 99,
-      "fin": 93,
-      "pas": 87,
-      "dri": 98,
-      "def": 49,
-      "fis": 80
+      "vel": 93,
+      "fin": 87,
+      "pas": 82,
+      "dri": 92,
+      "def": 46,
+      "fis": 75
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 95,
     "id": "ucl-celtic-1967-jimmy-johnstone",
     "team": "Celtic",
     "year": 1967,
@@ -24,16 +25,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 96,
-      "fin": 93,
-      "pas": 87,
-      "dri": 93,
-      "def": 44,
-      "fis": 75
+      "vel": 90,
+      "fin": 87,
+      "pas": 81,
+      "dri": 87,
+      "def": 41,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-celtic-1967-bobby-lennox",
     "team": "Celtic",
     "year": 1967,
@@ -44,16 +46,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 71,
-      "fin": 41,
-      "pas": 70,
-      "dri": 60,
-      "def": 93,
-      "fis": 93
+      "vel": 67,
+      "fin": 39,
+      "pas": 66,
+      "dri": 57,
+      "def": 88,
+      "fis": 88
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-celtic-1967-billy-mcneill",
     "team": "Celtic",
     "year": 1967,
@@ -64,16 +67,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 80,
-      "fin": 78,
-      "pas": 95,
-      "dri": 85,
-      "def": 73,
-      "fis": 80
+      "vel": 76,
+      "fin": 74,
+      "pas": 90,
+      "dri": 80,
+      "def": 69,
+      "fis": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-celtic-1967-bobby-murdoch",
     "team": "Celtic",
     "year": 1967,
@@ -84,16 +88,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 88,
-      "fin": 58,
-      "pas": 81,
-      "dri": 82,
-      "def": 80,
-      "fis": 79
+      "vel": 83,
+      "fin": 55,
+      "pas": 76,
+      "dri": 77,
+      "def": 76,
+      "fis": 75
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-celtic-1967-tommy-gemmell",
     "team": "Celtic",
     "year": 1967,
@@ -104,16 +109,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 84,
-      "fin": 92,
-      "pas": 71,
-      "dri": 84,
-      "def": 42,
-      "fis": 83
+      "vel": 79,
+      "fin": 87,
+      "pas": 67,
+      "dri": 79,
+      "def": 40,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-celtic-1967-stevie-chalmers",
     "team": "Celtic",
     "year": 1967,
@@ -124,16 +130,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 78,
-      "fin": 76,
-      "pas": 88,
-      "dri": 83,
-      "def": 71,
-      "fis": 78
+      "vel": 74,
+      "fin": 72,
+      "pas": 83,
+      "dri": 78,
+      "def": 67,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-celtic-1967-bertie-auld",
     "team": "Celtic",
     "year": 1967,
@@ -144,16 +151,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 84,
-      "fin": 92,
-      "pas": 71,
-      "dri": 84,
-      "def": 37,
-      "fis": 83
+      "vel": 79,
+      "fin": 87,
+      "pas": 67,
+      "dri": 79,
+      "def": 35,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-celtic-1967-willie-wallace",
     "team": "Celtic",
     "year": 1967,
@@ -164,22 +172,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 39,
-      "fin": 12,
-      "pas": 57,
-      "dri": 27,
-      "def": 18,
-      "fis": 76,
-      "ref": 85,
-      "han": 84,
-      "pos": 86,
-      "div": 87,
-      "kic": 67,
-      "one": 85
+      "vel": 37,
+      "fin": 11,
+      "pas": 54,
+      "dri": 25,
+      "def": 17,
+      "fis": 72,
+      "ref": 80,
+      "han": 79,
+      "pos": 81,
+      "div": 82,
+      "kic": 63,
+      "one": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-celtic-1967-ronnie-simpson",
     "team": "Celtic",
     "year": 1967,
@@ -190,16 +199,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 62,
-      "fin": 37,
-      "pas": 66,
-      "dri": 56,
-      "def": 89,
-      "fis": 84
+      "vel": 58,
+      "fin": 35,
+      "pas": 62,
+      "dri": 53,
+      "def": 84,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-celtic-1967-john-clark",
     "team": "Celtic",
     "year": 1967,
@@ -210,16 +220,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 83,
-      "fin": 53,
-      "pas": 71,
-      "dri": 72,
-      "def": 75,
-      "fis": 74
+      "vel": 78,
+      "fin": 50,
+      "pas": 67,
+      "dri": 68,
+      "def": 70,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-celtic-1967-jim-craig",
     "team": "Celtic",
     "year": 1967,
@@ -230,22 +241,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 39,
-      "fin": 12,
-      "pas": 48,
-      "dri": 27,
-      "def": 18,
-      "fis": 67,
-      "ref": 76,
-      "han": 75,
-      "pos": 77,
-      "div": 78,
-      "kic": 58,
-      "one": 76
+      "vel": 36,
+      "fin": 11,
+      "pas": 45,
+      "dri": 25,
+      "def": 17,
+      "fis": 63,
+      "ref": 71,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 54,
+      "one": 71
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-celtic-1967-john-fallon",
     "team": "Celtic",
     "year": 1967,

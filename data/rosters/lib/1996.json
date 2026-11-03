@@ -11,7 +11,6 @@
       "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals"
     ],
     "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
-    "ovr": 88,
     "selectionReason": "1986 reúne Pumpido, Ruggeri, Gallego, Alonso e Alzamendi; 1996 acrescenta Francescoli, Crespo e Ortega; 2018 representa o grupo de Gallardo, campeão contra Boca na final. 2015 foi preterido para evitar dois recortes próximos da mesma fase institucional.",
     "startingXI": [
       "Germán Burgos",
@@ -27,6 +26,7 @@
       "Enzo Francescoli"
     ],
     "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-river-plate-1996-german-burgos",
       "lib-river-plate-1996-hernan-diaz",

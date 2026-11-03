@@ -7,7 +7,7 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-italia-2006-gianluigi-buffon",
       "wc-italia-2006-gianluca-zambrotta",
@@ -30,7 +30,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-franca-2006-fabien-barthez",
       "wc-franca-2006-willy-sagnol",
@@ -53,7 +53,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads#Portugal",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-portugal-2006-ricardo",
       "wc-portugal-2006-miguel",

@@ -15,3 +15,6 @@ FL.lineupIssues=(cards,formation)=>{const slots=FL.formations[formation],picked=
 FL.openSlots=(cards,formation,p)=>FL.formations[formation].flatMap((pos,i)=>!cards[i]&&FL.fit(p,pos)>0?[{index:i,pos,fit:FL.fit(p,pos)}]:[]);
 
 FL.compName=comp=>FL.comps[comp]?.name||(comp==='bra'?'Brasileirão (modo removido)':comp);
+
+FL.averageOvr=cards=>{const chosen=cards.filter(Boolean);return chosen.length?chosen.reduce((sum,p)=>sum+p.ovr,0)/chosen.length:0};
+FL.playback={eventMs:160,duration(speed=1){return this.eventMs/([1,2,4].includes(speed)?speed:1)}};

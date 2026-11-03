@@ -11,7 +11,6 @@
       "https://en.wikipedia.org/wiki/1964_Copa_Libertadores_finals"
     ],
     "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
-    "ovr": 84,
     "selectionReason": "1964 representa a primeira conquista e a geração de Santoro/Bernao; 1973 representa a fase do tetracampeonato consecutivo com Bertoni e o jovem Bochini; 1984 reúne Bochini, Marangoni, Giusti e Burruchaga na maturidade. A seleção evita reduzir o clube a três anos seguidos e privilegia três núcleos campeões de qualidade comprovada.",
     "startingXI": [
       "Miguel Ángel Santoro",
@@ -27,6 +26,7 @@
       "Raúl Savoy"
     ],
     "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-independiente-1964-miguel-angel-santoro",
       "lib-independiente-1964-juan-c-guzman",

@@ -4,16 +4,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 96,
+    "ovr": 90,
     "attrs": {
-      "vel": 85,
-      "fin": 62,
-      "pas": 86,
-      "dri": 73,
-      "def": 99,
-      "fis": 97
+      "vel": 80,
+      "fin": 58,
+      "pas": 81,
+      "dri": 68,
+      "def": 93,
+      "fis": 91
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 96,
     "id": "ucl-liverpool-2019-virgil-van-dijk",
     "team": "Liverpool",
     "year": 2019,
@@ -24,16 +25,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 97,
-      "fin": 96,
-      "pas": 88,
-      "dri": 95,
-      "def": 38,
-      "fis": 79
+      "vel": 91,
+      "fin": 90,
+      "pas": 82,
+      "dri": 89,
+      "def": 36,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-liverpool-2019-mohamed-salah",
     "team": "Liverpool",
     "year": 2019,
@@ -44,16 +46,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 97,
-      "fin": 93,
-      "pas": 86,
-      "dri": 94,
-      "def": 49,
-      "fis": 83
+      "vel": 91,
+      "fin": 87,
+      "pas": 81,
+      "dri": 88,
+      "def": 46,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-liverpool-2019-sadio-mane",
     "team": "Liverpool",
     "year": 2019,
@@ -64,22 +67,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 67,
-      "dri": 30,
-      "def": 18,
-      "fis": 83,
-      "ref": 95,
-      "han": 91,
-      "pos": 93,
-      "div": 94,
-      "kic": 77,
-      "one": 92
+      "vel": 39,
+      "fin": 11,
+      "pas": 63,
+      "dri": 28,
+      "def": 17,
+      "fis": 78,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 72,
+      "one": 86
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-liverpool-2019-alisson",
     "team": "Liverpool",
     "year": 2019,
@@ -91,16 +95,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 90,
-      "fin": 98,
-      "pas": 72,
-      "dri": 85,
-      "def": 43,
-      "fis": 89
+      "vel": 84,
+      "fin": 92,
+      "pas": 67,
+      "dri": 79,
+      "def": 40,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-liverpool-2019-roberto-firmino",
     "team": "Liverpool",
     "year": 2019,
@@ -111,16 +116,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 91,
-      "fin": 61,
-      "pas": 79,
-      "dri": 80,
-      "def": 83,
-      "fis": 82
+      "vel": 86,
+      "fin": 58,
+      "pas": 75,
+      "dri": 76,
+      "def": 78,
+      "fis": 77
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-liverpool-2019-andy-robertson",
     "team": "Liverpool",
     "year": 2019,
@@ -131,16 +137,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 88,
-      "fin": 58,
-      "pas": 81,
-      "dri": 82,
-      "def": 85,
-      "fis": 79
+      "vel": 83,
+      "fin": 55,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 75
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-liverpool-2019-trent-alexander-arnold",
     "team": "Liverpool",
     "year": 2019,
@@ -152,16 +159,17 @@
       "VOL",
       "LD"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 72,
-      "fin": 61,
-      "pas": 87,
-      "dri": 78,
-      "def": 91,
-      "fis": 85
+      "vel": 68,
+      "fin": 58,
+      "pas": 82,
+      "dri": 74,
+      "def": 86,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-liverpool-2019-fabinho",
     "team": "Liverpool",
     "year": 2019,
@@ -172,16 +180,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 76,
-      "fin": 74,
-      "pas": 91,
-      "dri": 86,
-      "def": 69,
-      "fis": 76
+      "vel": 72,
+      "fin": 70,
+      "pas": 86,
+      "dri": 81,
+      "def": 65,
+      "fis": 72
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-liverpool-2019-georginio-wijnaldum",
     "team": "Liverpool",
     "year": 2019,
@@ -194,16 +203,17 @@
       "LD",
       "LE"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 74,
-      "fin": 72,
-      "pas": 89,
-      "dri": 84,
-      "def": 72,
-      "fis": 74
+      "vel": 70,
+      "fin": 68,
+      "pas": 84,
+      "dri": 79,
+      "def": 68,
+      "fis": 70
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-liverpool-2019-james-milner",
     "team": "Liverpool",
     "year": 2019,
@@ -214,16 +224,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 64,
-      "fin": 39,
-      "pas": 68,
-      "dri": 58,
-      "def": 86,
-      "fis": 86
+      "vel": 60,
+      "fin": 37,
+      "pas": 64,
+      "dri": 55,
+      "def": 81,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-liverpool-2019-joel-matip",
     "team": "Liverpool",
     "year": 2019,
@@ -235,16 +246,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 78,
-      "fin": 71,
-      "pas": 88,
-      "dri": 83,
-      "def": 71,
-      "fis": 78
+      "vel": 73,
+      "fin": 67,
+      "pas": 83,
+      "dri": 78,
+      "def": 67,
+      "fis": 73
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-liverpool-2019-jordan-henderson",
     "team": "Liverpool",
     "year": 2019,
@@ -256,16 +268,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 82,
-      "fin": 90,
-      "pas": 69,
-      "dri": 82,
-      "def": 35,
-      "fis": 81
+      "vel": 77,
+      "fin": 85,
+      "pas": 65,
+      "dri": 77,
+      "def": 33,
+      "fis": 76
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-liverpool-2019-divock-origi",
     "team": "Liverpool",
     "year": 2019,
@@ -277,16 +290,17 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 63,
-      "fin": 38,
-      "pas": 62,
-      "dri": 52,
-      "def": 85,
-      "fis": 85
+      "vel": 59,
+      "fin": 36,
+      "pas": 58,
+      "dri": 49,
+      "def": 80,
+      "fis": 80
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-liverpool-2019-joe-gomez",
     "team": "Liverpool",
     "year": 2019,
@@ -297,16 +311,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 61,
-      "fin": 36,
-      "pas": 65,
-      "dri": 50,
-      "def": 83,
-      "fis": 83
+      "vel": 57,
+      "fin": 34,
+      "pas": 61,
+      "dri": 47,
+      "def": 78,
+      "fis": 78
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-liverpool-2019-dejan-lovren",
     "team": "Liverpool",
     "year": 2019,
@@ -318,16 +333,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 87,
-      "fin": 84,
-      "pas": 73,
-      "dri": 84,
-      "def": 35,
-      "fis": 66
+      "vel": 82,
+      "fin": 79,
+      "pas": 69,
+      "dri": 79,
+      "def": 33,
+      "fis": 62
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-liverpool-2019-xherdan-shaqiri",
     "team": "Liverpool",
     "year": 2019,
@@ -339,16 +355,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 71,
-      "fin": 75,
-      "pas": 82,
-      "dri": 83,
-      "def": 34,
-      "fis": 59
+      "vel": 66,
+      "fin": 70,
+      "pas": 77,
+      "dri": 78,
+      "def": 32,
+      "fis": 55
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-liverpool-2019-adam-lallana",
     "team": "Liverpool",
     "year": 2019,
@@ -359,16 +376,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 78,
-      "fin": 81,
-      "pas": 60,
-      "dri": 73,
-      "def": 31,
-      "fis": 77
+      "vel": 73,
+      "fin": 76,
+      "pas": 56,
+      "dri": 68,
+      "def": 29,
+      "fis": 72
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-liverpool-2019-daniel-sturridge",
     "team": "Liverpool",
     "year": 2019,
@@ -379,22 +397,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 52,
-      "dri": 30,
-      "def": 18,
-      "fis": 68,
-      "ref": 80,
-      "han": 76,
-      "pos": 78,
-      "div": 79,
-      "kic": 62,
-      "one": 77
+      "vel": 39,
+      "fin": 11,
+      "pas": 49,
+      "dri": 28,
+      "def": 17,
+      "fis": 64,
+      "ref": 75,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 58,
+      "one": 72
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-liverpool-2019-simon-mignolet",
     "team": "Liverpool",
     "year": 2019,
@@ -406,16 +425,17 @@
       "MC",
       "MD"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 67,
-      "fin": 65,
-      "pas": 82,
-      "dri": 72,
-      "def": 60,
-      "fis": 67
+      "vel": 63,
+      "fin": 61,
+      "pas": 77,
+      "dri": 67,
+      "def": 56,
+      "fis": 63
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-liverpool-2019-alex-oxlade-chamberlain",
     "team": "Liverpool",
     "year": 2019,
@@ -426,16 +446,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 76,
+    "ovr": 71,
     "attrs": {
-      "vel": 78,
-      "fin": 43,
-      "pas": 66,
-      "dri": 67,
-      "def": 70,
-      "fis": 69
+      "vel": 73,
+      "fin": 40,
+      "pas": 62,
+      "dri": 63,
+      "def": 65,
+      "fis": 64
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 76,
     "id": "ucl-liverpool-2019-alberto-moreno",
     "team": "Liverpool",
     "year": 2019,
@@ -446,22 +467,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 68,
+    "ovr": 64,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 42,
-      "dri": 30,
-      "def": 18,
-      "fis": 58,
-      "ref": 70,
-      "han": 66,
-      "pos": 68,
-      "div": 69,
-      "kic": 52,
-      "one": 67
+      "vel": 40,
+      "fin": 11,
+      "pas": 40,
+      "dri": 28,
+      "def": 17,
+      "fis": 55,
+      "ref": 66,
+      "han": 62,
+      "pos": 64,
+      "div": 65,
+      "kic": 49,
+      "one": 63
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 68,
     "id": "ucl-liverpool-2019-caoimhin-kelleher",
     "team": "Liverpool",
     "year": 2019,
@@ -472,16 +494,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 67,
+    "ovr": 63,
     "attrs": {
-      "vel": 63,
-      "fin": 71,
-      "pas": 50,
-      "dri": 63,
-      "def": 21,
-      "fis": 62
+      "vel": 59,
+      "fin": 67,
+      "pas": 47,
+      "dri": 59,
+      "def": 20,
+      "fis": 58
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 67,
     "id": "ucl-liverpool-2019-rhian-brewster",
     "team": "Liverpool",
     "year": 2019,

@@ -4,16 +4,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 95,
+    "ovr": 89,
     "attrs": {
-      "vel": 94,
-      "fin": 88,
-      "pas": 94,
-      "dri": 99,
-      "def": 49,
-      "fis": 69
+      "vel": 88,
+      "fin": 82,
+      "pas": 88,
+      "dri": 93,
+      "def": 46,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 95,
     "id": "ucl-bayern-2013-franck-ribery",
     "team": "Bayern",
     "year": 2013,
@@ -24,16 +25,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 96,
-      "fin": 96,
-      "pas": 86,
-      "dri": 98,
-      "def": 31,
-      "fis": 67
+      "vel": 90,
+      "fin": 90,
+      "pas": 81,
+      "dri": 92,
+      "def": 29,
+      "fis": 63
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-bayern-2013-arjen-robben",
     "team": "Bayern",
     "year": 2013,
@@ -44,16 +46,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 81,
-      "fin": 53,
-      "pas": 92,
-      "dri": 84,
-      "def": 96,
-      "fis": 69
+      "vel": 76,
+      "fin": 50,
+      "pas": 86,
+      "dri": 79,
+      "def": 90,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-bayern-2013-philipp-lahm",
     "team": "Bayern",
     "year": 2013,
@@ -65,16 +68,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 84,
-      "fin": 77,
-      "pas": 94,
-      "dri": 89,
-      "def": 77,
-      "fis": 84
+      "vel": 79,
+      "fin": 72,
+      "pas": 88,
+      "dri": 83,
+      "def": 72,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-bayern-2013-bastian-schweinsteiger",
     "team": "Bayern",
     "year": 2013,
@@ -85,22 +89,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 67,
-      "dri": 31,
-      "def": 18,
-      "fis": 82,
-      "ref": 95,
-      "han": 90,
-      "pos": 92,
-      "div": 93,
-      "kic": 77,
-      "one": 91
+      "vel": 40,
+      "fin": 11,
+      "pas": 63,
+      "dri": 29,
+      "def": 17,
+      "fis": 77,
+      "ref": 89,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 72,
+      "one": 85
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-bayern-2013-manuel-neuer",
     "team": "Bayern",
     "year": 2013,
@@ -113,16 +118,17 @@
       "ATA",
       "PD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 84,
-      "fin": 88,
-      "pas": 95,
-      "dri": 96,
-      "def": 47,
-      "fis": 72
+      "vel": 78,
+      "fin": 82,
+      "pas": 89,
+      "dri": 90,
+      "def": 44,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-bayern-2013-thomas-muller",
     "team": "Bayern",
     "year": 2013,
@@ -134,16 +140,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 76,
-      "fin": 65,
-      "pas": 86,
-      "dri": 77,
-      "def": 90,
-      "fis": 89
+      "vel": 72,
+      "fin": 61,
+      "pas": 81,
+      "dri": 73,
+      "def": 85,
+      "fis": 84
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-bayern-2013-javi-martinez",
     "team": "Bayern",
     "year": 2013,
@@ -154,16 +161,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 89,
-      "fin": 59,
-      "pas": 82,
-      "dri": 78,
-      "def": 81,
-      "fis": 80
+      "vel": 84,
+      "fin": 56,
+      "pas": 77,
+      "dri": 74,
+      "def": 76,
+      "fis": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-bayern-2013-david-alaba",
     "team": "Bayern",
     "year": 2013,
@@ -174,16 +182,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 88,
-      "fin": 96,
-      "pas": 70,
-      "dri": 83,
-      "def": 41,
-      "fis": 87
+      "vel": 83,
+      "fin": 91,
+      "pas": 66,
+      "dri": 78,
+      "def": 39,
+      "fis": 82
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-bayern-2013-mario-mandzukic",
     "team": "Bayern",
     "year": 2013,
@@ -194,16 +203,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 66,
-      "fin": 41,
-      "pas": 70,
-      "dri": 60,
-      "def": 88,
-      "fis": 88
+      "vel": 62,
+      "fin": 39,
+      "pas": 66,
+      "dri": 57,
+      "def": 83,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-bayern-2013-dante",
     "team": "Bayern",
     "year": 2013,
@@ -214,16 +224,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 84,
-      "fin": 92,
-      "pas": 71,
-      "dri": 84,
-      "def": 42,
-      "fis": 83
+      "vel": 79,
+      "fin": 87,
+      "pas": 67,
+      "dri": 79,
+      "def": 40,
+      "fis": 78
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-bayern-2013-mario-gomez",
     "team": "Bayern",
     "year": 2013,
@@ -234,16 +245,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 64,
-      "fin": 39,
-      "pas": 68,
-      "dri": 58,
-      "def": 91,
-      "fis": 86
+      "vel": 60,
+      "fin": 37,
+      "pas": 64,
+      "dri": 55,
+      "def": 86,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-bayern-2013-jerome-boateng",
     "team": "Bayern",
     "year": 2013,
@@ -254,16 +266,17 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 70,
-      "fin": 59,
-      "pas": 85,
-      "dri": 71,
-      "def": 84,
-      "fis": 83
+      "vel": 66,
+      "fin": 56,
+      "pas": 80,
+      "dri": 67,
+      "def": 79,
+      "fis": 78
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-bayern-2013-luiz-gustavo",
     "team": "Bayern",
     "year": 2013,
@@ -274,16 +287,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 84,
-      "fin": 87,
-      "pas": 66,
-      "dri": 79,
-      "def": 37,
-      "fis": 83
+      "vel": 79,
+      "fin": 82,
+      "pas": 62,
+      "dri": 74,
+      "def": 35,
+      "fis": 78
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-bayern-2013-claudio-pizarro",
     "team": "Bayern",
     "year": 2013,
@@ -294,16 +308,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 60,
-      "fin": 35,
-      "pas": 64,
-      "dri": 54,
-      "def": 87,
-      "fis": 82
+      "vel": 56,
+      "fin": 33,
+      "pas": 60,
+      "dri": 51,
+      "def": 82,
+      "fis": 77
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-bayern-2013-daniel-van-buyten",
     "team": "Bayern",
     "year": 2013,
@@ -315,16 +330,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 86,
-      "fin": 83,
-      "pas": 77,
-      "dri": 88,
-      "def": 34,
-      "fis": 65
+      "vel": 81,
+      "fin": 78,
+      "pas": 72,
+      "dri": 83,
+      "def": 32,
+      "fis": 61
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-bayern-2013-xherdan-shaqiri",
     "team": "Bayern",
     "year": 2013,
@@ -336,16 +352,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 66,
-      "fin": 55,
-      "pas": 76,
-      "dri": 67,
-      "def": 80,
-      "fis": 79
+      "vel": 62,
+      "fin": 52,
+      "pas": 71,
+      "dri": 63,
+      "def": 75,
+      "fis": 74
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-bayern-2013-anatoliy-tymoshchuk",
     "team": "Bayern",
     "year": 2013,
@@ -356,22 +373,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 76,
+    "ovr": 71,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 51,
-      "dri": 31,
-      "def": 18,
-      "fis": 66,
-      "ref": 79,
-      "han": 74,
-      "pos": 76,
-      "div": 77,
-      "kic": 61,
-      "one": 75
+      "vel": 40,
+      "fin": 11,
+      "pas": 48,
+      "dri": 29,
+      "def": 17,
+      "fis": 62,
+      "ref": 74,
+      "han": 69,
+      "pos": 71,
+      "div": 72,
+      "kic": 57,
+      "one": 70
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 76,
     "id": "ucl-bayern-2013-tom-starke",
     "team": "Bayern",
     "year": 2013,

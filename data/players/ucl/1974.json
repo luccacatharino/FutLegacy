@@ -4,16 +4,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 96,
+    "ovr": 90,
     "attrs": {
-      "vel": 84,
-      "fin": 99,
-      "pas": 77,
-      "dri": 89,
-      "def": 28,
-      "fis": 91
+      "vel": 79,
+      "fin": 93,
+      "pas": 72,
+      "dri": 83,
+      "def": 26,
+      "fis": 85
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 96,
     "id": "ucl-bayern-1974-gerd-muller",
     "team": "Bayern",
     "year": 1974,
@@ -25,16 +26,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 95,
+    "ovr": 89,
     "attrs": {
-      "vel": 84,
-      "fin": 75,
-      "pas": 97,
-      "dri": 92,
-      "def": 97,
-      "fis": 83
+      "vel": 79,
+      "fin": 70,
+      "pas": 91,
+      "dri": 86,
+      "def": 91,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 95,
     "id": "ucl-bayern-1974-franz-beckenbauer",
     "team": "Bayern",
     "year": 1974,
@@ -45,22 +47,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 39,
-      "fin": 12,
-      "pas": 62,
-      "dri": 27,
-      "def": 18,
-      "fis": 81,
-      "ref": 90,
-      "han": 89,
-      "pos": 91,
-      "div": 92,
-      "kic": 72,
-      "one": 90
+      "vel": 36,
+      "fin": 11,
+      "pas": 58,
+      "dri": 25,
+      "def": 17,
+      "fis": 76,
+      "ref": 84,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 67,
+      "one": 84
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-bayern-1974-sepp-maier",
     "team": "Bayern",
     "year": 1974,
@@ -72,16 +75,17 @@
       "LE",
       "MC"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 86,
-      "fin": 81,
-      "pas": 87,
-      "dri": 85,
-      "def": 85,
-      "fis": 87
+      "vel": 81,
+      "fin": 76,
+      "pas": 82,
+      "dri": 80,
+      "def": 80,
+      "fis": 82
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-bayern-1974-paul-breitner",
     "team": "Bayern",
     "year": 1974,
@@ -93,16 +97,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 94,
-      "fin": 91,
-      "pas": 80,
-      "dri": 91,
-      "def": 42,
-      "fis": 73
+      "vel": 89,
+      "fin": 86,
+      "pas": 76,
+      "dri": 86,
+      "def": 40,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-bayern-1974-uli-hoene",
     "team": "Bayern",
     "year": 1974,
@@ -113,16 +118,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 63,
-      "fin": 38,
-      "pas": 67,
-      "dri": 57,
-      "def": 85,
-      "fis": 85
+      "vel": 59,
+      "fin": 36,
+      "pas": 63,
+      "dri": 54,
+      "def": 80,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-bayern-1974-hans-georg-schwarzenbeck",
     "team": "Bayern",
     "year": 1974,
@@ -133,16 +139,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 73,
-      "fin": 71,
-      "pas": 88,
-      "dri": 83,
-      "def": 66,
-      "fis": 73
+      "vel": 69,
+      "fin": 67,
+      "pas": 83,
+      "dri": 78,
+      "def": 62,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-bayern-1974-franz-roth",
     "team": "Bayern",
     "year": 1974,
@@ -153,16 +160,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 69,
-      "fin": 67,
-      "pas": 84,
-      "dri": 79,
-      "def": 67,
-      "fis": 69
+      "vel": 65,
+      "fin": 63,
+      "pas": 79,
+      "dri": 74,
+      "def": 63,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-bayern-1974-jupp-kapellmann",
     "team": "Bayern",
     "year": 1974,
@@ -173,16 +181,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 84,
-      "fin": 81,
-      "pas": 75,
-      "dri": 81,
-      "def": 32,
-      "fis": 63
+      "vel": 79,
+      "fin": 76,
+      "pas": 70,
+      "dri": 76,
+      "def": 30,
+      "fis": 59
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-bayern-1974-conny-torstensson",
     "team": "Bayern",
     "year": 1974,
@@ -193,16 +202,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 78,
-      "fin": 48,
-      "pas": 71,
-      "dri": 72,
-      "def": 75,
-      "fis": 69
+      "vel": 73,
+      "fin": 45,
+      "pas": 67,
+      "dri": 68,
+      "def": 70,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-bayern-1974-johnny-hansen",
     "team": "Bayern",
     "year": 1974,
@@ -214,16 +224,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 67,
-      "fin": 65,
-      "pas": 82,
-      "dri": 77,
-      "def": 65,
-      "fis": 67
+      "vel": 63,
+      "fin": 61,
+      "pas": 77,
+      "dri": 72,
+      "def": 61,
+      "fis": 63
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-bayern-1974-bernd-durnberger",
     "team": "Bayern",
     "year": 1974,
@@ -234,16 +245,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 71,
-      "fin": 64,
-      "pas": 81,
-      "dri": 76,
-      "def": 64,
-      "fis": 71
+      "vel": 67,
+      "fin": 60,
+      "pas": 76,
+      "dri": 71,
+      "def": 60,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-bayern-1974-rainer-zobel",
     "team": "Bayern",
     "year": 1974,

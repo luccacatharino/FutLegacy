@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 69,
-      "dri": 42,
-      "def": 21,
-      "fis": 81,
-      "ref": 92,
-      "han": 88,
-      "pos": 89,
-      "div": 90,
-      "kic": 74,
-      "one": 87
+      "vel": 42,
+      "fin": 14,
+      "pas": 65,
+      "dri": 40,
+      "def": 20,
+      "fis": 76,
+      "ref": 87,
+      "han": 83,
+      "pos": 84,
+      "div": 85,
+      "kic": 70,
+      "one": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-brasil-1962-gilmar",
     "team": "Brasil",
     "year": 1962,
@@ -29,15 +31,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 95,
-      "fin": 69,
-      "pas": 86,
-      "dri": 90,
-      "def": 87,
-      "fis": 86
+      "vel": 89,
+      "fin": 64,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1962-djalma-santos",
     "team": "Brasil",
     "year": 1962,
@@ -48,15 +52,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 71,
-      "fin": 47,
-      "pas": 71,
-      "dri": 52,
-      "def": 89,
-      "fis": 90
+      "vel": 67,
+      "fin": 44,
+      "pas": 67,
+      "dri": 49,
+      "def": 84,
+      "fis": 85
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-brasil-1962-mauro-ramos",
     "team": "Brasil",
     "year": 1962,
@@ -67,15 +73,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 63,
+      "dri": 52,
+      "def": 80,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-brasil-1962-zozimo",
     "team": "Brasil",
     "year": 1962,
@@ -86,15 +94,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 95,
-      "fin": 69,
-      "pas": 86,
-      "dri": 90,
-      "def": 87,
-      "fis": 86
+      "vel": 89,
+      "fin": 64,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1962-nilton-santos",
     "team": "Brasil",
     "year": 1962,
@@ -106,15 +116,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 78,
-      "fin": 68,
-      "pas": 85,
-      "dri": 81,
-      "def": 84,
-      "fis": 84
+      "vel": 74,
+      "fin": 64,
+      "pas": 80,
+      "dri": 76,
+      "def": 79,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-brasil-1962-zito",
     "team": "Brasil",
     "year": 1962,
@@ -126,15 +138,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 83,
-      "fin": 79,
-      "pas": 98,
-      "dri": 90,
-      "def": 76,
-      "fis": 80
+      "vel": 78,
+      "fin": 74,
+      "pas": 92,
+      "dri": 84,
+      "def": 71,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1962-didi",
     "team": "Brasil",
     "year": 1962,
@@ -146,15 +160,17 @@
       "PD",
       "MD"
     ],
-    "ovr": 98,
+    "ovr": 92,
     "attrs": {
-      "vel": 96,
-      "fin": 85,
-      "pas": 87,
-      "dri": 99,
-      "def": 53,
-      "fis": 83
+      "vel": 90,
+      "fin": 80,
+      "pas": 82,
+      "dri": 93,
+      "def": 50,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 98,
     "id": "wc-brasil-1962-garrincha",
     "team": "Brasil",
     "year": 1962,
@@ -165,15 +181,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 89,
-      "fin": 91,
-      "pas": 78,
-      "dri": 88,
-      "def": 42,
-      "fis": 90
+      "vel": 83,
+      "fin": 85,
+      "pas": 73,
+      "dri": 82,
+      "def": 39,
+      "fis": 84
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1962-amarildo",
     "team": "Brasil",
     "year": 1962,
@@ -184,15 +202,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 85,
-      "fin": 94,
-      "pas": 74,
-      "dri": 84,
-      "def": 45,
-      "fis": 86
+      "vel": 80,
+      "fin": 89,
+      "pas": 70,
+      "dri": 79,
+      "def": 43,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-1962-vava",
     "team": "Brasil",
     "year": 1962,
@@ -204,15 +224,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 89,
-      "fin": 87,
-      "pas": 86,
-      "dri": 90,
-      "def": 41,
-      "fis": 71
+      "vel": 84,
+      "fin": 82,
+      "pas": 81,
+      "dri": 85,
+      "def": 39,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-brasil-1962-zagallo",
     "team": "Brasil",
     "year": 1962,
@@ -224,15 +246,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 93,
-      "fin": 97,
-      "pas": 94,
-      "dri": 97,
-      "def": 41,
-      "fis": 85
+      "vel": 88,
+      "fin": 92,
+      "pas": 89,
+      "dri": 92,
+      "def": 39,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-1962-pele",
     "team": "Brasil",
     "year": 1962,
@@ -243,21 +267,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 68,
-      "dri": 41,
-      "def": 20,
-      "fis": 80,
-      "ref": 90,
-      "han": 86,
-      "pos": 87,
-      "div": 88,
-      "kic": 72,
-      "one": 85
+      "vel": 42,
+      "fin": 14,
+      "pas": 64,
+      "dri": 39,
+      "def": 19,
+      "fis": 75,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 68,
+      "one": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-tchecoslovaquia-1962-viliam-schrojf",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -268,15 +294,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 82,
-      "fin": 56,
-      "pas": 73,
-      "dri": 77,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 52,
+      "pas": 68,
+      "dri": 72,
+      "def": 69,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-tchecoslovaquia-1962-jiri-tichy",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -287,15 +315,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 68,
-      "fin": 44,
-      "pas": 68,
-      "dri": 49,
-      "def": 86,
-      "fis": 87
+      "vel": 64,
+      "fin": 41,
+      "pas": 64,
+      "dri": 46,
+      "def": 81,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-tchecoslovaquia-1962-jan-popluhar",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -306,15 +336,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 85,
-      "fin": 59,
-      "pas": 76,
-      "dri": 80,
-      "def": 77,
-      "fis": 76
+      "vel": 80,
+      "fin": 55,
+      "pas": 71,
+      "dri": 75,
+      "def": 72,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-tchecoslovaquia-1962-ladislav-novak",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -326,15 +358,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 75,
-      "fin": 58,
-      "pas": 82,
-      "dri": 78,
-      "def": 81,
-      "fis": 81
+      "vel": 70,
+      "fin": 54,
+      "pas": 77,
+      "dri": 73,
+      "def": 76,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-tchecoslovaquia-1962-svatopluk-pluskal",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -346,15 +380,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 84,
-      "fin": 80,
-      "pas": 92,
-      "dri": 91,
-      "def": 70,
-      "fis": 81
+      "vel": 79,
+      "fin": 76,
+      "pas": 87,
+      "dri": 86,
+      "def": 66,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-tchecoslovaquia-1962-josef-masopust",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -366,15 +402,17 @@
       "PD",
       "MD"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 84,
-      "fin": 82,
-      "pas": 74,
-      "dri": 85,
-      "def": 29,
-      "fis": 66
+      "vel": 79,
+      "fin": 77,
+      "pas": 69,
+      "dri": 80,
+      "def": 27,
+      "fis": 62
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-tchecoslovaquia-1962-tomas-pospichal",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -385,15 +423,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 79,
-      "fin": 88,
-      "pas": 68,
-      "dri": 78,
-      "def": 32,
-      "fis": 80
+      "vel": 74,
+      "fin": 83,
+      "pas": 64,
+      "dri": 73,
+      "def": 30,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-tchecoslovaquia-1962-adolf-scherer",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -405,15 +445,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 74,
-      "fin": 83,
-      "pas": 63,
-      "dri": 73,
-      "def": 27,
-      "fis": 75
+      "vel": 69,
+      "fin": 78,
+      "pas": 59,
+      "dri": 68,
+      "def": 25,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-tchecoslovaquia-1962-josef-kadraba",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -425,15 +467,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 81,
-      "fin": 76,
-      "pas": 87,
-      "dri": 82,
-      "def": 40,
-      "fis": 63
+      "vel": 76,
+      "fin": 71,
+      "pas": 82,
+      "dri": 77,
+      "def": 38,
+      "fis": 59
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-tchecoslovaquia-1962-andrej-kvasnak",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -445,15 +489,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 81,
-      "fin": 79,
-      "pas": 71,
-      "dri": 82,
-      "def": 33,
-      "fis": 63
+      "vel": 76,
+      "fin": 74,
+      "pas": 66,
+      "dri": 77,
+      "def": 31,
+      "fis": 59
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-tchecoslovaquia-1962-josef-jelinek",
     "team": "Tchecoslováquia",
     "year": 1962,
@@ -464,21 +510,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 63,
-      "dri": 36,
-      "def": 15,
-      "fis": 75,
-      "ref": 85,
-      "han": 81,
-      "pos": 82,
-      "div": 83,
-      "kic": 67,
-      "one": 80
+      "vel": 42,
+      "fin": 14,
+      "pas": 59,
+      "dri": 34,
+      "def": 14,
+      "fis": 70,
+      "ref": 80,
+      "han": 76,
+      "pos": 77,
+      "div": 78,
+      "kic": 63,
+      "one": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-chile-1962-misael-escuti",
     "team": "Chile",
     "year": 1962,
@@ -489,15 +537,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 86,
-      "fin": 60,
-      "pas": 77,
-      "dri": 81,
-      "def": 78,
-      "fis": 77
+      "vel": 81,
+      "fin": 56,
+      "pas": 72,
+      "dri": 76,
+      "def": 73,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-chile-1962-luis-eyzaguirre",
     "team": "Chile",
     "year": 1962,
@@ -508,15 +558,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 65,
-      "fin": 41,
-      "pas": 65,
-      "dri": 46,
-      "def": 83,
-      "fis": 77
+      "vel": 61,
+      "fin": 38,
+      "pas": 61,
+      "dri": 43,
+      "def": 78,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-chile-1962-raul-sanchez",
     "team": "Chile",
     "year": 1962,
@@ -527,15 +579,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 85,
-      "fin": 52,
-      "pas": 76,
-      "dri": 73,
-      "def": 77,
-      "fis": 69
+      "vel": 80,
+      "fin": 49,
+      "pas": 71,
+      "dri": 68,
+      "def": 72,
+      "fis": 65
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-chile-1962-sergio-navarro",
     "team": "Chile",
     "year": 1962,
@@ -546,15 +600,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 58,
-      "fin": 41,
-      "pas": 65,
-      "dri": 46,
-      "def": 83,
-      "fis": 77
+      "vel": 54,
+      "fin": 38,
+      "pas": 61,
+      "dri": 43,
+      "def": 78,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-chile-1962-carlos-contreras",
     "team": "Chile",
     "year": 1962,
@@ -566,15 +622,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 61,
-      "pas": 85,
-      "dri": 74,
-      "def": 84,
-      "fis": 77
+      "vel": 73,
+      "fin": 57,
+      "pas": 80,
+      "dri": 70,
+      "def": 79,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-chile-1962-eladio-rojas",
     "team": "Chile",
     "year": 1962,
@@ -586,15 +644,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 74,
-      "pas": 86,
-      "dri": 85,
-      "def": 64,
-      "fis": 75
+      "vel": 73,
+      "fin": 70,
+      "pas": 81,
+      "dri": 80,
+      "def": 60,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-chile-1962-jorge-toro",
     "team": "Chile",
     "year": 1962,
@@ -606,15 +666,17 @@
       "PD",
       "MEI"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 84,
-      "fin": 82,
-      "pas": 74,
-      "dri": 85,
-      "def": 36,
-      "fis": 66
+      "vel": 79,
+      "fin": 77,
+      "pas": 69,
+      "dri": 80,
+      "def": 34,
+      "fis": 62
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-chile-1962-jaime-ramirez",
     "team": "Chile",
     "year": 1962,
@@ -625,15 +687,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 78,
-      "fin": 80,
-      "pas": 67,
-      "dri": 70,
-      "def": 31,
-      "fis": 79
+      "vel": 73,
+      "fin": 75,
+      "pas": 63,
+      "dri": 66,
+      "def": 29,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-chile-1962-honorino-landa",
     "team": "Chile",
     "year": 1962,
@@ -645,15 +709,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 97,
-      "fin": 88,
-      "pas": 87,
-      "dri": 91,
-      "def": 42,
-      "fis": 72
+      "vel": 92,
+      "fin": 83,
+      "pas": 82,
+      "dri": 86,
+      "def": 40,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-chile-1962-leonel-sanchez",
     "team": "Chile",
     "year": 1962,
@@ -665,15 +731,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 78,
-      "fin": 73,
-      "pas": 84,
-      "dri": 86,
-      "def": 37,
-      "fis": 67
+      "vel": 73,
+      "fin": 68,
+      "pas": 79,
+      "dri": 81,
+      "def": 35,
+      "fis": 63
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-chile-1962-alberto-fouillioux",
     "team": "Chile",
     "year": 1962,

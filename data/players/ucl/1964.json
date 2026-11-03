@@ -5,16 +5,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 80,
-      "fin": 85,
-      "pas": 96,
-      "dri": 92,
-      "def": 66,
-      "fis": 75
+      "vel": 75,
+      "fin": 80,
+      "pas": 90,
+      "dri": 86,
+      "def": 62,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-inter-1964-luis-suarez",
     "team": "Inter",
     "year": 1964,
@@ -25,16 +26,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 92,
-      "fin": 62,
-      "pas": 85,
-      "dri": 86,
-      "def": 84,
-      "fis": 83
+      "vel": 86,
+      "fin": 58,
+      "pas": 80,
+      "dri": 80,
+      "def": 79,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-inter-1964-giacinto-facchetti",
     "team": "Inter",
     "year": 1964,
@@ -46,16 +48,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 85,
-      "fin": 89,
-      "pas": 96,
-      "dri": 97,
-      "def": 48,
-      "fis": 73
+      "vel": 79,
+      "fin": 83,
+      "pas": 90,
+      "dri": 91,
+      "def": 45,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-inter-1964-sandro-mazzola",
     "team": "Inter",
     "year": 1964,
@@ -66,16 +69,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 72,
-      "fin": 42,
-      "pas": 71,
-      "dri": 61,
-      "def": 94,
-      "fis": 94
+      "vel": 67,
+      "fin": 39,
+      "pas": 66,
+      "dri": 57,
+      "def": 88,
+      "fis": 88
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-inter-1964-armando-picchi",
     "team": "Inter",
     "year": 1964,
@@ -86,16 +90,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 95,
-      "fin": 87,
-      "pas": 81,
-      "dri": 92,
-      "def": 43,
-      "fis": 74
+      "vel": 90,
+      "fin": 82,
+      "pas": 76,
+      "dri": 87,
+      "def": 41,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-inter-1964-mario-corso",
     "team": "Inter",
     "year": 1964,
@@ -106,22 +111,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 63,
-      "dri": 31,
-      "def": 18,
-      "fis": 78,
-      "ref": 91,
-      "han": 86,
-      "pos": 88,
-      "div": 89,
-      "kic": 73,
-      "one": 87
+      "vel": 41,
+      "fin": 11,
+      "pas": 59,
+      "dri": 29,
+      "def": 17,
+      "fis": 74,
+      "ref": 86,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 69,
+      "one": 82
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-inter-1964-giuliano-sarti",
     "team": "Inter",
     "year": 1964,
@@ -132,16 +138,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 90,
-      "fin": 87,
-      "pas": 81,
-      "dri": 92,
-      "def": 43,
-      "fis": 69
+      "vel": 85,
+      "fin": 82,
+      "pas": 76,
+      "dri": 87,
+      "def": 41,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-inter-1964-jair-da-costa",
     "team": "Inter",
     "year": 1964,
@@ -152,16 +159,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 86,
-      "fin": 56,
-      "pas": 79,
-      "dri": 80,
-      "def": 83,
-      "fis": 77
+      "vel": 81,
+      "fin": 53,
+      "pas": 75,
+      "dri": 75,
+      "def": 78,
+      "fis": 73
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-inter-1964-tarcisio-burgnich",
     "team": "Inter",
     "year": 1964,
@@ -172,16 +180,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 66,
-      "fin": 41,
-      "pas": 65,
-      "dri": 55,
-      "def": 88,
-      "fis": 88
+      "vel": 62,
+      "fin": 39,
+      "pas": 61,
+      "dri": 52,
+      "def": 83,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-inter-1964-aristide-guarneri",
     "team": "Inter",
     "year": 1964,
@@ -192,16 +201,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 82,
-      "fin": 90,
-      "pas": 69,
-      "dri": 77,
-      "def": 35,
-      "fis": 81
+      "vel": 77,
+      "fin": 85,
+      "pas": 65,
+      "dri": 72,
+      "def": 33,
+      "fis": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-inter-1964-aurelio-milani",
     "team": "Inter",
     "year": 1964,
@@ -212,16 +222,17 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 66,
-      "fin": 55,
-      "pas": 81,
-      "dri": 67,
-      "def": 80,
-      "fis": 79
+      "vel": 62,
+      "fin": 52,
+      "pas": 76,
+      "dri": 63,
+      "def": 75,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-inter-1964-carlo-tagnin",
     "team": "Inter",
     "year": 1964,

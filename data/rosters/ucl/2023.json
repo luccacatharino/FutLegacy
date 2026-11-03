@@ -9,8 +9,7 @@
     "source": "https://en.wikipedia.org/wiki/2023_UEFA_Champions_League_final",
     "selectionReason": "Título único.",
     "scope": "Ficha da final: XI titular e reservas publicados na fonte. Não representa todos os inscritos na temporada.",
-    "ratingMethod": "OVR editorial por temporada; atributos estimados por função e ajustados ao contexto. Não são notas oficiais ou de outro jogo.",
-    "ovr": 92,
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "startingXI": [
       "Ederson",
       "Manuel Akanji",
@@ -58,6 +57,7 @@
     "champion": false,
     "source": "docs/FONTES.md",
     "scope": "Recorte XI da campanha anterior, preservado.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "ucl-inter-2023-andre-onana",
       "ucl-inter-2023-denzel-dumfries",

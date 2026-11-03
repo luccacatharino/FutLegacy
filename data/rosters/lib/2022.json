@@ -11,7 +11,6 @@
       "https://en.wikipedia.org/wiki/2022_Copa_Libertadores_final"
     ],
     "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
-    "ovr": 88,
     "selectionReason": "1981: Zico artilheiro e núcleo de Júnior, Leandro e Adílio; 2019: ataque e campanha decisivos de Gabriel Barbosa e Bruno Henrique com o meio de Gerson/Arrascaeta; 2022: campanha invicta, Pedro artilheiro, forte jogo coletivo e Arrascaeta. O título de 2025 é reconhecido no checklist, mas não incluído devido ao limite de três; a escolha editorial prioriza o domínio da campanha de 2022, a força ofensiva de 2019 e a geração fundadora de 1981.",
     "startingXI": [
       "Santos",
@@ -27,6 +26,7 @@
       "Pedro"
     ],
     "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-flamengo-2022-santos",
       "lib-flamengo-2022-rodinei",
@@ -61,6 +61,7 @@
     "champion": false,
     "source": "docs/FONTES.md",
     "scope": "Recorte XI da campanha anterior, preservado.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-athletico-pr-2022-bento",
       "lib-athletico-pr-2022-khellven",

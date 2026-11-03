@@ -61,7 +61,7 @@ Para desenvolver e executar todos os testes, basta Node.js (somente desenvolvime
 
     node tests/run.cjs
 
-A bateria inclui auditoria de campeões, identidade das cartas, posições, atributos de goleiros, contexto Arrascaeta90/83, 100.000 sorteios por modo, drafts completos, campeonatos completos, gols, assistências, estatísticas, pênaltis, independência da reprodução e persistência. Os relatórios ficam em `docs/*-report.json`.
+A bateria inclui auditoria de campeões, identidade das cartas, posições, atributos de goleiros, contexto por competição e tetos da revisão 4, 100.000 sorteios por modo, drafts completos, campeonatos completos, gols, assistências, estatísticas, pênaltis, independência da reprodução e persistência. Os relatórios ficam em `docs/*-report.json`.
 
 A auditoria estrutural não substitui a revisão histórica humana. As limitações e a expansão pendente dos recortes estão explicitadas em `docs/PENDENCIAS.md`.
 
@@ -72,3 +72,7 @@ Repositório existente: https://github.com/luccacatharino/FutLegacy
 Jogo: https://luccacatharino.github.io/FutLegacy/
 
 O GitHub Pages publica a raiz da branch `main`. Não há build ou dependências de runtime. O histórico Git anterior foi preservado.
+
+### Ajustes da revisão 4
+
+Notas reequilibradas com tetos por competição e exceções históricas; atributos acompanham a revisão. Média de OVR na revisão final, campanha e Hall. Simulação padrão de aproximadamente 58 segundos, com 2x e 4x reais. Adversários ligeiramente mais acessíveis e finalizações mais produtivas para ambos os lados. Eliminações abrem um resumo automático com vitórias, empates, derrotas, gols marcados e sofridos, artilheiro e OVR médio. Veja docs/AVALIACOES.md para critérios.

@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 71,
-      "dri": 44,
-      "def": 23,
-      "fis": 83,
-      "ref": 93,
-      "han": 89,
-      "pos": 90,
-      "div": 91,
-      "kic": 75,
-      "one": 88
+      "vel": 43,
+      "fin": 14,
+      "pas": 67,
+      "dri": 42,
+      "def": 22,
+      "fis": 78,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-alemanha-1974-sepp-maier",
     "team": "Alemanha",
     "year": 1974,
@@ -29,15 +31,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 89,
-      "fin": 63,
-      "pas": 80,
-      "dri": 84,
-      "def": 88,
-      "fis": 80
+      "vel": 84,
+      "fin": 59,
+      "pas": 75,
+      "dri": 79,
+      "def": 83,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-alemanha-1974-berti-vogts",
     "team": "Alemanha",
     "year": 1974,
@@ -48,15 +52,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 65,
-      "fin": 48,
-      "pas": 65,
-      "dri": 53,
-      "def": 90,
-      "fis": 84
+      "vel": 61,
+      "fin": 45,
+      "pas": 61,
+      "dri": 50,
+      "def": 85,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-alemanha-1974-hans-georg-schwarzenbeck",
     "team": "Alemanha",
     "year": 1974,
@@ -68,15 +74,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 96,
+    "ovr": 90,
     "attrs": {
-      "vel": 80,
-      "fin": 56,
-      "pas": 80,
-      "dri": 68,
-      "def": 98,
-      "fis": 99
+      "vel": 75,
+      "fin": 53,
+      "pas": 75,
+      "dri": 64,
+      "def": 92,
+      "fis": 93
     },
+    "ratingRevision": 4,
+    "previousOvr": 96,
     "id": "wc-alemanha-1974-franz-beckenbauer",
     "team": "Alemanha",
     "year": 1974,
@@ -88,15 +96,17 @@
       "LE",
       "MC"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 91,
-      "fin": 65,
-      "pas": 82,
-      "dri": 86,
-      "def": 90,
-      "fis": 82
+      "vel": 86,
+      "fin": 61,
+      "pas": 77,
+      "dri": 81,
+      "def": 85,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-alemanha-1974-paul-breitner",
     "team": "Alemanha",
     "year": 1974,
@@ -108,15 +118,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 80,
-      "fin": 63,
-      "pas": 87,
-      "dri": 76,
-      "def": 86,
-      "fis": 79
+      "vel": 75,
+      "fin": 59,
+      "pas": 82,
+      "dri": 72,
+      "def": 81,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-alemanha-1974-rainer-bonhof",
     "team": "Alemanha",
     "year": 1974,
@@ -128,15 +140,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 81,
-      "fin": 77,
-      "pas": 96,
-      "dri": 88,
-      "def": 74,
-      "fis": 78
+      "vel": 76,
+      "fin": 73,
+      "pas": 91,
+      "dri": 83,
+      "def": 70,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-alemanha-1974-wolfgang-overath",
     "team": "Alemanha",
     "year": 1974,
@@ -148,15 +162,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 83,
-      "fin": 78,
-      "pas": 89,
-      "dri": 84,
-      "def": 42,
-      "fis": 72
+      "vel": 78,
+      "fin": 73,
+      "pas": 84,
+      "dri": 79,
+      "def": 40,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-alemanha-1974-uli-hoene",
     "team": "Alemanha",
     "year": 1974,
@@ -168,15 +184,17 @@
       "PD",
       "MD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 88,
-      "fin": 86,
-      "pas": 78,
-      "dri": 89,
-      "def": 40,
-      "fis": 70
+      "vel": 83,
+      "fin": 81,
+      "pas": 73,
+      "dri": 84,
+      "def": 38,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-alemanha-1974-jurgen-grabowski",
     "team": "Alemanha",
     "year": 1974,
@@ -187,15 +205,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 90,
-      "fin": 99,
-      "pas": 79,
-      "dri": 89,
-      "def": 43,
-      "fis": 91
+      "vel": 84,
+      "fin": 93,
+      "pas": 74,
+      "dri": 83,
+      "def": 40,
+      "fis": 85
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-alemanha-1974-gerd-muller",
     "team": "Alemanha",
     "year": 1974,
@@ -207,15 +227,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 87,
-      "fin": 85,
-      "pas": 77,
-      "dri": 88,
-      "def": 32,
-      "fis": 69
+      "vel": 82,
+      "fin": 80,
+      "pas": 72,
+      "dri": 83,
+      "def": 30,
+      "fis": 65
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-alemanha-1974-bernd-holzenbein",
     "team": "Alemanha",
     "year": 1974,
@@ -226,21 +248,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 61,
-      "dri": 34,
-      "def": 13,
-      "fis": 73,
-      "ref": 82,
-      "han": 78,
-      "pos": 79,
-      "div": 80,
-      "kic": 64,
-      "one": 77
+      "vel": 42,
+      "fin": 14,
+      "pas": 57,
+      "dri": 32,
+      "def": 12,
+      "fis": 68,
+      "ref": 77,
+      "han": 73,
+      "pos": 74,
+      "div": 75,
+      "kic": 60,
+      "one": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-paises-baixos-1974-jan-jongbloed",
     "team": "Países Baixos",
     "year": 1974,
@@ -252,15 +276,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 92,
-      "fin": 59,
-      "pas": 83,
-      "dri": 80,
-      "def": 84,
-      "fis": 76
+      "vel": 87,
+      "fin": 56,
+      "pas": 78,
+      "dri": 75,
+      "def": 79,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-paises-baixos-1974-wim-suurbier",
     "team": "Países Baixos",
     "year": 1974,
@@ -271,15 +297,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 63,
-      "fin": 46,
-      "pas": 63,
-      "dri": 51,
-      "def": 81,
-      "fis": 82
+      "vel": 59,
+      "fin": 43,
+      "pas": 59,
+      "dri": 48,
+      "def": 76,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-paises-baixos-1974-wim-rijsbergen",
     "team": "Países Baixos",
     "year": 1974,
@@ -291,15 +319,17 @@
       "ZAG",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 63,
+      "dri": 52,
+      "def": 80,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-paises-baixos-1974-arie-haan",
     "team": "Países Baixos",
     "year": 1974,
@@ -311,15 +341,17 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 93,
-      "fin": 67,
-      "pas": 84,
-      "dri": 88,
-      "def": 85,
-      "fis": 84
+      "vel": 88,
+      "fin": 63,
+      "pas": 79,
+      "dri": 83,
+      "def": 80,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-paises-baixos-1974-ruud-krol",
     "team": "Países Baixos",
     "year": 1974,
@@ -331,15 +363,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 76,
-      "fin": 66,
-      "pas": 83,
-      "dri": 79,
-      "def": 82,
-      "fis": 82
+      "vel": 72,
+      "fin": 62,
+      "pas": 78,
+      "dri": 74,
+      "def": 77,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-paises-baixos-1974-wim-jansen",
     "team": "Países Baixos",
     "year": 1974,
@@ -351,15 +385,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 88,
-      "fin": 77,
-      "pas": 96,
-      "dri": 88,
-      "def": 74,
-      "fis": 85
+      "vel": 82,
+      "fin": 72,
+      "pas": 90,
+      "dri": 82,
+      "def": 69,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-paises-baixos-1974-johan-neeskens",
     "team": "Países Baixos",
     "year": 1974,
@@ -371,15 +407,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 87,
-      "fin": 76,
-      "pas": 95,
-      "dri": 87,
-      "def": 73,
-      "fis": 77
+      "vel": 82,
+      "fin": 72,
+      "pas": 90,
+      "dri": 82,
+      "def": 69,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-paises-baixos-1974-willem-van-hanegem",
     "team": "Países Baixos",
     "year": 1974,
@@ -391,15 +429,17 @@
       "PD",
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 93,
-      "fin": 84,
-      "pas": 83,
-      "dri": 87,
-      "def": 38,
-      "fis": 75
+      "vel": 88,
+      "fin": 79,
+      "pas": 78,
+      "dri": 82,
+      "def": 36,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-paises-baixos-1974-johnny-rep",
     "team": "Países Baixos",
     "year": 1974,
@@ -412,15 +452,17 @@
       "MEI",
       "PE"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 94,
-      "fin": 99,
-      "pas": 83,
-      "dri": 93,
-      "def": 47,
-      "fis": 95
+      "vel": 88,
+      "fin": 93,
+      "pas": 78,
+      "dri": 87,
+      "def": 44,
+      "fis": 89
     },
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "wc-paises-baixos-1974-johan-cruyff",
     "team": "Países Baixos",
     "year": 1974,
@@ -432,15 +474,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 95,
-      "fin": 86,
-      "pas": 85,
-      "dri": 89,
-      "def": 40,
-      "fis": 70
+      "vel": 90,
+      "fin": 81,
+      "pas": 80,
+      "dri": 84,
+      "def": 38,
+      "fis": 66
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-paises-baixos-1974-rob-rensenbrink",
     "team": "Países Baixos",
     "year": 1974,
@@ -451,21 +495,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 74,
-      "dri": 40,
-      "def": 26,
-      "fis": 79,
-      "ref": 92,
-      "han": 88,
-      "pos": 89,
-      "div": 90,
-      "kic": 74,
-      "one": 87
+      "vel": 42,
+      "fin": 14,
+      "pas": 70,
+      "dri": 38,
+      "def": 25,
+      "fis": 75,
+      "ref": 87,
+      "han": 83,
+      "pos": 84,
+      "div": 85,
+      "kic": 70,
+      "one": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-polonia-1974-jan-tomaszewski",
     "team": "Polônia",
     "year": 1974,
@@ -476,15 +522,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 85,
-      "fin": 59,
-      "pas": 83,
-      "dri": 80,
-      "def": 84,
-      "fis": 76
+      "vel": 80,
+      "fin": 55,
+      "pas": 78,
+      "dri": 75,
+      "def": 79,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-polonia-1974-antoni-szymanowski",
     "team": "Polônia",
     "year": 1974,
@@ -495,15 +543,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 68,
-      "fin": 44,
-      "pas": 68,
-      "dri": 49,
-      "def": 86,
-      "fis": 87
+      "vel": 64,
+      "fin": 41,
+      "pas": 64,
+      "dri": 46,
+      "def": 81,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-polonia-1974-jerzy-gorgon",
     "team": "Polônia",
     "year": 1974,
@@ -514,15 +564,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 68,
-      "fin": 51,
-      "pas": 68,
-      "dri": 56,
-      "def": 86,
-      "fis": 87
+      "vel": 64,
+      "fin": 48,
+      "pas": 64,
+      "dri": 53,
+      "def": 81,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-polonia-1974-w-adys-aw-zmuda",
     "team": "Polônia",
     "year": 1974,
@@ -533,15 +585,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 86,
-      "fin": 53,
-      "pas": 77,
-      "dri": 81,
-      "def": 78,
-      "fis": 77
+      "vel": 81,
+      "fin": 50,
+      "pas": 72,
+      "dri": 76,
+      "def": 73,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-polonia-1974-adam-musia",
     "team": "Polônia",
     "year": 1974,
@@ -553,15 +607,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 78,
-      "fin": 74,
-      "pas": 86,
-      "dri": 85,
-      "def": 64,
-      "fis": 75
+      "vel": 73,
+      "fin": 70,
+      "pas": 81,
+      "dri": 80,
+      "def": 60,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-polonia-1974-henryk-kasperczak",
     "team": "Polônia",
     "year": 1974,
@@ -573,15 +629,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 87,
-      "fin": 89,
-      "pas": 93,
-      "dri": 95,
-      "def": 46,
-      "fis": 76
+      "vel": 81,
+      "fin": 83,
+      "pas": 87,
+      "dri": 89,
+      "def": 43,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-polonia-1974-kazimierz-deyna",
     "team": "Polônia",
     "year": 1974,
@@ -593,15 +651,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 77,
-      "fin": 60,
-      "pas": 84,
-      "dri": 73,
-      "def": 83,
-      "fis": 76
+      "vel": 72,
+      "fin": 56,
+      "pas": 79,
+      "dri": 69,
+      "def": 78,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-polonia-1974-zygmunt-maszczyk",
     "team": "Polônia",
     "year": 1974,
@@ -613,15 +673,17 @@
       "PD",
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 98,
-      "fin": 96,
-      "pas": 88,
-      "dri": 99,
-      "def": 43,
-      "fis": 80
+      "vel": 92,
+      "fin": 90,
+      "pas": 82,
+      "dri": 93,
+      "def": 40,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-polonia-1974-grzegorz-lato",
     "team": "Polônia",
     "year": 1974,
@@ -632,15 +694,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 83,
-      "fin": 92,
-      "pas": 79,
-      "dri": 82,
-      "def": 43,
-      "fis": 84
+      "vel": 78,
+      "fin": 87,
+      "pas": 75,
+      "dri": 77,
+      "def": 41,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-polonia-1974-andrzej-szarmach",
     "team": "Polônia",
     "year": 1974,
@@ -652,15 +716,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 91,
-      "fin": 89,
-      "pas": 81,
-      "dri": 92,
-      "def": 36,
-      "fis": 73
+      "vel": 86,
+      "fin": 84,
+      "pas": 76,
+      "dri": 87,
+      "def": 34,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-polonia-1974-robert-gadocha",
     "team": "Polônia",
     "year": 1974,

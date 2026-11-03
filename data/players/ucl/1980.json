@@ -4,22 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 95,
+    "ovr": 89,
     "attrs": {
-      "vel": 45,
-      "fin": 12,
-      "pas": 72,
-      "dri": 33,
-      "def": 18,
-      "fis": 85,
-      "ref": 99,
-      "han": 93,
-      "pos": 95,
-      "div": 96,
-      "kic": 82,
-      "one": 94
+      "vel": 42,
+      "fin": 11,
+      "pas": 67,
+      "dri": 31,
+      "def": 17,
+      "fis": 80,
+      "ref": 93,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 77,
+      "one": 88
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 95,
     "id": "ucl-nottingham-forest-1980-peter-shilton",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -30,16 +31,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 75,
-      "fin": 85,
-      "pas": 96,
-      "dri": 96,
-      "def": 30,
-      "fis": 68
+      "vel": 70,
+      "fin": 79,
+      "pas": 90,
+      "dri": 90,
+      "def": 28,
+      "fis": 64
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-nottingham-forest-1980-john-robertson",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -50,16 +52,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 67,
-      "fin": 42,
-      "pas": 66,
-      "dri": 56,
-      "def": 89,
-      "fis": 89
+      "vel": 63,
+      "fin": 40,
+      "pas": 62,
+      "dri": 53,
+      "def": 84,
+      "fis": 84
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-nottingham-forest-1980-kenny-burns",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -70,16 +73,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 82,
-      "fin": 90,
-      "pas": 69,
-      "dri": 82,
-      "def": 40,
-      "fis": 81
+      "vel": 77,
+      "fin": 85,
+      "pas": 65,
+      "dri": 77,
+      "def": 38,
+      "fis": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-nottingham-forest-1980-garry-birtles",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -90,16 +94,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 75,
-      "fin": 73,
-      "pas": 90,
-      "dri": 85,
-      "def": 68,
-      "fis": 75
+      "vel": 71,
+      "fin": 69,
+      "pas": 85,
+      "dri": 80,
+      "def": 64,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-nottingham-forest-1980-john-mcgovern",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -110,16 +115,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 85,
-      "fin": 55,
-      "pas": 78,
-      "dri": 79,
-      "def": 77,
-      "fis": 76
+      "vel": 80,
+      "fin": 52,
+      "pas": 73,
+      "dri": 74,
+      "def": 73,
+      "fis": 72
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-nottingham-forest-1980-viv-anderson",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -130,16 +136,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 63,
-      "fin": 38,
-      "pas": 67,
-      "dri": 52,
-      "def": 85,
-      "fis": 85
+      "vel": 59,
+      "fin": 36,
+      "pas": 63,
+      "dri": 49,
+      "def": 80,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-nottingham-forest-1980-larry-lloyd",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -150,16 +157,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 89,
-      "fin": 86,
-      "pas": 75,
-      "dri": 86,
-      "def": 37,
-      "fis": 68
+      "vel": 84,
+      "fin": 81,
+      "pas": 71,
+      "dri": 81,
+      "def": 35,
+      "fis": 64
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-nottingham-forest-1980-martin-o-neill",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -170,16 +178,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 71,
-      "fin": 69,
-      "pas": 86,
-      "dri": 81,
-      "def": 69,
-      "fis": 71
+      "vel": 67,
+      "fin": 65,
+      "pas": 81,
+      "dri": 76,
+      "def": 65,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-nottingham-forest-1980-ian-bowyer",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -190,16 +199,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 82,
-      "fin": 47,
-      "pas": 70,
-      "dri": 71,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 44,
+      "pas": 66,
+      "dri": 67,
+      "def": 69,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-nottingham-forest-1980-frank-gray",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -210,16 +220,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 68,
-      "fin": 66,
-      "pas": 83,
-      "dri": 73,
-      "def": 61,
-      "fis": 68
+      "vel": 64,
+      "fin": 62,
+      "pas": 78,
+      "dri": 68,
+      "def": 57,
+      "fis": 64
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-nottingham-forest-1980-gary-mills",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -230,16 +241,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 58,
-      "fin": 28,
-      "pas": 57,
-      "dri": 47,
-      "def": 80,
-      "fis": 80
+      "vel": 54,
+      "fin": 26,
+      "pas": 53,
+      "dri": 44,
+      "def": 75,
+      "fis": 75
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-nottingham-forest-1980-david-needham",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -251,16 +263,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 74,
-      "fin": 82,
-      "pas": 61,
-      "dri": 74,
-      "def": 27,
-      "fis": 73
+      "vel": 69,
+      "fin": 77,
+      "pas": 57,
+      "dri": 69,
+      "def": 25,
+      "fis": 68
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-nottingham-forest-1980-john-o-hare",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -271,22 +284,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 76,
+    "ovr": 71,
     "attrs": {
-      "vel": 45,
-      "fin": 12,
-      "pas": 53,
-      "dri": 33,
-      "def": 18,
-      "fis": 66,
-      "ref": 81,
-      "han": 74,
-      "pos": 76,
-      "div": 77,
-      "kic": 63,
-      "one": 75
+      "vel": 42,
+      "fin": 11,
+      "pas": 50,
+      "dri": 31,
+      "def": 17,
+      "fis": 62,
+      "ref": 76,
+      "han": 69,
+      "pos": 71,
+      "div": 72,
+      "kic": 59,
+      "one": 70
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 76,
     "id": "ucl-nottingham-forest-1980-jimmy-montgomery",
     "team": "Nottingham Forest",
     "year": 1980,
@@ -297,16 +311,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 74,
+    "ovr": 70,
     "attrs": {
-      "vel": 64,
-      "fin": 62,
-      "pas": 79,
-      "dri": 69,
-      "def": 57,
-      "fis": 64
+      "vel": 61,
+      "fin": 59,
+      "pas": 75,
+      "dri": 65,
+      "def": 54,
+      "fis": 61
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 74,
     "id": "ucl-nottingham-forest-1980-bryn-gunn",
     "team": "Nottingham Forest",
     "year": 1980,

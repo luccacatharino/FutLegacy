@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 75,
-      "dri": 41,
-      "def": 27,
-      "fis": 80,
-      "ref": 93,
-      "han": 89,
-      "pos": 90,
-      "div": 91,
-      "kic": 75,
-      "one": 88
+      "vel": 43,
+      "fin": 14,
+      "pas": 71,
+      "dri": 39,
+      "def": 26,
+      "fis": 76,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-1994-taffarel",
     "team": "Brasil",
     "year": 1994,
@@ -29,15 +31,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 97,
-      "fin": 64,
-      "pas": 88,
-      "dri": 85,
-      "def": 89,
-      "fis": 81
+      "vel": 92,
+      "fin": 60,
+      "pas": 83,
+      "dri": 80,
+      "def": 84,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-1994-jorginho",
     "team": "Brasil",
     "year": 1994,
@@ -48,15 +52,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 71,
-      "fin": 54,
-      "pas": 71,
-      "dri": 59,
-      "def": 96,
-      "fis": 90
+      "vel": 67,
+      "fin": 51,
+      "pas": 67,
+      "dri": 56,
+      "def": 91,
+      "fis": 85
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-brasil-1994-aldair",
     "team": "Brasil",
     "year": 1994,
@@ -67,15 +73,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 69,
-      "dri": 57,
-      "def": 87,
-      "fis": 88
+      "vel": 65,
+      "fin": 49,
+      "pas": 65,
+      "dri": 54,
+      "def": 82,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-brasil-1994-marcio-santos",
     "team": "Brasil",
     "year": 1994,
@@ -86,15 +94,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 92,
-      "fin": 66,
-      "pas": 83,
-      "dri": 87,
-      "def": 84,
-      "fis": 83
+      "vel": 87,
+      "fin": 62,
+      "pas": 78,
+      "dri": 82,
+      "def": 79,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-brasil-1994-branco",
     "team": "Brasil",
     "year": 1994,
@@ -106,15 +116,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 85,
-      "fin": 68,
-      "pas": 92,
-      "dri": 81,
-      "def": 91,
-      "fis": 91
+      "vel": 79,
+      "fin": 64,
+      "pas": 86,
+      "dri": 76,
+      "def": 85,
+      "fis": 85
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-brasil-1994-dunga",
     "team": "Brasil",
     "year": 1994,
@@ -125,15 +137,17 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 83,
-      "fin": 73,
-      "pas": 90,
-      "dri": 86,
-      "def": 89,
-      "fis": 89
+      "vel": 78,
+      "fin": 68,
+      "pas": 84,
+      "dri": 80,
+      "def": 83,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "wc-brasil-1994-mauro-silva",
     "team": "Brasil",
     "year": 1994,
@@ -145,15 +159,17 @@
       "MC",
       "MD"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 83,
-      "fin": 72,
-      "pas": 91,
-      "dri": 83,
-      "def": 69,
-      "fis": 80
+      "vel": 78,
+      "fin": 68,
+      "pas": 86,
+      "dri": 78,
+      "def": 65,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-brasil-1994-mazinho",
     "team": "Brasil",
     "year": 1994,
@@ -165,15 +181,17 @@
       "ME",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 87,
-      "fin": 79,
-      "pas": 81,
-      "dri": 87,
-      "def": 53,
-      "fis": 74
+      "vel": 82,
+      "fin": 74,
+      "pas": 76,
+      "dri": 82,
+      "def": 50,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-brasil-1994-zinho",
     "team": "Brasil",
     "year": 1994,
@@ -184,15 +202,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 92,
-      "fin": 94,
-      "pas": 81,
-      "dri": 84,
-      "def": 45,
-      "fis": 93
+      "vel": 86,
+      "fin": 88,
+      "pas": 76,
+      "dri": 79,
+      "def": 42,
+      "fis": 87
     },
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "wc-brasil-1994-bebeto",
     "team": "Brasil",
     "year": 1994,
@@ -203,15 +223,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 94,
-      "fin": 99,
-      "pas": 83,
-      "dri": 93,
-      "def": 47,
-      "fis": 95
+      "vel": 88,
+      "fin": 93,
+      "pas": 78,
+      "dri": 87,
+      "def": 44,
+      "fis": 89
     },
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "wc-brasil-1994-romario",
     "team": "Brasil",
     "year": 1994,
@@ -222,21 +244,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 68,
-      "dri": 41,
-      "def": 20,
-      "fis": 80,
-      "ref": 89,
-      "han": 85,
-      "pos": 86,
-      "div": 87,
-      "kic": 71,
-      "one": 84
+      "vel": 42,
+      "fin": 14,
+      "pas": 64,
+      "dri": 39,
+      "def": 19,
+      "fis": 75,
+      "ref": 84,
+      "han": 80,
+      "pos": 81,
+      "div": 82,
+      "kic": 67,
+      "one": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-italia-1994-gianluca-pagliuca",
     "team": "Itália",
     "year": 1994,
@@ -247,15 +271,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 87,
-      "fin": 54,
-      "pas": 78,
-      "dri": 75,
-      "def": 79,
-      "fis": 71
+      "vel": 82,
+      "fin": 51,
+      "pas": 73,
+      "dri": 70,
+      "def": 74,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-italia-1994-roberto-mussi",
     "team": "Itália",
     "year": 1994,
@@ -266,15 +292,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 76,
-      "fin": 52,
-      "pas": 76,
-      "dri": 57,
-      "def": 94,
-      "fis": 88
+      "vel": 72,
+      "fin": 49,
+      "pas": 72,
+      "dri": 54,
+      "def": 89,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-italia-1994-franco-baresi",
     "team": "Itália",
     "year": 1994,
@@ -286,15 +314,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 73,
-      "fin": 56,
-      "pas": 73,
-      "dri": 61,
-      "def": 91,
-      "fis": 92
+      "vel": 68,
+      "fin": 52,
+      "pas": 68,
+      "dri": 57,
+      "def": 85,
+      "fis": 86
     },
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "wc-italia-1994-paolo-maldini",
     "team": "Itália",
     "year": 1994,
@@ -306,15 +336,17 @@
       "LE",
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 85,
-      "fin": 59,
-      "pas": 76,
-      "dri": 80,
-      "def": 77,
-      "fis": 76
+      "vel": 80,
+      "fin": 55,
+      "pas": 71,
+      "dri": 75,
+      "def": 72,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-italia-1994-antonio-benarrivo",
     "team": "Itália",
     "year": 1994,
@@ -326,15 +358,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 79,
-      "fin": 75,
-      "pas": 87,
-      "dri": 86,
-      "def": 72,
-      "fis": 76
+      "vel": 74,
+      "fin": 71,
+      "pas": 82,
+      "dri": 81,
+      "def": 68,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-italia-1994-demetrio-albertini",
     "team": "Itália",
     "year": 1994,
@@ -346,15 +380,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 77,
-      "fin": 67,
-      "pas": 84,
-      "dri": 80,
-      "def": 83,
-      "fis": 83
+      "vel": 72,
+      "fin": 63,
+      "pas": 79,
+      "dri": 75,
+      "def": 78,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-italia-1994-dino-baggio",
     "team": "Itália",
     "year": 1994,
@@ -366,15 +402,17 @@
       "MD",
       "ME"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 88,
-      "fin": 80,
-      "pas": 82,
-      "dri": 88,
-      "def": 54,
-      "fis": 75
+      "vel": 83,
+      "fin": 75,
+      "pas": 77,
+      "dri": 83,
+      "def": 51,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-italia-1994-roberto-donadoni",
     "team": "Itália",
     "year": 1994,
@@ -386,15 +424,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 78,
-      "fin": 67,
-      "pas": 86,
-      "dri": 78,
-      "def": 64,
-      "fis": 75
+      "vel": 73,
+      "fin": 63,
+      "pas": 81,
+      "dri": 73,
+      "def": 60,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-italia-1994-nicola-berti",
     "team": "Itália",
     "year": 1994,
@@ -406,15 +446,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 94,
-      "fin": 89,
-      "pas": 99,
-      "dri": 95,
-      "def": 53,
-      "fis": 76
+      "vel": 88,
+      "fin": 83,
+      "pas": 93,
+      "dri": 89,
+      "def": 50,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-italia-1994-roberto-baggio",
     "team": "Itália",
     "year": 1994,
@@ -425,15 +467,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 82,
-      "fin": 84,
-      "pas": 71,
-      "dri": 74,
-      "def": 35,
-      "fis": 76
+      "vel": 77,
+      "fin": 79,
+      "pas": 67,
+      "dri": 69,
+      "def": 33,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-italia-1994-daniele-massaro",
     "team": "Itália",
     "year": 1994,
@@ -444,21 +488,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 67,
-      "dri": 33,
-      "def": 19,
-      "fis": 72,
-      "ref": 86,
-      "han": 82,
-      "pos": 83,
-      "div": 84,
-      "kic": 68,
-      "one": 81
+      "vel": 42,
+      "fin": 14,
+      "pas": 63,
+      "dri": 31,
+      "def": 18,
+      "fis": 68,
+      "ref": 81,
+      "han": 77,
+      "pos": 78,
+      "div": 79,
+      "kic": 64,
+      "one": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-bulgaria-1994-borislav-mihaylov",
     "team": "Bulgária",
     "year": 1994,
@@ -469,15 +515,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 82,
-      "fin": 56,
-      "pas": 73,
-      "dri": 77,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 52,
+      "pas": 68,
+      "dri": 72,
+      "def": 69,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-bulgaria-1994-emil-kremenliev",
     "team": "Bulgária",
     "year": 1994,
@@ -488,15 +536,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 68,
-      "fin": 44,
-      "pas": 68,
-      "dri": 56,
-      "def": 86,
-      "fis": 87
+      "vel": 64,
+      "fin": 41,
+      "pas": 64,
+      "dri": 53,
+      "def": 81,
+      "fis": 82
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-bulgaria-1994-trifon-ivanov",
     "team": "Bulgária",
     "year": 1994,
@@ -507,15 +557,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 64,
-      "fin": 47,
-      "pas": 64,
-      "dri": 52,
-      "def": 82,
-      "fis": 83
+      "vel": 60,
+      "fin": 44,
+      "pas": 60,
+      "dri": 49,
+      "def": 77,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-bulgaria-1994-petar-hubchev",
     "team": "Bulgária",
     "year": 1994,
@@ -526,15 +578,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 82,
-      "fin": 56,
-      "pas": 73,
-      "dri": 77,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 52,
+      "pas": 68,
+      "dri": 72,
+      "def": 69,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-bulgaria-1994-tsanko-tsvetanov",
     "team": "Bulgária",
     "year": 1994,
@@ -546,15 +600,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 74,
-      "fin": 57,
-      "pas": 81,
-      "dri": 70,
-      "def": 80,
-      "fis": 80
+      "vel": 69,
+      "fin": 53,
+      "pas": 76,
+      "dri": 66,
+      "def": 75,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-bulgaria-1994-zlatko-yankov",
     "team": "Bulgária",
     "year": 1994,
@@ -566,15 +622,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 80,
-      "fin": 76,
-      "pas": 88,
-      "dri": 87,
-      "def": 73,
-      "fis": 77
+      "vel": 75,
+      "fin": 72,
+      "pas": 83,
+      "dri": 82,
+      "def": 69,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-bulgaria-1994-yordan-letchkov",
     "team": "Bulgária",
     "year": 1994,
@@ -586,15 +644,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 86,
-      "fin": 88,
-      "pas": 92,
-      "dri": 94,
-      "def": 45,
-      "fis": 75
+      "vel": 81,
+      "fin": 83,
+      "pas": 87,
+      "dri": 89,
+      "def": 43,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-bulgaria-1994-krasimir-balakov",
     "team": "Bulgária",
     "year": 1994,
@@ -606,15 +666,17 @@
       "ME",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 86,
-      "fin": 71,
-      "pas": 80,
-      "dri": 79,
-      "def": 52,
-      "fis": 66
+      "vel": 81,
+      "fin": 67,
+      "pas": 75,
+      "dri": 74,
+      "def": 49,
+      "fis": 62
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-bulgaria-1994-daniel-borimirov",
     "team": "Bulgária",
     "year": 1994,
@@ -626,15 +688,17 @@
       "PD",
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 91,
-      "fin": 82,
-      "pas": 81,
-      "dri": 92,
-      "def": 36,
-      "fis": 73
+      "vel": 86,
+      "fin": 77,
+      "pas": 76,
+      "dri": 87,
+      "def": 34,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-bulgaria-1994-emil-kostadinov",
     "team": "Bulgária",
     "year": 1994,
@@ -646,15 +710,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 90,
-      "fin": 99,
-      "pas": 79,
-      "dri": 89,
-      "def": 43,
-      "fis": 91
+      "vel": 84,
+      "fin": 93,
+      "pas": 74,
+      "dri": 83,
+      "def": 40,
+      "fis": 85
     },
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "wc-bulgaria-1994-hristo-stoichkov",
     "team": "Bulgária",
     "year": 1994,
@@ -665,21 +731,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 74,
-      "dri": 40,
-      "def": 26,
-      "fis": 79,
-      "ref": 93,
-      "han": 89,
-      "pos": 90,
-      "div": 91,
-      "kic": 75,
-      "one": 88
+      "vel": 43,
+      "fin": 14,
+      "pas": 70,
+      "dri": 38,
+      "def": 25,
+      "fis": 75,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-suecia-1994-thomas-ravelli",
     "team": "Suécia",
     "year": 1994,
@@ -690,15 +758,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 87,
-      "fin": 61,
-      "pas": 78,
-      "dri": 82,
-      "def": 79,
-      "fis": 78
+      "vel": 82,
+      "fin": 57,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-suecia-1994-roland-nilsson",
     "team": "Suécia",
     "year": 1994,
@@ -709,15 +779,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 63,
+      "dri": 52,
+      "def": 80,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-suecia-1994-patrik-andersson",
     "team": "Suécia",
     "year": 1994,
@@ -728,15 +800,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 68,
-      "fin": 44,
-      "pas": 68,
-      "dri": 49,
-      "def": 86,
-      "fis": 80
+      "vel": 64,
+      "fin": 41,
+      "pas": 64,
+      "dri": 46,
+      "def": 81,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-suecia-1994-joachim-bjorklund",
     "team": "Suécia",
     "year": 1994,
@@ -747,15 +821,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 84,
-      "fin": 51,
-      "pas": 75,
-      "dri": 72,
-      "def": 76,
-      "fis": 75
+      "vel": 79,
+      "fin": 48,
+      "pas": 70,
+      "dri": 67,
+      "def": 71,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-suecia-1994-roger-ljung",
     "team": "Suécia",
     "year": 1994,
@@ -767,15 +843,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 76,
-      "fin": 66,
-      "pas": 83,
-      "dri": 79,
-      "def": 82,
-      "fis": 82
+      "vel": 72,
+      "fin": 62,
+      "pas": 78,
+      "dri": 74,
+      "def": 77,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-suecia-1994-jonas-thern",
     "team": "Suécia",
     "year": 1994,
@@ -787,15 +865,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 78,
-      "fin": 74,
-      "pas": 93,
-      "dri": 85,
-      "def": 71,
-      "fis": 75
+      "vel": 73,
+      "fin": 70,
+      "pas": 88,
+      "dri": 80,
+      "def": 67,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-suecia-1994-stefan-schwarz",
     "team": "Suécia",
     "year": 1994,
@@ -807,15 +887,17 @@
       "MEI",
       "PD"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 84,
-      "fin": 86,
-      "pas": 97,
-      "dri": 92,
-      "def": 50,
-      "fis": 73
+      "vel": 79,
+      "fin": 81,
+      "pas": 92,
+      "dri": 87,
+      "def": 47,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-suecia-1994-tomas-brolin",
     "team": "Suécia",
     "year": 1994,
@@ -827,15 +909,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 74,
-      "fin": 70,
-      "pas": 82,
-      "dri": 81,
-      "def": 67,
-      "fis": 71
+      "vel": 69,
+      "fin": 66,
+      "pas": 77,
+      "dri": 76,
+      "def": 63,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-suecia-1994-hakan-mild",
     "team": "Suécia",
     "year": 1994,
@@ -846,19 +930,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 89,
-    "aliases": [
-      "Kenneth Andersson"
-    ],
+    "ovr": 84,
     "attrs": {
-      "vel": 86,
-      "fin": 95,
-      "pas": 75,
-      "dri": 85,
-      "def": 39,
-      "fis": 87
+      "vel": 81,
+      "fin": 90,
+      "pas": 71,
+      "dri": 80,
+      "def": 37,
+      "fis": 82
     },
-    "nameSource": "https://www.svenskfotboll.se/nyheter/landslag/2019/03/kennet-andersson/",
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-suecia-1994-kennet-andersson",
     "team": "Suécia",
     "year": 1994,
@@ -869,15 +951,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 87,
-      "pas": 74,
-      "dri": 84,
-      "def": 38,
-      "fis": 86
+      "vel": 80,
+      "fin": 82,
+      "pas": 70,
+      "dri": 79,
+      "def": 36,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-suecia-1994-martin-dahlin",
     "team": "Suécia",
     "year": 1994,
@@ -888,21 +972,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 59,
-      "dri": 32,
-      "def": 12,
-      "fis": 71,
-      "ref": 82,
-      "han": 78,
-      "pos": 79,
-      "div": 80,
-      "kic": 64,
-      "one": 77
+      "vel": 42,
+      "fin": 14,
+      "pas": 55,
+      "dri": 30,
+      "def": 11,
+      "fis": 67,
+      "ref": 77,
+      "han": 73,
+      "pos": 74,
+      "div": 75,
+      "kic": 60,
+      "one": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-romenia-1994-florin-prunea",
     "team": "Romênia",
     "year": 1994,
@@ -914,15 +1000,17 @@
       "LD",
       "MD"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 89,
-      "fin": 63,
-      "pas": 80,
-      "dri": 84,
-      "def": 81,
-      "fis": 80
+      "vel": 84,
+      "fin": 59,
+      "pas": 75,
+      "dri": 79,
+      "def": 76,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-romenia-1994-dan-petrescu",
     "team": "Romênia",
     "year": 1994,
@@ -933,15 +1021,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 48,
-      "pas": 72,
-      "dri": 53,
-      "def": 90,
-      "fis": 84
+      "vel": 68,
+      "fin": 45,
+      "pas": 68,
+      "dri": 50,
+      "def": 85,
+      "fis": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-romenia-1994-miodrag-belodedici",
     "team": "Romênia",
     "year": 1994,
@@ -952,15 +1042,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 62,
-      "fin": 45,
-      "pas": 62,
-      "dri": 50,
-      "def": 87,
-      "fis": 81
+      "vel": 58,
+      "fin": 42,
+      "pas": 58,
+      "dri": 47,
+      "def": 82,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-romenia-1994-daniel-prodan",
     "team": "Romênia",
     "year": 1994,
@@ -971,15 +1063,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 61,
-      "fin": 44,
-      "pas": 61,
-      "dri": 49,
-      "def": 79,
-      "fis": 80
+      "vel": 57,
+      "fin": 41,
+      "pas": 57,
+      "dri": 46,
+      "def": 74,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-romenia-1994-gheorghe-mihali",
     "team": "Romênia",
     "year": 1994,
@@ -991,15 +1085,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 75,
-      "fin": 65,
-      "pas": 82,
-      "dri": 78,
-      "def": 88,
-      "fis": 81
+      "vel": 71,
+      "fin": 61,
+      "pas": 77,
+      "dri": 73,
+      "def": 83,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-romenia-1994-gheorghe-popescu",
     "team": "Romênia",
     "year": 1994,
@@ -1011,15 +1107,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 76,
-      "fin": 59,
-      "pas": 83,
-      "dri": 72,
-      "def": 82,
-      "fis": 82
+      "vel": 71,
+      "fin": 55,
+      "pas": 78,
+      "dri": 68,
+      "def": 77,
+      "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-romenia-1994-ioan-lupescu",
     "team": "Romênia",
     "year": 1994,
@@ -1031,15 +1129,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 81,
-      "fin": 70,
-      "pas": 89,
-      "dri": 81,
-      "def": 67,
-      "fis": 78
+      "vel": 76,
+      "fin": 66,
+      "pas": 84,
+      "dri": 76,
+      "def": 63,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-romenia-1994-dorinel-munteanu",
     "team": "Romênia",
     "year": 1994,
@@ -1051,15 +1151,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 86,
-      "fin": 88,
-      "pas": 99,
-      "dri": 94,
-      "def": 52,
-      "fis": 75
+      "vel": 80,
+      "fin": 82,
+      "pas": 93,
+      "dri": 88,
+      "def": 49,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "wc-romenia-1994-gheorghe-hagi",
     "team": "Romênia",
     "year": 1994,
@@ -1071,15 +1173,17 @@
       "PE",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 94,
-      "fin": 92,
-      "pas": 84,
-      "dri": 95,
-      "def": 39,
-      "fis": 76
+      "vel": 89,
+      "fin": 87,
+      "pas": 79,
+      "dri": 90,
+      "def": 37,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-romenia-1994-ilie-dumitrescu",
     "team": "Romênia",
     "year": 1994,
@@ -1090,15 +1194,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 85,
-      "fin": 94,
-      "pas": 74,
-      "dri": 84,
-      "def": 38,
-      "fis": 86
+      "vel": 80,
+      "fin": 89,
+      "pas": 70,
+      "dri": 79,
+      "def": 36,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-romenia-1994-florin-raducioiu",
     "team": "Romênia",
     "year": 1994,

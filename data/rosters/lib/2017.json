@@ -11,7 +11,6 @@
       "https://en.wikipedia.org/wiki/2017_Copa_Libertadores_finals"
     ],
     "coverage": "Titulares e todos os reservas identificados nas fichas das finais consultadas; não todos os inscritos da campanha",
-    "ovr": 88,
     "selectionReason": "Possui exatamente três títulos: 1983, 1995 e 2017. Todos são obrigatórios.",
     "startingXI": [
       "Marcelo Grohe",
@@ -27,6 +26,7 @@
       "Lucas Barrios"
     ],
     "scope": "Recorte de jogadores da campanha; não é lista integral de inscritos.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "lib-gremio-2017-marcelo-grohe",
       "lib-gremio-2017-edilson",

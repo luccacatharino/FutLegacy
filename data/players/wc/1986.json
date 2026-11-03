@@ -4,21 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 68,
-      "dri": 41,
-      "def": 20,
-      "fis": 80,
-      "ref": 89,
-      "han": 85,
-      "pos": 86,
-      "div": 87,
-      "kic": 71,
-      "one": 84
+      "vel": 42,
+      "fin": 14,
+      "pas": 64,
+      "dri": 39,
+      "def": 19,
+      "fis": 75,
+      "ref": 84,
+      "han": 80,
+      "pos": 81,
+      "div": 82,
+      "kic": 67,
+      "one": 79
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-argentina-1986-nery-pumpido",
     "team": "Argentina",
     "year": 1986,
@@ -30,15 +32,17 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 67,
-      "fin": 50,
-      "pas": 67,
-      "dri": 55,
-      "def": 85,
-      "fis": 86
+      "vel": 63,
+      "fin": 47,
+      "pas": 63,
+      "dri": 52,
+      "def": 80,
+      "fis": 81
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-argentina-1986-jose-luis-cuciuffo",
     "team": "Argentina",
     "year": 1986,
@@ -49,15 +53,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 69,
-      "fin": 45,
-      "pas": 69,
-      "dri": 57,
-      "def": 87,
-      "fis": 88
+      "vel": 65,
+      "fin": 42,
+      "pas": 65,
+      "dri": 54,
+      "def": 82,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-argentina-1986-jose-luis-brown",
     "team": "Argentina",
     "year": 1986,
@@ -68,15 +74,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 70,
-      "fin": 53,
-      "pas": 70,
-      "dri": 58,
-      "def": 95,
-      "fis": 89
+      "vel": 66,
+      "fin": 50,
+      "pas": 66,
+      "dri": 55,
+      "def": 90,
+      "fis": 84
     },
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "wc-argentina-1986-oscar-ruggeri",
     "team": "Argentina",
     "year": 1986,
@@ -88,15 +96,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 88,
-      "fin": 62,
-      "pas": 79,
-      "dri": 83,
-      "def": 80,
-      "fis": 79
+      "vel": 83,
+      "fin": 58,
+      "pas": 74,
+      "dri": 78,
+      "def": 75,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-argentina-1986-julio-olarticoechea",
     "team": "Argentina",
     "year": 1986,
@@ -108,15 +118,17 @@
       "MD",
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 91,
-      "fin": 76,
-      "pas": 85,
-      "dri": 91,
-      "def": 57,
-      "fis": 78
+      "vel": 86,
+      "fin": 72,
+      "pas": 80,
+      "dri": 86,
+      "def": 54,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-argentina-1986-ricardo-giusti",
     "team": "Argentina",
     "year": 1986,
@@ -127,15 +139,17 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 79,
-      "fin": 69,
-      "pas": 86,
-      "dri": 82,
-      "def": 85,
-      "fis": 85
+      "vel": 74,
+      "fin": 65,
+      "pas": 81,
+      "dri": 77,
+      "def": 80,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-argentina-1986-sergio-batista",
     "team": "Argentina",
     "year": 1986,
@@ -146,15 +160,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 78,
-      "fin": 74,
-      "pas": 86,
-      "dri": 85,
-      "def": 71,
-      "fis": 75
+      "vel": 73,
+      "fin": 70,
+      "pas": 81,
+      "dri": 80,
+      "def": 67,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-argentina-1986-hector-enrique",
     "team": "Argentina",
     "year": 1986,
@@ -166,15 +182,17 @@
       "MEI",
       "MD"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 86,
-      "fin": 88,
-      "pas": 92,
-      "dri": 94,
-      "def": 45,
-      "fis": 75
+      "vel": 81,
+      "fin": 83,
+      "pas": 87,
+      "dri": 89,
+      "def": 43,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-argentina-1986-jorge-burruchaga",
     "team": "Argentina",
     "year": 1986,
@@ -185,15 +203,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 87,
-      "fin": 89,
-      "pas": 76,
-      "dri": 79,
-      "def": 40,
-      "fis": 88
+      "vel": 82,
+      "fin": 84,
+      "pas": 72,
+      "dri": 75,
+      "def": 38,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "wc-argentina-1986-jorge-valdano",
     "team": "Argentina",
     "year": 1986,
@@ -214,6 +234,8 @@
       "def": 59,
       "fis": 77
     },
+    "ratingRevision": 4,
+    "previousOvr": 99,
     "id": "wc-argentina-1986-diego-maradona",
     "team": "Argentina",
     "year": 1986,
@@ -224,21 +246,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 67,
-      "dri": 40,
-      "def": 19,
-      "fis": 79,
-      "ref": 90,
-      "han": 86,
-      "pos": 87,
-      "div": 88,
-      "kic": 72,
-      "one": 85
+      "vel": 42,
+      "fin": 14,
+      "pas": 63,
+      "dri": 38,
+      "def": 18,
+      "fis": 74,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 68,
+      "one": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-alemanha-1986-harald-schumacher",
     "team": "Alemanha",
     "year": 1986,
@@ -250,15 +274,17 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 85,
-      "fin": 59,
-      "pas": 76,
-      "dri": 80,
-      "def": 77,
-      "fis": 76
+      "vel": 80,
+      "fin": 55,
+      "pas": 71,
+      "dri": 75,
+      "def": 72,
+      "fis": 71
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-alemanha-1986-thomas-berthold",
     "team": "Alemanha",
     "year": 1986,
@@ -269,15 +295,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 66,
-      "fin": 42,
-      "pas": 66,
-      "dri": 54,
-      "def": 84,
-      "fis": 85
+      "vel": 62,
+      "fin": 39,
+      "pas": 62,
+      "dri": 51,
+      "def": 79,
+      "fis": 80
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-alemanha-1986-ditmar-jakobs",
     "team": "Alemanha",
     "year": 1986,
@@ -288,15 +316,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 69,
-      "fin": 52,
-      "pas": 69,
-      "dri": 57,
-      "def": 87,
-      "fis": 88
+      "vel": 65,
+      "fin": 49,
+      "pas": 65,
+      "dri": 54,
+      "def": 82,
+      "fis": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-alemanha-1986-karlheinz-forster",
     "team": "Alemanha",
     "year": 1986,
@@ -308,15 +338,17 @@
       "LE",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 86,
-      "fin": 60,
-      "pas": 77,
-      "dri": 81,
-      "def": 85,
-      "fis": 77
+      "vel": 81,
+      "fin": 56,
+      "pas": 72,
+      "dri": 76,
+      "def": 80,
+      "fis": 72
     },
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "wc-alemanha-1986-hans-peter-briegel",
     "team": "Alemanha",
     "year": 1986,
@@ -328,15 +360,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 82,
-      "fin": 78,
-      "pas": 90,
-      "dri": 89,
-      "def": 68,
-      "fis": 79
+      "vel": 77,
+      "fin": 74,
+      "pas": 85,
+      "dri": 84,
+      "def": 64,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-alemanha-1986-lothar-matthaus",
     "team": "Alemanha",
     "year": 1986,
@@ -348,15 +382,17 @@
       "ME",
       "LE"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 91,
-      "fin": 76,
-      "pas": 85,
-      "dri": 84,
-      "def": 57,
-      "fis": 71
+      "vel": 86,
+      "fin": 72,
+      "pas": 80,
+      "dri": 79,
+      "def": 54,
+      "fis": 67
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-alemanha-1986-andreas-brehme",
     "team": "Alemanha",
     "year": 1986,
@@ -368,15 +404,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 68,
-      "fin": 58,
-      "pas": 82,
-      "dri": 71,
-      "def": 81,
-      "fis": 74
+      "vel": 64,
+      "fin": 54,
+      "pas": 77,
+      "dri": 67,
+      "def": 76,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "wc-alemanha-1986-norbert-eder",
     "team": "Alemanha",
     "year": 1986,
@@ -388,15 +426,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 86,
-      "dri": 88,
-      "def": 39,
-      "fis": 69
+      "vel": 75,
+      "fin": 77,
+      "pas": 81,
+      "dri": 83,
+      "def": 37,
+      "fis": 65
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-alemanha-1986-felix-magath",
     "team": "Alemanha",
     "year": 1986,
@@ -408,15 +448,17 @@
       "ATA",
       "PE"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 82,
-      "fin": 84,
-      "pas": 71,
-      "dri": 74,
-      "def": 35,
-      "fis": 83
+      "vel": 77,
+      "fin": 79,
+      "pas": 67,
+      "dri": 70,
+      "def": 33,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-alemanha-1986-karl-heinz-rummenigge",
     "team": "Alemanha",
     "year": 1986,
@@ -427,15 +469,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 82,
-      "fin": 91,
-      "pas": 71,
-      "dri": 81,
-      "def": 35,
-      "fis": 83
+      "vel": 77,
+      "fin": 86,
+      "pas": 67,
+      "dri": 76,
+      "def": 33,
+      "fis": 78
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-alemanha-1986-rudi-voller",
     "team": "Alemanha",
     "year": 1986,
@@ -446,21 +490,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
-      "fin": 15,
-      "pas": 69,
-      "dri": 42,
-      "def": 28,
-      "fis": 81,
-      "ref": 93,
-      "han": 89,
-      "pos": 90,
-      "div": 91,
-      "kic": 75,
-      "one": 88
+      "vel": 43,
+      "fin": 14,
+      "pas": 65,
+      "dri": 40,
+      "def": 26,
+      "fis": 77,
+      "ref": 88,
+      "han": 84,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 83
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-belgica-1986-jean-marie-pfaff",
     "team": "Bélgica",
     "year": 1986,
@@ -471,15 +517,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 88,
-      "fin": 62,
-      "pas": 79,
-      "dri": 83,
-      "def": 87,
-      "fis": 79
+      "vel": 83,
+      "fin": 58,
+      "pas": 74,
+      "dri": 78,
+      "def": 82,
+      "fis": 74
     },
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "wc-belgica-1986-eric-gerets",
     "team": "Bélgica",
     "year": 1986,
@@ -491,15 +539,17 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 61,
-      "fin": 44,
-      "pas": 68,
-      "dri": 49,
-      "def": 86,
-      "fis": 80
+      "vel": 57,
+      "fin": 41,
+      "pas": 64,
+      "dri": 46,
+      "def": 81,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-belgica-1986-georges-grun",
     "team": "Bélgica",
     "year": 1986,
@@ -511,15 +561,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 66,
-      "fin": 42,
-      "pas": 66,
-      "dri": 47,
-      "def": 84,
-      "fis": 78
+      "vel": 62,
+      "fin": 39,
+      "pas": 62,
+      "dri": 44,
+      "def": 79,
+      "fis": 73
     },
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "wc-belgica-1986-michel-renquin",
     "team": "Bélgica",
     "year": 1986,
@@ -530,15 +582,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 62,
-      "fin": 45,
-      "pas": 62,
-      "dri": 50,
-      "def": 87,
-      "fis": 81
+      "vel": 58,
+      "fin": 42,
+      "pas": 58,
+      "dri": 47,
+      "def": 82,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "wc-belgica-1986-stephane-demol",
     "team": "Bélgica",
     "year": 1986,
@@ -550,15 +604,17 @@
       "ME",
       "PE"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 86,
-      "fin": 78,
-      "pas": 80,
-      "dri": 86,
-      "def": 59,
-      "fis": 73
+      "vel": 81,
+      "fin": 73,
+      "pas": 75,
+      "dri": 81,
+      "def": 56,
+      "fis": 69
     },
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "wc-belgica-1986-franky-vercauteren",
     "team": "Bélgica",
     "year": 1986,
@@ -570,15 +626,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 74,
-      "fin": 64,
-      "pas": 81,
-      "dri": 77,
-      "def": 80,
-      "fis": 80
+      "vel": 70,
+      "fin": 60,
+      "pas": 76,
+      "dri": 72,
+      "def": 75,
+      "fis": 75
     },
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "wc-belgica-1986-franky-van-der-elst",
     "team": "Bélgica",
     "year": 1986,
@@ -590,15 +648,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 87,
-      "fin": 82,
-      "pas": 93,
-      "dri": 88,
-      "def": 46,
-      "fis": 69
+      "vel": 82,
+      "fin": 77,
+      "pas": 88,
+      "dri": 83,
+      "def": 43,
+      "fis": 65
     },
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "wc-belgica-1986-enzo-scifo",
     "team": "Bélgica",
     "year": 1986,
@@ -610,15 +670,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 90,
-      "fin": 85,
-      "pas": 96,
-      "dri": 91,
-      "def": 49,
-      "fis": 72
+      "vel": 85,
+      "fin": 80,
+      "pas": 91,
+      "dri": 86,
+      "def": 46,
+      "fis": 68
     },
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "wc-belgica-1986-jan-ceulemans",
     "team": "Bélgica",
     "year": 1986,
@@ -630,15 +692,17 @@
       "ATA",
       "PD"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 74,
-      "fin": 83,
-      "pas": 63,
-      "dri": 73,
-      "def": 27,
-      "fis": 75
+      "vel": 69,
+      "fin": 78,
+      "pas": 59,
+      "dri": 68,
+      "def": 25,
+      "fis": 70
     },
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "wc-belgica-1986-daniel-veyt",
     "team": "Bélgica",
     "year": 1986,
@@ -649,15 +713,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 69,
-      "dri": 79,
-      "def": 33,
-      "fis": 81
+      "vel": 75,
+      "fin": 77,
+      "pas": 65,
+      "dri": 74,
+      "def": 31,
+      "fis": 76
     },
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "wc-belgica-1986-nico-claesen",
     "team": "Bélgica",
     "year": 1986,

@@ -5,16 +5,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 69,
-      "fin": 84,
-      "pas": 98,
-      "dri": 91,
-      "def": 73,
-      "fis": 85
+      "vel": 65,
+      "fin": 79,
+      "pas": 92,
+      "dri": 85,
+      "def": 68,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-feyenoord-1970-willem-van-hanegem",
     "team": "Feyenoord",
     "year": 1970,
@@ -25,16 +26,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 87,
-      "fin": 96,
-      "pas": 78,
-      "dri": 85,
-      "def": 30,
-      "fis": 79
+      "vel": 81,
+      "fin": 90,
+      "pas": 73,
+      "dri": 79,
+      "def": 28,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-feyenoord-1970-ove-kindvall",
     "team": "Feyenoord",
     "year": 1970,
@@ -45,16 +47,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 93,
-      "fin": 90,
-      "pas": 84,
-      "dri": 95,
-      "def": 46,
-      "fis": 72
+      "vel": 87,
+      "fin": 84,
+      "pas": 78,
+      "dri": 89,
+      "def": 43,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-feyenoord-1970-coen-moulijn",
     "team": "Feyenoord",
     "year": 1970,
@@ -65,16 +68,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 70,
-      "fin": 45,
-      "pas": 69,
-      "dri": 59,
-      "def": 92,
-      "fis": 92
+      "vel": 66,
+      "fin": 43,
+      "pas": 65,
+      "dri": 56,
+      "def": 87,
+      "fis": 87
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-feyenoord-1970-rinus-israel",
     "team": "Feyenoord",
     "year": 1970,
@@ -86,16 +90,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 71,
-      "fin": 60,
-      "pas": 86,
-      "dri": 77,
-      "def": 90,
-      "fis": 84
+      "vel": 67,
+      "fin": 57,
+      "pas": 81,
+      "dri": 73,
+      "def": 85,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-feyenoord-1970-wim-jansen",
     "team": "Feyenoord",
     "year": 1970,
@@ -106,22 +111,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 61,
-      "dri": 30,
-      "def": 18,
-      "fis": 77,
-      "ref": 89,
-      "han": 85,
-      "pos": 87,
-      "div": 88,
-      "kic": 71,
-      "one": 86
+      "vel": 40,
+      "fin": 11,
+      "pas": 57,
+      "dri": 28,
+      "def": 17,
+      "fis": 73,
+      "ref": 84,
+      "han": 80,
+      "pos": 82,
+      "div": 83,
+      "kic": 67,
+      "one": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-feyenoord-1970-eddy-pieters-graafland",
     "team": "Feyenoord",
     "year": 1970,
@@ -132,16 +138,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 65,
-      "fin": 40,
-      "pas": 69,
-      "dri": 54,
-      "def": 87,
-      "fis": 87
+      "vel": 61,
+      "fin": 38,
+      "pas": 65,
+      "dri": 51,
+      "def": 82,
+      "fis": 82
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-feyenoord-1970-theo-laseroms",
     "team": "Feyenoord",
     "year": 1970,
@@ -153,16 +160,17 @@
       "MC",
       "MD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 74,
-      "fin": 72,
-      "pas": 89,
-      "dri": 84,
-      "def": 67,
-      "fis": 74
+      "vel": 70,
+      "fin": 68,
+      "pas": 84,
+      "dri": 79,
+      "def": 63,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-feyenoord-1970-franz-hasil",
     "team": "Feyenoord",
     "year": 1970,
@@ -173,16 +181,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 90,
-      "fin": 87,
-      "pas": 76,
-      "dri": 87,
-      "def": 38,
-      "fis": 69
+      "vel": 85,
+      "fin": 82,
+      "pas": 72,
+      "dri": 82,
+      "def": 36,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-feyenoord-1970-henk-wery",
     "team": "Feyenoord",
     "year": 1970,
@@ -193,16 +202,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 80,
-      "fin": 50,
-      "pas": 73,
-      "dri": 74,
-      "def": 72,
-      "fis": 71
+      "vel": 75,
+      "fin": 47,
+      "pas": 68,
+      "dri": 69,
+      "def": 68,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-feyenoord-1970-piet-romeijn",
     "team": "Feyenoord",
     "year": 1970,
@@ -213,16 +223,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 83,
-      "fin": 48,
-      "pas": 71,
-      "dri": 72,
-      "def": 75,
-      "fis": 74
+      "vel": 78,
+      "fin": 45,
+      "pas": 67,
+      "dri": 68,
+      "def": 70,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-feyenoord-1970-theo-van-duivenbode",
     "team": "Feyenoord",
     "year": 1970,
@@ -233,16 +244,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 81,
-      "fin": 51,
-      "pas": 69,
-      "dri": 70,
-      "def": 73,
-      "fis": 72
+      "vel": 76,
+      "fin": 48,
+      "pas": 65,
+      "dri": 66,
+      "def": 68,
+      "fis": 68
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-feyenoord-1970-cor-veldhoen",
     "team": "Feyenoord",
     "year": 1970,
@@ -254,16 +266,17 @@
       "ZAG",
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 57,
-      "fin": 32,
-      "pas": 61,
-      "dri": 51,
-      "def": 84,
-      "fis": 79
+      "vel": 53,
+      "fin": 30,
+      "pas": 57,
+      "dri": 48,
+      "def": 79,
+      "fis": 74
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-feyenoord-1970-joop-van-daele",
     "team": "Feyenoord",
     "year": 1970,
@@ -274,22 +287,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 53,
-      "dri": 30,
-      "def": 18,
-      "fis": 69,
-      "ref": 81,
-      "han": 77,
-      "pos": 79,
-      "div": 80,
-      "kic": 63,
-      "one": 78
+      "vel": 39,
+      "fin": 11,
+      "pas": 50,
+      "dri": 28,
+      "def": 17,
+      "fis": 65,
+      "ref": 76,
+      "han": 72,
+      "pos": 74,
+      "div": 75,
+      "kic": 59,
+      "one": 73
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-feyenoord-1970-eddy-treijtel",
     "team": "Feyenoord",
     "year": 1970,
@@ -301,16 +315,17 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 56,
-      "fin": 31,
-      "pas": 60,
-      "dri": 50,
-      "def": 78,
-      "fis": 78
+      "vel": 52,
+      "fin": 29,
+      "pas": 56,
+      "dri": 47,
+      "def": 73,
+      "fis": 73
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-feyenoord-1970-guus-haak",
     "team": "Feyenoord",
     "year": 1970,
@@ -322,16 +337,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 75,
+    "ovr": 70,
     "attrs": {
-      "vel": 67,
-      "fin": 60,
-      "pas": 77,
-      "dri": 72,
-      "def": 60,
-      "fis": 67
+      "vel": 63,
+      "fin": 56,
+      "pas": 72,
+      "dri": 67,
+      "def": 56,
+      "fis": 63
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 75,
     "id": "ucl-feyenoord-1970-piet-vrauwdeunt",
     "team": "Feyenoord",
     "year": 1970,

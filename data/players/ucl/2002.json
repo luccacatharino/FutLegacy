@@ -5,16 +5,17 @@
       "MEI",
       "MC"
     ],
-    "ovr": 96,
+    "ovr": 90,
     "attrs": {
-      "vel": 79,
-      "fin": 86,
-      "pas": 96,
-      "dri": 97,
-      "def": 50,
-      "fis": 82
+      "vel": 74,
+      "fin": 81,
+      "pas": 90,
+      "dri": 91,
+      "def": 47,
+      "fis": 77
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 96,
     "id": "ucl-real-madrid-2002-zinedine-zidane",
     "team": "Real Madrid",
     "year": 2002,
@@ -26,16 +27,17 @@
       "PD",
       "MD"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 87,
-      "fin": 85,
-      "pas": 93,
-      "dri": 96,
-      "def": 43,
-      "fis": 76
+      "vel": 81,
+      "fin": 80,
+      "pas": 87,
+      "dri": 90,
+      "def": 40,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-real-madrid-2002-luis-figo",
     "team": "Real Madrid",
     "year": 2002,
@@ -47,16 +49,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 86,
-      "fin": 95,
-      "pas": 86,
-      "dri": 91,
-      "def": 42,
-      "fis": 74
+      "vel": 80,
+      "fin": 89,
+      "pas": 80,
+      "dri": 85,
+      "def": 39,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-real-madrid-2002-raul",
     "team": "Real Madrid",
     "year": 2002,
@@ -67,16 +70,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 97,
-      "fin": 83,
-      "pas": 89,
-      "dri": 86,
-      "def": 85,
-      "fis": 91
+      "vel": 91,
+      "fin": 78,
+      "pas": 83,
+      "dri": 80,
+      "def": 79,
+      "fis": 85
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-real-madrid-2002-roberto-carlos",
     "team": "Real Madrid",
     "year": 2002,
@@ -87,22 +91,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 39,
-      "fin": 12,
-      "pas": 62,
-      "dri": 27,
-      "def": 18,
-      "fis": 81,
-      "ref": 90,
-      "han": 89,
-      "pos": 91,
-      "div": 92,
-      "kic": 72,
-      "one": 90
+      "vel": 36,
+      "fin": 11,
+      "pas": 58,
+      "dri": 25,
+      "def": 17,
+      "fis": 76,
+      "ref": 84,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 67,
+      "one": 84
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-real-madrid-2002-iker-casillas",
     "team": "Real Madrid",
     "year": 2002,
@@ -113,16 +118,17 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 75,
-      "fin": 64,
-      "pas": 90,
-      "dri": 76,
-      "def": 89,
-      "fis": 88
+      "vel": 71,
+      "fin": 60,
+      "pas": 85,
+      "dri": 72,
+      "def": 84,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-real-madrid-2002-claude-makelele",
     "team": "Real Madrid",
     "year": 2002,
@@ -133,16 +139,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 69,
-      "fin": 39,
-      "pas": 68,
-      "dri": 58,
-      "def": 91,
-      "fis": 91
+      "vel": 65,
+      "fin": 37,
+      "pas": 64,
+      "dri": 55,
+      "def": 86,
+      "fis": 86
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-real-madrid-2002-fernando-hierro",
     "team": "Real Madrid",
     "year": 2002,
@@ -153,16 +160,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 93,
-      "pas": 72,
-      "dri": 80,
-      "def": 38,
-      "fis": 84
+      "vel": 80,
+      "fin": 88,
+      "pas": 68,
+      "dri": 75,
+      "def": 36,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-real-madrid-2002-fernando-morientes",
     "team": "Real Madrid",
     "year": 2002,
@@ -174,16 +182,17 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 63,
-      "fin": 38,
-      "pas": 67,
-      "dri": 57,
-      "def": 90,
-      "fis": 85
+      "vel": 59,
+      "fin": 36,
+      "pas": 63,
+      "dri": 54,
+      "def": 85,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-real-madrid-2002-ivan-helguera",
     "team": "Real Madrid",
     "year": 2002,
@@ -194,16 +203,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 85,
-      "fin": 55,
-      "pas": 73,
-      "dri": 74,
-      "def": 77,
-      "fis": 76
+      "vel": 80,
+      "fin": 52,
+      "pas": 69,
+      "dri": 70,
+      "def": 72,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-real-madrid-2002-michel-salgado",
     "team": "Real Madrid",
     "year": 2002,
@@ -215,16 +225,17 @@
       "MD",
       "MEI"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 86,
-      "fin": 76,
-      "pas": 82,
-      "dri": 82,
-      "def": 54,
-      "fis": 69
+      "vel": 81,
+      "fin": 71,
+      "pas": 77,
+      "dri": 77,
+      "def": 51,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-real-madrid-2002-steve-mcmanaman",
     "team": "Real Madrid",
     "year": 2002,
@@ -235,16 +246,17 @@
     "positions": [
       "ME"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 87,
-      "fin": 72,
-      "pas": 78,
-      "dri": 83,
-      "def": 55,
-      "fis": 70
+      "vel": 82,
+      "fin": 68,
+      "pas": 73,
+      "dri": 78,
+      "def": 52,
+      "fis": 66
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-real-madrid-2002-santiago-solari",
     "team": "Real Madrid",
     "year": 2002,
@@ -255,22 +267,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 39,
-      "fin": 12,
-      "pas": 53,
-      "dri": 27,
-      "def": 18,
-      "fis": 72,
-      "ref": 81,
-      "han": 80,
-      "pos": 82,
-      "div": 83,
-      "kic": 63,
-      "one": 81
+      "vel": 37,
+      "fin": 11,
+      "pas": 50,
+      "dri": 25,
+      "def": 17,
+      "fis": 68,
+      "ref": 76,
+      "han": 75,
+      "pos": 77,
+      "div": 78,
+      "kic": 59,
+      "one": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-real-madrid-2002-cesar",
     "team": "Real Madrid",
     "year": 2002,
@@ -283,16 +296,17 @@
       "MC",
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 77,
-      "fin": 81,
-      "pas": 83,
-      "dri": 84,
-      "def": 40,
-      "fis": 65
+      "vel": 72,
+      "fin": 76,
+      "pas": 78,
+      "dri": 79,
+      "def": 38,
+      "fis": 61
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-real-madrid-2002-guti",
     "team": "Real Madrid",
     "year": 2002,
@@ -304,16 +318,17 @@
       "PE",
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 83,
-      "fin": 75,
-      "pas": 74,
-      "dri": 83,
-      "def": 32,
-      "fis": 62
+      "vel": 78,
+      "fin": 70,
+      "pas": 69,
+      "dri": 78,
+      "def": 30,
+      "fis": 58
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-real-madrid-2002-pedro-munitis",
     "team": "Real Madrid",
     "year": 2002,
@@ -325,16 +340,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 63,
-      "fin": 52,
-      "pas": 78,
-      "dri": 69,
-      "def": 77,
-      "fis": 76
+      "vel": 59,
+      "fin": 49,
+      "pas": 73,
+      "dri": 65,
+      "def": 72,
+      "fis": 71
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-real-madrid-2002-flavio-conceicao",
     "team": "Real Madrid",
     "year": 2002,
@@ -346,16 +362,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 64,
-      "fin": 29,
-      "pas": 61,
-      "dri": 45,
-      "def": 81,
-      "fis": 77
+      "vel": 60,
+      "fin": 27,
+      "pas": 57,
+      "dri": 42,
+      "def": 76,
+      "fis": 72
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-real-madrid-2002-aitor-karanka",
     "team": "Real Madrid",
     "year": 2002,
@@ -366,16 +383,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 59,
-      "fin": 29,
-      "pas": 58,
-      "dri": 48,
-      "def": 81,
-      "fis": 81
+      "vel": 55,
+      "fin": 27,
+      "pas": 54,
+      "dri": 45,
+      "def": 76,
+      "fis": 76
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-real-madrid-2002-francisco-pavon",
     "team": "Real Madrid",
     "year": 2002,

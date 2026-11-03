@@ -5,16 +5,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 98,
+    "ovr": 92,
     "attrs": {
-      "vel": 94,
-      "fin": 95,
-      "pas": 98,
-      "dri": 99,
-      "def": 53,
-      "fis": 75
+      "vel": 88,
+      "fin": 89,
+      "pas": 92,
+      "dri": 93,
+      "def": 50,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 98,
     "id": "ucl-ajax-1973-johan-cruyff",
     "team": "Ajax",
     "year": 1973,
@@ -26,16 +27,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 84,
-      "fin": 82,
-      "pas": 94,
-      "dri": 89,
-      "def": 77,
-      "fis": 84
+      "vel": 79,
+      "fin": 77,
+      "pas": 88,
+      "dri": 83,
+      "def": 72,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-ajax-1973-johan-neeskens",
     "team": "Ajax",
     "year": 1973,
@@ -46,16 +48,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 98,
-      "fin": 95,
-      "pas": 84,
-      "dri": 95,
-      "def": 46,
-      "fis": 77
+      "vel": 92,
+      "fin": 89,
+      "pas": 79,
+      "dri": 89,
+      "def": 43,
+      "fis": 72
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-ajax-1973-piet-keizer",
     "team": "Ajax",
     "year": 1973,
@@ -66,16 +69,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 93,
-      "fin": 63,
-      "pas": 86,
-      "dri": 82,
-      "def": 85,
-      "fis": 84
+      "vel": 87,
+      "fin": 59,
+      "pas": 80,
+      "dri": 77,
+      "def": 80,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-ajax-1973-ruud-krol",
     "team": "Ajax",
     "year": 1973,
@@ -86,16 +90,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 66,
-      "fin": 41,
-      "pas": 70,
-      "dri": 60,
-      "def": 93,
-      "fis": 88
+      "vel": 62,
+      "fin": 39,
+      "pas": 66,
+      "dri": 57,
+      "def": 88,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-ajax-1973-barry-hulshoff",
     "team": "Ajax",
     "year": 1973,
@@ -106,16 +111,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 77,
-      "fin": 75,
-      "pas": 92,
-      "dri": 87,
-      "def": 75,
-      "fis": 77
+      "vel": 73,
+      "fin": 71,
+      "pas": 87,
+      "dri": 82,
+      "def": 71,
+      "fis": 73
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-ajax-1973-gerrie-muhren",
     "team": "Ajax",
     "year": 1973,
@@ -126,16 +132,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 92,
-      "fin": 89,
-      "pas": 83,
-      "dri": 94,
-      "def": 40,
-      "fis": 71
+      "vel": 87,
+      "fin": 84,
+      "pas": 78,
+      "dri": 89,
+      "def": 38,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-ajax-1973-johnny-rep",
     "team": "Ajax",
     "year": 1973,
@@ -146,16 +153,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 91,
-      "fin": 56,
-      "pas": 79,
-      "dri": 80,
-      "def": 83,
-      "fis": 82
+      "vel": 86,
+      "fin": 53,
+      "pas": 75,
+      "dri": 76,
+      "def": 78,
+      "fis": 77
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-ajax-1973-wim-suurbier",
     "team": "Ajax",
     "year": 1973,
@@ -167,16 +175,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 75,
-      "fin": 59,
-      "pas": 85,
-      "dri": 76,
-      "def": 89,
-      "fis": 88
+      "vel": 71,
+      "fin": 56,
+      "pas": 80,
+      "dri": 72,
+      "def": 84,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-ajax-1973-arie-haan",
     "team": "Ajax",
     "year": 1973,
@@ -187,16 +196,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 64,
-      "fin": 39,
-      "pas": 68,
-      "dri": 58,
-      "def": 86,
-      "fis": 86
+      "vel": 60,
+      "fin": 37,
+      "pas": 64,
+      "dri": 55,
+      "def": 81,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-ajax-1973-horst-blankenburg",
     "team": "Ajax",
     "year": 1973,
@@ -207,22 +217,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 45,
-      "fin": 12,
-      "pas": 62,
-      "dri": 33,
-      "def": 18,
-      "fis": 75,
-      "ref": 90,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 72,
-      "one": 84
+      "vel": 42,
+      "fin": 11,
+      "pas": 58,
+      "dri": 31,
+      "def": 17,
+      "fis": 71,
+      "ref": 85,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 68,
+      "one": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-ajax-1973-heinz-stuy",
     "team": "Ajax",
     "year": 1973,
@@ -233,16 +244,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 87,
-      "fin": 84,
-      "pas": 78,
-      "dri": 89,
-      "def": 35,
-      "fis": 66
+      "vel": 82,
+      "fin": 79,
+      "pas": 73,
+      "dri": 84,
+      "def": 33,
+      "fis": 62
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-ajax-1973-sjaak-swart",
     "team": "Ajax",
     "year": 1973,
@@ -253,16 +265,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 80,
-      "fin": 88,
-      "pas": 67,
-      "dri": 75,
-      "def": 33,
-      "fis": 79
+      "vel": 75,
+      "fin": 83,
+      "pas": 63,
+      "dri": 70,
+      "def": 31,
+      "fis": 74
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-ajax-1973-jan-mulder",
     "team": "Ajax",
     "year": 1973,
@@ -274,16 +287,17 @@
       "MC",
       "ME"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 69,
-      "fin": 67,
-      "pas": 84,
-      "dri": 79,
-      "def": 67,
-      "fis": 69
+      "vel": 65,
+      "fin": 63,
+      "pas": 79,
+      "dri": 74,
+      "def": 63,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-ajax-1973-arnold-muhren",
     "team": "Ajax",
     "year": 1973,
@@ -294,22 +308,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 74,
+    "ovr": 70,
     "attrs": {
-      "vel": 45,
-      "fin": 12,
-      "pas": 51,
-      "dri": 33,
-      "def": 18,
-      "fis": 64,
-      "ref": 79,
-      "han": 72,
-      "pos": 74,
-      "div": 75,
-      "kic": 61,
-      "one": 73
+      "vel": 43,
+      "fin": 11,
+      "pas": 48,
+      "dri": 31,
+      "def": 17,
+      "fis": 61,
+      "ref": 75,
+      "han": 68,
+      "pos": 70,
+      "div": 71,
+      "kic": 58,
+      "one": 69
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 74,
     "id": "ucl-ajax-1973-sies-wever",
     "team": "Ajax",
     "year": 1973,
@@ -320,16 +335,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 73,
+    "ovr": 69,
     "attrs": {
-      "vel": 65,
-      "fin": 58,
-      "pas": 75,
-      "dri": 70,
-      "def": 58,
-      "fis": 65
+      "vel": 61,
+      "fin": 55,
+      "pas": 71,
+      "dri": 66,
+      "def": 55,
+      "fis": 61
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 73,
     "id": "ucl-ajax-1973-gerrie-kleton",
     "team": "Ajax",
     "year": 1973,

@@ -4,16 +4,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 93,
-      "fin": 98,
-      "pas": 78,
-      "dri": 85,
-      "def": 35,
-      "fis": 79
+      "vel": 87,
+      "fin": 92,
+      "pas": 73,
+      "dri": 80,
+      "def": 33,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-liverpool-1984-ian-rush",
     "team": "Liverpool",
     "year": 1984,
@@ -25,16 +26,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 83,
-      "fin": 95,
-      "pas": 96,
-      "dri": 94,
-      "def": 44,
-      "fis": 78
+      "vel": 78,
+      "fin": 89,
+      "pas": 90,
+      "dri": 88,
+      "def": 41,
+      "fis": 73
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-liverpool-1984-kenny-dalglish",
     "team": "Liverpool",
     "year": 1984,
@@ -45,16 +47,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 81,
-      "fin": 79,
-      "pas": 96,
-      "dri": 91,
-      "def": 74,
-      "fis": 81
+      "vel": 76,
+      "fin": 74,
+      "pas": 90,
+      "dri": 85,
+      "def": 69,
+      "fis": 76
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-liverpool-1984-graeme-souness",
     "team": "Liverpool",
     "year": 1984,
@@ -65,16 +68,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 70,
-      "fin": 45,
-      "pas": 74,
-      "dri": 59,
-      "def": 92,
-      "fis": 92
+      "vel": 65,
+      "fin": 42,
+      "pas": 69,
+      "dri": 55,
+      "def": 86,
+      "fis": 86
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-liverpool-1984-alan-hansen",
     "team": "Liverpool",
     "year": 1984,
@@ -85,16 +89,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 66,
-      "fin": 41,
-      "pas": 70,
-      "dri": 60,
-      "def": 88,
-      "fis": 88
+      "vel": 62,
+      "fin": 39,
+      "pas": 66,
+      "dri": 57,
+      "def": 83,
+      "fis": 83
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-liverpool-1984-mark-lawrenson",
     "team": "Liverpool",
     "year": 1984,
@@ -105,16 +110,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 55,
-      "pas": 78,
-      "dri": 79,
-      "def": 82,
-      "fis": 76
+      "vel": 80,
+      "fin": 52,
+      "pas": 74,
+      "dri": 74,
+      "def": 77,
+      "fis": 72
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-liverpool-1984-phil-neal",
     "team": "Liverpool",
     "year": 1984,
@@ -125,22 +131,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 60,
-      "dri": 30,
-      "def": 18,
-      "fis": 76,
-      "ref": 88,
-      "han": 84,
-      "pos": 86,
-      "div": 87,
-      "kic": 70,
-      "one": 85
+      "vel": 40,
+      "fin": 11,
+      "pas": 57,
+      "dri": 28,
+      "def": 17,
+      "fis": 72,
+      "ref": 83,
+      "han": 79,
+      "pos": 81,
+      "div": 82,
+      "kic": 66,
+      "one": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-liverpool-1984-bruce-grobbelaar",
     "team": "Liverpool",
     "year": 1984,
@@ -152,16 +159,17 @@
       "ME",
       "MC"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 88,
-      "fin": 78,
-      "pas": 84,
-      "dri": 84,
-      "def": 56,
-      "fis": 71
+      "vel": 83,
+      "fin": 73,
+      "pas": 79,
+      "dri": 79,
+      "def": 53,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-liverpool-1984-ronnie-whelan",
     "team": "Liverpool",
     "year": 1984,
@@ -172,16 +180,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 85,
-      "fin": 55,
-      "pas": 73,
-      "dri": 74,
-      "def": 77,
-      "fis": 76
+      "vel": 80,
+      "fin": 52,
+      "pas": 69,
+      "dri": 70,
+      "def": 72,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-liverpool-1984-alan-kennedy",
     "team": "Liverpool",
     "year": 1984,
@@ -192,16 +201,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 71,
-      "fin": 69,
-      "pas": 86,
-      "dri": 81,
-      "def": 69,
-      "fis": 71
+      "vel": 67,
+      "fin": 65,
+      "pas": 81,
+      "dri": 76,
+      "def": 65,
+      "fis": 67
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-liverpool-1984-craig-johnston",
     "team": "Liverpool",
     "year": 1984,
@@ -212,16 +222,17 @@
     "positions": [
       "MD"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 86,
-      "fin": 71,
-      "pas": 77,
-      "dri": 82,
-      "def": 54,
-      "fis": 69
+      "vel": 81,
+      "fin": 67,
+      "pas": 72,
+      "dri": 77,
+      "def": 51,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-liverpool-1984-sammy-lee",
     "team": "Liverpool",
     "year": 1984,
@@ -233,16 +244,17 @@
       "LD",
       "LE"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 82,
-      "fin": 52,
-      "pas": 75,
-      "dri": 71,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 49,
+      "pas": 70,
+      "dri": 67,
+      "def": 69,
+      "fis": 69
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-liverpool-1984-steve-nicol",
     "team": "Liverpool",
     "year": 1984,
@@ -253,16 +265,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 76,
-      "fin": 84,
-      "pas": 63,
-      "dri": 76,
-      "def": 34,
-      "fis": 75
+      "vel": 71,
+      "fin": 79,
+      "pas": 59,
+      "dri": 71,
+      "def": 32,
+      "fis": 70
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-liverpool-1984-michael-robinson",
     "team": "Liverpool",
     "year": 1984,
@@ -273,16 +286,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 60,
-      "fin": 30,
-      "pas": 59,
-      "dri": 49,
-      "def": 82,
-      "fis": 82
+      "vel": 56,
+      "fin": 28,
+      "pas": 55,
+      "dri": 46,
+      "def": 77,
+      "fis": 77
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-liverpool-1984-gary-gillespie",
     "team": "Liverpool",
     "year": 1984,
@@ -293,16 +307,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 76,
-      "fin": 84,
-      "pas": 58,
-      "dri": 71,
-      "def": 29,
-      "fis": 75
+      "vel": 71,
+      "fin": 79,
+      "pas": 54,
+      "dri": 66,
+      "def": 27,
+      "fis": 70
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-liverpool-1984-david-hodgson",
     "team": "Liverpool",
     "year": 1984,
@@ -313,22 +328,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 73,
+    "ovr": 69,
     "attrs": {
-      "vel": 42,
-      "fin": 12,
-      "pas": 47,
-      "dri": 30,
-      "def": 18,
-      "fis": 63,
-      "ref": 75,
-      "han": 71,
-      "pos": 73,
-      "div": 74,
-      "kic": 57,
-      "one": 72
+      "vel": 40,
+      "fin": 11,
+      "pas": 44,
+      "dri": 28,
+      "def": 17,
+      "fis": 60,
+      "ref": 71,
+      "han": 67,
+      "pos": 69,
+      "div": 70,
+      "kic": 54,
+      "one": 68
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 73,
     "id": "ucl-liverpool-1984-bob-bolder",
     "team": "Liverpool",
     "year": 1984,

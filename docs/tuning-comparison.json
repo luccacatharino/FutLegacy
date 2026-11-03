@@ -1,0 +1,20 @@
+{
+  "matches": 900,
+  "before": {
+    "goals": [
+      1262,
+      1322
+    ],
+    "wins": 325,
+    "draws": 210
+  },
+  "after": {
+    "goals": [
+      1661,
+      1459
+    ],
+    "wins": 387,
+    "draws": 201
+  },
+  "note": "Mesmos 900 confrontos e sementes com as cartas revisadas; só o motor muda."
+}

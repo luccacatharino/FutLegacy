@@ -5,16 +5,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 96,
-      "fin": 94,
-      "pas": 94,
-      "dri": 98,
-      "def": 33,
-      "fis": 79
+      "vel": 90,
+      "fin": 88,
+      "pas": 88,
+      "dri": 92,
+      "def": 31,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "ucl-milan-2007-kaka",
     "team": "Milan",
     "year": 2007,
@@ -26,16 +27,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 65,
-      "fin": 74,
-      "pas": 96,
-      "dri": 85,
-      "def": 72,
-      "fis": 67
+      "vel": 61,
+      "fin": 69,
+      "pas": 90,
+      "dri": 80,
+      "def": 67,
+      "fis": 63
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-milan-2007-andrea-pirlo",
     "team": "Milan",
     "year": 2007,
@@ -46,16 +48,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 74,
-      "fin": 35,
-      "pas": 78,
-      "dri": 67,
-      "def": 97,
-      "fis": 86
+      "vel": 69,
+      "fin": 33,
+      "pas": 73,
+      "dri": 63,
+      "def": 91,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-milan-2007-alessandro-nesta",
     "team": "Milan",
     "year": 2007,
@@ -66,16 +69,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 69,
-      "fin": 43,
-      "pas": 82,
-      "dri": 69,
-      "def": 97,
-      "fis": 80
+      "vel": 65,
+      "fin": 40,
+      "pas": 77,
+      "dri": 65,
+      "def": 91,
+      "fis": 75
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-milan-2007-paolo-maldini",
     "team": "Milan",
     "year": 2007,
@@ -87,16 +91,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 74,
-      "fin": 86,
-      "pas": 94,
-      "dri": 91,
-      "def": 65,
-      "fis": 87
+      "vel": 69,
+      "fin": 80,
+      "pas": 88,
+      "dri": 85,
+      "def": 61,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-milan-2007-clarence-seedorf",
     "team": "Milan",
     "year": 2007,
@@ -107,16 +112,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 79,
-      "fin": 98,
-      "pas": 66,
-      "dri": 73,
-      "def": 25,
-      "fis": 65
+      "vel": 75,
+      "fin": 92,
+      "pas": 62,
+      "dri": 69,
+      "def": 24,
+      "fis": 61
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-milan-2007-filippo-inzaghi",
     "team": "Milan",
     "year": 2007,
@@ -128,16 +134,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 70,
-      "fin": 50,
-      "pas": 76,
-      "dri": 65,
-      "def": 94,
-      "fis": 92
+      "vel": 66,
+      "fin": 47,
+      "pas": 72,
+      "dri": 61,
+      "def": 89,
+      "fis": 87
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-milan-2007-gennaro-gattuso",
     "team": "Milan",
     "year": 2007,
@@ -148,22 +155,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 44,
-      "fin": 12,
-      "pas": 61,
-      "dri": 32,
-      "def": 18,
-      "fis": 75,
-      "ref": 89,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 71,
-      "one": 84
+      "vel": 41,
+      "fin": 11,
+      "pas": 57,
+      "dri": 30,
+      "def": 17,
+      "fis": 71,
+      "ref": 84,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 67,
+      "one": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-milan-2007-dida",
     "team": "Milan",
     "year": 2007,
@@ -175,16 +183,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 72,
-      "fin": 56,
-      "pas": 82,
-      "dri": 73,
-      "def": 86,
-      "fis": 85
+      "vel": 68,
+      "fin": 53,
+      "pas": 77,
+      "dri": 69,
+      "def": 81,
+      "fis": 80
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-milan-2007-massimo-ambrosini",
     "team": "Milan",
     "year": 2007,
@@ -195,16 +204,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 84,
-      "fin": 87,
-      "pas": 66,
-      "dri": 79,
-      "def": 37,
-      "fis": 83
+      "vel": 79,
+      "fin": 82,
+      "pas": 62,
+      "dri": 74,
+      "def": 35,
+      "fis": 78
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-milan-2007-alberto-gilardino",
     "team": "Milan",
     "year": 2007,
@@ -216,16 +226,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 61,
-      "fin": 36,
-      "pas": 65,
-      "dri": 55,
-      "def": 88,
-      "fis": 83
+      "vel": 57,
+      "fin": 34,
+      "pas": 61,
+      "dri": 52,
+      "def": 83,
+      "fis": 78
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-milan-2007-kakha-kaladze",
     "team": "Milan",
     "year": 2007,
@@ -236,16 +247,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 85,
-      "fin": 50,
-      "pas": 73,
-      "dri": 74,
-      "def": 77,
-      "fis": 76
+      "vel": 80,
+      "fin": 47,
+      "pas": 69,
+      "dri": 70,
+      "def": 72,
+      "fis": 71
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-milan-2007-cafu",
     "team": "Milan",
     "year": 2007,
@@ -257,16 +269,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 82,
-      "fin": 52,
-      "pas": 75,
-      "dri": 76,
-      "def": 74,
-      "fis": 73
+      "vel": 77,
+      "fin": 49,
+      "pas": 70,
+      "dri": 71,
+      "def": 70,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-milan-2007-marek-jankulovski",
     "team": "Milan",
     "year": 2007,
@@ -277,16 +290,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 84,
-      "fin": 54,
-      "pas": 72,
-      "dri": 73,
-      "def": 76,
-      "fis": 75
+      "vel": 79,
+      "fin": 51,
+      "pas": 68,
+      "dri": 69,
+      "def": 71,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-milan-2007-massimo-oddo",
     "team": "Milan",
     "year": 2007,
@@ -298,16 +312,17 @@
       "LE",
       "ME"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 81,
-      "fin": 51,
-      "pas": 74,
-      "dri": 70,
-      "def": 73,
-      "fis": 72
+      "vel": 76,
+      "fin": 48,
+      "pas": 69,
+      "dri": 66,
+      "def": 68,
+      "fis": 68
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-milan-2007-serginho",
     "team": "Milan",
     "year": 2007,
@@ -319,16 +334,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 70,
-      "fin": 68,
-      "pas": 80,
-      "dri": 75,
-      "def": 63,
-      "fis": 70
+      "vel": 66,
+      "fin": 64,
+      "pas": 75,
+      "dri": 70,
+      "def": 59,
+      "fis": 66
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-milan-2007-cristian-brocchi",
     "team": "Milan",
     "year": 2007,
@@ -340,16 +356,17 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 78,
-      "fin": 48,
-      "pas": 71,
-      "dri": 72,
-      "def": 70,
-      "fis": 69
+      "vel": 73,
+      "fin": 45,
+      "pas": 67,
+      "dri": 67,
+      "def": 66,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-milan-2007-giuseppe-favalli",
     "team": "Milan",
     "year": 2007,
@@ -360,22 +377,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 44,
-      "fin": 12,
-      "pas": 53,
-      "dri": 32,
-      "def": 18,
-      "fis": 67,
-      "ref": 81,
-      "han": 75,
-      "pos": 77,
-      "div": 78,
-      "kic": 63,
-      "one": 76
+      "vel": 41,
+      "fin": 11,
+      "pas": 50,
+      "dri": 30,
+      "def": 17,
+      "fis": 63,
+      "ref": 76,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 59,
+      "one": 71
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-milan-2007-zeljko-kalac",
     "team": "Milan",
     "year": 2007,

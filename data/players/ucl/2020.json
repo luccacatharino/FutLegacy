@@ -4,16 +4,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 97,
+    "ovr": 91,
     "attrs": {
-      "vel": 84,
-      "fin": 99,
-      "pas": 85,
-      "dri": 91,
-      "def": 43,
-      "fis": 94
+      "vel": 79,
+      "fin": 93,
+      "pas": 80,
+      "dri": 85,
+      "def": 40,
+      "fis": 88
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 97,
     "id": "ucl-bayern-2020-robert-lewandowski",
     "team": "Bayern",
     "year": 2020,
@@ -24,22 +25,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 94,
+    "ovr": 88,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 69,
-      "dri": 31,
-      "def": 18,
-      "fis": 84,
-      "ref": 97,
-      "han": 92,
-      "pos": 94,
-      "div": 95,
-      "kic": 79,
-      "one": 93
+      "vel": 40,
+      "fin": 11,
+      "pas": 65,
+      "dri": 29,
+      "def": 17,
+      "fis": 79,
+      "ref": 91,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 74,
+      "one": 87
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 94,
     "id": "ucl-bayern-2020-manuel-neuer",
     "team": "Bayern",
     "year": 2020,
@@ -51,16 +53,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 72,
-      "fin": 91,
-      "pas": 96,
-      "dri": 83,
-      "def": 57,
-      "fis": 80
+      "vel": 67,
+      "fin": 85,
+      "pas": 90,
+      "dri": 78,
+      "def": 53,
+      "fis": 75
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-bayern-2020-thomas-muller",
     "team": "Bayern",
     "year": 2020,
@@ -72,16 +75,17 @@
       "LD",
       "VOL"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 91,
-      "fin": 61,
-      "pas": 84,
-      "dri": 85,
-      "def": 83,
-      "fis": 82
+      "vel": 85,
+      "fin": 57,
+      "pas": 79,
+      "dri": 79,
+      "def": 78,
+      "fis": 77
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-bayern-2020-joshua-kimmich",
     "team": "Bayern",
     "year": 2020,
@@ -92,16 +96,17 @@
     "positions": [
       "PD"
     ],
-    "ovr": 92,
+    "ovr": 86,
     "attrs": {
-      "vel": 96,
-      "fin": 93,
-      "pas": 87,
-      "dri": 93,
-      "def": 44,
-      "fis": 75
+      "vel": 90,
+      "fin": 87,
+      "pas": 81,
+      "dri": 87,
+      "def": 41,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 92,
     "id": "ucl-bayern-2020-serge-gnabry",
     "team": "Bayern",
     "year": 2020,
@@ -113,16 +118,17 @@
       "MC",
       "VOL"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 79,
-      "fin": 77,
-      "pas": 94,
-      "dri": 89,
-      "def": 77,
-      "fis": 79
+      "vel": 74,
+      "fin": 72,
+      "pas": 88,
+      "dri": 83,
+      "def": 72,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-bayern-2020-thiago",
     "team": "Bayern",
     "year": 2020,
@@ -133,16 +139,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 92,
-      "fin": 57,
-      "pas": 80,
-      "dri": 81,
-      "def": 84,
-      "fis": 83
+      "vel": 87,
+      "fin": 54,
+      "pas": 76,
+      "dri": 77,
+      "def": 79,
+      "fis": 78
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-bayern-2020-alphonso-davies",
     "team": "Bayern",
     "year": 2020,
@@ -154,16 +161,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 70,
-      "fin": 45,
-      "pas": 69,
-      "dri": 59,
-      "def": 92,
-      "fis": 92
+      "vel": 66,
+      "fin": 43,
+      "pas": 65,
+      "dri": 56,
+      "def": 87,
+      "fis": 87
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-bayern-2020-david-alaba",
     "team": "Bayern",
     "year": 2020,
@@ -174,16 +182,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 78,
-      "fin": 76,
-      "pas": 93,
-      "dri": 88,
-      "def": 71,
-      "fis": 78
+      "vel": 74,
+      "fin": 72,
+      "pas": 88,
+      "dri": 83,
+      "def": 67,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-bayern-2020-leon-goretzka",
     "team": "Bayern",
     "year": 2020,
@@ -195,16 +204,17 @@
       "PE",
       "ME"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 90,
-      "fin": 87,
-      "pas": 81,
-      "dri": 92,
-      "def": 43,
-      "fis": 69
+      "vel": 85,
+      "fin": 82,
+      "pas": 76,
+      "dri": 87,
+      "def": 41,
+      "fis": 65
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-bayern-2020-ivan-perisic",
     "team": "Bayern",
     "year": 2020,
@@ -215,16 +225,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 94,
-      "fin": 86,
-      "pas": 80,
-      "dri": 91,
-      "def": 42,
-      "fis": 73
+      "vel": 89,
+      "fin": 81,
+      "pas": 75,
+      "dri": 86,
+      "def": 40,
+      "fis": 69
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-bayern-2020-kingsley-coman",
     "team": "Bayern",
     "year": 2020,
@@ -236,16 +247,17 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 55,
-      "pas": 78,
-      "dri": 79,
-      "def": 82,
-      "fis": 76
+      "vel": 80,
+      "fin": 52,
+      "pas": 74,
+      "dri": 74,
+      "def": 77,
+      "fis": 72
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-bayern-2020-benjamin-pavard",
     "team": "Bayern",
     "year": 2020,
@@ -256,16 +268,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 65,
-      "fin": 40,
-      "pas": 69,
-      "dri": 54,
-      "def": 87,
-      "fis": 87
+      "vel": 61,
+      "fin": 38,
+      "pas": 65,
+      "dri": 51,
+      "def": 82,
+      "fis": 82
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-bayern-2020-jerome-boateng",
     "team": "Bayern",
     "year": 2020,
@@ -276,16 +289,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 66,
-      "fin": 36,
-      "pas": 65,
-      "dri": 55,
-      "def": 88,
-      "fis": 88
+      "vel": 62,
+      "fin": 34,
+      "pas": 61,
+      "dri": 52,
+      "def": 83,
+      "fis": 83
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-bayern-2020-niklas-sule",
     "team": "Bayern",
     "year": 2020,
@@ -297,16 +311,17 @@
       "MEI",
       "PE"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 76,
-      "fin": 85,
-      "pas": 89,
-      "dri": 92,
-      "def": 35,
-      "fis": 58
+      "vel": 72,
+      "fin": 80,
+      "pas": 84,
+      "dri": 87,
+      "def": 33,
+      "fis": 55
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-bayern-2020-philippe-coutinho",
     "team": "Bayern",
     "year": 2020,
@@ -318,16 +333,17 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 62,
-      "fin": 37,
-      "pas": 66,
-      "dri": 56,
-      "def": 84,
-      "fis": 84
+      "vel": 58,
+      "fin": 35,
+      "pas": 62,
+      "dri": 53,
+      "def": 79,
+      "fis": 79
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-bayern-2020-lucas-hernandez",
     "team": "Bayern",
     "year": 2020,
@@ -339,16 +355,17 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 68,
-      "fin": 57,
-      "pas": 83,
-      "dri": 69,
-      "def": 82,
-      "fis": 81
+      "vel": 64,
+      "fin": 54,
+      "pas": 78,
+      "dri": 65,
+      "def": 77,
+      "fis": 76
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-bayern-2020-javi-martinez",
     "team": "Bayern",
     "year": 2020,
@@ -359,16 +376,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 71,
-      "fin": 69,
-      "pas": 86,
-      "dri": 81,
-      "def": 64,
-      "fis": 71
+      "vel": 67,
+      "fin": 65,
+      "pas": 81,
+      "dri": 76,
+      "def": 60,
+      "fis": 67
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-bayern-2020-corentin-tolisso",
     "team": "Bayern",
     "year": 2020,
@@ -379,22 +397,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 53,
-      "dri": 31,
-      "def": 18,
-      "fis": 68,
-      "ref": 81,
-      "han": 76,
-      "pos": 78,
-      "div": 79,
-      "kic": 63,
-      "one": 77
+      "vel": 40,
+      "fin": 11,
+      "pas": 50,
+      "dri": 29,
+      "def": 17,
+      "fis": 64,
+      "ref": 76,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 59,
+      "one": 72
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-bayern-2020-sven-ulreich",
     "team": "Bayern",
     "year": 2020,
@@ -405,16 +424,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 76,
+    "ovr": 71,
     "attrs": {
-      "vel": 77,
-      "fin": 47,
-      "pas": 65,
-      "dri": 66,
-      "def": 69,
-      "fis": 68
+      "vel": 72,
+      "fin": 44,
+      "pas": 61,
+      "dri": 62,
+      "def": 64,
+      "fis": 64
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 76,
     "id": "ucl-bayern-2020-alvaro-odriozola",
     "team": "Bayern",
     "year": 2020,
@@ -425,16 +445,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 72,
+    "ovr": 68,
     "attrs": {
-      "vel": 64,
-      "fin": 57,
-      "pas": 74,
-      "dri": 69,
-      "def": 57,
-      "fis": 64
+      "vel": 60,
+      "fin": 54,
+      "pas": 70,
+      "dri": 65,
+      "def": 54,
+      "fis": 60
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 72,
     "id": "ucl-bayern-2020-michael-cuisance",
     "team": "Bayern",
     "year": 2020,
@@ -445,16 +466,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 70,
+    "ovr": 66,
     "attrs": {
-      "vel": 68,
-      "fin": 76,
-      "pas": 55,
-      "dri": 63,
-      "def": 21,
-      "fis": 67
+      "vel": 64,
+      "fin": 72,
+      "pas": 52,
+      "dri": 59,
+      "def": 20,
+      "fis": 63
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 70,
     "id": "ucl-bayern-2020-joshua-zirkzee",
     "team": "Bayern",
     "year": 2020,
@@ -465,22 +487,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 66,
+    "ovr": 62,
     "attrs": {
-      "vel": 43,
-      "fin": 12,
-      "pas": 41,
-      "dri": 31,
-      "def": 18,
-      "fis": 56,
-      "ref": 69,
-      "han": 64,
-      "pos": 66,
-      "div": 67,
-      "kic": 51,
-      "one": 65
+      "vel": 40,
+      "fin": 11,
+      "pas": 39,
+      "dri": 29,
+      "def": 17,
+      "fis": 53,
+      "ref": 65,
+      "han": 60,
+      "pos": 62,
+      "div": 63,
+      "kic": 48,
+      "one": 61
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 66,
     "id": "ucl-bayern-2020-ron-thorben-hoffmann",
     "team": "Bayern",
     "year": 2020,

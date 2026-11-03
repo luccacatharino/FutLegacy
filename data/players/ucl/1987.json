@@ -4,16 +4,17 @@
     "positions": [
       "PE"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 97,
-      "fin": 84,
-      "pas": 86,
-      "dri": 98,
-      "def": 29,
-      "fis": 70
+      "vel": 91,
+      "fin": 79,
+      "pas": 80,
+      "dri": 92,
+      "def": 27,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-porto-1987-paulo-futre",
     "team": "Porto",
     "year": 1987,
@@ -24,16 +25,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 85,
     "attrs": {
-      "vel": 87,
-      "fin": 94,
-      "pas": 84,
-      "dri": 94,
-      "def": 32,
-      "fis": 77
+      "vel": 81,
+      "fin": 88,
+      "pas": 78,
+      "dri": 88,
+      "def": 30,
+      "fis": 72
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 91,
     "id": "ucl-porto-1987-rabah-madjer",
     "team": "Porto",
     "year": 1987,
@@ -44,22 +46,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 45,
-      "fin": 12,
-      "pas": 64,
-      "dri": 33,
-      "def": 18,
-      "fis": 77,
-      "ref": 92,
-      "han": 85,
-      "pos": 87,
-      "div": 88,
-      "kic": 74,
-      "one": 86
+      "vel": 42,
+      "fin": 11,
+      "pas": 60,
+      "dri": 31,
+      "def": 17,
+      "fis": 73,
+      "ref": 87,
+      "han": 80,
+      "pos": 82,
+      "div": 83,
+      "kic": 70,
+      "one": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-porto-1987-jozef-m-ynarczyk",
     "team": "Porto",
     "year": 1987,
@@ -70,16 +73,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 85,
+    "ovr": 80,
     "attrs": {
-      "vel": 86,
-      "fin": 56,
-      "pas": 74,
-      "dri": 75,
-      "def": 78,
-      "fis": 77
+      "vel": 81,
+      "fin": 53,
+      "pas": 70,
+      "dri": 71,
+      "def": 73,
+      "fis": 72
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 85,
     "id": "ucl-porto-1987-joao-pinto",
     "team": "Porto",
     "year": 1987,
@@ -91,16 +95,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 72,
-      "fin": 70,
-      "pas": 87,
-      "dri": 82,
-      "def": 70,
-      "fis": 72
+      "vel": 68,
+      "fin": 66,
+      "pas": 82,
+      "dri": 77,
+      "def": 66,
+      "fis": 68
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-porto-1987-antonio-frasco",
     "team": "Porto",
     "year": 1987,
@@ -112,16 +117,17 @@
       "MC",
       "MEI"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 76,
-      "fin": 69,
-      "pas": 86,
-      "dri": 81,
-      "def": 69,
-      "fis": 76
+      "vel": 71,
+      "fin": 65,
+      "pas": 81,
+      "dri": 76,
+      "def": 65,
+      "fis": 71
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-porto-1987-antonio-sousa",
     "team": "Porto",
     "year": 1987,
@@ -132,16 +138,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 79,
     "attrs": {
-      "vel": 82,
-      "fin": 90,
-      "pas": 69,
-      "dri": 77,
-      "def": 35,
-      "fis": 81
+      "vel": 77,
+      "fin": 85,
+      "pas": 65,
+      "dri": 72,
+      "def": 33,
+      "fis": 76
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 84,
     "id": "ucl-porto-1987-juary",
     "team": "Porto",
     "year": 1987,
@@ -153,16 +160,17 @@
       "VOL",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 66,
-      "fin": 55,
-      "pas": 81,
-      "dri": 72,
-      "def": 85,
-      "fis": 79
+      "vel": 62,
+      "fin": 52,
+      "pas": 76,
+      "dri": 68,
+      "def": 80,
+      "fis": 74
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-porto-1987-antonio-andre",
     "team": "Porto",
     "year": 1987,
@@ -173,16 +181,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 60,
-      "fin": 35,
-      "pas": 64,
-      "dri": 54,
-      "def": 87,
-      "fis": 82
+      "vel": 56,
+      "fin": 33,
+      "pas": 60,
+      "dri": 51,
+      "def": 82,
+      "fis": 77
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-porto-1987-celso",
     "team": "Porto",
     "year": 1987,
@@ -194,16 +203,17 @@
       "MD",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 85,
-      "fin": 75,
-      "pas": 81,
-      "dri": 81,
-      "def": 53,
-      "fis": 68
+      "vel": 80,
+      "fin": 70,
+      "pas": 76,
+      "dri": 76,
+      "def": 50,
+      "fis": 64
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-porto-1987-jaime-magalhaes",
     "team": "Porto",
     "year": 1987,
@@ -214,16 +224,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 81,
-      "fin": 51,
-      "pas": 74,
-      "dri": 75,
-      "def": 73,
-      "fis": 72
+      "vel": 76,
+      "fin": 48,
+      "pas": 69,
+      "dri": 70,
+      "def": 69,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-porto-1987-augusto-inacio",
     "team": "Porto",
     "year": 1987,
@@ -234,16 +245,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 77,
     "attrs": {
-      "vel": 79,
-      "fin": 87,
-      "pas": 66,
-      "dri": 79,
-      "def": 32,
-      "fis": 78
+      "vel": 74,
+      "fin": 82,
+      "pas": 62,
+      "dri": 74,
+      "def": 30,
+      "fis": 73
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 82,
     "id": "ucl-porto-1987-walter-casagrande",
     "team": "Porto",
     "year": 1987,
@@ -254,16 +266,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 62,
-      "fin": 32,
-      "pas": 61,
-      "dri": 51,
-      "def": 84,
-      "fis": 84
+      "vel": 58,
+      "fin": 30,
+      "pas": 57,
+      "dri": 48,
+      "def": 79,
+      "fis": 79
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-porto-1987-eduardo-luis",
     "team": "Porto",
     "year": 1987,
@@ -274,16 +287,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 70,
-      "fin": 68,
-      "pas": 80,
-      "dri": 75,
-      "def": 63,
-      "fis": 70
+      "vel": 66,
+      "fin": 64,
+      "pas": 75,
+      "dri": 70,
+      "def": 59,
+      "fis": 66
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-porto-1987-quim",
     "team": "Porto",
     "year": 1987,
@@ -294,16 +308,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 58,
-      "fin": 28,
-      "pas": 57,
-      "dri": 47,
-      "def": 80,
-      "fis": 80
+      "vel": 54,
+      "fin": 26,
+      "pas": 53,
+      "dri": 44,
+      "def": 75,
+      "fis": 75
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-porto-1987-festas",
     "team": "Porto",
     "year": 1987,
@@ -314,22 +329,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 72,
     "attrs": {
-      "vel": 45,
-      "fin": 12,
-      "pas": 54,
-      "dri": 33,
-      "def": 18,
-      "fis": 67,
-      "ref": 82,
-      "han": 75,
-      "pos": 77,
-      "div": 78,
-      "kic": 64,
-      "one": 76
+      "vel": 42,
+      "fin": 11,
+      "pas": 50,
+      "dri": 31,
+      "def": 17,
+      "fis": 63,
+      "ref": 77,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 60,
+      "one": 71
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 77,
     "id": "ucl-porto-1987-ze-beto",
     "team": "Porto",
     "year": 1987,

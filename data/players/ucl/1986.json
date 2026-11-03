@@ -4,22 +4,23 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 93,
+    "ovr": 87,
     "attrs": {
-      "vel": 44,
-      "fin": 12,
-      "pas": 69,
-      "dri": 32,
-      "def": 18,
-      "fis": 83,
-      "ref": 97,
-      "han": 91,
-      "pos": 93,
-      "div": 94,
-      "kic": 79,
-      "one": 92
+      "vel": 41,
+      "fin": 11,
+      "pas": 65,
+      "dri": 30,
+      "def": 17,
+      "fis": 78,
+      "ref": 91,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 74,
+      "one": 86
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 93,
     "id": "ucl-steaua-bucareste-1986-helmut-duckadam",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -30,16 +31,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 90,
+    "ovr": 85,
     "attrs": {
-      "vel": 68,
-      "fin": 43,
-      "pas": 72,
-      "dri": 62,
-      "def": 90,
-      "fis": 90
+      "vel": 64,
+      "fin": 41,
+      "pas": 68,
+      "dri": 59,
+      "def": 85,
+      "fis": 85
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 90,
     "id": "ucl-steaua-bucareste-1986-miodrag-belodedici",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -51,16 +53,17 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 84,
     "attrs": {
-      "vel": 87,
-      "fin": 95,
-      "pas": 74,
-      "dri": 82,
-      "def": 40,
-      "fis": 86
+      "vel": 82,
+      "fin": 90,
+      "pas": 70,
+      "dri": 77,
+      "def": 38,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 89,
     "id": "ucl-steaua-bucareste-1986-marius-lacatus",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -71,16 +74,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 88,
+    "ovr": 83,
     "attrs": {
-      "vel": 77,
-      "fin": 75,
-      "pas": 92,
-      "dri": 87,
-      "def": 70,
-      "fis": 77
+      "vel": 73,
+      "fin": 71,
+      "pas": 87,
+      "dri": 82,
+      "def": 66,
+      "fis": 73
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 88,
     "id": "ucl-steaua-bucareste-1986-laszlo-boloni",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -91,16 +95,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 82,
     "attrs": {
-      "vel": 87,
-      "fin": 90,
-      "pas": 69,
-      "dri": 82,
-      "def": 40,
-      "fis": 86
+      "vel": 82,
+      "fin": 85,
+      "pas": 65,
+      "dri": 77,
+      "def": 38,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 87,
     "id": "ucl-steaua-bucareste-1986-victor-piturca",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -111,16 +116,17 @@
     "positions": [
       "ME"
     ],
-    "ovr": 86,
+    "ovr": 81,
     "attrs": {
-      "vel": 86,
-      "fin": 76,
-      "pas": 82,
-      "dri": 87,
-      "def": 59,
-      "fis": 69
+      "vel": 81,
+      "fin": 72,
+      "pas": 77,
+      "dri": 82,
+      "def": 56,
+      "fis": 65
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 86,
     "id": "ucl-steaua-bucareste-1986-gabi-balint",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -131,16 +137,17 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 64,
-      "fin": 34,
-      "pas": 63,
-      "dri": 53,
-      "def": 86,
-      "fis": 86
+      "vel": 60,
+      "fin": 32,
+      "pas": 59,
+      "dri": 50,
+      "def": 81,
+      "fis": 81
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-steaua-bucareste-1986-adrian-bumbescu",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -151,16 +158,17 @@
     "positions": [
       "LD"
     ],
-    "ovr": 83,
+    "ovr": 78,
     "attrs": {
-      "vel": 83,
-      "fin": 53,
-      "pas": 76,
-      "dri": 72,
-      "def": 75,
-      "fis": 74
+      "vel": 78,
+      "fin": 50,
+      "pas": 71,
+      "dri": 68,
+      "def": 70,
+      "fis": 70
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 83,
     "id": "ucl-steaua-bucareste-1986-stefan-iovan",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -171,16 +179,17 @@
     "positions": [
       "MD"
     ],
-    "ovr": 81,
+    "ovr": 76,
     "attrs": {
-      "vel": 84,
-      "fin": 74,
-      "pas": 75,
-      "dri": 80,
-      "def": 52,
-      "fis": 67
+      "vel": 79,
+      "fin": 69,
+      "pas": 70,
+      "dri": 75,
+      "def": 49,
+      "fis": 63
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 81,
     "id": "ucl-steaua-bucareste-1986-mihail-majearu",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -191,16 +200,17 @@
     "positions": [
       "LE"
     ],
-    "ovr": 80,
+    "ovr": 75,
     "attrs": {
-      "vel": 81,
-      "fin": 51,
-      "pas": 69,
-      "dri": 70,
-      "def": 73,
-      "fis": 72
+      "vel": 76,
+      "fin": 48,
+      "pas": 65,
+      "dri": 66,
+      "def": 68,
+      "fis": 68
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 80,
     "id": "ucl-steaua-bucareste-1986-ilie-barbulescu",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -212,16 +222,17 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 73,
-      "fin": 77,
-      "pas": 84,
-      "dri": 80,
-      "def": 36,
-      "fis": 61
+      "vel": 68,
+      "fin": 72,
+      "pas": 79,
+      "dri": 75,
+      "def": 34,
+      "fis": 57
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-steaua-bucareste-1986-anghel-iordanescu",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -232,16 +243,17 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 74,
     "attrs": {
-      "vel": 67,
-      "fin": 65,
-      "pas": 82,
-      "dri": 77,
-      "def": 65,
-      "fis": 67
+      "vel": 63,
+      "fin": 61,
+      "pas": 77,
+      "dri": 72,
+      "def": 61,
+      "fis": 63
     },
-    "starter": true,
+    "ratingRevision": 4,
+    "previousOvr": 79,
     "id": "ucl-steaua-bucareste-1986-lucian-balan",
     "team": "Steaua Bucareste",
     "year": 1986,
@@ -252,16 +264,17 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 73,
     "attrs": {
-      "vel": 77,
-      "fin": 85,
-      "pas": 59,
-      "dri": 72,
-      "def": 30,
-      "fis": 76
+      "vel": 72,
+      "fin": 80,
+      "pas": 55,
+      "dri": 67,
+      "def": 28,
+      "fis": 71
     },
-    "starter": false,
+    "ratingRevision": 4,
+    "previousOvr": 78,
     "id": "ucl-steaua-bucareste-1986-marin-radu",
     "team": "Steaua Bucareste",
     "year": 1986,

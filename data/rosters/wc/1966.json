@@ -7,7 +7,7 @@
     "champion": true,
     "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-inglaterra-1966-gordon-banks",
       "wc-inglaterra-1966-george-cohen",
@@ -30,7 +30,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-alemanha-1966-hans-tilkowski",
       "wc-alemanha-1966-horst-dieter-hottges",
@@ -53,7 +53,7 @@
     "champion": false,
     "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_squads",
     "scope": "Seleção editorial de jogadores reais da campanha; não representa todos os inscritos.",
-    "ratingMethod": "OVR editorial individual por edição, harmonizado na revisão 3.1 com a escala dos clubes. Protagonistas e campanhas excepcionais têm revisão explícita; atributos não medidos continuam estimativas posicionais.",
+    "ratingMethod": "Revisão editorial 4: redução proporcional por competição e exceções solicitadas. Atributos ajustados pela razão entre o novo OVR e o anterior.",
     "playerIds": [
       "wc-portugal-1966-jose-pereira",
       "wc-portugal-1966-joao-morais",

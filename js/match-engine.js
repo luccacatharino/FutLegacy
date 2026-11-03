@@ -4,7 +4,7 @@ FL.simulate=(home,away,seed,style='Equilibrado',captureEvents=true)=>{
  const r=FL.rng(seed),teams=[home,away],styles=Array.isArray(style)?style:[style,away.style||'Equilibrado'];
  const stats=[0,1].map(()=>({shots:0,on:0,passes:0,attempts:0,saves:0,tackles:0,corners:0,possession:0,xg:0})),score=[0,0],events=[],goals=[],ratings={},players=teams.map(t=>t.cards),shapes=teams.map(t=>t.formation||'4-3-3');
  const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
- const attr=(s,i,k)=>{let p=players[s][i];return (p.attrs[k]??p.ovr)*FL.fit(p,FL.formations[shapes[s]][i])};
+ const attr=(s,i,k)=>{let p=players[s][i];return (p.attrs[k]??p.ovr)*(teams.some(t=>t.id==='me')&&teams[s].id!=='me'?.98:1)*FL.fit(p,FL.formations[shapes[s]][i])};
  const avg=(s,k,ids)=>ids.length?ids.reduce((n,i)=>n+attr(s,i,k),0)/ids.length:teams[s].ovr;
  const field=players.map(ps=>ps.map((p,i)=>i).filter(i=>!FL.positions(ps[i]).includes('GOL'))),keepers=players.map(ps=>Math.max(0,ps.findIndex(p=>FL.positions(p).includes('GOL'))));
  const teamAttack=s=>avg(s,'pas',field[s])*.45+avg(s,'dri',field[s])*.25+teams[s].ovr*.3;
@@ -16,11 +16,11 @@ FL.simulate=(home,away,seed,style='Equilibrado',captureEvents=true)=>{
  let ball={x:.5,y:.5};
  for(let step=0;step<360;step++){
   const minute=Math.min(90,Math.floor(step/4)+1),s=side,other=1-s;stats[s].possession++;let actor=carrier,name=players[s][actor].name,type='Passe',from={...ball},to={x:s===0?progress:1-progress,y:base(s,actor).y};
-  const tactic=styles[s],opponent=styles[other],chem=FL.chem(players[s]),quality=clamp((teamAttack(s)-defence(other))/450,-.055,.055),exposure=opponent==='Pressão alta'?.015:opponent==='Defensivo'?-.015:0;
+  const tactic=styles[s],opponent=styles[other],chem=FL.chem(players[s]),quality=clamp((teamAttack(s)-defence(other))/550,-.055,.055),exposure=opponent==='Pressão alta'?.015:opponent==='Defensivo'?-.015:0;
   if(progress>.68&&r()<.38+(tactic==='Contra-ataque'?.015:0)){
    actor=choose(s,true);name=players[s][actor].name;stats[s].shots++;type='Finalização';
-   const chance=clamp(.125+(attr(s,actor,'fin')-75)/400+quality*.55+exposure+(tactic==='Defensivo'?-.015:0),.025,.34);stats[s].xg+=chance;to={x:s===0?.985:.015,y:.43+r()*.14};
-   if(r()<clamp(.43+(attr(s,actor,'fin')-75)/300+quality*.6,.22,.69)){
+   const chance=clamp(.145+(attr(s,actor,'fin')-75)/400+quality*.55+exposure+(tactic==='Defensivo'?-.015:0),.025,.34);stats[s].xg+=chance;to={x:s===0?.985:.015,y:.43+r()*.14};
+   if(r()<clamp(.45+(attr(s,actor,'fin')-75)/300+quality*.6,.22,.69)){
     stats[s].on++;const gk=keepers[other],ability=(attr(other,gk,'ref')+attr(other,gk,'han')+attr(other,gk,'pos'))/3;
     if(r()<clamp(chance/.44+(80-ability)/300,.07,.66)){
      type='Gol';score[s]++;let assist=lastPass&&lastPass.side===s&&lastPass.index!==actor?players[s][lastPass.index]:null;
