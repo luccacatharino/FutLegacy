@@ -2,75 +2,73 @@
 
 **Monte seu time. Escreva sua história.**
 
-Versão inicial jogável de draft de futebol para navegador. HTML5, CSS3 e JavaScript puro, sem instalação, imagens externas ou APIs durante o jogo.
+Reformulação do jogo de draft de futebol histórico em HTML, CSS e JavaScript puro. São **três modos ativos: Libertadores, Champions League e Copa do Mundo**. O Brasileirão foi removido a pedido.
 
-## Executar
-Abra `index.html` no navegador. Os scripts clássicos separados funcionam também por `file://`. O armazenamento local depende das permissões do navegador; para persistência previsível, prefira o GitHub Pages ou um servidor estático. Não há build.
+## Acervo auditado
+
+| Modo | Clubes/seleções | Elencos | Cartas |
+| --- | ---: | ---: | ---: |
+| Libertadores | 28 | 55 | 912 |
+| Champions League | 24 | 48 | 777 |
+| Copa do Mundo | 32 | 63 | 698 |
+| Total | — | **166** | **2.387** |
+
+A Libertadores contém os **54 elencos campeões dos 27 clubes** até 2025, mais Athletico-PR 2022. A Champions contém os **46 elencos campeões dos 24 clubes** até 2025/26, mais duas campanhas não campeãs. Clubes com um ou dois títulos têm todas essas temporadas; os demais têm três escolhas justificadas. A Copa cobre **19 edições de 1950 a 2022**, com campeões, vices e campanhas marcantes.
+
+Os campeonatos do jogo são **históricos fictícios**, misturando temporadas. Os recortes possuem onze ou mais jogadores reais e fontes por elenco. **Não são listas integrais de todos os inscritos.** OVR e atributos são avaliações editoriais próprias, não dados oficiais. Parte dos atributos da Copa ainda usa perfis posicionais estimados e necessita revisão individual mais fina. Não se anuncia cobertura de 2026 na Copa.
+
+Consulte [acervo navegável e auditoria](docs/AUDITORIA.html), [limites e pendências](docs/PENDENCIAS.md), [fontes da Libertadores](docs/lib-sources.md), [fontes europeias](docs/ucl-sources.md) e [fontes da Copa](docs/copa-sources.md).
 
 ## Jogar
-Escolha competição e formação, selecione uma vaga e escolha **um** jogador por elenco sorteado. Há três rerolls por padrão, configuráveis para futuras campanhas. A oferta anterior é descartada. Monte os onze, revise posições e inicie o campeonato. Use 1x, 2x, 4x ou pule a reprodução. A partida já tem eventos determinados, portanto a velocidade não altera seu resultado.
 
-Raridades de elenco: comum 60%, competitivo 28%, elite 10%, lendário 2%. Não existe garantia de lendários. Caso uma raridade não tenha ofertas elegíveis, a segurança usa os elencos elegíveis restantes, sem selecionar por força.
+1. Escolha uma competição, uma das oito formações e um estilo tático.
+2. Um clube/seleção e uma temporada são sorteados.
+3. Os atletas aparecem do maior OVR para o menor; empates são ordenados pelo nome. O filtro de posição mantém a ordenação.
+4. Escolha um atleta e uma vaga compatível no campo. Só essa colocação consome a escolha.
+5. O próximo elenco é sorteado. Complete onze, revise e entre no campeonato.
 
-## Implementado
-- Quatro competições, três formações e cinco estilos.
-- 16 elencos com onze cartas cada, IDs contextuais e avaliações editoriais próprias.
-- Arrascaeta: Flamengo 2022 / Libertadores 90; Uruguai 2022 / Copa 83.
-- Draft em duas etapas: selecionar o jogador e escolher uma de suas posições no campo. Posições naturais, incluindo secundárias, têm 100% de eficiência; improvisações próximas têm 88%. Vagas incompatíveis são bloqueadas e goleiros atuam exclusivamente no gol.
-- Brasileirão: 20 equipes, 38 rodadas, 380 confrontos, turno/returno; classificação completa.
-- Copas: 32 equipes, oito grupos, dois classificados por grupo e chaveamento cruzado. Grupos da Copa em turno único (finalista joga sete partidas). Libertadores e Champions têm seis rodadas de grupos. Mata-mata simplificado em jogo único, empate decidido por pênaltis.
-- Motor determinístico por semente com eventos de posse, passes, conduções, dribles, cruzamentos, desarmes, interceptações, chutes, defesas, escanteios e gols. Estatísticas derivam dos eventos.
-- Reprodução em mini campo, placar, autores, assistências e resumo.
-- Entrosamento apenas de companheiros do mesmo elenco e temporada, limitado a 4%, aplicado à manutenção de passes.
-- Salvamento automático de campanha, oferta e partida pendente. Hall de até 50 campanhas com IDs e snapshots compactos dos jogadores. Não guarda animações concluídas.
-- Publicação estática compatível com GitHub Pages, caminhos relativos.
+Um **elenco específico nunca reaparece no mesmo draft**, inclusive depois de reroll e recarregamento. Outra temporada do mesmo clube pode aparecer. Há três rerolls por padrão, ajustáveis nas configurações.
 
-## Recorte e pendências — não confundir com versão final
-Esta é a primeira versão funcional, não a conclusão de todos os refinamentos solicitados.
+Raridades: comum 60%, competitivo 28%, elite 10%, lendário 2%. A categoria é escolhida primeiro. Categorias sem elencos inéditos elegíveis são retiradas e os pesos restantes são normalizados. Há uma redução moderada de peso para outras temporadas dos últimos clubes sorteados. Não há garantia de lendas nem favorecimento por popularidade ou ano.
 
-- Banco inicial enxuto: quatro elencos por competição, um por raridade. Expandir temporadas, variedade de comuns e quantidade de atletas por elenco. Ver `docs/FONTES.md`.
-- Adversários sem cartas completas usam modelos de força e atribuem o marcador ao ataque da equipe, sem inventar nomes de atletas. Precisam de elencos individuais para autoria completa de gols e assistências.
-- A revisão 2 substitui os atributos derivados do OVR por 176 fichas individuais, com posições e avaliações editoriais por equipe/temporada/competição. A precisão das posições secundárias e a calibração estatística continuam abertas a refinamento; ver `docs/AVALIACOES.md`.
-- Motor inicial usa sobretudo força efetiva, finalização, estilo e química; não modela individualmente todas as interações dos atributos. Tática é assimétrica para jogos em que o usuário é visitante; corrigir antes de considerar o balanceamento final.
-- Mini campo tem movimentos suaves por faixas e bola seguindo eventos; falta coreografia física específica para cada passe, chute, cruzamento, defesa e escanteio. Movimentos ainda não reproduzem trajetórias táticas individuais das três formações. Não há física de futebol de botão.
-- Melhor da partida é uma estimativa por gols e assistências; Hall registra o melhor da última partida, ainda não um prêmio agregado de toda a campanha. Falta ranking completo de artilheiros e assistentes da competição.
-- Após eliminação do usuário, a campanha é registrada e encerrada; não simula o restante do torneio para determinar o campeão adversário.
-- Pontos corridos usa desempate por pontos, vitórias, saldo, gols e ID estável, sem confrontos diretos ou sorteio. Mata-mata não tem prorrogação nem ida/volta.
-- Formato futuro de fase de liga da Champions ainda não implementado; o agendamento é separado do motor para permitir extensão.
-- Falta QA exaustivo de acessibilidade, dispositivos móveis e recuperação de versões futuras dos saves. Há limite por quantidade de campanhas, sem política adicional por bytes.
+Posições naturais têm 100% de eficiência; improvisações próximas têm 88%. Funções incompatíveis ficam bloqueadas. É possível mudar a formação antes do campeonato; o remanejamento mantém todos os atletas ou recusa a mudança com uma explicação.
 
-## Código
-- `js/profiles.js`: fichas individuais com posições, OVR contextual e atributos.
-- `js/data.js`: elencos, cartas, raridades, elegibilidade, posicionamento e química.
-- `js/engine.js`: eventos determinísticos, calendário, classificação.
-- `js/tournament.js`: grupos, rodadas e progressão.
-- `js/app.js`: telas, reprodução e persistência.
-- `css/style.css`: identidade, campo e responsividade.
-- `tests/check.cjs`: testes de integração com Node (somente desenvolvimento).
+## Partidas e torneios
 
-## Verificação
-`node tests/check.cjs` testa 120 campanhas nas quatro competições, calendário de 380 partidas, 100.000 amostras estratificadas dos limiares de raridade, gols versus eventos, determinismo, posições e teto de química. As amostras de raridade conferem os intervalos, não constituem teste estatístico do gerador aleatório. Não substitui testes manuais da interface.
+- Grupos completos e oitavas, quartas, semifinal e final, com adversários reais de várias temporadas.
+- Copa com três jogos de grupo; quem vai à final disputa sete partidas. Libertadores e Champions têm seis jogos de grupo e dez partidas para um finalista.
+- Empates eliminatórios são resolvidos diretamente por cobranças simuladas de pênaltis. Não há prorrogação nesta versão.
+- Motor próprio de posse, progressão, passes, dribles, conduções, recuperações, cruzamentos, chutes, defesas, escanteios e gols.
+- Campo Canvas 2D com 22 peças, goleiros, números, redes e trajetos interpolados da bola.
+- Velocidades 1x/2x/4x e pular reprodução não mudam o resultado da semente simulada.
+- Classificações, calendário, chaves, próximo adversário, resultados, artilharia, assistências e destaque da partida.
+- Entrosamento automático limitado a 4% em passes coletivos, sem alterar OVR. Só conecta cartas da mesma equipe/temporada documentada.
+- Hall da Fama automático com até 50 campanhas e escalações. Sem moedas, níveis ou microtransações.
 
-## Publicação solicitada
-Repositório público **FutLegacy**, todos os arquivos versionados e GitHub Pages a partir da branch principal, pasta raiz. A entrega de publicação exige confirmar o deploy e acessar o jogo publicado. Não declarar concluída enquanto isso estiver pendente.
+Posse de bola favorece conservação e desacelera a progressão; contra-ataque acelera transições; pressão alta ajuda recuperações adiantadas e abre exposição; defensivo reduz risco e produção; equilibrado mantém os parâmetros de referência.
 
-Os torneios são históricos fictícios: misturam equipes de anos diferentes, não reconstituem edições oficiais. Sem moedas ou progressão. Fotos e logos adicionados nesta revisão possuem fontes documentadas nos créditos.
+## Executar localmente
 
-## Interface de draft e arquivos locais
+Abra **index.html** no navegador. Não precisa instalar nada, compilar, iniciar servidor ou usar APIs. Os pacotes de dados usam scripts clássicos compatíveis com `file://`. O salvamento depende das permissões de armazenamento do navegador. GitHub Pages oferece uma origem estável para localStorage.
 
-O draft agora mostra um campo vertical clicável com posições específicas para 4-3-3, 4-4-2 e 3-5-2, ofertas em lista e resumo do time. Clique em um jogador e depois escolha uma vaga compatível no campo. A carta só entra no time ao posicioná-la. As fotos de Messi, Cristiano Ronaldo, Mbappé e Neymar e as logos das competições ficam em `assets/`, sem chamadas externas para jogar. Fontes e licenças estão em `docs/CREDITOS.html` e `docs/asset-sources.json`.
+Todos os recursos necessários estão incluídos em `assets`. As fotos, logos e escudos têm créditos e fontes em [Créditos](docs/CREDITOS.html) e [Escudos](docs/ESCUDOS.html). Escudos podem representar a identidade atual, não necessariamente a variante exata do ano histórico.
 
-Pasta local principal desta entrega: `Área de Trabalho/projetos/futlegacy`. Referências e versões anteriores ficam em subpastas dentro de `projetos/futlegacy`.
+## Organização e desenvolvimento
 
+Veja [arquitetura](docs/ARQUITETURA.md). Os dados editoriais ficam separados por competição; cadastros normalizados de elencos e atributos ficam em `data/rosters/<competição>/<ano>.json` e `data/players/<competição>/<ano>.json`. Os pacotes offline em `js/catalogue` são gerados por `tests/build-catalogue.cjs`.
 
-## Revisão 2 — jogador e posição
+Para desenvolver e executar todos os testes, basta Node.js (somente desenvolvimento):
 
-O draft agora mostra todas as posições naturais da carta, destaca no campo as vagas disponíveis e permite cancelar uma seleção antes de posicionar. Rerolls descartam a oferta e a seleção pendente. OVR e atributos foram revistos nas 176 cartas, com valores próprios para cada contexto, sem copiar notas do 7a0 ou de jogos comerciais. Critérios, exemplos, fontes e tratamento das campanhas antigas estão em [docs/AVALIACOES.md](docs/AVALIACOES.md).
+    node tests/run.cjs
 
-## Interface preta e azul — revisão 3
+A bateria inclui auditoria de campeões, identidade das cartas, posições, atributos de goleiros, contexto Arrascaeta90/83, 100.000 sorteios por modo, drafts completos, campeonatos completos, gols, assistências, estatísticas, pênaltis, independência da reprodução e persistência. Os relatórios ficam em `docs/*-report.json`.
 
-A seleção de formação tem um mini campo que atualiza imediatamente ao escolher 4-3-3, 4-4-2 ou 3-5-2. A mesma distribuição é usada no draft, na revisão e no Hall. As regras de seleção de jogadores, posições naturais, improvisações, raridades e avaliações contextuais são preservadas.
+A auditoria estrutural não substitui a revisão histórica humana. As limitações e a expansão pendente dos recortes estão explicitadas em `docs/PENDENCIAS.md`.
 
-Foram adicionados 111 escudos locais ao lado dos nomes nos sorteios, nas tabelas, nos confrontos, nos placares e nas cartas do histórico. A Copa usa a logo de 2026 com a taça; a Champions usa exclusivamente o símbolo de estrelas da logo, sem texto. A foto principal do Messi é da Copa de 2022. A caixa da logo do Brasileirão contém a imagem inteira, sem transbordamento.
+## Publicação
 
-Organização: `assets/badges/clubs`, `assets/badges/nations`, `assets/logos`, `assets/photos`. Fontes em `docs/CREDITOS.html`, `docs/ESCUDOS.html` e arquivos JSON correspondentes. Escudos identificam clubes e federações, sem afirmar que cada desenho corresponde à variante exata do ano da carta.
+Repositório existente: https://github.com/luccacatharino/FutLegacy
+
+Jogo: https://luccacatharino.github.io/FutLegacy/
+
+O GitHub Pages publica a raiz da branch `main`. Não há build ou dependências de runtime. O histórico Git anterior foi preservado.

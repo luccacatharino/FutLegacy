@@ -1,0 +1,37 @@
+{
+  "Equilibrado": {
+    "wins": 156,
+    "draws": 89,
+    "averageGoals": 3.39
+  },
+  "Posse de bola": {
+    "wins": 170,
+    "draws": 96,
+    "averageGoals": 3.2875
+  },
+  "Contra-ataque": {
+    "wins": 184,
+    "draws": 83,
+    "averageGoals": 3.745
+  },
+  "Pressão alta": {
+    "wins": 190,
+    "draws": 78,
+    "averageGoals": 3.65
+  },
+  "Defensivo": {
+    "wins": 150,
+    "draws": 92,
+    "averageGoals": 3.0875
+  },
+  "quality": {
+    "favouriteWins": 479,
+    "upsets": 35,
+    "draws": 86,
+    "samples": 600
+  },
+  "penalties": {
+    "series": 200,
+    "kicks": 2094
+  }
+}
