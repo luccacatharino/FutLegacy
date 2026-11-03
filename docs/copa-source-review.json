@@ -1,0 +1,24 @@
+{
+  "checkedSquads": 62,
+  "checkedCards": 687,
+  "sourcePages": 34,
+  "missing": [],
+  "acceptedAliases": {
+    "Juan Schiaffino": "Juan Alberto Schiaffino",
+    "Danilo Alvim": "Danilo",
+    "Ademir de Menezes": "Ademir",
+    "Ronaldinho Gaúcho": "Ronaldinho",
+    "Serginho Chulapa": "Serginho",
+    "Alberto Fouillioux": "Alberto Fouilloux",
+    "Vicente Lucas": "Vicente",
+    "John Pantsil": "John Paintsil",
+    "Medhi Lacen": "Mehdi Lacen"
+  },
+  "limits": "Comparação de nomes nas fontes de cada elenco, com aliases explícitos. Não é prova automática de contexto tático, autoria de avaliações ou pertencimento a uma seção específica da página.",
+  "additionalEvidence": [
+    "https://www.svenskfotboll.se/nyheter/landslag/2019/03/kennet-andersson/",
+    "https://www.fifadata.com/document/fwc/2010/PDF_BackUp_2010_06_13/FWC_2010_SquadLists.pdf",
+    "https://www.laroja.cl/new/alberto-fouillioux-el-ariete-que-represento-a-la-roja-en-dos-mundiales",
+    "https://www.malagacf.com/en/news/lacen-completes-the-malaga-cf-squad"
+  ]
+}

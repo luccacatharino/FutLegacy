@@ -4676,11 +4676,23 @@
         "ovr": 88
       },
       {
-        "name": "Kenneth Andersson",
+        "name": "Kennet Andersson",
         "positions": [
           "ATA"
         ],
-        "ovr": 93
+        "ovr": 93,
+        "aliases": [
+          "Kenneth Andersson"
+        ],
+        "attrs": {
+          "vel": 90,
+          "fin": 99,
+          "pas": 79,
+          "dri": 89,
+          "def": 43,
+          "fis": 91
+        },
+        "nameSource": "https://www.svenskfotboll.se/nyheter/landslag/2019/03/kennet-andersson/"
       },
       {
         "name": "Martin Dahlin",

@@ -842,11 +842,14 @@
     "comp": "wc"
   },
   {
-    "name": "Kenneth Andersson",
+    "name": "Kennet Andersson",
     "positions": [
       "ATA"
     ],
     "ovr": 93,
+    "aliases": [
+      "Kenneth Andersson"
+    ],
     "attrs": {
       "vel": 90,
       "fin": 99,
@@ -855,7 +858,8 @@
       "def": 43,
       "fis": 91
     },
-    "id": "wc-suecia-1994-kenneth-andersson",
+    "nameSource": "https://www.svenskfotboll.se/nyheter/landslag/2019/03/kennet-andersson/",
+    "id": "wc-suecia-1994-kennet-andersson",
     "team": "Suécia",
     "year": 1994,
     "comp": "wc"
