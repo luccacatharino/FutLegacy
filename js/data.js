@@ -1,0 +1,34 @@
+/* Avaliações editoriais próprias; fontes e recorte em docs/FONTES.md. */
+const FL = {};
+FL.formations={'4-3-3':['GOL','LD','ZAG','ZAG','LE','VOL','MC','MEI','PD','ATA','PE'],'4-4-2':['GOL','LD','ZAG','ZAG','LE','VOL','MC','MD','ME','ATA','ATA'],'3-5-2':['GOL','ZAG','ZAG','ZAG','MD','VOL','MC','MEI','ME','ATA','ATA']};
+FL.rarities=['Comum','Competitivo','Elite','Lendário'];
+FL.weights=[.60,.28,.10,.02];
+FL.styles=['Equilibrado','Posse de bola','Contra-ataque','Pressão alta','Defensivo'];
+FL.teams=[];
+function roster(comp,name,year,tier,names,ovrs){const id=comp+'-'+name.replace(/\W/g,'')+'-'+year;let positions=['GOL','LD','ZAG','ZAG','LE','VOL','MC','MEI','PD','ATA','PE'];const team={id,name,year,tier,comp,ovr:Math.round(ovrs.reduce((a,b)=>a+b)/11)};team.cards=names.split('|').map((name,i)=>{let o=ovrs[i],pos=positions[i];return {id:id+'-'+i,playerId:name.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase(),name,team:name===null?'':team.name,year,comp,tier,pos,ovr:o,links:id,attrs:{vel:o+(i>7?3:-6),fin:o+(i>7?2:-19),pas:o+(i>4&&i<8?2:-6),dri:o+(i>6?1:-10),def:o+(i<6?0:-23),fis:o-3,ref:o,han:o-2,pos:o-1}}});FL.teams.push(team);}
+const fla22='Santos|Rodinei|David Luiz|Léo Pereira|Filipe Luís|Thiago Maia|João Gomes|Arrascaeta|Everton Ribeiro|Gabriel Barbosa|Pedro';
+const pal21='Weverton|Marcos Rocha|Gustavo Gómez|Luan|Piquerez|Danilo|Zé Rafael|Raphael Veiga|Dudu|Deyverson|Rony';
+const fla19='Diego Alves|Rafinha|Rodrigo Caio|Pablo Marí|Filipe Luís|Willian Arão|Gerson|Arrascaeta|Everton Ribeiro|Gabriel Barbosa|Bruno Henrique';
+const ath22='Bento|Khellven|Pedro Henrique|Thiago Heleno|Abner|Fernandinho|Alex Santana|Hugo Moura|Vitinho|Vitor Roque|Vitor Bueno';
+roster('lib','Athletico-PR',2022,0,ath22,[81,77,77,80,77,83,77,76,76,82,77]);
+roster('lib','Palmeiras',2021,1,pal21,[87,81,88,80,80,84,82,87,85,78,83]);
+roster('lib','Flamengo',2022,2,fla22,[86,83,83,85,84,81,83,90,87,89,90]);
+roster('lib','Flamengo',2019,3,fla19,[86,86,87,84,87,83,87,90,89,93,92]);
+roster('bra','Athletico-PR',2019,0,'Santos|Jonathan|Léo Pereira|Thiago Heleno|Márcio Azevedo|Wellington|Bruno Guimarães|Léo Cittadini|Nikão|Marco Ruben|Rony',[80,77,78,79,76,76,84,77,81,78,82]);
+roster('bra','Palmeiras',2019,1,'Weverton|Marcos Rocha|Gustavo Gómez|Luan|Diogo Barbosa|Felipe Melo|Bruno Henrique|Gustavo Scarpa|Dudu|Luiz Adriano|Willian',[85,80,86,79,77,81,83,82,88,81,79]);
+roster('bra','Santos',2019,2,'Everson|Victor Ferraz|Lucas Veríssimo|Gustavo Henrique|Jorge|Alison|Carlos Sánchez|Diego Pituca|Marinho|Eduardo Sasha|Soteldo',[80,79,82,81,81,79,86,81,84,81,87]);
+roster('bra','Flamengo',2019,3,fla19,[85,86,87,83,87,82,88,91,89,94,92]);
+roster('ucl','Inter',2023,0,'André Onana|Denzel Dumfries|Matteo Darmian|Francesco Acerbi|Alessandro Bastoni|Marcelo Brozović|Nicolò Barella|Hakan Çalhanoğlu|Federico Dimarco|Edin Džeko|Lautaro Martínez',[87,83,83,85,86,86,89,87,86,83,88]);
+roster('ucl','Manchester United',2011,1,'Edwin van der Sar|Fábio|Rio Ferdinand|Nemanja Vidić|Patrice Evra|Michael Carrick|Ryan Giggs|Park Ji-sung|Antonio Valencia|Wayne Rooney|Javier Hernández',[88,77,88,90,87,85,86,83,83,91,85]);
+roster('ucl','Manchester City',2023,2,'Ederson|Kyle Walker|Rúben Dias|Manuel Akanji|Nathan Aké|Rodri|İlkay Gündoğan|Kevin De Bruyne|Bernardo Silva|Erling Haaland|Jack Grealish',[88,87,90,85,86,93,89,94,91,94,87]);
+roster('ucl','Barcelona',2011,3,'Víctor Valdés|Dani Alves|Gerard Piqué|Javier Mascherano|Éric Abidal|Sergio Busquets|Xavi|Andrés Iniesta|Pedro|Lionel Messi|David Villa',[88,92,89,88,87,91,96,95,88,98,92]);
+roster('wc','Uruguai',2022,0,'Sergio Rochet|Guillermo Varela|José Giménez|Diego Godín|Mathías Olivera|Matías Vecino|Federico Valverde|Arrascaeta|Facundo Pellistri|Luis Suárez|Darwin Núñez',[79,75,82,78,79,77,84,83,75,79,80]);
+roster('wc','Croácia',2022,1,'Dominik Livaković|Josip Juranović|Dejan Lovren|Joško Gvardiol|Borna Sosa|Marcelo Brozović|Mateo Kovačić|Luka Modrić|Mario Pašalić|Andrej Kramarić|Ivan Perišić',[89,82,81,90,80,85,85,91,81,82,85]);
+roster('wc','França',2022,2,'Hugo Lloris|Jules Koundé|Raphaël Varane|Dayot Upamecano|Theo Hernández|Aurélien Tchouaméni|Adrien Rabiot|Antoine Griezmann|Ousmane Dembélé|Olivier Giroud|Kylian Mbappé',[86,83,86,84,87,86,84,92,83,88,96]);
+roster('wc','Argentina',2022,3,'Emiliano Martínez|Nahuel Molina|Cristian Romero|Nicolás Otamendi|Nicolás Tagliafico|Enzo Fernández|Rodrigo De Paul|Alexis Mac Allister|Ángel Di María|Julián Álvarez|Lionel Messi',[91,85,87,86,82,89,88,88,90,91,97]);
+FL.comps={lib:{name:'Libertadores',icon:'◈',desc:'A glória eterna começa em uma escolha.',year:2022,pool:'Flamengo|Palmeiras|Vélez Sarsfield|Athletico-PR|River Plate|Boca Juniors|Estudiantes|Talleres|Colón|Emelec|Barcelona SC|Independiente del Valle|Universidad Católica|Colo-Colo|Peñarol|Nacional|Cerro Porteño|Libertad|Olimpia|The Strongest|Always Ready|Deportivo Táchira|Caracas|Deportes Tolima|Deportivo Cali|Alianza Lima|Sporting Cristal|Fortaleza|Corinthians|Atlético-MG|Red Bull Bragantino|América-MG'},bra:{name:'Brasileirão',icon:'▥',desc:'20 equipes. 38 rodadas. Uma conquista.',year:2019,pool:'Flamengo|Santos|Palmeiras|Grêmio|Athletico-PR|São Paulo|Internacional|Corinthians|Fortaleza|Goiás|Bahia|Vasco|Atlético-MG|Fluminense|Botafogo|Ceará|Cruzeiro|CSA|Chapecoense|Avaí'},ucl:{name:'Champions League',icon:'✦',desc:'Seu elenco no maior palco europeu.',year:2023,pool:'Manchester City|Inter|Real Madrid|Milan|Bayern|Benfica|Chelsea|Napoli|Liverpool|Porto|Tottenham|Borussia Dortmund|Paris Saint-Germain|Club Brugge|RB Leipzig|Eintracht Frankfurt|Ajax|Rangers|Atlético de Madrid|Bayer Leverkusen|Barcelona|Viktoria Plzeň|Sporting|Marseille|Salzburg|Dinamo Zagreb|Shakhtar Donetsk|Celtic|Sevilla|Copenhagen|Juventus|Maccabi Haifa'},wc:{name:'Copa do Mundo',icon:'♜',desc:'Sete partidas para escrever seu nome.',year:2022,pool:'Argentina|França|Croácia|Marrocos|Brasil|Inglaterra|Portugal|Países Baixos|Japão|Coreia do Sul|Austrália|Estados Unidos|Suíça|Senegal|Polônia|Espanha|Alemanha|Bélgica|Uruguai|Gana|Camarões|Sérvia|Tunísia|Dinamarca|México|Arábia Saudita|Equador|Catar|Irã|País de Gales|Costa Rica|Canadá'}};
+FL.cards=FL.teams.flatMap(t=>t.cards);
+FL.fit=(p,pos)=>p.pos===pos?1:p.pos==='GOL'||pos==='GOL'?0:((['ZAG','LD','LE'].includes(p.pos)&&['ZAG','LD','LE'].includes(pos))||(['VOL','MC','MEI','MD','ME'].includes(p.pos)&&['VOL','MC','MEI','MD','ME'].includes(pos))||(['PD','PE','ATA'].includes(p.pos)&&['PD','PE','ATA'].includes(pos)))?.94:.82;
+FL.chem=cards=>Math.min(.04,cards.reduce((n,p,i)=>n+cards.slice(i+1).filter(q=>q.links===p.links).length,0)*.003);
+FL.tier=r=>r<.6?0:r<.88?1:r<.98?2:3;
+FL.offer=(comp,cards,slots,rng=Math.random)=>{const eligible=t=>t.cards.some(p=>!cards.some(q=>q.id===p.id)&&slots.some(s=>FL.fit(p,s)>0));let pool=FL.teams.filter(t=>t.comp===comp&&eligible(t));let tier=FL.tier(rng());let same=pool.filter(t=>t.tier===tier);pool=same.length?same:pool;return pool[Math.floor(rng()*pool.length)];};
