@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "Flamengo",
+    "title": "CR Flamengo",
+    "kind": "clubs",
+    "slug": "flamengo",
+    "image": "Clube_de_Regatas_do_Flamengo_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/250px-Clube_de_Regatas_do_Flamengo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/CR%20Flamengo"
+  },
+  {
+    "name": "Palmeiras",
+    "title": "SE Palmeiras",
+    "kind": "clubs",
+    "slug": "palmeiras",
+    "image": "Sociedade_Esportiva_Palmeiras_logo_(1_red_star).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Sociedade_Esportiva_Palmeiras_logo_%281_red_star%29.svg/250px-Sociedade_Esportiva_Palmeiras_logo_%281_red_star%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/SE%20Palmeiras"
+  },
+  {
+    "name": "Vélez Sarsfield",
+    "title": "Club Atlético Vélez Sarsfield",
+    "kind": "clubs",
+    "slug": "velez-sarsfield",
+    "image": "Escudo_del_Club_Atlético_Vélez_Sarsfield.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg/250px-Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Atl%C3%A9tico%20V%C3%A9lez%20Sarsfield"
+  },
+  {
+    "name": "Athletico-PR",
+    "title": "Club Athletico Paranaense",
+    "kind": "clubs",
+    "slug": "athletico-pr",
+    "image": "Athletico_Paranaense_(Logo_2019).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Athletico_Paranaense_%28Logo_2019%29.svg/250px-Athletico_Paranaense_%28Logo_2019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Athletico%20Paranaense"
+  },
+  {
+    "name": "River Plate",
+    "title": "Club Atlético River Plate",
+    "kind": "clubs",
+    "slug": "river-plate",
+    "image": "Club_Atlético_River_Plate_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/250px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Atl%C3%A9tico%20River%20Plate"
+  },
+  {
+    "name": "Boca Juniors",
+    "title": "Boca Juniors",
+    "kind": "clubs",
+    "slug": "boca-juniors",
+    "image": "Boca_Juniors_logo18.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/250px-Boca_Juniors_logo18.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Boca%20Juniors"
+  },
+  {
+    "name": "Estudiantes",
+    "title": "Estudiantes de La Plata",
+    "kind": "clubs",
+    "slug": "estudiantes",
+    "image": "Estudiantes_de_la_Plata_crest_(2025)_cropped.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Estudiantes_de_la_Plata_crest_%282025%29_cropped.svg/250px-Estudiantes_de_la_Plata_crest_%282025%29_cropped.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Estudiantes%20de%20La%20Plata"
+  },
+  {
+    "name": "Talleres",
+    "title": "Talleres de Córdoba",
+    "kind": "clubs",
+    "slug": "talleres",
+    "image": "Escudo_Talleres_2015.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Escudo_Talleres_2015.svg/250px-Escudo_Talleres_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Talleres%20de%20C%C3%B3rdoba"
+  },
+  {
+    "name": "Colón",
+    "title": "Club Atlético Colón",
+    "kind": "clubs",
+    "slug": "colon",
+    "image": "Escudo_Colon_Con_Estrella.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Escudo_Colon_Con_Estrella.png/250px-Escudo_Colon_Con_Estrella.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Atl%C3%A9tico%20Col%C3%B3n"
+  },
+  {
+    "name": "Emelec",
+    "title": "Club Sport Emelec",
+    "kind": "clubs",
+    "slug": "emelec",
+    "image": "Club-Sport-Emelec2.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Club-Sport-Emelec2.png/250px-Club-Sport-Emelec2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Sport%20Emelec"
+  },
+  {
+    "name": "Barcelona SC",
+    "title": "Barcelona S.C.",
+    "kind": "clubs",
+    "slug": "barcelona-sc",
+    "image": "Barcelona_Sporting_Club_(Guayaquil,_Ecuador)_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Barcelona_Sporting_Club_%28Guayaquil%2C_Ecuador%29_logo.svg/250px-Barcelona_Sporting_Club_%28Guayaquil%2C_Ecuador%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Barcelona%20S.C."
+  },
+  {
+    "name": "Independiente del Valle",
+    "title": "Independiente del Valle",
+    "kind": "clubs",
+    "slug": "independiente-del-valle",
+    "image": "Escudoindependientedelvalle2023.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Escudoindependientedelvalle2023.png/250px-Escudoindependientedelvalle2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Independiente%20del%20Valle"
+  },
+  {
+    "name": "Universidad Católica",
+    "title": "Club Deportivo Universidad Católica",
+    "kind": "clubs",
+    "slug": "universidad-catolica",
+    "image": "Escudo_Club_Deportivo_Universidad_Católica.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg/250px-Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Deportivo%20Universidad%20Cat%C3%B3lica"
+  },
+  {
+    "name": "Colo-Colo",
+    "title": "Colo-Colo",
+    "kind": "clubs",
+    "slug": "colo-colo",
+    "image": "Colo-Colo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/be/Colo-Colo.svg/250px-Colo-Colo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Colo-Colo"
+  },
+  {
+    "name": "Peñarol",
+    "title": "Peñarol",
+    "kind": "clubs",
+    "slug": "penarol",
+    "image": "Escudo_del_Club_Atlético_Peñarol.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg/250px-Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Pe%C3%B1arol"
+  },
+  {
+    "name": "Nacional",
+    "title": "Club Nacional de Football",
+    "kind": "clubs",
+    "slug": "nacional",
+    "image": "Club_Nacional_de_Football_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Club_Nacional_de_Football_logo.svg/250px-Club_Nacional_de_Football_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Nacional%20de%20Football"
+  },
+  {
+    "name": "Cerro Porteño",
+    "title": "Cerro Porteño",
+    "kind": "clubs",
+    "slug": "cerro-porteno",
+    "image": "Escudo_Club_Cerro_Porteño_2023-Actual.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg/250px-Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Cerro%20Porte%C3%B1o"
+  },
+  {
+    "name": "Libertad",
+    "title": "Club Libertad",
+    "kind": "clubs",
+    "slug": "libertad",
+    "image": "Club_Libertad.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Club_Libertad.png/250px-Club_Libertad.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Libertad"
+  },
+  {
+    "name": "Olimpia",
+    "title": "Club Olimpia",
+    "kind": "clubs",
+    "slug": "olimpia",
+    "image": "Club_Olimpia_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/45/Club_Olimpia_logo.svg/250px-Club_Olimpia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Olimpia"
+  },
+  {
+    "name": "The Strongest",
+    "title": "The Strongest",
+    "kind": "clubs",
+    "slug": "the-strongest",
+    "image": "Club_the_strongest_escudo_transparent_background_png_700px.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Club_the_strongest_escudo_transparent_background_png_700px.png/250px-Club_the_strongest_escudo_transparent_background_png_700px.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/The%20Strongest"
+  },
+  {
+    "name": "Always Ready",
+    "title": "Club Always Ready",
+    "kind": "clubs",
+    "slug": "always-ready",
+    "image": "Club_Always_Ready_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Club_Always_Ready_logo.svg/250px-Club_Always_Ready_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Always%20Ready"
+  },
+  {
+    "name": "Deportivo Táchira",
+    "title": "Deportivo Táchira F.C.",
+    "kind": "clubs",
+    "slug": "deportivo-tachira",
+    "image": "Deportivo_Táchira_F.C.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/Deportivo_T%C3%A1chira_F.C.svg/250px-Deportivo_T%C3%A1chira_F.C.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Deportivo%20T%C3%A1chira%20F.C."
+  },
+  {
+    "name": "Caracas",
+    "title": "Caracas F.C.",
+    "kind": "clubs",
+    "slug": "caracas",
+    "image": "Caracas_F.C.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/Caracas_F.C.svg/250px-Caracas_F.C.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Caracas%20F.C."
+  },
+  {
+    "name": "Deportes Tolima",
+    "title": "Deportes Tolima",
+    "kind": "clubs",
+    "slug": "deportes-tolima",
+    "image": "Tolima_Campeón_2018.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tolima_Campe%C3%B3n_2018.png/250px-Tolima_Campe%C3%B3n_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Deportes%20Tolima"
+  },
+  {
+    "name": "Deportivo Cali",
+    "title": "Deportivo Cali",
+    "kind": "clubs",
+    "slug": "deportivo-cali",
+    "image": "Deportivo_Cali.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Deportivo_Cali.svg/250px-Deportivo_Cali.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Deportivo%20Cali"
+  },
+  {
+    "name": "Alianza Lima",
+    "title": "Alianza Lima",
+    "kind": "clubs",
+    "slug": "alianza-lima",
+    "image": "Escudo_Alianza_Lima.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/250px-Escudo_Alianza_Lima.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Alianza%20Lima"
+  },
+  {
+    "name": "Sporting Cristal",
+    "title": "Sporting Cristal",
+    "kind": "clubs",
+    "slug": "sporting-cristal",
+    "image": "Escudo_de_Sporting_Cristal_2025.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Escudo_de_Sporting_Cristal_2025.svg/250px-Escudo_de_Sporting_Cristal_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Sporting%20Cristal"
+  },
+  {
+    "name": "Fortaleza",
+    "title": "Fortaleza Esporte Clube",
+    "kind": "clubs",
+    "slug": "fortaleza",
+    "image": "Fortaleza_Esporte_Clube_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Fortaleza_Esporte_Clube_logo.svg/250px-Fortaleza_Esporte_Clube_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Fortaleza%20Esporte%20Clube"
+  },
+  {
+    "name": "Corinthians",
+    "title": "SC Corinthians Paulista",
+    "kind": "clubs",
+    "slug": "corinthians",
+    "image": "Sport_Club_Corinthians_Paulista_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/250px-Sport_Club_Corinthians_Paulista_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/SC%20Corinthians%20Paulista"
+  },
+  {
+    "name": "Atlético-MG",
+    "title": "Clube Atlético Mineiro",
+    "kind": "clubs",
+    "slug": "atletico-mg",
+    "image": "Clube_Atlético_Mineiro_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/250px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Clube%20Atl%C3%A9tico%20Mineiro"
+  },
+  {
+    "name": "Red Bull Bragantino",
+    "title": "Red Bull Bragantino",
+    "kind": "clubs",
+    "slug": "red-bull-bragantino",
+    "image": "Red_Bull_Bragantino_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/250px-Red_Bull_Bragantino_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Red%20Bull%20Bragantino"
+  },
+  {
+    "name": "América-MG",
+    "title": "América Futebol Clube (MG)",
+    "kind": "clubs",
+    "slug": "america-mg",
+    "image": "América_Futebol_Clube_(Belo_Horizonte,_Minas_Gerais)_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Am%C3%A9rica_Futebol_Clube_%28Belo_Horizonte%2C_Minas_Gerais%29_logo.svg/250px-Am%C3%A9rica_Futebol_Clube_%28Belo_Horizonte%2C_Minas_Gerais%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Am%C3%A9rica%20Futebol%20Clube%20%28MG%29"
+  },
+  {
+    "name": "Santos",
+    "title": "Santos FC",
+    "kind": "clubs",
+    "slug": "santos",
+    "image": "Santos_Futebol_Clube_logo_(with_two_stars_and_a_golden_crown).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Santos_Futebol_Clube_logo_%28with_two_stars_and_a_golden_crown%29.svg/250px-Santos_Futebol_Clube_logo_%28with_two_stars_and_a_golden_crown%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Santos%20FC"
+  },
+  {
+    "name": "Grêmio",
+    "title": "Grêmio FBPA",
+    "kind": "clubs",
+    "slug": "gremio",
+    "image": "Gremio_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/250px-Gremio_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Gr%C3%AAmio%20FBPA"
+  },
+  {
+    "name": "São Paulo",
+    "title": "São Paulo FC",
+    "kind": "clubs",
+    "slug": "sao-paulo",
+    "image": "São_Paulo_Futebol_Clube_logo_(2022).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/S%C3%A3o_Paulo_Futebol_Clube_logo_%282022%29.svg/250px-S%C3%A3o_Paulo_Futebol_Clube_logo_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o%20Paulo%20FC"
+  },
+  {
+    "name": "Internacional",
+    "title": "SC Internacional",
+    "kind": "clubs",
+    "slug": "internacional",
+    "image": "Sport_Club_Internacional_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Sport_Club_Internacional_logo.svg/250px-Sport_Club_Internacional_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/SC%20Internacional"
+  },
+  {
+    "name": "Goiás",
+    "title": "Goiás Esporte Clube",
+    "kind": "clubs",
+    "slug": "goias",
+    "image": "Goiás_Esporte_Clube_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Goi%C3%A1s_Esporte_Clube_logo.svg/250px-Goi%C3%A1s_Esporte_Clube_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Goi%C3%A1s%20Esporte%20Clube"
+  },
+  {
+    "name": "Bahia",
+    "title": "Esporte Clube Bahia",
+    "kind": "clubs",
+    "slug": "bahia",
+    "image": "Esporte_Clube_Bahia_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Esporte_Clube_Bahia_logo.svg/250px-Esporte_Clube_Bahia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Esporte%20Clube%20Bahia"
+  },
+  {
+    "name": "Vasco",
+    "title": "CR Vasco da Gama",
+    "kind": "clubs",
+    "slug": "vasco",
+    "image": "Club_de_Regatas_Vasco_da_Gama_logo_(2021).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a5/Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg/250px-Club_de_Regatas_Vasco_da_Gama_logo_%282021%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/CR%20Vasco%20da%20Gama"
+  },
+  {
+    "name": "Fluminense",
+    "title": "Fluminense FC",
+    "kind": "clubs",
+    "slug": "fluminense",
+    "image": "Fluminense_Football_Club.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Fluminense_Football_Club.svg/250px-Fluminense_Football_Club.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Fluminense%20FC"
+  },
+  {
+    "name": "Botafogo",
+    "title": "Botafogo FR",
+    "kind": "clubs",
+    "slug": "botafogo",
+    "image": "Botafogo_de_Futebol_e_Regatas_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Botafogo%20FR"
+  },
+  {
+    "name": "Ceará",
+    "title": "Ceará Sporting Club",
+    "kind": "clubs",
+    "slug": "ceara",
+    "image": "Ceará_Sporting_Club_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/250px-Cear%C3%A1_Sporting_Club_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Cear%C3%A1%20Sporting%20Club"
+  },
+  {
+    "name": "Cruzeiro",
+    "title": "Cruzeiro EC",
+    "kind": "clubs",
+    "slug": "cruzeiro",
+    "image": "Cruzeiro_Esporte_Clube_(logo).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Cruzeiro%20EC"
+  },
+  {
+    "name": "CSA",
+    "title": "Centro Sportivo Alagoano",
+    "kind": "clubs",
+    "slug": "csa",
+    "image": "Centro_Sportivo_Alagoano.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/89/Centro_Sportivo_Alagoano.svg/250px-Centro_Sportivo_Alagoano.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Centro%20Sportivo%20Alagoano"
+  },
+  {
+    "name": "Chapecoense",
+    "title": "Associação Chapecoense de Futebol",
+    "kind": "clubs",
+    "slug": "chapecoense",
+    "image": "Logo_Associação_Chapecoense_de_Futebol.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.svg/250px-Logo_Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o%20Chapecoense%20de%20Futebol"
+  },
+  {
+    "name": "Avaí",
+    "title": "Avaí FC",
+    "kind": "clubs",
+    "slug": "avai",
+    "image": "Avaí_Futebol_Clube_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ava%C3%AD_Futebol_Clube_logo.svg/250px-Ava%C3%AD_Futebol_Clube_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Ava%C3%AD%20FC"
+  },
+  {
+    "name": "Manchester City",
+    "title": "Manchester City F.C.",
+    "kind": "clubs",
+    "slug": "manchester-city",
+    "image": "Manchester_City_FC_badge.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/250px-Manchester_City_FC_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Manchester%20City%20F.C."
+  },
+  {
+    "name": "Inter",
+    "title": "Inter Milan",
+    "kind": "clubs",
+    "slug": "inter",
+    "image": "FC_Internazionale_Milano_2021.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/250px-FC_Internazionale_Milano_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Inter%20Milan"
+  },
+  {
+    "name": "Real Madrid",
+    "title": "Real Madrid CF",
+    "kind": "clubs",
+    "slug": "real-madrid",
+    "image": "Real_Madrid_CF.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Real%20Madrid%20CF"
+  },
+  {
+    "name": "Milan",
+    "title": "AC Milan",
+    "kind": "clubs",
+    "slug": "milan",
+    "image": "Logo_of_AC_Milan.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/250px-Logo_of_AC_Milan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/AC%20Milan"
+  },
+  {
+    "name": "Bayern",
+    "title": "FC Bayern Munich",
+    "kind": "clubs",
+    "slug": "bayern",
+    "image": "FC_Bayern_München_logo_(2024).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/FC%20Bayern%20Munich"
+  },
+  {
+    "name": "Benfica",
+    "title": "S.L. Benfica",
+    "kind": "clubs",
+    "slug": "benfica",
+    "image": "SL_Benfica_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/250px-SL_Benfica_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/S.L.%20Benfica"
+  },
+  {
+    "name": "Chelsea",
+    "title": "Chelsea F.C.",
+    "kind": "clubs",
+    "slug": "chelsea",
+    "image": "Chelsea_FC.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/250px-Chelsea_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Chelsea%20F.C."
+  },
+  {
+    "name": "Napoli",
+    "title": "SSC Napoli",
+    "kind": "clubs",
+    "slug": "napoli",
+    "image": "SSC_Napoli_2025_(white_and_azure).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/250px-SSC_Napoli_2025_%28white_and_azure%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/SSC%20Napoli"
+  },
+  {
+    "name": "Liverpool",
+    "title": "Liverpool F.C.",
+    "kind": "clubs",
+    "slug": "liverpool",
+    "image": "Liverpool_FC.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/250px-Liverpool_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Liverpool%20F.C."
+  },
+  {
+    "name": "Porto",
+    "title": "FC Porto",
+    "kind": "clubs",
+    "slug": "porto",
+    "image": "FC_Porto.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/250px-FC_Porto.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/FC%20Porto"
+  },
+  {
+    "name": "Tottenham",
+    "title": "Tottenham Hotspur F.C.",
+    "kind": "clubs",
+    "slug": "tottenham",
+    "image": "Tottenham_Hotspur.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/250px-Tottenham_Hotspur.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Tottenham%20Hotspur%20F.C."
+  },
+  {
+    "name": "Borussia Dortmund",
+    "title": "Borussia Dortmund",
+    "kind": "clubs",
+    "slug": "borussia-dortmund",
+    "image": "Borussia_Dortmund_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/250px-Borussia_Dortmund_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Borussia%20Dortmund"
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "title": "Paris Saint-Germain FC",
+    "kind": "clubs",
+    "slug": "paris-saint-germain",
+    "image": "Paris_Saint-Germain_F.C..svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/250px-Paris_Saint-Germain_F.C..svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Paris%20Saint-Germain%20FC"
+  },
+  {
+    "name": "Club Brugge",
+    "title": "Club Brugge KV",
+    "kind": "clubs",
+    "slug": "club-brugge",
+    "image": "Club_Brugge_KV_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/250px-Club_Brugge_KV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Club%20Brugge%20KV"
+  },
+  {
+    "name": "RB Leipzig",
+    "title": "RB Leipzig",
+    "kind": "clubs",
+    "slug": "rb-leipzig",
+    "image": "RB_Leipzig_2014_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/250px-RB_Leipzig_2014_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/RB%20Leipzig"
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "title": "Eintracht Frankfurt",
+    "kind": "clubs",
+    "slug": "eintracht-frankfurt",
+    "image": "Eintracht_Frankfurt_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/250px-Eintracht_Frankfurt_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Eintracht%20Frankfurt"
+  },
+  {
+    "name": "Ajax",
+    "title": "AFC Ajax",
+    "kind": "clubs",
+    "slug": "ajax",
+    "image": "Logo_AFC_Ajax_(1928-1991,_2025-).png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png/250px-Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/AFC%20Ajax"
+  },
+  {
+    "name": "Rangers",
+    "title": "Rangers F.C.",
+    "kind": "clubs",
+    "slug": "rangers",
+    "image": "Rangers_FC.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/250px-Rangers_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Rangers%20F.C."
+  },
+  {
+    "name": "Atlético de Madrid",
+    "title": "Atlético Madrid",
+    "kind": "clubs",
+    "slug": "atletico-de-madrid",
+    "image": "Atletico_Madrid_Logo_2024.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/250px-Atletico_Madrid_Logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Atl%C3%A9tico%20Madrid"
+  },
+  {
+    "name": "Bayer Leverkusen",
+    "title": "Bayer 04 Leverkusen",
+    "kind": "clubs",
+    "slug": "bayer-leverkusen",
+    "image": "Bayer_04_Leverkusen_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/250px-Bayer_04_Leverkusen_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Bayer%2004%20Leverkusen"
+  },
+  {
+    "name": "Barcelona",
+    "title": "FC Barcelona",
+    "kind": "clubs",
+    "slug": "barcelona",
+    "image": "FC_Barcelona_(crest).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/250px-FC_Barcelona_%28crest%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/FC%20Barcelona"
+  },
+  {
+    "name": "Viktoria Plzeň",
+    "title": "FC Viktoria Plzeň",
+    "kind": "clubs",
+    "slug": "viktoria-plzen",
+    "image": "Viktoria_Plzen_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/250px-Viktoria_Plzen_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/FC%20Viktoria%20Plze%C5%88"
+  },
+  {
+    "name": "Sporting",
+    "title": "Sporting CP",
+    "kind": "clubs",
+    "slug": "sporting",
+    "image": "Sporting_Clube_de_Portugal_logo_(2026).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/97/Sporting_Clube_de_Portugal_logo_%282026%29.svg/250px-Sporting_Clube_de_Portugal_logo_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Sporting%20CP"
+  },
+  {
+    "name": "Marseille",
+    "title": "Olympique de Marseille",
+    "kind": "clubs",
+    "slug": "marseille",
+    "image": "Olympique_de_Marseille_2026_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympique_de_Marseille_2026_logo.svg/250px-Olympique_de_Marseille_2026_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Olympique%20de%20Marseille"
+  },
+  {
+    "name": "Salzburg",
+    "title": "FC Red Bull Salzburg",
+    "kind": "clubs",
+    "slug": "salzburg",
+    "image": "FC_Red_Bull_Salzburg_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/250px-FC_Red_Bull_Salzburg_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/FC%20Red%20Bull%20Salzburg"
+  },
+  {
+    "name": "Dinamo Zagreb",
+    "title": "GNK Dinamo Zagreb",
+    "kind": "clubs",
+    "slug": "dinamo-zagreb",
+    "image": "Logo_GNK_Dinamo_Zagreb_(2019).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_GNK_Dinamo_Zagreb_%282019%29.svg/250px-Logo_GNK_Dinamo_Zagreb_%282019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/GNK%20Dinamo%20Zagreb"
+  },
+  {
+    "name": "Shakhtar Donetsk",
+    "title": "FC Shakhtar Donetsk",
+    "kind": "clubs",
+    "slug": "shakhtar-donetsk",
+    "image": "FC_Shakhtar_Donetsk.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/250px-FC_Shakhtar_Donetsk.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/FC%20Shakhtar%20Donetsk"
+  },
+  {
+    "name": "Celtic",
+    "title": "Celtic F.C.",
+    "kind": "clubs",
+    "slug": "celtic",
+    "image": "Celtic_FC_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/250px-Celtic_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Celtic%20F.C."
+  },
+  {
+    "name": "Sevilla",
+    "title": "Sevilla FC",
+    "kind": "clubs",
+    "slug": "sevilla",
+    "image": "Sevilla_FC_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/250px-Sevilla_FC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Sevilla%20FC"
+  },
+  {
+    "name": "Copenhagen",
+    "title": "F.C. Copenhagen",
+    "kind": "clubs",
+    "slug": "copenhagen",
+    "image": "FC_Copenhagen_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/26/FC_Copenhagen_logo.svg/250px-FC_Copenhagen_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/F.C.%20Copenhagen"
+  },
+  {
+    "name": "Juventus",
+    "title": "Juventus FC",
+    "kind": "clubs",
+    "slug": "juventus",
+    "image": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/250px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Juventus%20FC"
+  },
+  {
+    "name": "Maccabi Haifa",
+    "title": "Maccabi Haifa F.C.",
+    "kind": "clubs",
+    "slug": "maccabi-haifa",
+    "image": "Maccabi_Haifa_F.C._logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b6/Maccabi_Haifa_F.C._logo.svg/250px-Maccabi_Haifa_F.C._logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Maccabi%20Haifa%20F.C."
+  },
+  {
+    "name": "Argentina",
+    "title": "Argentina national football team",
+    "kind": "nations",
+    "slug": "argentina",
+    "image": "Argentina_national_football_team_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Argentina_national_football_team_logo.svg/250px-Argentina_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Argentina%20national%20football%20team"
+  },
+  {
+    "name": "França",
+    "title": "France national football team",
+    "kind": "nations",
+    "slug": "franca",
+    "image": "France_national_football_team_seal.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/12/France_national_football_team_seal.svg/250px-France_national_football_team_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/France%20national%20football%20team"
+  },
+  {
+    "name": "Croácia",
+    "title": "Croatia national football team",
+    "kind": "nations",
+    "slug": "croacia",
+    "image": "Croatia_national_football_team_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ea/Croatia_national_football_team_logo.svg/250px-Croatia_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Croatia%20national%20football%20team"
+  },
+  {
+    "name": "Marrocos",
+    "title": "Morocco national football team",
+    "kind": "nations",
+    "slug": "marrocos",
+    "image": "Royal_Moroccan_Football_Federation_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d0/Royal_Moroccan_Football_Federation_logo.svg/250px-Royal_Moroccan_Football_Federation_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Morocco%20national%20football%20team"
+  },
+  {
+    "name": "Brasil",
+    "title": "Brazil national football team",
+    "kind": "nations",
+    "slug": "brasil",
+    "image": "Confederação_Brasileira_de_Futebol_logo_(2020).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_logo_%282020%29.svg/250px-Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_logo_%282020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Brazil%20national%20football%20team"
+  },
+  {
+    "name": "Inglaterra",
+    "title": "England national football team",
+    "kind": "nations",
+    "slug": "inglaterra",
+    "image": "England_national_football_team_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8b/England_national_football_team_crest.svg/250px-England_national_football_team_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/England%20national%20football%20team"
+  },
+  {
+    "name": "Portugal",
+    "title": "Portugal national football team",
+    "kind": "nations",
+    "slug": "portugal",
+    "image": "Portugal_national_football_team_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e4/Portugal_national_football_team_logo.svg/250px-Portugal_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Portugal%20national%20football%20team"
+  },
+  {
+    "name": "Países Baixos",
+    "title": "Netherlands national football team",
+    "kind": "nations",
+    "slug": "paises-baixos",
+    "image": "Netherlands_national_football_team_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/78/Netherlands_national_football_team_logo.svg/250px-Netherlands_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Netherlands%20national%20football%20team"
+  },
+  {
+    "name": "Japão",
+    "title": "Japan national football team",
+    "kind": "nations",
+    "slug": "japao",
+    "image": "Japan_national_football_team_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/84/Japan_national_football_team_crest.svg/250px-Japan_national_football_team_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Japan%20national%20football%20team"
+  },
+  {
+    "name": "Coreia do Sul",
+    "title": "South Korea national football team",
+    "kind": "nations",
+    "slug": "coreia-do-sul",
+    "image": "South_Korea_national_football_team.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/South_Korea_national_football_team.svg/250px-South_Korea_national_football_team.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/South%20Korea%20national%20football%20team"
+  },
+  {
+    "name": "Austrália",
+    "title": "Australia national football team",
+    "kind": "nations",
+    "slug": "australia",
+    "image": "Australia national football team badge.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Australia_national_football_team_badge.svg/250px-Australia_national_football_team_badge.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_national_football_team_badge.svg"
+  },
+  {
+    "name": "Estados Unidos",
+    "title": "United States men's national soccer team",
+    "kind": "nations",
+    "slug": "estados-unidos",
+    "image": "United_States_Soccer_Federation_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/United_States_Soccer_Federation_logo.svg/250px-United_States_Soccer_Federation_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/United%20States%20men%27s%20national%20soccer%20team"
+  },
+  {
+    "name": "Suíça",
+    "title": "Switzerland national football team",
+    "kind": "nations",
+    "slug": "suica",
+    "image": "Swiss_Football_Association_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Swiss_Football_Association_logo.svg/250px-Swiss_Football_Association_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Swiss%20Football%20Association"
+  },
+  {
+    "name": "Senegal",
+    "title": "Senegal national football team",
+    "kind": "nations",
+    "slug": "senegal",
+    "image": "Senegalese_Football_Federation_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/16/Senegalese_Football_Federation_logo.svg/250px-Senegalese_Football_Federation_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Senegalese%20Football%20Federation"
+  },
+  {
+    "name": "Polônia",
+    "title": "Poland national football team",
+    "kind": "nations",
+    "slug": "polonia",
+    "image": "Herb_Polski.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Herb_Polski.svg/250px-Herb_Polski.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Poland%20national%20football%20team"
+  },
+  {
+    "name": "Espanha",
+    "title": "Spain national football team",
+    "kind": "nations",
+    "slug": "espanha",
+    "image": "Spain_national_football_team_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/39/Spain_national_football_team_crest.svg/250px-Spain_national_football_team_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Spain%20national%20football%20team"
+  },
+  {
+    "name": "Alemanha",
+    "title": "Germany national football team",
+    "kind": "nations",
+    "slug": "alemanha",
+    "image": "DFBEagle.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e3/DFBEagle.svg/250px-DFBEagle.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Germany%20national%20football%20team"
+  },
+  {
+    "name": "Bélgica",
+    "title": "Belgium national football team",
+    "kind": "nations",
+    "slug": "belgica",
+    "image": "Royal_Belgian_FA_logo_2019.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f9/Royal_Belgian_FA_logo_2019.svg/250px-Royal_Belgian_FA_logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Belgium%20national%20football%20team"
+  },
+  {
+    "name": "Uruguai",
+    "title": "Uruguay national football team",
+    "kind": "nations",
+    "slug": "uruguai",
+    "image": "Uruguay_national_football_team_seal.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/43/Uruguay_national_football_team_seal.svg/250px-Uruguay_national_football_team_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Uruguay%20national%20football%20team"
+  },
+  {
+    "name": "Gana",
+    "title": "Ghana national football team",
+    "kind": "nations",
+    "slug": "gana",
+    "image": "Ghana_Football_Association_logo_(2001).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9c/Ghana_Football_Association_logo_%282001%29.svg/250px-Ghana_Football_Association_logo_%282001%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Ghana%20national%20football%20team"
+  },
+  {
+    "name": "Camarões",
+    "title": "Cameroon national football team",
+    "kind": "nations",
+    "slug": "camaroes",
+    "image": "Cameroon_2010crest.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/Cameroon_2010crest.png/250px-Cameroon_2010crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Cameroon%20national%20football%20team"
+  },
+  {
+    "name": "Sérvia",
+    "title": "Serbia national football team",
+    "kind": "nations",
+    "slug": "servia",
+    "image": "Football_Association_of_Serbia_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/eb/Football_Association_of_Serbia_logo.svg/250px-Football_Association_of_Serbia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Serbia%20national%20football%20team"
+  },
+  {
+    "name": "Tunísia",
+    "title": "Tunisia national football team",
+    "kind": "nations",
+    "slug": "tunisia",
+    "image": "Tunisia_national_football_team_logo.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c4/Tunisia_national_football_team_logo.png/250px-Tunisia_national_football_team_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Tunisia%20national%20football%20team"
+  },
+  {
+    "name": "Dinamarca",
+    "title": "Denmark national football team",
+    "kind": "nations",
+    "slug": "dinamarca",
+    "image": "Dansk_boldspil_union_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Dansk_boldspil_union_logo.svg/250px-Dansk_boldspil_union_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Denmark%20national%20football%20team"
+  },
+  {
+    "name": "México",
+    "title": "Mexico national football team",
+    "kind": "nations",
+    "slug": "mexico",
+    "image": "Mexico_national_football_team_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3f/Mexico_national_football_team_crest.svg/250px-Mexico_national_football_team_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Mexico%20national%20football%20team"
+  },
+  {
+    "name": "Arábia Saudita",
+    "title": "Saudi Arabia national football team",
+    "kind": "nations",
+    "slug": "arabia-saudita",
+    "image": "Saudi_Arabia_national_football_team_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ee/Saudi_Arabia_national_football_team_logo.svg/250px-Saudi_Arabia_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Saudi%20Arabia%20national%20football%20team"
+  },
+  {
+    "name": "Equador",
+    "title": "Ecuador national football team",
+    "kind": "nations",
+    "slug": "equador",
+    "image": "Logo_de_la_Federación_Ecuatoriana_de_Fútbol_(2).svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg/250px-Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Ecuador%20national%20football%20team"
+  },
+  {
+    "name": "Catar",
+    "title": "Qatar national football team",
+    "kind": "nations",
+    "slug": "catar",
+    "image": "Qatar_Football_Association_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3a/Qatar_Football_Association_logo.svg/250px-Qatar_Football_Association_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Qatar%20Football%20Association"
+  },
+  {
+    "name": "Irã",
+    "title": "Iran national football team",
+    "kind": "nations",
+    "slug": "ira",
+    "image": "Football_Federation_Islamic_Republic_of_Iran_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d6/Football_Federation_Islamic_Republic_of_Iran_logo.svg/250px-Football_Federation_Islamic_Republic_of_Iran_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Iran%20national%20football%20team"
+  },
+  {
+    "name": "País de Gales",
+    "title": "Wales national football team",
+    "kind": "nations",
+    "slug": "pais-de-gales",
+    "image": "Wales_national_football_team_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/dc/Wales_national_football_team_logo.svg/250px-Wales_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Wales%20national%20football%20team"
+  },
+  {
+    "name": "Costa Rica",
+    "title": "Costa Rica national football team",
+    "kind": "nations",
+    "slug": "costa-rica",
+    "image": "Costa_Rica_national_football_team_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/250px-Costa_Rica_national_football_team_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Costa%20Rica%20national%20football%20team"
+  },
+  {
+    "name": "Canadá",
+    "title": "Canada men's national soccer team",
+    "kind": "nations",
+    "slug": "canada",
+    "image": "Canadian_Soccer_Association_logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Canadian_Soccer_Association_logo.svg/250px-Canadian_Soccer_Association_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Canada%20men%27s%20national%20soccer%20team"
+  },
+  {
+    "name": "Manchester United",
+    "title": "Manchester United F.C.",
+    "kind": "clubs",
+    "slug": "manchester-united",
+    "image": "Manchester_United_FC_crest.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/250px-Manchester_United_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Manchester%20United%20F.C."
+  }
+]

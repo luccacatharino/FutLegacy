@@ -1,86 +1,5 @@
 [
   {
-    "id": "messi",
-    "file": "assets/photos/messi.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_close-up.jpg",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lionel_Messi_close-up.jpg/500px-Lionel_Messi_close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "metadata": {
-      "DateTime": {
-        "value": "2012-12-23 06:11:33",
-        "source": "mediawiki-metadata",
-        "hidden": ""
-      },
-      "ObjectName": {
-        "value": "Lionel Messi close-up",
-        "source": "mediawiki-metadata"
-      },
-      "CommonsMetadataExtension": {
-        "value": 1.2,
-        "source": "extension",
-        "hidden": ""
-      },
-      "Categories": {
-        "value": "Files with derivative versions|Lionel Messi in 2011|Portrait photographs of Lionel Messi",
-        "source": "commons-categories",
-        "hidden": ""
-      },
-      "Assessments": {
-        "value": "",
-        "source": "commons-categories",
-        "hidden": ""
-      },
-      "ImageDescription": {
-        "value": "Lionel Messi close-up.",
-        "source": "commons-desc-page"
-      },
-      "DateTimeOriginal": {
-        "value": "2012-12-23",
-        "source": "commons-desc-page"
-      },
-      "Credit": {
-        "value": "<a href=\"//commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_(L),_Lionel_Messi_(R)_%E2%80%93_Portugal_vs._Argentina,_9th_February_2011_(1).jpg\" title=\"File:Cristiano Ronaldo (L), Lionel Messi (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg\">File:Cristiano Ronaldo (L), Lionel Messi (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg</a>",
-        "source": "commons-desc-page"
-      },
-      "Artist": {
-        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Inisheer\" title=\"User:Inisheer\">Fanny Schertzer</a>",
-        "source": "commons-desc-page"
-      },
-      "LicenseShortName": {
-        "value": "CC BY-SA 3.0",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "UsageTerms": {
-        "value": "Creative Commons Attribution-Share Alike 3.0",
-        "source": "commons-desc-page"
-      },
-      "AttributionRequired": {
-        "value": "true",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "LicenseUrl": {
-        "value": "https://creativecommons.org/licenses/by-sa/3.0",
-        "source": "commons-desc-page"
-      },
-      "Copyrighted": {
-        "value": "True",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "Restrictions": {
-        "value": "",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "License": {
-        "value": "cc-by-sa-3.0",
-        "source": "commons-templates",
-        "hidden": ""
-      }
-    }
-  },
-  {
     "id": "cr7",
     "file": "assets/photos/cr7.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2018.jpg",
@@ -329,156 +248,6 @@
     }
   },
   {
-    "id": "File:UEFA Champions League logo.svg",
-    "source": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo.svg",
-    "metadata": {
-      "DateTime": {
-        "value": "2021-04-25 21:21:25",
-        "source": "mediawiki-metadata",
-        "hidden": ""
-      },
-      "ObjectName": {
-        "value": "UEFA Champions League logo",
-        "source": "mediawiki-metadata"
-      },
-      "CommonsMetadataExtension": {
-        "value": 1.2,
-        "source": "extension",
-        "hidden": ""
-      },
-      "Categories": {
-        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Inkscape:Text logos|Logos of the UEFA Champions League|SVG logos of UEFA",
-        "source": "commons-categories",
-        "hidden": ""
-      },
-      "Assessments": {
-        "value": "",
-        "source": "commons-categories",
-        "hidden": ""
-      },
-      "ImageDescription": {
-        "value": "This is the logo of the UEFA Champions League, a football competition organised by UEFA.",
-        "source": "commons-desc-page"
-      },
-      "DateTimeOriginal": {
-        "value": "2012",
-        "source": "commons-desc-page"
-      },
-      "Credit": {
-        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://img.uefa.com/imgml/uefacom/ucl/logo_light.svg\">https://img.uefa.com/imgml/uefacom/ucl/logo_light.svg</a>",
-        "source": "commons-desc-page"
-      },
-      "Artist": {
-        "value": "UEFA",
-        "source": "commons-desc-page"
-      },
-      "LicenseShortName": {
-        "value": "Public domain",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "UsageTerms": {
-        "value": "Public domain",
-        "source": "commons-desc-page"
-      },
-      "AttributionRequired": {
-        "value": "false",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "Copyrighted": {
-        "value": "False",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "Restrictions": {
-        "value": "trademarked",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "License": {
-        "value": "pd",
-        "source": "commons-templates",
-        "hidden": ""
-      }
-    }
-  },
-  {
-    "id": "File:FIFA World Cup wordmark (2023).svg",
-    "source": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_wordmark_(2023).svg",
-    "metadata": {
-      "DateTime": {
-        "value": "2025-11-23 09:23:22",
-        "source": "mediawiki-metadata",
-        "hidden": ""
-      },
-      "ObjectName": {
-        "value": "FIFA World Cup wordmark (2023)",
-        "source": "mediawiki-metadata"
-      },
-      "CommonsMetadataExtension": {
-        "value": 1.2,
-        "source": "extension",
-        "hidden": ""
-      },
-      "Categories": {
-        "value": "FIFA World Cup|With trademark|PD textlogo|SVG text logos|SVG logos of FIFA",
-        "source": "commons-categories",
-        "hidden": ""
-      },
-      "Assessments": {
-        "value": "",
-        "source": "commons-categories",
-        "hidden": ""
-      },
-      "ImageDescription": {
-        "value": "The wordmark for the FIFA World Cup introduced in 2023.",
-        "source": "commons-desc-page"
-      },
-      "DateTimeOriginal": {
-        "value": "2023",
-        "source": "commons-desc-page"
-      },
-      "Credit": {
-        "value": "Logopedia Fandom",
-        "source": "commons-desc-page"
-      },
-      "Artist": {
-        "value": "FIFA",
-        "source": "commons-desc-page"
-      },
-      "LicenseShortName": {
-        "value": "Public domain",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "UsageTerms": {
-        "value": "Public domain",
-        "source": "commons-desc-page"
-      },
-      "AttributionRequired": {
-        "value": "false",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "Copyrighted": {
-        "value": "False",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "Restrictions": {
-        "value": "trademarked",
-        "source": "commons-desc-page",
-        "hidden": ""
-      },
-      "License": {
-        "value": "pd",
-        "source": "commons-templates",
-        "hidden": ""
-      }
-    }
-  },
-  {
     "id": "File:Campeonato Brasileiro Série A logo (2024).svg",
     "source": "https://commons.wikimedia.org/wiki/File:Campeonato_Brasileiro_S%C3%A9rie_A_logo_(2024%E2%80%932026).svg",
     "metadata": {
@@ -592,6 +361,226 @@
       },
       "UsageTerms": {
         "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Copa_Libertadores\" title=\"Copa Libertadores\">Copa Libertadores</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "messi",
+    "file": "assets/photos/messi-2022.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_WC2022.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-12-02 23:04:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lionel Messi WC2022",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Files from external sources with reviewed licenses|2022 FIFA World Cup Match 24, Argentina v Mexico|Photos by Hossein Zohrevand for Tasnim News Agency|Lionel Messi in 2022|Sportspeople with tattoos|Portrait photographs of Lionel Messi|Photos from Tasnim News Agency",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Argentina FOOTBALL Messi con la <a href=\"https://en.wikipedia.org/wiki/it:nazionale_argentina\" class=\"extiw\" title=\"w:it:nazionale argentina\">w:it:nazionale argentina</a> durante i <a href=\"https://en.wikipedia.org/wiki/it:Mondiali_del_2022\" class=\"extiw\" title=\"w:it:Mondiali del 2022\">w:it:Mondiali del 2022</a> i Qatar",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-12-02 23:45:50",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.tasnimnews.ir/fa/media/1401/09/06/2812523/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%AA%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-%D9%88-%D9%85%DA%A9%D8%B2%DB%8C%DA%A9-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-2022-%D9%82%D8%B7%D8%B1#photo=43\">Original photo</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.tasnimnews.ir\">Tasnim News Agency</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "File:UEFA Champions League logo no text.svg",
+    "file": "assets/logos/ucl-starball.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo_no_text.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-06-02 10:01:07",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "UEFA Champions League logo no text",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Logos of the UEFA Champions League|SVG logos of UEFA",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of the UEFA Champions League without text",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-06-02",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.uefa.com/uefachampionsleague/\">https://www.uefa.com/uefachampionsleague/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "UEFA",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "File:2026 FIFA World Cup emblem.svg",
+    "file": "assets/logos/wc-2026.png",
+    "source": "https://en.wikipedia.org/wiki/File:2026_FIFA_World_Cup_emblem.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-08-10 21:57:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2026 FIFA World Cup emblem",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "FIFA World Cup logos|All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|SVGs containing raster graphics|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://kansascityfwc26.com/fifa-world-cup-26-official-brand-unveiled-in-a-celebration-of-football-and-diversity/\">https://kansascityfwc26.com/fifa-world-cup-26-official-brand-unveiled-in-a-celebration-of-football-and-diversity/</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/2026_FIFA_World_Cup\" title=\"2026 FIFA World Cup\">2026 FIFA World Cup</a>",
         "source": "commons-desc-page"
       },
       "NonFree": {

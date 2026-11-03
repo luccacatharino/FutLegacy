@@ -1,0 +1,77 @@
+{
+  "continue": {
+    "iistart": "2026-08-06T10:49:59Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": {
+      "73836613": {
+        "pageid": 73836613,
+        "ns": 6,
+        "title": "File:2026 FIFA World Cup emblem.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/en/1/17/2026_FIFA_World_Cup_emblem.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://en.wikipedia.org/wiki/File:2026_FIFA_World_Cup_emblem.svg",
+            "descriptionshorturl": "https://en.wikipedia.org/w/index.php?curid=73836613",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-10 21:57:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2026 FIFA World Cup emblem",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "FIFA World Cup logos|All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|SVGs containing raster graphics|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://kansascityfwc26.com/fifa-world-cup-26-official-brand-unveiled-in-a-celebration-of-football-and-diversity/\">https://kansascityfwc26.com/fifa-world-cup-26-official-brand-unveiled-in-a-celebration-of-football-and-diversity/</a>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Fair use",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/2026_FIFA_World_Cup\" title=\"2026 FIFA World Cup\">2026 FIFA World Cup</a>",
+                "source": "commons-desc-page"
+              },
+              "NonFree": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -66,3 +66,11 @@ Pasta local principal desta entrega: `Área de Trabalho/projetos/futlegacy`. Ref
 ## Revisão 2 — jogador e posição
 
 O draft agora mostra todas as posições naturais da carta, destaca no campo as vagas disponíveis e permite cancelar uma seleção antes de posicionar. Rerolls descartam a oferta e a seleção pendente. OVR e atributos foram revistos nas 176 cartas, com valores próprios para cada contexto, sem copiar notas do 7a0 ou de jogos comerciais. Critérios, exemplos, fontes e tratamento das campanhas antigas estão em [docs/AVALIACOES.md](docs/AVALIACOES.md).
+
+## Interface preta e azul — revisão 3
+
+A seleção de formação tem um mini campo que atualiza imediatamente ao escolher 4-3-3, 4-4-2 ou 3-5-2. A mesma distribuição é usada no draft, na revisão e no Hall. As regras de seleção de jogadores, posições naturais, improvisações, raridades e avaliações contextuais são preservadas.
+
+Foram adicionados 111 escudos locais ao lado dos nomes nos sorteios, nas tabelas, nos confrontos, nos placares e nas cartas do histórico. A Copa usa a logo de 2026 com a taça; a Champions usa exclusivamente o símbolo de estrelas da logo, sem texto. A foto principal do Messi é da Copa de 2022. A caixa da logo do Brasileirão contém a imagem inteira, sem transbordamento.
+
+Organização: `assets/badges/clubs`, `assets/badges/nations`, `assets/logos`, `assets/photos`. Fontes em `docs/CREDITOS.html`, `docs/ESCUDOS.html` e arquivos JSON correspondentes. Escudos identificam clubes e federações, sem afirmar que cada desenho corresponde à variante exata do ano da carta.
