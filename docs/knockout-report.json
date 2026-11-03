@@ -1,0 +1,14 @@
+{
+  "twoLegged": [
+    "lib",
+    "ucl"
+  ],
+  "singleFinal": true,
+  "worldCupSingleLeg": true,
+  "awayGoals": false,
+  "penaltiesOnlyAfterAggregateDraw": true,
+  "unequalReturnScoreCanNeedPenalties": true,
+  "firstLegCannotEliminate": true,
+  "saveBetweenLegs": true,
+  "legacyKnockoutsPreserved": true
+}

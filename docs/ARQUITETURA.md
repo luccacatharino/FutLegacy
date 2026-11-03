@@ -44,3 +44,7 @@ O Hall guarda até 50 campanhas e snapshots das cartas para que mudanças futura
 ## Conferência no navegador publicado
 
 A URL com `?qa=1` usa uma chave de armazenamento isolada (`futlegacy-qa-v3`) com as mesmas regras, dados e motor. Serve para testar uma campanha inteira sem sobrescrever a campanha normal do usuário. Não altera probabilidades, atributos ou resultados.
+
+## Eliminatórias com duas partidas
+
+Formato 3: knockoutRounds guarda pares, índice da fase, rodada inicial e número de jogos. As duas rodadas são agendadas antes da ida, invertendo mandos na volta. O agregado fica na orientação dos times da partida atual; tieSummary normaliza para a orientação da chave. Somente a última perna decide classificação e pênaltis; não há gol fora. A final e a Copa usam uma partida. Saves na fase de grupos são migrados; eliminatórias antigas já iniciadas mantêm sua programação. O agregado ao vivo soma somente o resultado da ida ao placar dos eventos já mostrados, sem revelar o resultado futuro.

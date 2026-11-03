@@ -4,7 +4,7 @@ FL.simulate=(home,away,seed,style='Equilibrado',captureEvents=true)=>{
  const r=FL.rng(seed),teams=[home,away],styles=Array.isArray(style)?style:[style,away.style||'Equilibrado'];
  const stats=[0,1].map(()=>({shots:0,on:0,passes:0,attempts:0,saves:0,tackles:0,corners:0,possession:0,xg:0})),score=[0,0],events=[],goals=[],ratings={},players=teams.map(t=>t.cards),shapes=teams.map(t=>t.formation||'4-3-3');
  const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
- const attr=(s,i,k)=>{let p=players[s][i];return (p.attrs[k]??p.ovr)*(teams.some(t=>t.id==='me')&&teams[s].id!=='me'?.98:1)*FL.fit(p,FL.formations[shapes[s]][i])};
+ const attr=(s,i,k)=>{let p=players[s][i];return (p.attrs[k]??p.ovr)*(teams.some(t=>t.id==='me')&&teams[s].id!=='me'?.96:1)*FL.fit(p,FL.formations[shapes[s]][i])};
  const avg=(s,k,ids)=>ids.length?ids.reduce((n,i)=>n+attr(s,i,k),0)/ids.length:teams[s].ovr;
  const field=players.map(ps=>ps.map((p,i)=>i).filter(i=>!FL.positions(ps[i]).includes('GOL'))),keepers=players.map(ps=>Math.max(0,ps.findIndex(p=>FL.positions(p).includes('GOL'))));
  const teamAttack=s=>avg(s,'pas',field[s])*.45+avg(s,'dri',field[s])*.25+teams[s].ovr*.3;
