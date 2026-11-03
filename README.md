@@ -16,7 +16,7 @@ Raridades de elenco: comum 60%, competitivo 28%, elite 10%, lendário 2%. Não e
 - Quatro competições, três formações e cinco estilos.
 - 16 elencos com onze cartas cada, IDs contextuais e avaliações editoriais próprias.
 - Arrascaeta: Flamengo 2022 / Libertadores 90; Uruguai 2022 / Copa 83.
-- Draft com vagas, elegibilidade, ausência de duplicatas e troca de posições com eficiência de 94% ou 82%. Goleiros exclusivamente no gol.
+- Draft em duas etapas: selecionar o jogador e escolher uma de suas posições no campo. Posições naturais, incluindo secundárias, têm 100% de eficiência; improvisações próximas têm 88%. Vagas incompatíveis são bloqueadas e goleiros atuam exclusivamente no gol.
 - Brasileirão: 20 equipes, 38 rodadas, 380 confrontos, turno/returno; classificação completa.
 - Copas: 32 equipes, oito grupos, dois classificados por grupo e chaveamento cruzado. Grupos da Copa em turno único (finalista joga sete partidas). Libertadores e Champions têm seis rodadas de grupos. Mata-mata simplificado em jogo único, empate decidido por pênaltis.
 - Motor determinístico por semente com eventos de posse, passes, conduções, dribles, cruzamentos, desarmes, interceptações, chutes, defesas, escanteios e gols. Estatísticas derivam dos eventos.
@@ -30,7 +30,7 @@ Esta é a primeira versão funcional, não a conclusão de todos os refinamentos
 
 - Banco inicial enxuto: quatro elencos por competição, um por raridade. Expandir temporadas, variedade de comuns e quantidade de atletas por elenco. Ver `docs/FONTES.md`.
 - Adversários sem cartas completas usam modelos de força e atribuem o marcador ao ataque da equipe, sem inventar nomes de atletas. Precisam de elencos individuais para autoria completa de gols e assistências.
-- Avaliações têm perfis por posição derivados do OVR editorial. Ainda falta calibrar individualmente os seis atributos e os atributos de goleiro com pesquisa aprofundada.
+- A revisão 2 substitui os atributos derivados do OVR por 176 fichas individuais, com posições e avaliações editoriais por equipe/temporada/competição. A precisão das posições secundárias e a calibração estatística continuam abertas a refinamento; ver `docs/AVALIACOES.md`.
 - Motor inicial usa sobretudo força efetiva, finalização, estilo e química; não modela individualmente todas as interações dos atributos. Tática é assimétrica para jogos em que o usuário é visitante; corrigir antes de considerar o balanceamento final.
 - Mini campo tem movimentos suaves por faixas e bola seguindo eventos; falta coreografia física específica para cada passe, chute, cruzamento, defesa e escanteio. Movimentos ainda não reproduzem trajetórias táticas individuais das três formações. Não há física de futebol de botão.
 - Melhor da partida é uma estimativa por gols e assistências; Hall registra o melhor da última partida, ainda não um prêmio agregado de toda a campanha. Falta ranking completo de artilheiros e assistentes da competição.
@@ -40,7 +40,8 @@ Esta é a primeira versão funcional, não a conclusão de todos os refinamentos
 - Falta QA exaustivo de acessibilidade, dispositivos móveis e recuperação de versões futuras dos saves. Há limite por quantidade de campanhas, sem política adicional por bytes.
 
 ## Código
-- `js/data.js`: elencos, cartas, raridades, posições, regras de química.
+- `js/profiles.js`: fichas individuais com posições, OVR contextual e atributos.
+- `js/data.js`: elencos, cartas, raridades, elegibilidade, posicionamento e química.
 - `js/engine.js`: eventos determinísticos, calendário, classificação.
 - `js/tournament.js`: grupos, rodadas e progressão.
 - `js/app.js`: telas, reprodução e persistência.
@@ -57,7 +58,11 @@ Os torneios são históricos fictícios: misturam equipes de anos diferentes, n�
 
 ## Interface de draft e arquivos locais
 
-O draft agora mostra um campo vertical clicável com posições específicas para 4-3-3, 4-4-2 e 3-5-2, ofertas em lista e resumo do time. Clique em uma vaga livre antes de escolher um jogador. As fotos de Messi, Cristiano Ronaldo, Mbappé e Neymar e as logos das competições ficam em `assets/`, sem chamadas externas para jogar. Fontes e licenças estão em `docs/CREDITOS.html` e `docs/asset-sources.json`.
+O draft agora mostra um campo vertical clicável com posições específicas para 4-3-3, 4-4-2 e 3-5-2, ofertas em lista e resumo do time. Clique em um jogador e depois escolha uma vaga compatível no campo. A carta só entra no time ao posicioná-la. As fotos de Messi, Cristiano Ronaldo, Mbappé e Neymar e as logos das competições ficam em `assets/`, sem chamadas externas para jogar. Fontes e licenças estão em `docs/CREDITOS.html` e `docs/asset-sources.json`.
 
-Pasta local principal desta entrega: `outputs/projetos/futlegacy`. Referências e versões anteriores ficam em subpastas dentro de `projetos/futlegacy`.
+Pasta local principal desta entrega: `Área de Trabalho/projetos/futlegacy`. Referências e versões anteriores ficam em subpastas dentro de `projetos/futlegacy`.
 
+
+## Revisão 2 — jogador e posição
+
+O draft agora mostra todas as posições naturais da carta, destaca no campo as vagas disponíveis e permite cancelar uma seleção antes de posicionar. Rerolls descartam a oferta e a seleção pendente. OVR e atributos foram revistos nas 176 cartas, com valores próprios para cada contexto, sem copiar notas do 7a0 ou de jogos comerciais. Critérios, exemplos, fontes e tratamento das campanhas antigas estão em [docs/AVALIACOES.md](docs/AVALIACOES.md).
