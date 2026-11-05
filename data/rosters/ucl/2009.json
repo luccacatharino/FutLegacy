@@ -43,5 +43,35 @@
       "ucl-barcelona-2009-jose-manuel-pinto",
       "ucl-barcelona-2009-marc-muniesa"
     ]
+  },
+  {
+    "name": "Manchester United",
+    "year": 2009,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2009_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-manchester-united-2009-edwin-van-der-sar",
+      "ucl-manchester-united-2009-john-o-shea",
+      "ucl-manchester-united-2009-rio-ferdinand",
+      "ucl-manchester-united-2009-nemanja-vidic",
+      "ucl-manchester-united-2009-patrice-evra",
+      "ucl-manchester-united-2009-anderson",
+      "ucl-manchester-united-2009-michael-carrick",
+      "ucl-manchester-united-2009-ryan-giggs",
+      "ucl-manchester-united-2009-park-ji-sung",
+      "ucl-manchester-united-2009-wayne-rooney",
+      "ucl-manchester-united-2009-cristiano-ronaldo",
+      "ucl-manchester-united-2009-tomasz-kuszczak",
+      "ucl-manchester-united-2009-rafael",
+      "ucl-manchester-united-2009-jonny-evans",
+      "ucl-manchester-united-2009-nani",
+      "ucl-manchester-united-2009-paul-scholes",
+      "ucl-manchester-united-2009-dimitar-berbatov",
+      "ucl-manchester-united-2009-carlos-tevez"
+    ]
   }
 ]

@@ -44,5 +44,28 @@
       "lib-velez-sarsfield-1994-hector-almandoz",
       "lib-velez-sarsfield-1994-mauricio-pellegrino"
     ]
+  },
+  {
+    "name": "São Paulo",
+    "year": 1994,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-sao-paulo-1994-zetti",
+      "lib-sao-paulo-1994-vitor",
+      "lib-sao-paulo-1994-junior-baiano",
+      "lib-sao-paulo-1994-gilmar",
+      "lib-sao-paulo-1994-andre-luiz",
+      "lib-sao-paulo-1994-valber",
+      "lib-sao-paulo-1994-axel",
+      "lib-sao-paulo-1994-cafu",
+      "lib-sao-paulo-1994-palhinha",
+      "lib-sao-paulo-1994-muller",
+      "lib-sao-paulo-1994-euller"
+    ]
   }
 ]

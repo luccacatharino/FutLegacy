@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 74,
-      "dri": 42,
-      "def": 29,
-      "fis": 79,
-      "ref": 91,
-      "han": 87,
-      "pos": 88,
-      "div": 89,
-      "kic": 74,
-      "one": 86
+      "pas": 76,
+      "dri": 43,
+      "def": 30,
+      "fis": 81,
+      "ref": 93,
+      "han": 89,
+      "pos": 90,
+      "div": 91,
+      "kic": 76,
+      "one": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-espanha-2010-iker-casillas",
     "team": "Espanha",
@@ -32,16 +32,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 87,
-      "fin": 63,
-      "pas": 78,
-      "dri": 82,
-      "def": 86,
-      "fis": 78
+      "vel": 89,
+      "fin": 64,
+      "pas": 80,
+      "dri": 84,
+      "def": 88,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-espanha-2010-sergio-ramos",
     "team": "Espanha",
@@ -53,16 +53,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 69,
-      "fin": 53,
-      "pas": 69,
-      "dri": 58,
-      "def": 86,
-      "fis": 87
+      "vel": 71,
+      "fin": 54,
+      "pas": 71,
+      "dri": 59,
+      "def": 88,
+      "fis": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-espanha-2010-gerard-pique",
     "team": "Espanha",
@@ -74,16 +74,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 70,
-      "fin": 54,
-      "pas": 70,
-      "dri": 59,
-      "def": 87,
-      "fis": 88
+      "vel": 72,
+      "fin": 55,
+      "pas": 72,
+      "dri": 60,
+      "def": 89,
+      "fis": 90
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "wc-espanha-2010-carles-puyol",
     "team": "Espanha",
@@ -95,16 +95,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 88,
-      "fin": 57,
-      "pas": 79,
-      "dri": 76,
-      "def": 80,
-      "fis": 73
+      "vel": 90,
+      "fin": 58,
+      "pas": 81,
+      "dri": 78,
+      "def": 82,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-espanha-2010-joan-capdevila",
     "team": "Espanha",
@@ -116,16 +116,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 79,
-      "fin": 64,
-      "pas": 86,
-      "dri": 82,
-      "def": 85,
-      "fis": 85
+      "vel": 81,
+      "fin": 65,
+      "pas": 88,
+      "dri": 84,
+      "def": 87,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-espanha-2010-sergio-busquets",
     "team": "Espanha",
@@ -138,16 +138,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 82,
-      "fin": 72,
-      "pas": 90,
-      "dri": 89,
-      "def": 69,
-      "fis": 79
+      "vel": 84,
+      "fin": 74,
+      "pas": 92,
+      "dri": 91,
+      "def": 71,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-espanha-2010-xabi-alonso",
     "team": "Espanha",
@@ -160,16 +160,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 92,
     "attrs": {
-      "vel": 68,
-      "fin": 68,
-      "pas": 92,
-      "dri": 85,
-      "def": 71,
-      "fis": 62
+      "vel": 70,
+      "fin": 70,
+      "pas": 94,
+      "dri": 87,
+      "def": 73,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 96,
     "id": "wc-espanha-2010-xavi",
     "team": "Espanha",
@@ -182,16 +182,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 85,
-      "fin": 87,
-      "pas": 91,
-      "dri": 93,
-      "def": 47,
-      "fis": 75
+      "vel": 87,
+      "fin": 89,
+      "pas": 93,
+      "dri": 95,
+      "def": 48,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "wc-espanha-2010-andres-iniesta",
     "team": "Espanha",
@@ -204,16 +204,16 @@
       "PD",
       "PE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 88,
-      "fin": 86,
-      "pas": 78,
-      "dri": 89,
-      "def": 36,
-      "fis": 71
+      "vel": 90,
+      "fin": 88,
+      "pas": 80,
+      "dri": 91,
+      "def": 37,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-espanha-2010-pedro",
     "team": "Espanha",
@@ -226,16 +226,16 @@
       "ATA",
       "PE"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 84,
-      "fin": 93,
-      "pas": 74,
-      "dri": 83,
-      "def": 40,
-      "fis": 85
+      "vel": 86,
+      "fin": 95,
+      "pas": 76,
+      "dri": 85,
+      "def": 41,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-espanha-2010-david-villa",
     "team": "Espanha",
@@ -247,22 +247,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 60,
-      "dri": 35,
-      "def": 22,
-      "fis": 72,
-      "ref": 83,
-      "han": 79,
-      "pos": 80,
-      "div": 81,
-      "kic": 66,
-      "one": 78
+      "pas": 62,
+      "dri": 36,
+      "def": 23,
+      "fis": 74,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 68,
+      "one": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-paises-baixos-2010-maarten-stekelenburg",
     "team": "Países Baixos",
@@ -274,16 +274,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 80,
-      "fin": 55,
-      "pas": 71,
-      "dri": 75,
-      "def": 72,
-      "fis": 71
+      "vel": 82,
+      "fin": 56,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-paises-baixos-2010-gregory-van-der-wiel",
     "team": "Países Baixos",
@@ -295,16 +295,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 58,
-      "fin": 42,
-      "pas": 58,
-      "dri": 47,
-      "def": 82,
-      "fis": 76
+      "vel": 60,
+      "fin": 43,
+      "pas": 60,
+      "dri": 48,
+      "def": 84,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-paises-baixos-2010-john-heitinga",
     "team": "Países Baixos",
@@ -316,16 +316,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 63,
-      "fin": 40,
-      "pas": 63,
-      "dri": 45,
-      "def": 80,
-      "fis": 81
+      "vel": 65,
+      "fin": 41,
+      "pas": 65,
+      "dri": 46,
+      "def": 82,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-paises-baixos-2010-joris-mathijsen",
     "team": "Países Baixos",
@@ -337,16 +337,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 83,
-      "fin": 58,
-      "pas": 74,
-      "dri": 78,
-      "def": 75,
-      "fis": 74
+      "vel": 85,
+      "fin": 59,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-paises-baixos-2010-giovanni-van-bronckhorst",
     "team": "Países Baixos",
@@ -358,16 +358,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 70,
-      "fin": 61,
-      "pas": 77,
-      "dri": 73,
-      "def": 76,
-      "fis": 76
+      "vel": 72,
+      "fin": 63,
+      "pas": 79,
+      "dri": 75,
+      "def": 78,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-paises-baixos-2010-nigel-de-jong",
     "team": "Países Baixos",
@@ -380,16 +380,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 62,
-      "pas": 78,
-      "dri": 74,
-      "def": 77,
-      "fis": 77
+      "vel": 74,
+      "fin": 64,
+      "pas": 80,
+      "dri": 76,
+      "def": 79,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-paises-baixos-2010-mark-van-bommel",
     "team": "Países Baixos",
@@ -402,16 +402,16 @@
       "PD",
       "PE"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 88,
-      "fin": 86,
-      "pas": 78,
-      "dri": 89,
-      "def": 43,
-      "fis": 71
+      "vel": 90,
+      "fin": 88,
+      "pas": 80,
+      "dri": 91,
+      "def": 44,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-paises-baixos-2010-arjen-robben",
     "team": "Países Baixos",
@@ -424,16 +424,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 83,
-      "fin": 85,
-      "pas": 89,
-      "dri": 91,
-      "def": 51,
-      "fis": 73
+      "vel": 85,
+      "fin": 87,
+      "pas": 91,
+      "dri": 93,
+      "def": 52,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-paises-baixos-2010-wesley-sneijder",
     "team": "Países Baixos",
@@ -447,16 +447,16 @@
       "ATA",
       "MD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 83,
-      "fin": 81,
-      "pas": 73,
-      "dri": 84,
-      "def": 38,
-      "fis": 66
+      "vel": 85,
+      "fin": 83,
+      "pas": 75,
+      "dri": 86,
+      "def": 39,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-paises-baixos-2010-dirk-kuyt",
     "team": "Países Baixos",
@@ -468,16 +468,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 78,
-      "fin": 80,
-      "pas": 68,
-      "dri": 70,
-      "def": 34,
-      "fis": 72
+      "vel": 80,
+      "fin": 82,
+      "pas": 70,
+      "dri": 72,
+      "def": 35,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-paises-baixos-2010-robin-van-persie",
     "team": "Países Baixos",
@@ -489,22 +489,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 64,
-      "dri": 32,
+      "pas": 66,
+      "dri": 33,
       "def": 19,
-      "fis": 69,
-      "ref": 82,
-      "han": 78,
-      "pos": 79,
-      "div": 80,
-      "kic": 65,
-      "one": 77
+      "fis": 71,
+      "ref": 84,
+      "han": 80,
+      "pos": 81,
+      "div": 82,
+      "kic": 67,
+      "one": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-gana-2010-richard-kingson",
     "team": "Gana",
@@ -516,16 +516,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 76,
-      "fin": 52,
-      "pas": 74,
-      "dri": 71,
-      "def": 75,
-      "fis": 68
+      "vel": 78,
+      "fin": 53,
+      "pas": 76,
+      "dri": 73,
+      "def": 77,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-gana-2010-john-pantsil",
     "team": "Gana",
@@ -537,16 +537,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 66,
-      "fin": 43,
-      "pas": 66,
-      "dri": 48,
-      "def": 83,
-      "fis": 77
+      "vel": 68,
+      "fin": 44,
+      "pas": 68,
+      "dri": 49,
+      "def": 85,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-gana-2010-john-mensah",
     "team": "Gana",
@@ -559,16 +559,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 63,
-      "fin": 40,
-      "pas": 63,
-      "dri": 45,
-      "def": 80,
-      "fis": 74
+      "vel": 65,
+      "fin": 41,
+      "pas": 65,
+      "dri": 46,
+      "def": 82,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-gana-2010-isaac-vorsah",
     "team": "Gana",
@@ -580,16 +580,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 78,
-      "fin": 53,
-      "pas": 69,
-      "dri": 73,
-      "def": 70,
-      "fis": 69
+      "vel": 80,
+      "fin": 54,
+      "pas": 71,
+      "dri": 75,
+      "def": 72,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-gana-2010-hans-sarpei",
     "team": "Gana",
@@ -602,16 +602,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 69,
-      "fin": 59,
-      "pas": 75,
-      "dri": 71,
-      "def": 81,
-      "fis": 74
+      "vel": 71,
+      "fin": 61,
+      "pas": 77,
+      "dri": 73,
+      "def": 83,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-gana-2010-anthony-annan",
     "team": "Gana",
@@ -624,16 +624,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 75,
-      "fin": 72,
-      "pas": 83,
-      "dri": 82,
-      "def": 62,
-      "fis": 73
+      "vel": 77,
+      "fin": 74,
+      "pas": 85,
+      "dri": 84,
+      "def": 64,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-gana-2010-kevin-prince-boateng",
     "team": "Gana",
@@ -646,16 +646,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 69,
-      "pas": 87,
-      "dri": 79,
-      "def": 66,
-      "fis": 70
+      "vel": 74,
+      "fin": 71,
+      "pas": 89,
+      "dri": 81,
+      "def": 68,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-gana-2010-kwadwo-asamoah",
     "team": "Gana",
@@ -668,16 +668,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 76,
-      "fin": 66,
-      "pas": 84,
-      "dri": 76,
-      "def": 63,
-      "fis": 67
+      "vel": 78,
+      "fin": 68,
+      "pas": 86,
+      "dri": 78,
+      "def": 65,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-gana-2010-sulley-muntari",
     "team": "Gana",
@@ -690,16 +690,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 84,
-      "fin": 82,
-      "pas": 74,
-      "dri": 85,
-      "def": 32,
-      "fis": 67
+      "vel": 86,
+      "fin": 84,
+      "pas": 76,
+      "dri": 87,
+      "def": 33,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-gana-2010-andre-ayew",
     "team": "Gana",
@@ -711,19 +711,7945 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 78,
-      "fin": 87,
-      "pas": 68,
-      "dri": 77,
-      "def": 34,
-      "fis": 79
+      "vel": 80,
+      "fin": 89,
+      "pas": 70,
+      "dri": 79,
+      "def": 35,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-gana-2010-asamoah-gyan",
     "team": "Gana",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Romero",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-romero",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Andújar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-andujar",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pozo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-pozo",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Heinze",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-heinze",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Demichelis",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-demichelis",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Samuel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-samuel",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Burdisso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-burdisso",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Otamendi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-otamendi",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Jonás Bravo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-jonas-bravo",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Rodríguez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-c-rodriguez",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Garcé",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-garce",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Mascherano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-mascherano",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Verón",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-veron",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Maxi Rodríguez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-maxi-rodriguez",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pastore",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-pastore",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Messi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-messi",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tevez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-tevez",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Higuaín",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-higuain",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Agüero",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-aguero",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Milito",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-milito",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Di María",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-di-maria",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Palermo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2010-palermo",
+    "team": "Argentina",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Júlio César",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-julio-cesar",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gomes",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-gomes",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Doni",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-doni",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Maicon",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-maicon",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lúcio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-lucio",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Dani Alves",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-dani-alves",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Thiago Silva",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-thiago-silva",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Juan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-juan",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Michel Bastos",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-michel-bastos",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Luisão",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-luisao",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gilberto",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-gilberto",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kaká",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-kaka",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Elano",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-elano",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Felipe Melo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-felipe-melo",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramires",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-ramires",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gilberto Silva",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-gilberto-silva",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Josué",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-josue",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kléberson",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-kleberson",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Robinho",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-robinho",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Luís Fabiano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-luis-fabiano",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Júlio Baptista",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-julio-baptista",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Nilmar",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2010-nilmar",
+    "team": "Brasil",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bravo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-bravo",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pinto",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-pinto",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Isla",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-isla",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Medel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-medel",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Beausejour",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-beausejour",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Jara",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-jara",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Contreras",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-contreras",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ponce",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-ponce",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Fierro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-fierro",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Fuentes",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-fuentes",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Vidal",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-vidal",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Valdivia",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-valdivia",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Fernández",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-m-fernandez",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Carmona",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-carmona",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Estrada",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-estrada",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Millar",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-millar",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Alexis",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-alexis",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Suazo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-suazo",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "M. González",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-m-gonzalez",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Orellana",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-orellana",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Paredes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-paredes",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tello",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2010-tello",
+    "team": "Chile",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Barry",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-barry",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Zogbo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-zogbo",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Yeboah",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-yeboah",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kolo Touré",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-kolo-toure",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Boka",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-boka",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Eboué",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-eboue",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Demel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-demel",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tiéné",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-tiene",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bamba",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-bamba",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gohouri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-gohouri",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Angoua",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-angoua",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Yaya Touré",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-yaya-toure",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Zokora",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-zokora",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tioté",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-tiote",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Romaric",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-romaric",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gosso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-gosso",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Koné",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-e-kone",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Drogba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-drogba",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kalou",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-kalou",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gervinho",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-gervinho",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kader Keïta",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-kader-keita",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Doumbia",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-doumbia",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Dindane",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2010-dindane",
+    "team": "Costa do Marfim",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Hart",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-hart",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "D. James",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-d-james",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Green",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-green",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Cole",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-a-cole",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Terry",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-terry",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Carragher",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-carragher",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Johnson",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-johnson",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "L. King",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-l-king",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Upson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-upson",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Dawson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-dawson",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gerrard",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-gerrard",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lampard",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-lampard",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Barry",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-barry",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Milner",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-milner",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Carrick",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-carrick",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Rooney",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-rooney",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Cole",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-j-cole",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Defoe",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-defoe",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lennon",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-lennon",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Wright-Phillips",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-wright-phillips",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Heskey",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-heskey",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Crouch",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2010-crouch",
+    "team": "Inglaterra",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lloris",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-lloris",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Mandanda",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-mandanda",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Carrasso",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-carrasso",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Abidal",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-abidal",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Evra",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-evra",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gallas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-gallas",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Sagna",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-sagna",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Clichy",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-clichy",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Squillaci",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-squillaci",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Réveillère",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-reveillere",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Planus",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-planus",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Malouda",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-malouda",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gourcuff",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-gourcuff",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Toulalan",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-toulalan",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Diarra",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-a-diarra",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Diaby",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-diaby",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Valbuena",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-valbuena",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ribéry",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-ribery",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Henry",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-henry",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Anelka",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-anelka",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Govou",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-govou",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cissé",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-cisse",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gignac",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2010-gignac",
+    "team": "França",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Neuer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-neuer",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Wiese",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-wiese",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Butt",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-butt",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lahm",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-lahm",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Mertesacker",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-mertesacker",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Friedrich",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-friedrich",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Boateng",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-boateng",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Badstuber",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-badstuber",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Jansen",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-jansen",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Aogo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-aogo",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tasci",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-tasci",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Schweinsteiger",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-schweinsteiger",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Özil",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-ozil",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Khedira",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-khedira",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kroos",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-kroos",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Trochowski",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-trochowski",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Marin",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-marin",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Klose",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-klose",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Müller",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-t-muller",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Podolski",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-podolski",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gómez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-gomez",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cacau",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-cacau",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kießling",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2010-kie-ling",
+    "team": "Alemanha",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tzorvas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-tzorvas",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Chalkias",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-chalkias",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Sifakis",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-sifakis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Sokratis",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-sokratis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Papadopoulos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-papadopoulos",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Torosidis",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-torosidis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kyrgiakos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-kyrgiakos",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Seitaridis",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-seitaridis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Moras",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-moras",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Vyntra",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-vyntra",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Spyropoulos",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-spyropoulos",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Patsatzoglou",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-patsatzoglou",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Malezas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-malezas",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Karagounis",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-karagounis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Katsouranis",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-katsouranis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tziolis",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-tziolis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ninis",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-ninis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Prittas",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-prittas",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Samaras",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-samaras",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Charisteas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-charisteas",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Salpingidis",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-salpingidis",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gekas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-gekas",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kapetanos",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2010-kapetanos",
+    "team": "Grécia",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Buffon",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-buffon",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Marchetti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-marchetti",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "De Sanctis",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-de-sanctis",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Chiellini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-chiellini",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cannavaro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-cannavaro",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Zambrotta",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-zambrotta",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Maggio",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-maggio",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Criscito",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-criscito",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bonucci",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-bonucci",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bocchetti",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-bocchetti",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pirlo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-pirlo",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "De Rossi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-de-rossi",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gattuso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-gattuso",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Marchisio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-marchisio",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Camoranesi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-camoranesi",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Montolivo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-montolivo",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Simone Pepe",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-simone-pepe",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Palombo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-palombo",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Di Natale",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-di-natale",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Iaquinta",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-iaquinta",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gilardino",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-gilardino",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Quagliarella",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-quagliarella",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pazzini",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2010-pazzini",
+    "team": "Itália",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Narazaki",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-narazaki",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kawaguchi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-kawaguchi",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kawashima",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-kawashima",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Nagatomo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-nagatomo",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Nakazawa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-nakazawa",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Uchida",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-uchida",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tulio Tanaka",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-tulio-tanaka",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Komano",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-komano",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Abe",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-abe",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Konno",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-konno",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Iwamasa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-iwamasa",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Nakamura",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-nakamura",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Endo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-endo",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Matsui",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-matsui",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Hasebe",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-hasebe",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Inamoto",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-inamoto",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Nakamura",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-k-nakamura",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Honda",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-honda",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Okazaki",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-okazaki",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Okubo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-okubo",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tamada",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-tamada",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Morimoto",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-morimoto",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Yano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2010-yano",
+    "team": "Japão",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Woon-jae",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-lee-woon-jae",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Jung Sung-ryong",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-jung-sung-ryong",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Young-kwang",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kim-young-kwang",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Young-pyo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-lee-young-pyo",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Jung-soo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-lee-jung-soo",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cha Du-ri",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-cha-du-ri",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Oh Beom-seok",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-oh-beom-seok",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Dong-jin",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kim-dong-jin",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cho Yong-hyung",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-cho-yong-hyung",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kang Min-soo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kang-min-soo",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Hyung-il",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kim-hyung-il",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Park Ji-sung",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-park-ji-sung",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ki Sung-yueng",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-ki-sung-yueng",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Nam-il",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kim-nam-il",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Jae-sung",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kim-jae-sung",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Jung-woo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kim-jung-woo",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Bo-kyung",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-kim-bo-kyung",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Park Chu-young",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-park-chu-young",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ahn Jung-hwan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-ahn-jung-hwan",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Chung-yong",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-lee-chung-yong",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Dong-gook",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-lee-dong-gook",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Yeom Ki-hun",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-yeom-ki-hun",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Seung-yeoul",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2010-lee-seung-yeoul",
+    "team": "Coreia do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ochoa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-ochoa",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Óscar Pérez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-oscar-perez",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Michel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-michel",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Márquez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-marquez",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Salcido",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-salcido",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Rodríguez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-f-rodriguez",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Moreno",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-moreno",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Osorio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-osorio",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Aguilar",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-aguilar",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Juárez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-juarez",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Magallón",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-magallon",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Torres Nilo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-torres-nilo",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Guardado",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-guardado",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Blanco",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-blanco",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Torrado",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-torrado",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Castro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-castro",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bautista",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-bautista",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "G. dos Santos",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-g-dos-santos",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Hernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-j-hernandez",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Vela",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-vela",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Barrera",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-barrera",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Franco",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-franco",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Medina",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2010-medina",
+    "team": "México",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Villar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-villar",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Barreto",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-d-barreto",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bobadilla",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-bobadilla",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Da Silva",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-da-silva",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "J.C. Cáceres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-j-c-caceres",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Morel",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-morel",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Caniza",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-caniza",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Alcaraz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-alcaraz",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bonet",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-bonet",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Verón",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-veron",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Torres",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-torres",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Riveros",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-riveros",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "É. Barreto",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-e-barreto",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Santana",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-santana",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Vera",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-vera",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "V. Cáceres",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-v-caceres",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ortigoza",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-ortigoza",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Santa Cruz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-santa-cruz",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cardozo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-cardozo",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Valdez",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-valdez",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Barrios",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-barrios",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Benítez",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-benitez",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gamarra",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2010-gamarra",
+    "team": "Paraguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Eduardo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-eduardo",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Beto",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-beto",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Daniel Fernandes",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-daniel-fernandes",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ricardo Carvalho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-ricardo-carvalho",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pepe",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-pepe",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bruno Alves",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-bruno-alves",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Coentrão",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-coentrao",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Paulo Ferreira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-paulo-ferreira",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Rolando",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-rolando",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Miguel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-miguel",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Duda",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-duda",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Ricardo Costa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-ricardo-costa",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Deco",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-deco",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Meireles",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-meireles",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tiago",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-tiago",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Danny",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-danny",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Miguel Veloso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-miguel-veloso",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Pedro Mendes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-pedro-mendes",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Amorim",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-amorim",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-cristiano-ronaldo",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Simão",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-simao",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Hugo Almeida",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-hugo-almeida",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Liédson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2010-liedson",
+    "team": "Portugal",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Itumeleng Khune",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-itumeleng-khune",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Moeneeb Josephs",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-moeneeb-josephs",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Shu-Aib Walters",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-shu-aib-walters",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Aaron Mokoena",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-aaron-mokoena",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bongani Khumalo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-bongani-khumalo",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Siboniso Gaxa",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-siboniso-gaxa",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Tsepo Masilela",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-tsepo-masilela",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Anele Ngcongca",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-anele-ngcongca",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Matthew Booth",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-matthew-booth",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lucas Thwala",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-lucas-thwala",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Siyabonga Sangweni",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-siyabonga-sangweni",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Steven Pienaar",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-steven-pienaar",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Teko Modise",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-teko-modise",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "MacBeth Sibaya",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-macbeth-sibaya",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Kagisho Dikgacoi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-kagisho-dikgacoi",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Reneilwe Letsholonyane",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-reneilwe-letsholonyane",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Surprise Moriri",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-surprise-moriri",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lance Davids",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-lance-davids",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Thanduyise Khuboni",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-thanduyise-khuboni",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Siphiwe Tshabalala",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-siphiwe-tshabalala",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Katlego Mphela",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-katlego-mphela",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Bernard Parker",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-bernard-parker",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Siyabonga Nomvethe",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-africa-do-sul-2010-siyabonga-nomvethe",
+    "team": "África do Sul",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Muslera",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-muslera",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Silva",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-m-silva",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Castillo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-castillo",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Godín",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-godin",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lugano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-lugano",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Maxi Pereira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-maxi-pereira",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Á. Pereira",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-a-pereira",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Fucile",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-fucile",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cáceres",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-caceres",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Victorino",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-victorino",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Scotti",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-scotti",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Gargano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-gargano",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Pérez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-d-perez",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Arévalo Ríos",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-arevalo-rios",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Eguren",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-eguren",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Lodeiro",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-lodeiro",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "I. González",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-i-gonzalez",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Á. Fernández",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-a-fernandez",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Forlán",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-forlan",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Suárez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-suarez",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Cavani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-cavani",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "Abreu",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-abreu",
+    "team": "Uruguai",
+    "year": 2010,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Fernández",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2010-s-fernandez",
+    "team": "Uruguai",
     "year": 2010,
     "comp": "wc"
   }

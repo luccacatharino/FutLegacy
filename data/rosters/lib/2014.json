@@ -49,5 +49,28 @@
       "lib-san-lorenzo-2014-mauro-cetto",
       "lib-san-lorenzo-2014-nicolas-blandi"
     ]
+  },
+  {
+    "name": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2014_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-nacional-de-asuncion-2014-ignacio-don",
+      "lib-nacional-de-asuncion-2014-ramon-coronel",
+      "lib-nacional-de-asuncion-2014-raul-piris",
+      "lib-nacional-de-asuncion-2014-jose-caceres",
+      "lib-nacional-de-asuncion-2014-david-mendoza",
+      "lib-nacional-de-asuncion-2014-juan-arguello",
+      "lib-nacional-de-asuncion-2014-silvio-torales",
+      "lib-nacional-de-asuncion-2014-derlis-orue",
+      "lib-nacional-de-asuncion-2014-marcos-melgarejo",
+      "lib-nacional-de-asuncion-2014-julian-benitez",
+      "lib-nacional-de-asuncion-2014-fredy-bareiro"
+    ]
   }
 ]

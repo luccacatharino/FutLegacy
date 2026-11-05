@@ -42,5 +42,30 @@
       "lib-boca-juniors-1978-carlos-rodriguez",
       "lib-boca-juniors-1978-carlos-veglio"
     ]
+  },
+  {
+    "name": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1978_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-deportivo-cali-1978-pedro-zape",
+      "lib-deportivo-cali-1978-william-ospina",
+      "lib-deportivo-cali-1978-fernando-castro",
+      "lib-deportivo-cali-1978-henry-caicedo",
+      "lib-deportivo-cali-1978-miguel-escobar",
+      "lib-deportivo-cali-1978-cesar-valverde",
+      "lib-deportivo-cali-1978-rafael-otero",
+      "lib-deportivo-cali-1978-angel-landucci",
+      "lib-deportivo-cali-1978-hector-achilli",
+      "lib-deportivo-cali-1978-jose-fernandez",
+      "lib-deportivo-cali-1978-angel-torres",
+      "lib-deportivo-cali-1978-heriberto-correa",
+      "lib-deportivo-cali-1978-hector-jaramilo"
+    ]
   }
 ]

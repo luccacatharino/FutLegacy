@@ -43,5 +43,28 @@
       "ucl-inter-2010-francesco-toldo",
       "ucl-inter-2010-mcdonald-mariga"
     ]
+  },
+  {
+    "name": "Bayern",
+    "year": 2010,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2010_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-bayern-2010-hans-jorg-butt",
+      "ucl-bayern-2010-philipp-lahm",
+      "ucl-bayern-2010-daniel-van-buyten",
+      "ucl-bayern-2010-martin-demichelis",
+      "ucl-bayern-2010-holger-badstuber",
+      "ucl-bayern-2010-mark-van-bommel",
+      "ucl-bayern-2010-bastian-schweinsteiger",
+      "ucl-bayern-2010-arjen-robben",
+      "ucl-bayern-2010-hamit-alt-ntop",
+      "ucl-bayern-2010-thomas-muller",
+      "ucl-bayern-2010-ivica-olic"
+    ]
   }
 ]

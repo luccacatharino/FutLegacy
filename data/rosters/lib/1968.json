@@ -44,5 +44,28 @@
       "lib-estudiantes-1968-luis-lavezzi",
       "lib-estudiantes-1968-nestor-togneri"
     ]
+  },
+  {
+    "name": "Palmeiras",
+    "year": 1968,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1968_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-palmeiras-1968-valdir",
+      "lib-palmeiras-1968-geraldo-scalera",
+      "lib-palmeiras-1968-baldocchi",
+      "lib-palmeiras-1968-osmar",
+      "lib-palmeiras-1968-ferrari",
+      "lib-palmeiras-1968-ademir",
+      "lib-palmeiras-1968-dudu",
+      "lib-palmeiras-1968-suingue",
+      "lib-palmeiras-1968-tupazinho",
+      "lib-palmeiras-1968-servilio",
+      "lib-palmeiras-1968-rinaldo"
+    ]
   }
 ]

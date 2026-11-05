@@ -5,16 +5,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 75,
-      "fin": 80,
-      "pas": 90,
-      "dri": 86,
-      "def": 62,
-      "fis": 70
+      "vel": 77,
+      "fin": 82,
+      "pas": 92,
+      "dri": 88,
+      "def": 63,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "ucl-inter-1964-luis-suarez",
     "team": "Inter",
@@ -26,16 +26,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 86,
-      "fin": 58,
-      "pas": 80,
-      "dri": 80,
-      "def": 79,
-      "fis": 78
+      "vel": 88,
+      "fin": 59,
+      "pas": 82,
+      "dri": 82,
+      "def": 81,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "ucl-inter-1964-giacinto-facchetti",
     "team": "Inter",
@@ -48,16 +48,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 79,
-      "fin": 83,
-      "pas": 90,
-      "dri": 91,
-      "def": 45,
-      "fis": 68
+      "vel": 81,
+      "fin": 85,
+      "pas": 92,
+      "dri": 93,
+      "def": 46,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-inter-1964-sandro-mazzola",
     "team": "Inter",
@@ -69,16 +69,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 67,
-      "fin": 39,
-      "pas": 66,
-      "dri": 57,
-      "def": 88,
-      "fis": 88
+      "vel": 69,
+      "fin": 40,
+      "pas": 68,
+      "dri": 58,
+      "def": 90,
+      "fis": 90
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "ucl-inter-1964-armando-picchi",
     "team": "Inter",
@@ -90,16 +90,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 90,
-      "fin": 82,
-      "pas": 76,
-      "dri": 87,
-      "def": 41,
-      "fis": 70
+      "vel": 92,
+      "fin": 84,
+      "pas": 78,
+      "dri": 89,
+      "def": 42,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-inter-1964-mario-corso",
     "team": "Inter",
@@ -111,22 +111,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 11,
-      "pas": 59,
-      "dri": 29,
+      "pas": 60,
+      "dri": 30,
       "def": 17,
-      "fis": 74,
-      "ref": 86,
-      "han": 81,
-      "pos": 83,
-      "div": 84,
-      "kic": 69,
-      "one": 82
+      "fis": 76,
+      "ref": 88,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 71,
+      "one": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-inter-1964-giuliano-sarti",
     "team": "Inter",
@@ -138,16 +138,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 85,
-      "fin": 82,
-      "pas": 76,
-      "dri": 87,
-      "def": 41,
-      "fis": 65
+      "vel": 87,
+      "fin": 84,
+      "pas": 78,
+      "dri": 89,
+      "def": 42,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-inter-1964-jair-da-costa",
     "team": "Inter",
@@ -159,16 +159,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 81,
-      "fin": 53,
-      "pas": 75,
-      "dri": 75,
-      "def": 78,
-      "fis": 73
+      "vel": 83,
+      "fin": 54,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-inter-1964-tarcisio-burgnich",
     "team": "Inter",
@@ -180,16 +180,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 62,
-      "fin": 39,
-      "pas": 61,
-      "dri": 52,
-      "def": 83,
-      "fis": 83
+      "vel": 64,
+      "fin": 40,
+      "pas": 63,
+      "dri": 53,
+      "def": 85,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-inter-1964-aristide-guarneri",
     "team": "Inter",
@@ -201,16 +201,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 77,
-      "fin": 85,
-      "pas": 65,
-      "dri": 72,
-      "def": 33,
-      "fis": 76
+      "vel": 79,
+      "fin": 87,
+      "pas": 67,
+      "dri": 74,
+      "def": 34,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "ucl-inter-1964-aurelio-milani",
     "team": "Inter",
@@ -222,19 +222,245 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 62,
-      "fin": 52,
-      "pas": 76,
-      "dri": 63,
-      "def": 75,
-      "fis": 74
+      "vel": 64,
+      "fin": 53,
+      "pas": 78,
+      "dri": 65,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "ucl-inter-1964-carlo-tagnin",
     "team": "Inter",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Vicente",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84,
+      "ref": 88,
+      "han": 86,
+      "pos": 86,
+      "div": 87,
+      "kic": 78,
+      "one": 86
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-jose-vicente",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Isidro",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-isidro",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pachín",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-pachin",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Lucien Muller",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 88,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-lucien-muller",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Santamaría",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-jose-santamaria",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ignacio Zoco",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-ignacio-zoco",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Amancio",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-amancio",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Felo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-felo",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Alfredo Di Stéfano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 88,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-alfredo-di-stefano",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ferenc Puskás",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-ferenc-puskas",
+    "team": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paco Gento",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-real-madrid-1964-paco-gento",
+    "team": "Real Madrid",
     "year": 1964,
     "comp": "ucl"
   }

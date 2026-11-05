@@ -41,5 +41,33 @@
       "ucl-psv-1988-eric-viscaal",
       "ucl-psv-1988-patrick-lodewijks"
     ]
+  },
+  {
+    "name": "Benfica",
+    "year": 1988,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1988_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-benfica-1988-silvino",
+      "ucl-benfica-1988-antonio-veloso",
+      "ucl-benfica-1988-dito",
+      "ucl-benfica-1988-alvaro",
+      "ucl-benfica-1988-carlos-mozer",
+      "ucl-benfica-1988-elzo",
+      "ucl-benfica-1988-chiquinho-carlos",
+      "ucl-benfica-1988-antonio-pacheco",
+      "ucl-benfica-1988-rui-aguas",
+      "ucl-benfica-1988-sheu",
+      "ucl-benfica-1988-mats-magnusson",
+      "ucl-benfica-1988-manuel-bento",
+      "ucl-benfica-1988-samuel",
+      "ucl-benfica-1988-adelino-nunes",
+      "ucl-benfica-1988-hajry-redouane",
+      "ucl-benfica-1988-wando"
+    ]
   }
 ]

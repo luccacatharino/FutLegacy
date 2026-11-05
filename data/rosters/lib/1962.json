@@ -41,5 +41,28 @@
       "lib-santos-1962-pepe",
       "lib-santos-1962-pagao"
     ]
+  },
+  {
+    "name": "Peñarol",
+    "year": 1962,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1962_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-penarol-1962-luis-maidana",
+      "lib-penarol-1962-juan-vicente-lezcano",
+      "lib-penarol-1962-nuber-cano",
+      "lib-penarol-1962-edgardo-gonzalez",
+      "lib-penarol-1962-roberto-matosas",
+      "lib-penarol-1962-omar-caetano",
+      "lib-penarol-1962-pedro-virgilio-rocha",
+      "lib-penarol-1962-jose-sasia",
+      "lib-penarol-1962-angel-cabrera",
+      "lib-penarol-1962-alberto-spencer",
+      "lib-penarol-1962-juan-joya"
+    ]
   }
 ]

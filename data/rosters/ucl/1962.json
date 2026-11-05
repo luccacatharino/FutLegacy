@@ -36,5 +36,28 @@
       "ucl-benfica-1962-fernando-cruz",
       "ucl-benfica-1962-mario-joao"
     ]
+  },
+  {
+    "name": "Real Madrid",
+    "year": 1962,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1962_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-real-madrid-1962-jose-araquistain",
+      "ucl-real-madrid-1962-pedro-casado",
+      "ucl-real-madrid-1962-jose-santamaria",
+      "ucl-real-madrid-1962-vicente-miera",
+      "ucl-real-madrid-1962-felo",
+      "ucl-real-madrid-1962-pachin",
+      "ucl-real-madrid-1962-justo-tejada",
+      "ucl-real-madrid-1962-luis-del-sol",
+      "ucl-real-madrid-1962-alfredo-di-stefano",
+      "ucl-real-madrid-1962-ferenc-puskas",
+      "ucl-real-madrid-1962-paco-gento"
+    ]
   }
 ]

@@ -51,5 +51,28 @@
       "lib-atletico-nacional-2016-francisco-najera",
       "lib-atletico-nacional-2016-gilberto-garcia"
     ]
+  },
+  {
+    "name": "Independiente del Valle",
+    "year": 2016,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2016_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-independiente-del-valle-2016-daniel-azcona",
+      "lib-independiente-del-valle-2016-christian-nunez",
+      "lib-independiente-del-valle-2016-arturo-mina",
+      "lib-independiente-del-valle-2016-luis-caicedo",
+      "lib-independiente-del-valle-2016-emiliano-tellechea",
+      "lib-independiente-del-valle-2016-mario-rizotto",
+      "lib-independiente-del-valle-2016-jefferson-orejuela",
+      "lib-independiente-del-valle-2016-julio-angulo",
+      "lib-independiente-del-valle-2016-junior-sornoza",
+      "lib-independiente-del-valle-2016-bryan-cabezas",
+      "lib-independiente-del-valle-2016-jose-enrique-angulo"
+    ]
   }
 ]

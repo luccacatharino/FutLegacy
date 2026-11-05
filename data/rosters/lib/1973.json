@@ -45,5 +45,30 @@
       "lib-independiente-1973-hector-martinez",
       "lib-independiente-1973-miguel-angel-giachello"
     ]
+  },
+  {
+    "name": "Colo-Colo",
+    "year": 1973,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1973_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-colo-colo-1973-adolfo-nef",
+      "lib-colo-colo-1973-mario-galindo",
+      "lib-colo-colo-1973-leonel-herrera",
+      "lib-colo-colo-1973-rafael-gonzalez",
+      "lib-colo-colo-1973-alejandro-silva",
+      "lib-colo-colo-1973-guillermo-paez",
+      "lib-colo-colo-1973-francisco-valdes",
+      "lib-colo-colo-1973-fernando-osorio",
+      "lib-colo-colo-1973-sergio-messen",
+      "lib-colo-colo-1973-sergio-ahumada",
+      "lib-colo-colo-1973-leonardo-veliz",
+      "lib-colo-colo-1973-carlos-caszely",
+      "lib-colo-colo-1973-alfonso-lara"
+    ]
   }
 ]

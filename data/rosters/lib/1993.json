@@ -47,5 +47,28 @@
       "lib-sao-paulo-1993-elivelton",
       "lib-sao-paulo-1993-marcos-adriano"
     ]
+  },
+  {
+    "name": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1993_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-universidad-catolica-1993-oscar-wirth",
+      "lib-universidad-catolica-1993-leonel-contreras",
+      "lib-universidad-catolica-1993-daniel-lopez",
+      "lib-universidad-catolica-1993-sergio-vazquez",
+      "lib-universidad-catolica-1993-andres-romero",
+      "lib-universidad-catolica-1993-raimundo-tupper",
+      "lib-universidad-catolica-1993-ricardo-lunari",
+      "lib-universidad-catolica-1993-nelson-parraguez",
+      "lib-universidad-catolica-1993-mario-lepe",
+      "lib-universidad-catolica-1993-juan-carlos-almada",
+      "lib-universidad-catolica-1993-luis-perez"
+    ]
   }
 ]

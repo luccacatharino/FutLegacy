@@ -41,5 +41,29 @@
       "lib-nacional-1980-julio-cesar-morales",
       "lib-nacional-1980-dardo-perez"
     ]
+  },
+  {
+    "name": "Internacional",
+    "year": 1980,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1980_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-internacional-1980-gasperin",
+      "lib-internacional-1980-toninho",
+      "lib-internacional-1980-mauro-pastor",
+      "lib-internacional-1980-mauro-galvao",
+      "lib-internacional-1980-andre-luis",
+      "lib-internacional-1980-falcao",
+      "lib-internacional-1980-batista",
+      "lib-internacional-1980-jair",
+      "lib-internacional-1980-chico-spina",
+      "lib-internacional-1980-tonho",
+      "lib-internacional-1980-mario-sergio",
+      "lib-internacional-1980-adavilson"
+    ]
   }
 ]

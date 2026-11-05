@@ -43,5 +43,35 @@
       "ucl-bayern-2013-anatoliy-tymoshchuk",
       "ucl-bayern-2013-tom-starke"
     ]
+  },
+  {
+    "name": "Borussia Dortmund",
+    "year": 2013,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2013_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-borussia-dortmund-2013-roman-weidenfeller",
+      "ucl-borussia-dortmund-2013-ukasz-piszczek",
+      "ucl-borussia-dortmund-2013-neven-subotic",
+      "ucl-borussia-dortmund-2013-mats-hummels",
+      "ucl-borussia-dortmund-2013-marcel-schmelzer",
+      "ucl-borussia-dortmund-2013-sven-bender",
+      "ucl-borussia-dortmund-2013-ilkay-gundogan",
+      "ucl-borussia-dortmund-2013-jakub-b-aszczykowski",
+      "ucl-borussia-dortmund-2013-marco-reus",
+      "ucl-borussia-dortmund-2013-kevin-gro-kreutz",
+      "ucl-borussia-dortmund-2013-robert-lewandowski",
+      "ucl-borussia-dortmund-2013-mitchell-langerak",
+      "ucl-borussia-dortmund-2013-felipe-santana",
+      "ucl-borussia-dortmund-2013-sebastian-kehl",
+      "ucl-borussia-dortmund-2013-moritz-leitner",
+      "ucl-borussia-dortmund-2013-nuri-sahin",
+      "ucl-borussia-dortmund-2013-oliver-kirch",
+      "ucl-borussia-dortmund-2013-julian-schieber"
+    ]
   }
 ]

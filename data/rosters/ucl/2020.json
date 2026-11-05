@@ -48,5 +48,40 @@
       "ucl-bayern-2020-joshua-zirkzee",
       "ucl-bayern-2020-ron-thorben-hoffmann"
     ]
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "year": 2020,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2020_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-paris-saint-germain-2020-keylor-navas",
+      "ucl-paris-saint-germain-2020-thilo-kehrer",
+      "ucl-paris-saint-germain-2020-thiago-silva",
+      "ucl-paris-saint-germain-2020-presnel-kimpembe",
+      "ucl-paris-saint-germain-2020-juan-bernat",
+      "ucl-paris-saint-germain-2020-ander-herrera",
+      "ucl-paris-saint-germain-2020-marquinhos",
+      "ucl-paris-saint-germain-2020-leandro-paredes",
+      "ucl-paris-saint-germain-2020-angel-di-maria",
+      "ucl-paris-saint-germain-2020-kylian-mbappe",
+      "ucl-paris-saint-germain-2020-neymar",
+      "ucl-paris-saint-germain-2020-sergio-rico",
+      "ucl-paris-saint-germain-2020-marcin-bu-ka",
+      "ucl-paris-saint-germain-2020-layvin-kurzawa",
+      "ucl-paris-saint-germain-2020-abdou-diallo",
+      "ucl-paris-saint-germain-2020-mitchel-bakker",
+      "ucl-paris-saint-germain-2020-colin-dagba",
+      "ucl-paris-saint-germain-2020-marco-verratti",
+      "ucl-paris-saint-germain-2020-pablo-sarabia",
+      "ucl-paris-saint-germain-2020-julian-draxler",
+      "ucl-paris-saint-germain-2020-idrissa-gueye",
+      "ucl-paris-saint-germain-2020-eric-maxim-choupo-moting",
+      "ucl-paris-saint-germain-2020-mauro-icardi"
+    ]
   }
 ]

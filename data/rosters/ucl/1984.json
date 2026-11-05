@@ -41,5 +41,33 @@
       "ucl-liverpool-1984-david-hodgson",
       "ucl-liverpool-1984-bob-bolder"
     ]
+  },
+  {
+    "name": "Roma",
+    "year": 1984,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1984_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-roma-1984-franco-tancredi",
+      "ucl-roma-1984-michele-nappi",
+      "ucl-roma-1984-dario-bonetti",
+      "ucl-roma-1984-ubaldo-righetti",
+      "ucl-roma-1984-sebastiano-nela",
+      "ucl-roma-1984-agostino-di-bartolomei",
+      "ucl-roma-1984-toninho-cerezo",
+      "ucl-roma-1984-paulo-roberto-falcao",
+      "ucl-roma-1984-bruno-conti",
+      "ucl-roma-1984-francesco-graziani",
+      "ucl-roma-1984-roberto-pruzzo",
+      "ucl-roma-1984-astutillo-malgioglio",
+      "ucl-roma-1984-emidio-oddi",
+      "ucl-roma-1984-mark-tullio-strukelj",
+      "ucl-roma-1984-odoacre-chierico",
+      "ucl-roma-1984-francesco-vincenzi"
+    ]
   }
 ]

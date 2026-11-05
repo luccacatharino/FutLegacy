@@ -5,16 +5,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 74,
-      "fin": 81,
-      "pas": 91,
-      "dri": 86,
-      "def": 63,
-      "fis": 70
+      "vel": 76,
+      "fin": 83,
+      "pas": 93,
+      "dri": 88,
+      "def": 64,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "ucl-inter-1965-luis-suarez",
     "team": "Inter",
@@ -26,16 +26,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 84,
-      "fin": 68,
-      "pas": 80,
-      "dri": 76,
-      "def": 88,
-      "fis": 85
+      "vel": 86,
+      "fin": 70,
+      "pas": 82,
+      "dri": 78,
+      "def": 90,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "ucl-inter-1965-giacinto-facchetti",
     "team": "Inter",
@@ -48,16 +48,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 82,
-      "fin": 86,
-      "pas": 93,
-      "dri": 89,
-      "def": 48,
-      "fis": 71
+      "vel": 84,
+      "fin": 88,
+      "pas": 95,
+      "dri": 91,
+      "def": 49,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "ucl-inter-1965-sandro-mazzola",
     "team": "Inter",
@@ -69,16 +69,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 65,
-      "fin": 41,
-      "pas": 68,
-      "dri": 59,
-      "def": 90,
-      "fis": 85
+      "vel": 67,
+      "fin": 42,
+      "pas": 70,
+      "dri": 60,
+      "def": 92,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-inter-1965-armando-picchi",
     "team": "Inter",
@@ -91,16 +91,16 @@
       "ME",
       "PE"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 85,
-      "fin": 76,
-      "pas": 81,
-      "dri": 86,
-      "def": 60,
-      "fis": 69
+      "vel": 87,
+      "fin": 78,
+      "pas": 83,
+      "dri": 88,
+      "def": 61,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "ucl-inter-1965-mario-corso",
     "team": "Inter",
@@ -112,22 +112,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 11,
-      "pas": 61,
-      "dri": 30,
+      "pas": 62,
+      "dri": 31,
       "def": 17,
-      "fis": 75,
-      "ref": 88,
-      "han": 82,
-      "pos": 84,
-      "div": 85,
-      "kic": 71,
-      "one": 83
+      "fis": 77,
+      "ref": 90,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 73,
+      "one": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-inter-1965-giuliano-sarti",
     "team": "Inter",
@@ -139,16 +139,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 87,
-      "fin": 84,
-      "pas": 78,
-      "dri": 89,
-      "def": 38,
-      "fis": 67
+      "vel": 89,
+      "fin": 86,
+      "pas": 80,
+      "dri": 91,
+      "def": 39,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-inter-1965-jair",
     "team": "Inter",
@@ -160,16 +160,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 83,
-      "fin": 55,
-      "pas": 76,
-      "dri": 77,
-      "def": 76,
-      "fis": 75
+      "vel": 85,
+      "fin": 56,
+      "pas": 78,
+      "dri": 79,
+      "def": 78,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-inter-1965-tarcisio-burgnich",
     "team": "Inter",
@@ -181,16 +181,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 64,
-      "fin": 36,
-      "pas": 63,
-      "dri": 54,
-      "def": 85,
-      "fis": 85
+      "vel": 66,
+      "fin": 37,
+      "pas": 65,
+      "dri": 55,
+      "def": 87,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "ucl-inter-1965-aristide-guarneri",
     "team": "Inter",
@@ -202,16 +202,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 82,
-      "pas": 72,
-      "dri": 82,
-      "def": 36,
-      "fis": 65
+      "vel": 87,
+      "fin": 84,
+      "pas": 74,
+      "dri": 84,
+      "def": 37,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-inter-1965-joaquin-peiro",
     "team": "Inter",
@@ -223,19 +223,245 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 65,
-      "fin": 55,
-      "pas": 74,
-      "dri": 66,
-      "def": 78,
-      "fis": 77
+      "vel": 67,
+      "fin": 56,
+      "pas": 76,
+      "dri": 68,
+      "def": 80,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "ucl-inter-1965-gianfranco-bedin",
     "team": "Inter",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "Costa Pereira",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84,
+      "ref": 88,
+      "han": 86,
+      "pos": 86,
+      "div": 87,
+      "kic": 78,
+      "one": 86
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-costa-pereira",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "Domiciano Cavém",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-domiciano-cavem",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "Germano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-germano",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "Raul Machado",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 88,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-raul-machado",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "Fernando Cruz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-fernando-cruz",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Neto",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-jose-neto",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mário Coluna",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-mario-coluna",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Augusto",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-jose-augusto",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "José Torres",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 88,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-jose-torres",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "Eusébio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 89,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-eusebio",
+    "team": "Benfica",
+    "year": 1965,
+    "comp": "ucl"
+  },
+  {
+    "name": "António Simões",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-benfica-1965-antonio-simoes",
+    "team": "Benfica",
     "year": 1965,
     "comp": "ucl"
   }

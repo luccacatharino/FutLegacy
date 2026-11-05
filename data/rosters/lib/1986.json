@@ -43,5 +43,30 @@
       "lib-river-plate-1986-daniel-sperandio",
       "lib-river-plate-1986-ruben-dario-gomez"
     ]
+  },
+  {
+    "name": "América de Cali",
+    "year": 1986,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1986_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-america-de-cali-1986-julio-cesar-falcioni",
+      "lib-america-de-cali-1986-hugo-valencia",
+      "lib-america-de-cali-1986-victor-espinoza",
+      "lib-america-de-cali-1986-enrique-esterilla",
+      "lib-america-de-cali-1986-jorge-porras",
+      "lib-america-de-cali-1986-gerardo-gonzalez-aquino",
+      "lib-america-de-cali-1986-carlos-ischia",
+      "lib-america-de-cali-1986-roberto-cabanas",
+      "lib-america-de-cali-1986-willington-ortiz",
+      "lib-america-de-cali-1986-ricardo-gareca",
+      "lib-america-de-cali-1986-juan-manuel-battaglia",
+      "lib-america-de-cali-1986-alex-escobar",
+      "lib-america-de-cali-1986-antony-de-avila"
+    ]
   }
 ]

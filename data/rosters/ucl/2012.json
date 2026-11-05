@@ -43,5 +43,35 @@
       "ucl-chelsea-2012-oriol-romeu",
       "ucl-chelsea-2012-ross-turnbull"
     ]
+  },
+  {
+    "name": "Bayern",
+    "year": 2012,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-bayern-2012-manuel-neuer",
+      "ucl-bayern-2012-philipp-lahm",
+      "ucl-bayern-2012-jerome-boateng",
+      "ucl-bayern-2012-anatoliy-tymoshchuk",
+      "ucl-bayern-2012-diego-contento",
+      "ucl-bayern-2012-bastian-schweinsteiger",
+      "ucl-bayern-2012-toni-kroos",
+      "ucl-bayern-2012-arjen-robben",
+      "ucl-bayern-2012-thomas-muller",
+      "ucl-bayern-2012-franck-ribery",
+      "ucl-bayern-2012-mario-gomez",
+      "ucl-bayern-2012-hans-jorg-butt",
+      "ucl-bayern-2012-daniel-van-buyten",
+      "ucl-bayern-2012-rafinha",
+      "ucl-bayern-2012-takashi-usami",
+      "ucl-bayern-2012-danijel-pranjic",
+      "ucl-bayern-2012-nils-petersen",
+      "ucl-bayern-2012-ivica-olic"
+    ]
   }
 ]

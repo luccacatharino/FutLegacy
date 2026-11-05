@@ -43,5 +43,35 @@
       "ucl-real-madrid-2002-aitor-karanka",
       "ucl-real-madrid-2002-francisco-pavon"
     ]
+  },
+  {
+    "name": "Bayer Leverkusen",
+    "year": 2002,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2002_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-bayer-leverkusen-2002-hans-jorg-butt",
+      "ucl-bayer-leverkusen-2002-zoltan-sebescen",
+      "ucl-bayer-leverkusen-2002-boris-zivkovic",
+      "ucl-bayer-leverkusen-2002-lucio",
+      "ucl-bayer-leverkusen-2002-diego-placente",
+      "ucl-bayer-leverkusen-2002-carsten-ramelow",
+      "ucl-bayer-leverkusen-2002-bernd-schneider",
+      "ucl-bayer-leverkusen-2002-michael-ballack",
+      "ucl-bayer-leverkusen-2002-thomas-brdaric",
+      "ucl-bayer-leverkusen-2002-y-ld-ray-basturk",
+      "ucl-bayer-leverkusen-2002-oliver-neuville",
+      "ucl-bayer-leverkusen-2002-frank-juric",
+      "ucl-bayer-leverkusen-2002-thomas-kleine",
+      "ucl-bayer-leverkusen-2002-marko-babic",
+      "ucl-bayer-leverkusen-2002-jurica-vranjes",
+      "ucl-bayer-leverkusen-2002-anel-dzaka",
+      "ucl-bayer-leverkusen-2002-ulf-kirsten",
+      "ucl-bayer-leverkusen-2002-dimitar-berbatov"
+    ]
   }
 ]

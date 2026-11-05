@@ -41,5 +41,33 @@
       "ucl-juventus-1985-luciano-bodini",
       "ucl-juventus-1985-bruno-limido"
     ]
+  },
+  {
+    "name": "Liverpool",
+    "year": 1985,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1985_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-liverpool-1985-bruce-grobbelaar",
+      "ucl-liverpool-1985-phil-neal",
+      "ucl-liverpool-1985-jim-beglin",
+      "ucl-liverpool-1985-mark-lawrenson",
+      "ucl-liverpool-1985-steve-nicol",
+      "ucl-liverpool-1985-alan-hansen",
+      "ucl-liverpool-1985-kenny-dalglish",
+      "ucl-liverpool-1985-ronnie-whelan",
+      "ucl-liverpool-1985-ian-rush",
+      "ucl-liverpool-1985-paul-walsh",
+      "ucl-liverpool-1985-john-wark",
+      "ucl-liverpool-1985-gary-gillespie",
+      "ucl-liverpool-1985-chris-pile",
+      "ucl-liverpool-1985-sammy-lee",
+      "ucl-liverpool-1985-jan-m-lby",
+      "ucl-liverpool-1985-craig-johnston"
+    ]
   }
 ]

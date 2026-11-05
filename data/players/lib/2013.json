@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 47,
+      "vel": 48,
       "fin": 19,
-      "pas": 62,
-      "dri": 29,
-      "def": 26,
-      "fis": 80,
-      "ref": 89,
-      "han": 85,
-      "pos": 87,
-      "div": 88,
-      "kic": 76,
-      "one": 87
+      "pas": 63,
+      "dri": 30,
+      "def": 27,
+      "fis": 82,
+      "ref": 91,
+      "han": 87,
+      "pos": 89,
+      "div": 90,
+      "kic": 78,
+      "one": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "lib-atletico-mg-2013-victor",
     "team": "Atlético-MG",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 67,
+      "vel": 68,
       "fin": 33,
-      "pas": 63,
-      "dri": 63,
-      "def": 64,
-      "fis": 63
+      "pas": 64,
+      "dri": 64,
+      "def": 65,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-atletico-mg-2013-michel",
     "team": "Atlético-MG",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 61,
-      "fin": 35,
-      "pas": 62,
-      "dri": 48,
-      "def": 85,
-      "fis": 86
+      "vel": 62,
+      "fin": 36,
+      "pas": 63,
+      "dri": 49,
+      "def": 87,
+      "fis": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-atletico-mg-2013-leonardo-silva",
     "team": "Atlético-MG",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 60,
-      "fin": 32,
-      "pas": 61,
-      "dri": 48,
-      "def": 82,
-      "fis": 85
+      "vel": 61,
+      "fin": 33,
+      "pas": 62,
+      "dri": 49,
+      "def": 84,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-atletico-mg-2013-rever",
     "team": "Atlético-MG",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 39,
-      "pas": 68,
-      "dri": 68,
-      "def": 70,
-      "fis": 68
+      "vel": 74,
+      "fin": 40,
+      "pas": 70,
+      "dri": 70,
+      "def": 72,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-atletico-mg-2013-junior-cesar",
     "team": "Atlético-MG",
@@ -115,16 +115,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 63,
-      "fin": 47,
-      "pas": 76,
-      "dri": 64,
-      "def": 78,
-      "fis": 75
+      "vel": 65,
+      "fin": 48,
+      "pas": 78,
+      "dri": 66,
+      "def": 80,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-atletico-mg-2013-josue",
     "team": "Atlético-MG",
@@ -136,16 +136,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 65,
-      "fin": 49,
-      "pas": 78,
-      "dri": 65,
-      "def": 80,
-      "fis": 77
+      "vel": 67,
+      "fin": 50,
+      "pas": 80,
+      "dri": 67,
+      "def": 82,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-atletico-mg-2013-pierre",
     "team": "Atlético-MG",
@@ -158,16 +158,16 @@
       "MEI",
       "PE"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 76,
-      "fin": 82,
-      "pas": 89,
-      "dri": 91,
-      "def": 44,
-      "fis": 72
+      "vel": 78,
+      "fin": 84,
+      "pas": 91,
+      "dri": 93,
+      "def": 45,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "lib-atletico-mg-2013-ronaldinho",
     "team": "Atlético-MG",
@@ -179,16 +179,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 85,
-      "fin": 77,
-      "pas": 77,
-      "dri": 88,
-      "def": 36,
-      "fis": 70
+      "vel": 87,
+      "fin": 79,
+      "pas": 79,
+      "dri": 90,
+      "def": 37,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "lib-atletico-mg-2013-bernard",
     "team": "Atlético-MG",
@@ -201,16 +201,16 @@
       "ATA",
       "PD"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 76,
-      "fin": 87,
-      "pas": 63,
-      "dri": 76,
-      "def": 31,
-      "fis": 83
+      "vel": 78,
+      "fin": 89,
+      "pas": 64,
+      "dri": 78,
+      "def": 32,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "lib-atletico-mg-2013-diego-tardelli",
     "team": "Atlético-MG",
@@ -222,16 +222,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 77,
-      "fin": 91,
-      "pas": 65,
-      "dri": 78,
-      "def": 34,
-      "fis": 83
+      "vel": 79,
+      "fin": 93,
+      "pas": 67,
+      "dri": 80,
+      "def": 35,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "lib-atletico-mg-2013-jo",
     "team": "Atlético-MG",
@@ -243,16 +243,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 79,
-      "fin": 45,
-      "pas": 70,
-      "dri": 70,
-      "def": 75,
-      "fis": 74
+      "vel": 81,
+      "fin": 46,
+      "pas": 72,
+      "dri": 72,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-atletico-mg-2013-marcos-rocha",
     "team": "Atlético-MG",
@@ -265,16 +265,16 @@
       "LE",
       "VOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 75,
-      "fin": 42,
-      "pas": 71,
-      "dri": 68,
-      "def": 72,
-      "fis": 70
+      "vel": 77,
+      "fin": 43,
+      "pas": 73,
+      "dri": 70,
+      "def": 74,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-atletico-mg-2013-richarlyson",
     "team": "Atlético-MG",
@@ -287,16 +287,16 @@
       "ATA",
       "PD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 74,
-      "fin": 84,
-      "pas": 63,
-      "dri": 73,
-      "def": 32,
-      "fis": 78
+      "vel": 76,
+      "fin": 86,
+      "pas": 65,
+      "dri": 75,
+      "def": 33,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-atletico-mg-2013-luan",
     "team": "Atlético-MG",
@@ -308,22 +308,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
       "vel": 35,
       "fin": 9,
-      "pas": 52,
+      "pas": 53,
       "dri": 21,
       "def": 15,
-      "fis": 68,
-      "ref": 76,
-      "han": 72,
-      "pos": 74,
-      "div": 75,
-      "kic": 63,
-      "one": 74
+      "fis": 69,
+      "ref": 77,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 64,
+      "one": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-atletico-mg-2013-giovanni",
     "team": "Atlético-MG",
@@ -336,16 +336,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 62,
-      "fin": 45,
-      "pas": 74,
-      "dri": 64,
-      "def": 74,
-      "fis": 73
+      "vel": 64,
+      "fin": 46,
+      "pas": 76,
+      "dri": 66,
+      "def": 76,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-atletico-mg-2013-gilberto-silva",
     "team": "Atlético-MG",
@@ -357,16 +357,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 62,
-      "fin": 55,
-      "pas": 74,
-      "dri": 68,
-      "def": 56,
-      "fis": 64
+      "vel": 63,
+      "fin": 56,
+      "pas": 75,
+      "dri": 69,
+      "def": 57,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-atletico-mg-2013-rosinei",
     "team": "Atlético-MG",
@@ -378,16 +378,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 70,
-      "fin": 79,
-      "pas": 58,
-      "dri": 68,
-      "def": 27,
-      "fis": 73
+      "vel": 72,
+      "fin": 81,
+      "pas": 60,
+      "dri": 70,
+      "def": 28,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-atletico-mg-2013-alecsandro",
     "team": "Atlético-MG",
@@ -400,16 +400,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 68,
-      "fin": 69,
-      "pas": 81,
-      "dri": 78,
-      "def": 32,
-      "fis": 60
+      "vel": 70,
+      "fin": 71,
+      "pas": 83,
+      "dri": 80,
+      "def": 33,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-atletico-mg-2013-guilherme",
     "team": "Atlético-MG",
@@ -421,19 +421,245 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 65,
-      "fin": 48,
-      "pas": 77,
-      "dri": 67,
-      "def": 77,
-      "fis": 76
+      "vel": 67,
+      "fin": 49,
+      "pas": 79,
+      "dri": 69,
+      "def": 79,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-atletico-mg-2013-leandro-donizete",
     "team": "Atlético-MG",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Martín Silva",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-martin-silva",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Salustiano Candia",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-salustiano-candia",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio Manzur",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-julio-manzur",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Herminio Miranda",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-herminio-miranda",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelson Benítez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-nelson-benitez",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Wilson Pittoni",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-wilson-pittoni",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Alejandro Silva",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-alejandro-silva",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Eduardo Aranda",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-eduardo-aranda",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Matías Giménez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-matias-gimenez",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Fredy Bareiro",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-fredy-bareiro",
+    "team": "Olimpia",
+    "year": 2013,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Manuel Salgueiro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-2013-juan-manuel-salgueiro",
+    "team": "Olimpia",
     "year": 2013,
     "comp": "lib"
   }

@@ -43,5 +43,35 @@
       "ucl-manchester-united-1999-wes-brown",
       "ucl-manchester-united-1999-jonathan-greening"
     ]
+  },
+  {
+    "name": "Bayern",
+    "year": 1999,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1999_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-bayern-1999-oliver-kahn",
+      "ucl-bayern-1999-lothar-matthaus",
+      "ucl-bayern-1999-markus-babbel",
+      "ucl-bayern-1999-thomas-linke",
+      "ucl-bayern-1999-samuel-kuffour",
+      "ucl-bayern-1999-michael-tarnat",
+      "ucl-bayern-1999-stefan-effenberg",
+      "ucl-bayern-1999-jens-jeremies",
+      "ucl-bayern-1999-mario-basler",
+      "ucl-bayern-1999-carsten-jancker",
+      "ucl-bayern-1999-alexander-zickler",
+      "ucl-bayern-1999-bernd-dreher",
+      "ucl-bayern-1999-thomas-helmer",
+      "ucl-bayern-1999-mehmet-scholl",
+      "ucl-bayern-1999-thomas-strunz",
+      "ucl-bayern-1999-thorsten-fink",
+      "ucl-bayern-1999-hasan-salihamidzic",
+      "ucl-bayern-1999-ali-daei"
+    ]
   }
 ]

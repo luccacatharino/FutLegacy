@@ -43,5 +43,30 @@
       "lib-olimpia-1990-adolfo-jara",
       "lib-olimpia-1990-vidal-sanabria"
     ]
+  },
+  {
+    "name": "Barcelona de Guayaquil",
+    "year": 1990,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1990_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-barcelona-de-guayaquil-1990-carlos-luis-morales",
+      "lib-barcelona-de-guayaquil-1990-jimmy-izquierdo",
+      "lib-barcelona-de-guayaquil-1990-freddy-bravo",
+      "lib-barcelona-de-guayaquil-1990-wilson-macias",
+      "lib-barcelona-de-guayaquil-1990-julio-c-guzman",
+      "lib-barcelona-de-guayaquil-1990-mario-saralegui",
+      "lib-barcelona-de-guayaquil-1990-jhonny-proano",
+      "lib-barcelona-de-guayaquil-1990-marcelo-trobbiani",
+      "lib-barcelona-de-guayaquil-1990-carlos-munoz",
+      "lib-barcelona-de-guayaquil-1990-jimmy-a-jimenez",
+      "lib-barcelona-de-guayaquil-1990-luis-a-acosta",
+      "lib-barcelona-de-guayaquil-1990-carlos-hans",
+      "lib-barcelona-de-guayaquil-1990-david-bravo"
+    ]
   }
 ]

@@ -43,5 +43,28 @@
       "lib-racing-1967-jaime-martinoli",
       "lib-racing-1967-fernando-parenti"
     ]
+  },
+  {
+    "name": "Nacional",
+    "year": 1967,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1967_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-nacional-1967-rogelio-dominguez",
+      "lib-nacional-1967-luis-ubina",
+      "lib-nacional-1967-jorge-manicera",
+      "lib-nacional-1967-emilio-alvarez",
+      "lib-nacional-1967-juan-mujica",
+      "lib-nacional-1967-milton-viera",
+      "lib-nacional-1967-julio-montero-castillo",
+      "lib-nacional-1967-victor-esparrago",
+      "lib-nacional-1967-ruben-h-sosa",
+      "lib-nacional-1967-celio",
+      "lib-nacional-1967-jose-urruzmendi"
+    ]
   }
 ]

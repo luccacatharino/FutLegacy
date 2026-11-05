@@ -42,5 +42,30 @@
       "lib-penarol-1982-walkir-silva",
       "lib-penarol-1982-daniel-rodriguez"
     ]
+  },
+  {
+    "name": "Cobreloa",
+    "year": 1982,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1982_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-cobreloa-1982-oscar-wirth",
+      "lib-cobreloa-1982-hugo-tabilo",
+      "lib-cobreloa-1982-eduardo-gomez",
+      "lib-cobreloa-1982-mario-soto",
+      "lib-cobreloa-1982-enzo-escobar",
+      "lib-cobreloa-1982-eduardo-jimenez",
+      "lib-cobreloa-1982-armando-alarcon",
+      "lib-cobreloa-1982-victor-merello",
+      "lib-cobreloa-1982-ruben-gomez",
+      "lib-cobreloa-1982-jorge-luis-siviero",
+      "lib-cobreloa-1982-washington-olivera",
+      "lib-cobreloa-1982-hector-puebla",
+      "lib-cobreloa-1982-hugo-rubio"
+    ]
   }
 ]

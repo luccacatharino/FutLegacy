@@ -41,5 +41,31 @@
       "lib-cruzeiro-1997-tico",
       "lib-cruzeiro-1997-elivelton"
     ]
+  },
+  {
+    "name": "Sporting Cristal",
+    "year": 1997,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1997_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-sporting-cristal-1997-julio-cesar-balerio",
+      "lib-sporting-cristal-1997-manuel-marengo",
+      "lib-sporting-cristal-1997-miguel-rebosio",
+      "lib-sporting-cristal-1997-marcelo-asteggiano",
+      "lib-sporting-cristal-1997-martin-vasquez",
+      "lib-sporting-cristal-1997-jorge-soto",
+      "lib-sporting-cristal-1997-pedro-garay",
+      "lib-sporting-cristal-1997-alfredo-carmona",
+      "lib-sporting-cristal-1997-nolberto-solano",
+      "lib-sporting-cristal-1997-luis-alberto-bonnet",
+      "lib-sporting-cristal-1997-julinho",
+      "lib-sporting-cristal-1997-erick-torres",
+      "lib-sporting-cristal-1997-andres-mendoza",
+      "lib-sporting-cristal-1997-alex-magallanes"
+    ]
   }
 ]

@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 43,
+      "vel": 44,
       "fin": 14,
-      "pas": 71,
-      "dri": 39,
-      "def": 26,
-      "fis": 76,
-      "ref": 88,
-      "han": 84,
-      "pos": 85,
-      "div": 86,
-      "kic": 71,
-      "one": 83
+      "pas": 73,
+      "dri": 40,
+      "def": 27,
+      "fis": 78,
+      "ref": 90,
+      "han": 86,
+      "pos": 87,
+      "div": 88,
+      "kic": 73,
+      "one": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1994-taffarel",
     "team": "Brasil",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 92,
-      "fin": 60,
-      "pas": 83,
-      "dri": 80,
-      "def": 84,
-      "fis": 77
+      "vel": 94,
+      "fin": 61,
+      "pas": 85,
+      "dri": 82,
+      "def": 86,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1994-jorginho",
     "team": "Brasil",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 67,
-      "fin": 51,
-      "pas": 67,
-      "dri": 56,
-      "def": 91,
-      "fis": 85
+      "vel": 69,
+      "fin": 52,
+      "pas": 69,
+      "dri": 57,
+      "def": 93,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1994-aldair",
     "team": "Brasil",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 65,
-      "fin": 49,
-      "pas": 65,
-      "dri": 54,
-      "def": 82,
-      "fis": 83
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 84,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-brasil-1994-marcio-santos",
     "team": "Brasil",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 87,
-      "fin": 62,
-      "pas": 78,
-      "dri": 82,
-      "def": 79,
-      "fis": 78
+      "vel": 89,
+      "fin": 63,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-brasil-1994-branco",
     "team": "Brasil",
@@ -116,16 +116,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 79,
-      "fin": 64,
-      "pas": 86,
-      "dri": 76,
-      "def": 85,
-      "fis": 85
+      "vel": 81,
+      "fin": 66,
+      "pas": 88,
+      "dri": 78,
+      "def": 87,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-brasil-1994-dunga",
     "team": "Brasil",
@@ -137,16 +137,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 78,
-      "fin": 68,
-      "pas": 84,
-      "dri": 80,
-      "def": 83,
-      "fis": 83
+      "vel": 80,
+      "fin": 70,
+      "pas": 86,
+      "dri": 82,
+      "def": 85,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-brasil-1994-mauro-silva",
     "team": "Brasil",
@@ -159,16 +159,16 @@
       "MC",
       "MD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 78,
-      "fin": 68,
-      "pas": 86,
-      "dri": 78,
-      "def": 65,
-      "fis": 75
+      "vel": 80,
+      "fin": 70,
+      "pas": 88,
+      "dri": 80,
+      "def": 67,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-brasil-1994-mazinho",
     "team": "Brasil",
@@ -181,16 +181,16 @@
       "ME",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 82,
-      "fin": 74,
-      "pas": 76,
-      "dri": 82,
-      "def": 50,
-      "fis": 70
+      "vel": 84,
+      "fin": 76,
+      "pas": 78,
+      "dri": 84,
+      "def": 51,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-brasil-1994-zinho",
     "team": "Brasil",
@@ -202,16 +202,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 86,
-      "fin": 88,
-      "pas": 76,
-      "dri": 79,
-      "def": 42,
-      "fis": 87
+      "vel": 88,
+      "fin": 90,
+      "pas": 78,
+      "dri": 81,
+      "def": 43,
+      "fis": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "wc-brasil-1994-bebeto",
     "team": "Brasil",
@@ -223,16 +223,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 93,
     "attrs": {
-      "vel": 88,
-      "fin": 93,
-      "pas": 78,
-      "dri": 87,
-      "def": 44,
-      "fis": 89
+      "vel": 90,
+      "fin": 95,
+      "pas": 80,
+      "dri": 89,
+      "def": 45,
+      "fis": 91
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 97,
     "id": "wc-brasil-1994-romario",
     "team": "Brasil",
@@ -244,22 +244,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 64,
-      "dri": 39,
+      "pas": 66,
+      "dri": 40,
       "def": 19,
-      "fis": 75,
-      "ref": 84,
-      "han": 80,
-      "pos": 81,
-      "div": 82,
-      "kic": 67,
-      "one": 79
+      "fis": 77,
+      "ref": 86,
+      "han": 82,
+      "pos": 83,
+      "div": 84,
+      "kic": 69,
+      "one": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-italia-1994-gianluca-pagliuca",
     "team": "Itália",
@@ -271,16 +271,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 82,
-      "fin": 51,
-      "pas": 73,
-      "dri": 70,
-      "def": 74,
-      "fis": 67
+      "vel": 84,
+      "fin": 52,
+      "pas": 75,
+      "dri": 72,
+      "def": 76,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-italia-1994-roberto-mussi",
     "team": "Itália",
@@ -292,16 +292,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 72,
-      "fin": 49,
-      "pas": 72,
-      "dri": 54,
-      "def": 89,
-      "fis": 83
+      "vel": 74,
+      "fin": 50,
+      "pas": 74,
+      "dri": 55,
+      "def": 91,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-italia-1994-franco-baresi",
     "team": "Itália",
@@ -314,16 +314,16 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 68,
-      "fin": 52,
-      "pas": 68,
-      "dri": 57,
-      "def": 85,
-      "fis": 86
+      "vel": 70,
+      "fin": 53,
+      "pas": 70,
+      "dri": 58,
+      "def": 87,
+      "fis": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-italia-1994-paolo-maldini",
     "team": "Itália",
@@ -336,16 +336,16 @@
       "LE",
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 80,
-      "fin": 55,
-      "pas": 71,
-      "dri": 75,
-      "def": 72,
-      "fis": 71
+      "vel": 82,
+      "fin": 56,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-italia-1994-antonio-benarrivo",
     "team": "Itália",
@@ -358,16 +358,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 74,
-      "fin": 71,
-      "pas": 82,
-      "dri": 81,
-      "def": 68,
-      "fis": 72
+      "vel": 76,
+      "fin": 73,
+      "pas": 84,
+      "dri": 83,
+      "def": 70,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-italia-1994-demetrio-albertini",
     "team": "Itália",
@@ -380,16 +380,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 63,
-      "pas": 79,
-      "dri": 75,
-      "def": 78,
-      "fis": 78
+      "vel": 74,
+      "fin": 65,
+      "pas": 81,
+      "dri": 77,
+      "def": 80,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-italia-1994-dino-baggio",
     "team": "Itália",
@@ -402,16 +402,16 @@
       "MD",
       "ME"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 83,
-      "fin": 75,
-      "pas": 77,
-      "dri": 83,
-      "def": 51,
-      "fis": 71
+      "vel": 85,
+      "fin": 77,
+      "pas": 79,
+      "dri": 85,
+      "def": 52,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-italia-1994-roberto-donadoni",
     "team": "Itália",
@@ -424,16 +424,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 73,
-      "fin": 63,
-      "pas": 81,
-      "dri": 73,
-      "def": 60,
-      "fis": 70
+      "vel": 75,
+      "fin": 65,
+      "pas": 83,
+      "dri": 75,
+      "def": 62,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-italia-1994-nicola-berti",
     "team": "Itália",
@@ -446,16 +446,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 88,
-      "fin": 83,
-      "pas": 93,
-      "dri": 89,
-      "def": 50,
-      "fis": 71
+      "vel": 90,
+      "fin": 85,
+      "pas": 95,
+      "dri": 91,
+      "def": 51,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-italia-1994-roberto-baggio",
     "team": "Itália",
@@ -467,16 +467,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 77,
-      "fin": 79,
-      "pas": 67,
-      "dri": 69,
-      "def": 33,
-      "fis": 71
+      "vel": 79,
+      "fin": 81,
+      "pas": 69,
+      "dri": 71,
+      "def": 34,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-italia-1994-daniele-massaro",
     "team": "Itália",
@@ -488,22 +488,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 63,
-      "dri": 31,
+      "pas": 65,
+      "dri": 32,
       "def": 18,
-      "fis": 68,
-      "ref": 81,
-      "han": 77,
-      "pos": 78,
-      "div": 79,
-      "kic": 64,
-      "one": 76
+      "fis": 70,
+      "ref": 83,
+      "han": 79,
+      "pos": 80,
+      "div": 81,
+      "kic": 66,
+      "one": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-bulgaria-1994-borislav-mihaylov",
     "team": "Bulgária",
@@ -515,16 +515,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 77,
-      "fin": 52,
-      "pas": 68,
-      "dri": 72,
-      "def": 69,
-      "fis": 68
+      "vel": 78,
+      "fin": 53,
+      "pas": 69,
+      "dri": 73,
+      "def": 70,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-bulgaria-1994-emil-kremenliev",
     "team": "Bulgária",
@@ -536,16 +536,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 64,
-      "fin": 41,
-      "pas": 64,
-      "dri": 53,
-      "def": 81,
-      "fis": 82
+      "vel": 66,
+      "fin": 42,
+      "pas": 66,
+      "dri": 54,
+      "def": 83,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-bulgaria-1994-trifon-ivanov",
     "team": "Bulgária",
@@ -557,16 +557,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 60,
-      "fin": 44,
-      "pas": 60,
-      "dri": 49,
-      "def": 77,
-      "fis": 78
+      "vel": 62,
+      "fin": 45,
+      "pas": 62,
+      "dri": 50,
+      "def": 79,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-bulgaria-1994-petar-hubchev",
     "team": "Bulgária",
@@ -578,16 +578,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 77,
-      "fin": 52,
-      "pas": 68,
-      "dri": 72,
-      "def": 69,
-      "fis": 68
+      "vel": 78,
+      "fin": 53,
+      "pas": 69,
+      "dri": 73,
+      "def": 70,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-bulgaria-1994-tsanko-tsvetanov",
     "team": "Bulgária",
@@ -600,16 +600,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 69,
-      "fin": 53,
-      "pas": 76,
-      "dri": 66,
-      "def": 75,
-      "fis": 75
+      "vel": 71,
+      "fin": 54,
+      "pas": 78,
+      "dri": 68,
+      "def": 77,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-bulgaria-1994-zlatko-yankov",
     "team": "Bulgária",
@@ -622,16 +622,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 75,
-      "fin": 72,
-      "pas": 83,
-      "dri": 82,
-      "def": 69,
-      "fis": 73
+      "vel": 77,
+      "fin": 74,
+      "pas": 85,
+      "dri": 84,
+      "def": 71,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-bulgaria-1994-yordan-letchkov",
     "team": "Bulgária",
@@ -644,16 +644,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 81,
-      "fin": 83,
-      "pas": 87,
-      "dri": 89,
-      "def": 43,
-      "fis": 71
+      "vel": 83,
+      "fin": 85,
+      "pas": 89,
+      "dri": 91,
+      "def": 44,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-bulgaria-1994-krasimir-balakov",
     "team": "Bulgária",
@@ -666,16 +666,16 @@
       "ME",
       "MC"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 81,
-      "fin": 67,
-      "pas": 75,
-      "dri": 74,
-      "def": 49,
-      "fis": 62
+      "vel": 83,
+      "fin": 69,
+      "pas": 77,
+      "dri": 76,
+      "def": 50,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-bulgaria-1994-daniel-borimirov",
     "team": "Bulgária",
@@ -688,16 +688,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 86,
-      "fin": 77,
-      "pas": 76,
-      "dri": 87,
-      "def": 34,
-      "fis": 69
+      "vel": 88,
+      "fin": 79,
+      "pas": 78,
+      "dri": 89,
+      "def": 35,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-bulgaria-1994-emil-kostadinov",
     "team": "Bulgária",
@@ -710,16 +710,16 @@
       "ATA",
       "PE"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 84,
-      "fin": 93,
-      "pas": 74,
-      "dri": 83,
-      "def": 40,
-      "fis": 85
+      "vel": 86,
+      "fin": 95,
+      "pas": 76,
+      "dri": 85,
+      "def": 41,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-bulgaria-1994-hristo-stoichkov",
     "team": "Bulgária",
@@ -731,22 +731,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 43,
+      "vel": 44,
       "fin": 14,
-      "pas": 70,
-      "dri": 38,
-      "def": 25,
-      "fis": 75,
-      "ref": 88,
-      "han": 84,
-      "pos": 85,
-      "div": 86,
-      "kic": 71,
-      "one": 83
+      "pas": 72,
+      "dri": 39,
+      "def": 26,
+      "fis": 77,
+      "ref": 90,
+      "han": 86,
+      "pos": 87,
+      "div": 88,
+      "kic": 73,
+      "one": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-suecia-1994-thomas-ravelli",
     "team": "Suécia",
@@ -758,16 +758,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 82,
-      "fin": 57,
-      "pas": 73,
-      "dri": 77,
-      "def": 74,
-      "fis": 73
+      "vel": 84,
+      "fin": 58,
+      "pas": 75,
+      "dri": 79,
+      "def": 76,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-suecia-1994-roland-nilsson",
     "team": "Suécia",
@@ -779,16 +779,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 63,
-      "fin": 47,
-      "pas": 63,
-      "dri": 52,
-      "def": 80,
-      "fis": 81
+      "vel": 65,
+      "fin": 48,
+      "pas": 65,
+      "dri": 53,
+      "def": 82,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-suecia-1994-patrik-andersson",
     "team": "Suécia",
@@ -800,16 +800,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 64,
-      "fin": 41,
-      "pas": 64,
-      "dri": 46,
-      "def": 81,
-      "fis": 75
+      "vel": 66,
+      "fin": 42,
+      "pas": 66,
+      "dri": 47,
+      "def": 83,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-suecia-1994-joachim-bjorklund",
     "team": "Suécia",
@@ -821,16 +821,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 79,
-      "fin": 48,
-      "pas": 70,
-      "dri": 67,
-      "def": 71,
-      "fis": 70
+      "vel": 80,
+      "fin": 49,
+      "pas": 71,
+      "dri": 68,
+      "def": 72,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-suecia-1994-roger-ljung",
     "team": "Suécia",
@@ -843,16 +843,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 62,
-      "pas": 78,
-      "dri": 74,
-      "def": 77,
-      "fis": 77
+      "vel": 74,
+      "fin": 64,
+      "pas": 80,
+      "dri": 76,
+      "def": 79,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-suecia-1994-jonas-thern",
     "team": "Suécia",
@@ -865,16 +865,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 73,
-      "fin": 70,
-      "pas": 88,
-      "dri": 80,
-      "def": 67,
-      "fis": 71
+      "vel": 75,
+      "fin": 72,
+      "pas": 90,
+      "dri": 82,
+      "def": 69,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-suecia-1994-stefan-schwarz",
     "team": "Suécia",
@@ -887,16 +887,16 @@
       "MEI",
       "PD"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 79,
-      "fin": 81,
-      "pas": 92,
-      "dri": 87,
-      "def": 47,
-      "fis": 69
+      "vel": 81,
+      "fin": 83,
+      "pas": 94,
+      "dri": 89,
+      "def": 48,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-suecia-1994-tomas-brolin",
     "team": "Suécia",
@@ -909,16 +909,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 69,
-      "fin": 66,
-      "pas": 77,
-      "dri": 76,
-      "def": 63,
-      "fis": 67
+      "vel": 71,
+      "fin": 68,
+      "pas": 79,
+      "dri": 78,
+      "def": 65,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-suecia-1994-hakan-mild",
     "team": "Suécia",
@@ -930,16 +930,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 71,
-      "dri": 80,
-      "def": 37,
-      "fis": 82
+      "vel": 83,
+      "fin": 92,
+      "pas": 73,
+      "dri": 82,
+      "def": 38,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-suecia-1994-kennet-andersson",
     "team": "Suécia",
@@ -951,16 +951,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 70,
-      "dri": 79,
-      "def": 36,
-      "fis": 81
+      "vel": 82,
+      "fin": 84,
+      "pas": 72,
+      "dri": 81,
+      "def": 37,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-suecia-1994-martin-dahlin",
     "team": "Suécia",
@@ -972,22 +972,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 55,
+      "pas": 56,
       "dri": 30,
       "def": 11,
-      "fis": 67,
-      "ref": 77,
-      "han": 73,
-      "pos": 74,
-      "div": 75,
-      "kic": 60,
-      "one": 72
+      "fis": 68,
+      "ref": 78,
+      "han": 74,
+      "pos": 75,
+      "div": 76,
+      "kic": 61,
+      "one": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-romenia-1994-florin-prunea",
     "team": "Romênia",
@@ -1000,16 +1000,16 @@
       "LD",
       "MD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 84,
-      "fin": 59,
-      "pas": 75,
-      "dri": 79,
-      "def": 76,
-      "fis": 75
+      "vel": 86,
+      "fin": 60,
+      "pas": 77,
+      "dri": 81,
+      "def": 78,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-romenia-1994-dan-petrescu",
     "team": "Romênia",
@@ -1021,16 +1021,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 68,
-      "fin": 45,
-      "pas": 68,
-      "dri": 50,
-      "def": 85,
-      "fis": 79
+      "vel": 70,
+      "fin": 46,
+      "pas": 70,
+      "dri": 51,
+      "def": 87,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-romenia-1994-miodrag-belodedici",
     "team": "Romênia",
@@ -1042,16 +1042,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 58,
-      "fin": 42,
-      "pas": 58,
-      "dri": 47,
-      "def": 82,
-      "fis": 76
+      "vel": 60,
+      "fin": 43,
+      "pas": 60,
+      "dri": 48,
+      "def": 84,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-romenia-1994-daniel-prodan",
     "team": "Romênia",
@@ -1063,16 +1063,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 57,
-      "fin": 41,
-      "pas": 57,
-      "dri": 46,
-      "def": 74,
-      "fis": 75
+      "vel": 58,
+      "fin": 42,
+      "pas": 58,
+      "dri": 47,
+      "def": 75,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-romenia-1994-gheorghe-mihali",
     "team": "Romênia",
@@ -1085,16 +1085,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 71,
-      "fin": 61,
-      "pas": 77,
-      "dri": 73,
-      "def": 83,
-      "fis": 76
+      "vel": 73,
+      "fin": 63,
+      "pas": 79,
+      "dri": 75,
+      "def": 85,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-romenia-1994-gheorghe-popescu",
     "team": "Romênia",
@@ -1107,16 +1107,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 71,
-      "fin": 55,
-      "pas": 78,
-      "dri": 68,
-      "def": 77,
-      "fis": 77
+      "vel": 73,
+      "fin": 56,
+      "pas": 80,
+      "dri": 70,
+      "def": 79,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-romenia-1994-ioan-lupescu",
     "team": "Romênia",
@@ -1129,16 +1129,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 76,
-      "fin": 66,
-      "pas": 84,
-      "dri": 76,
-      "def": 63,
-      "fis": 73
+      "vel": 78,
+      "fin": 68,
+      "pas": 86,
+      "dri": 78,
+      "def": 65,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-romenia-1994-dorinel-munteanu",
     "team": "Romênia",
@@ -1151,16 +1151,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 93,
-      "dri": 88,
-      "def": 49,
-      "fis": 70
+      "vel": 82,
+      "fin": 84,
+      "pas": 95,
+      "dri": 90,
+      "def": 50,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-romenia-1994-gheorghe-hagi",
     "team": "Romênia",
@@ -1173,16 +1173,16 @@
       "PE",
       "MEI"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 89,
-      "fin": 87,
-      "pas": 79,
-      "dri": 90,
-      "def": 37,
-      "fis": 72
+      "vel": 91,
+      "fin": 89,
+      "pas": 81,
+      "dri": 92,
+      "def": 38,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-romenia-1994-ilie-dumitrescu",
     "team": "Romênia",
@@ -1194,19 +1194,3886 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 80,
-      "fin": 89,
-      "pas": 70,
-      "dri": 79,
-      "def": 36,
-      "fis": 81
+      "vel": 82,
+      "fin": 91,
+      "pas": 72,
+      "dri": 81,
+      "def": 37,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-romenia-1994-florin-raducioiu",
     "team": "Romênia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Goycochea",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-goycochea",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Islas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-islas",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Scoponi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-scoponi",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Sensini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-sensini",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ruggeri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-ruggeri",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Chamot",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-chamot",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Cáceres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-caceres",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "H. Díaz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-h-diaz",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Vázquez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-vazquez",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Borelli",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-borelli",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Maradona",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-maradona",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Redondo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-redondo",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Simeone",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-simeone",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ortega",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-ortega",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Rodríguez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-l-rodriguez",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Basualdo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-basualdo",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Hugo Pérez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-hugo-perez",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Mancuso",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-mancuso",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Batistuta",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-batistuta",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Caniggia",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-caniggia",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Balbo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-balbo",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Medina Bello",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1994-medina-bello",
+    "team": "Argentina",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "René Higuita",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-rene-higuita",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Faryd Mondragón",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-faryd-mondragon",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Óscar Córdoba",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-oscar-cordoba",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "José María Pazo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-jose-maria-pazo",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Luis Carlos Perea",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-luis-carlos-perea",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Andrés Escobar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-andres-escobar",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Luis Fernando Herrera",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-luis-fernando-herrera",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Harold Lozano",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-harold-lozano",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Hermán Gaviria",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-herman-gaviria",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Néstor Ortiz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-nestor-ortiz",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Alexis Mendoza",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-alexis-mendoza",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Óscar Cortés",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-oscar-cortes",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilson Pérez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-wilson-perez",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Carlos Valderrama",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-carlos-valderrama",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Freddy Rincón",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-freddy-rincon",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Leonel Álvarez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-leonel-alvarez",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Mauricio Serna",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-mauricio-serna",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Gabriel Gómez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-gabriel-gomez",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Faustino Asprilla",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-faustino-asprilla",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Víctor Aristizábal",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-victor-aristizabal",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Antony De Ávila",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-antony-de-avila",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Adolfo Valencia",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-adolfo-valencia",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Iván Valenciano",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1994-ivan-valenciano",
+    "team": "Colômbia",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Illgner",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-illgner",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Kahn",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-kahn",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Köpke",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-kopke",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Sammer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-sammer",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Brehme",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-brehme",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Köhler",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-kohler",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Buchwald",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-buchwald",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Helmer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-helmer",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Berthold",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-berthold",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Matthäus",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-matthaus",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Möller",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-moller",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Effenberg",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-effenberg",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Häßler",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-ha-ler",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Strunz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-strunz",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Basler",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-basler",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Gaudino",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-gaudino",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Klinsmann",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-klinsmann",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Völler",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-voller",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Riedle",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-riedle",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Kirsten",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-kirsten",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Kuntz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-kuntz",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Wagner",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1994-wagner",
+    "team": "Alemanha",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Campos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-campos",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Fernández",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-f-fernandez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Chávez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-a-chavez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Suárez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-c-suarez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "J.D. Ramírez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-j-d-ramirez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Gutiérrez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-r-gutierrez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Salgado",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-salgado",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "García Aspe",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-garcia-aspe",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Ramírez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-r-ramirez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ambríz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-ambriz",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Galindo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-galindo",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Bernal",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-bernal",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Espinoza",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-espinoza",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Rodríguez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-j-rodriguez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Del Olmo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-del-olmo",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "J.C. Chávez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-j-c-chavez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Hugo Sánchez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-hugo-sanchez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "L. García",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-l-garcia",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Hermosillo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-hermosillo",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Zague",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-zague",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Valdéz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-valdez",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Salvador",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1994-salvador",
+    "team": "México",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "De Goey",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-de-goey",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Snelders",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-snelders",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Van der Sar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-van-der-sar",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Koeman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-r-koeman",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "F. de Boer",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-f-de-boer",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Blind",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-blind",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Numan",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-numan",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Valckx",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-valckx",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Gobbel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-van-gobbel",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "De Wolf",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-de-wolf",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Rijkaard",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-rijkaard",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Winter",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-winter",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Jonk",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-jonk",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "R. de Boer",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-r-de-boer",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Wouters",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-wouters",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Witschge",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-witschge",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Bergkamp",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-bergkamp",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Overmars",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-overmars",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Roy",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-roy",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Vossen",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-van-vossen",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Bosman",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-bosman",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Taument",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1994-taument",
+    "team": "Países Baixos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Rufai",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-rufai",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Agu",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-agu",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Agbonavbare",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-agbonavbare",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Keshi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-keshi",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Eguavoen",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-eguavoen",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Okechukwu",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-okechukwu",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Iroha",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-iroha",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Nwanu",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-nwanu",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Okafor",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-okafor",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Emenalo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-emenalo",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Okocha",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-okocha",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Oliseh",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-oliseh",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Oliha",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-oliha",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Adepoju",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-adepoju",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Siasia",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-siasia",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ezeugo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-ezeugo",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Finidi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-finidi",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Yekini",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-yekini",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Amunike",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-amunike",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Amokachi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-amokachi",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ikpeba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-ikpeba",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ekoku",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-1994-ekoku",
+    "team": "Nigéria",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Thorstvedt",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-thorstvedt",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Grodås",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-grodas",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "By Rise",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-by-rise",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Bratseth",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-bratseth",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "H. Berg",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-h-berg",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Bjørnebye",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-bj-rnebye",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Halle",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-halle",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Johnsen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-e-johnsen",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Nilsen",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-r-nilsen",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Pedersen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-t-pedersen",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Rekdal",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-rekdal",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Bohinen",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-bohinen",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Leonhardsen",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-leonhardsen",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Mykland",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-mykland",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Håland",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-haland",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ingebrigtsen",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-ingebrigtsen",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Strand",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-strand",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ø. Berg",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-berg",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Fjørtoft",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-fj-rtoft",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Flo",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-j-flo",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Mini Jakobsen",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-mini-jakobsen",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Sørloth",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-1994-g-s-rloth",
+    "team": "Noruega",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Meola",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-meola",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Friedel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-friedel",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Sommer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-sommer",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Balboa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-balboa",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Lalas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-lalas",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Caligiuri",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-caligiuri",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Clavijo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-clavijo",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Burns",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-burns",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Kooiman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-kooiman",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Lapper",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-lapper",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramos",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-ramos",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Harkes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-harkes",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Dooley",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-dooley",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Reyna",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-reyna",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Pérez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-perez",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Sorber",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-sorber",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Wynalda",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-wynalda",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Stewart",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-stewart",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Wegerle",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-wegerle",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Jones",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-jones",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Moore",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-moore",
+    "team": "Estados Unidos",
+    "year": 1994,
+    "comp": "wc"
+  },
+  {
+    "name": "Klopas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1994-klopas",
+    "team": "Estados Unidos",
     "year": 1994,
     "comp": "wc"
   }

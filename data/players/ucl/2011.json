@@ -15,7 +15,7 @@
       "def": 33,
       "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 98,
     "id": "ucl-barcelona-2011-lionel-messi",
     "team": "Barcelona",
@@ -28,16 +28,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 92,
     "attrs": {
-      "vel": 68,
-      "fin": 70,
-      "pas": 93,
-      "dri": 88,
-      "def": 63,
-      "fis": 65
+      "vel": 70,
+      "fin": 72,
+      "pas": 95,
+      "dri": 90,
+      "def": 64,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 96,
     "id": "ucl-barcelona-2011-xavi",
     "team": "Barcelona",
@@ -51,16 +51,16 @@
       "MEI",
       "ME"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 75,
-      "fin": 72,
-      "pas": 91,
-      "dri": 92,
-      "def": 57,
-      "fis": 59
+      "vel": 77,
+      "fin": 74,
+      "pas": 93,
+      "dri": 94,
+      "def": 58,
+      "fis": 60
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "ucl-barcelona-2011-andres-iniesta",
     "team": "Barcelona",
@@ -73,16 +73,16 @@
       "LD",
       "MD"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 84,
-      "fin": 62,
-      "pas": 85,
-      "dri": 79,
-      "def": 78,
-      "fis": 76
+      "vel": 86,
+      "fin": 63,
+      "pas": 87,
+      "dri": 81,
+      "def": 80,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-barcelona-2011-dani-alves",
     "team": "Barcelona",
@@ -96,16 +96,16 @@
       "ATA",
       "PD"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 80,
-      "fin": 89,
-      "pas": 79,
-      "dri": 83,
-      "def": 32,
-      "fis": 68
+      "vel": 82,
+      "fin": 91,
+      "pas": 81,
+      "dri": 85,
+      "def": 33,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-barcelona-2011-david-villa",
     "team": "Barcelona",
@@ -118,16 +118,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 54,
-      "fin": 40,
-      "pas": 90,
-      "dri": 76,
-      "def": 84,
-      "fis": 71
+      "vel": 55,
+      "fin": 41,
+      "pas": 92,
+      "dri": 78,
+      "def": 86,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-barcelona-2011-sergio-busquets",
     "team": "Barcelona",
@@ -139,16 +139,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 64,
-      "fin": 44,
-      "pas": 80,
-      "dri": 62,
-      "def": 87,
-      "fis": 83
+      "vel": 66,
+      "fin": 45,
+      "pas": 82,
+      "dri": 63,
+      "def": 89,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "ucl-barcelona-2011-gerard-pique",
     "team": "Barcelona",
@@ -161,16 +161,16 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 70,
-      "fin": 41,
-      "pas": 73,
-      "dri": 58,
-      "def": 90,
-      "fis": 86
+      "vel": 72,
+      "fin": 42,
+      "pas": 75,
+      "dri": 59,
+      "def": 92,
+      "fis": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "ucl-barcelona-2011-carles-puyol",
     "team": "Barcelona",
@@ -184,16 +184,16 @@
       "PE",
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 84,
-      "fin": 81,
-      "pas": 77,
-      "dri": 83,
-      "def": 44,
-      "fis": 64
+      "vel": 86,
+      "fin": 83,
+      "pas": 79,
+      "dri": 85,
+      "def": 45,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-barcelona-2011-pedro",
     "team": "Barcelona",
@@ -205,22 +205,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 45,
+      "vel": 46,
       "fin": 9,
-      "pas": 76,
-      "dri": 33,
+      "pas": 78,
+      "dri": 34,
       "def": 17,
-      "fis": 70,
-      "ref": 85,
-      "han": 80,
-      "pos": 85,
-      "div": 83,
-      "kic": 81,
-      "one": 86
+      "fis": 72,
+      "ref": 87,
+      "han": 82,
+      "pos": 87,
+      "div": 85,
+      "kic": 83,
+      "one": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-barcelona-2011-victor-valdes",
     "team": "Barcelona",
@@ -233,16 +233,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 68,
-      "fin": 38,
-      "pas": 80,
-      "dri": 66,
-      "def": 87,
-      "fis": 77
+      "vel": 70,
+      "fin": 39,
+      "pas": 82,
+      "dri": 68,
+      "def": 89,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-barcelona-2011-javier-mascherano",
     "team": "Barcelona",
@@ -255,16 +255,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 76,
-      "fin": 32,
-      "pas": 75,
-      "dri": 62,
-      "def": 85,
-      "fis": 77
+      "vel": 78,
+      "fin": 33,
+      "pas": 77,
+      "dri": 63,
+      "def": 87,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-barcelona-2011-eric-abidal",
     "team": "Barcelona",
@@ -277,16 +277,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 69,
-      "fin": 67,
-      "pas": 83,
-      "dri": 78,
-      "def": 67,
-      "fis": 69
+      "vel": 71,
+      "fin": 69,
+      "pas": 85,
+      "dri": 80,
+      "def": 69,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-barcelona-2011-seydou-keita",
     "team": "Barcelona",
@@ -299,16 +299,16 @@
       "LE",
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 79,
-      "fin": 46,
-      "pas": 68,
-      "dri": 69,
-      "def": 71,
-      "fis": 70
+      "vel": 81,
+      "fin": 47,
+      "pas": 70,
+      "dri": 71,
+      "def": 73,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "ucl-barcelona-2011-adriano",
     "team": "Barcelona",
@@ -321,16 +321,16 @@
       "MEI",
       "PD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 68,
-      "fin": 72,
-      "pas": 79,
-      "dri": 80,
-      "def": 34,
-      "fis": 57
+      "vel": 70,
+      "fin": 74,
+      "pas": 81,
+      "dri": 82,
+      "def": 35,
+      "fis": 59
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "ucl-barcelona-2011-ibrahim-afellay",
     "team": "Barcelona",
@@ -343,16 +343,16 @@
       "ATA",
       "PD"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 72,
-      "fin": 80,
-      "pas": 55,
-      "dri": 67,
+      "vel": 73,
+      "fin": 81,
+      "pas": 56,
+      "dri": 68,
       "def": 28,
-      "fis": 71
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "ucl-barcelona-2011-bojan",
     "team": "Barcelona",
@@ -365,16 +365,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 64,
-      "fin": 62,
-      "pas": 78,
-      "dri": 68,
-      "def": 57,
-      "fis": 64
+      "vel": 65,
+      "fin": 63,
+      "pas": 79,
+      "dri": 69,
+      "def": 58,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "ucl-barcelona-2011-thiago",
     "team": "Barcelona",
@@ -386,22 +386,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 68,
+    "ovr": 69,
     "attrs": {
-      "vel": 39,
+      "vel": 40,
       "fin": 11,
-      "pas": 43,
+      "pas": 44,
       "dri": 27,
       "def": 17,
-      "fis": 59,
-      "ref": 69,
-      "han": 66,
-      "pos": 68,
-      "div": 69,
-      "kic": 52,
-      "one": 67
+      "fis": 60,
+      "ref": 70,
+      "han": 67,
+      "pos": 69,
+      "div": 70,
+      "kic": 53,
+      "one": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 72,
     "id": "ucl-barcelona-2011-oier",
     "team": "Barcelona",
@@ -413,22 +413,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 38,
+      "vel": 39,
       "fin": 9,
-      "pas": 71,
-      "dri": 23,
+      "pas": 73,
+      "dri": 24,
       "def": 15,
-      "fis": 74,
-      "ref": 85,
-      "han": 85,
-      "pos": 88,
-      "div": 82,
-      "kic": 76,
-      "one": 82
+      "fis": 76,
+      "ref": 87,
+      "han": 87,
+      "pos": 90,
+      "div": 84,
+      "kic": 78,
+      "one": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-manchester-united-2011-edwin-van-der-sar",
     "team": "Manchester United",
@@ -441,16 +441,16 @@
       "LD",
       "LE"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 80,
-      "fin": 37,
-      "pas": 65,
-      "dri": 70,
-      "def": 67,
-      "fis": 60
+      "vel": 81,
+      "fin": 38,
+      "pas": 66,
+      "dri": 71,
+      "def": 68,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "ucl-manchester-united-2011-fabio",
     "team": "Manchester United",
@@ -462,16 +462,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 70,
-      "fin": 31,
-      "pas": 72,
-      "dri": 55,
-      "def": 87,
-      "fis": 79
+      "vel": 72,
+      "fin": 32,
+      "pas": 74,
+      "dri": 56,
+      "def": 89,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-manchester-united-2011-rio-ferdinand",
     "team": "Manchester United",
@@ -483,16 +483,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 58,
-      "fin": 38,
-      "pas": 61,
-      "dri": 42,
-      "def": 89,
-      "fis": 87
+      "vel": 59,
+      "fin": 39,
+      "pas": 62,
+      "dri": 43,
+      "def": 91,
+      "fis": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "ucl-manchester-united-2011-nemanja-vidic",
     "team": "Manchester United",
@@ -505,16 +505,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 80,
-      "fin": 41,
-      "pas": 75,
-      "dri": 74,
-      "def": 80,
-      "fis": 73
+      "vel": 82,
+      "fin": 42,
+      "pas": 77,
+      "dri": 76,
+      "def": 82,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-manchester-united-2011-patrice-evra",
     "team": "Manchester United",
@@ -527,16 +527,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 58,
-      "fin": 57,
-      "pas": 86,
-      "dri": 70,
-      "def": 78,
-      "fis": 70
+      "vel": 59,
+      "fin": 58,
+      "pas": 88,
+      "dri": 72,
+      "def": 80,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-manchester-united-2011-michael-carrick",
     "team": "Manchester United",
@@ -550,16 +550,16 @@
       "MEI",
       "ME"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 69,
-      "fin": 71,
-      "pas": 86,
-      "dri": 80,
-      "def": 50,
-      "fis": 63
+      "vel": 71,
+      "fin": 73,
+      "pas": 88,
+      "dri": 82,
+      "def": 51,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-manchester-united-2011-ryan-giggs",
     "team": "Manchester United",
@@ -573,16 +573,16 @@
       "ME",
       "MD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 77,
-      "fin": 63,
-      "pas": 73,
-      "dri": 71,
-      "def": 68,
-      "fis": 83
+      "vel": 79,
+      "fin": 65,
+      "pas": 75,
+      "dri": 73,
+      "def": 70,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "ucl-manchester-united-2011-park-ji-sung",
     "team": "Manchester United",
@@ -595,16 +595,16 @@
       "MD",
       "PD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 88,
-      "fin": 58,
-      "pas": 77,
-      "dri": 77,
-      "def": 56,
-      "fis": 75
+      "vel": 90,
+      "fin": 59,
+      "pas": 79,
+      "dri": 79,
+      "def": 57,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "ucl-manchester-united-2011-antonio-valencia",
     "team": "Manchester United",
@@ -617,16 +617,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 80,
-      "fin": 85,
-      "pas": 80,
-      "dri": 82,
-      "def": 52,
-      "fis": 81
+      "vel": 82,
+      "fin": 87,
+      "pas": 82,
+      "dri": 84,
+      "def": 53,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-manchester-united-2011-wayne-rooney",
     "team": "Manchester United",
@@ -638,16 +638,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 85,
-      "fin": 83,
-      "pas": 58,
-      "dri": 68,
-      "def": 25,
-      "fis": 63
+      "vel": 87,
+      "fin": 85,
+      "pas": 59,
+      "dri": 70,
+      "def": 26,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "ucl-manchester-united-2011-javier-hernandez",
     "team": "Manchester United",

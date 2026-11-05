@@ -5,16 +5,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 92,
     "attrs": {
-      "vel": 76,
-      "fin": 59,
-      "pas": 81,
-      "dri": 80,
-      "def": 93,
-      "fis": 87
+      "vel": 78,
+      "fin": 60,
+      "pas": 83,
+      "dri": 82,
+      "def": 95,
+      "fis": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 96,
     "id": "ucl-chelsea-2021-n-golo-kante",
     "team": "Chelsea",
@@ -26,22 +26,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 11,
-      "pas": 64,
-      "dri": 30,
+      "pas": 65,
+      "dri": 31,
       "def": 17,
-      "fis": 77,
-      "ref": 90,
-      "han": 84,
-      "pos": 86,
-      "div": 87,
-      "kic": 73,
-      "one": 85
+      "fis": 79,
+      "ref": 92,
+      "han": 86,
+      "pos": 88,
+      "div": 89,
+      "kic": 75,
+      "one": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-chelsea-2021-edouard-mendy",
     "team": "Chelsea",
@@ -53,16 +53,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 67,
-      "fin": 39,
-      "pas": 66,
-      "dri": 57,
-      "def": 88,
-      "fis": 88
+      "vel": 69,
+      "fin": 40,
+      "pas": 68,
+      "dri": 58,
+      "def": 90,
+      "fis": 90
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "ucl-chelsea-2021-antonio-rudiger",
     "team": "Chelsea",
@@ -74,16 +74,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 55,
-      "fin": 34,
-      "pas": 78,
-      "dri": 60,
-      "def": 90,
-      "fis": 75
+      "vel": 56,
+      "fin": 35,
+      "pas": 80,
+      "dri": 61,
+      "def": 92,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "ucl-chelsea-2021-thiago-silva",
     "team": "Chelsea",
@@ -96,16 +96,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 70,
-      "fin": 59,
-      "pas": 84,
-      "dri": 71,
-      "def": 83,
-      "fis": 82
+      "vel": 72,
+      "fin": 60,
+      "pas": 86,
+      "dri": 73,
+      "def": 85,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-chelsea-2021-jorginho",
     "team": "Chelsea",
@@ -118,16 +118,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 76,
-      "fin": 80,
-      "pas": 87,
-      "dri": 88,
-      "def": 46,
-      "fis": 65
+      "vel": 78,
+      "fin": 82,
+      "pas": 89,
+      "dri": 90,
+      "def": 47,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-chelsea-2021-mason-mount",
     "team": "Chelsea",
@@ -139,16 +139,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 46,
-      "fin": 89,
-      "pas": 75,
-      "dri": 66,
-      "def": 41,
-      "fis": 89
+      "vel": 47,
+      "fin": 91,
+      "pas": 77,
+      "dri": 68,
+      "def": 42,
+      "fis": 91
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-chelsea-2021-olivier-giroud",
     "team": "Chelsea",
@@ -161,16 +161,16 @@
       "LD",
       "MD"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 81,
-      "fin": 53,
-      "pas": 75,
-      "dri": 75,
-      "def": 78,
-      "fis": 73
+      "vel": 83,
+      "fin": 54,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-chelsea-2021-reece-james",
     "team": "Chelsea",
@@ -183,16 +183,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 81,
-      "fin": 53,
-      "pas": 74,
-      "dri": 75,
-      "def": 74,
-      "fis": 73
+      "vel": 83,
+      "fin": 54,
+      "pas": 76,
+      "dri": 77,
+      "def": 76,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "ucl-chelsea-2021-ben-chilwell",
     "team": "Chelsea",
@@ -205,16 +205,16 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 62,
-      "fin": 39,
-      "pas": 66,
-      "dri": 52,
-      "def": 83,
-      "fis": 83
+      "vel": 64,
+      "fin": 40,
+      "pas": 68,
+      "dri": 53,
+      "def": 85,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "ucl-chelsea-2021-cesar-azpilicueta",
     "team": "Chelsea",
@@ -226,16 +226,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 59,
-      "fin": 36,
-      "pas": 63,
-      "dri": 54,
-      "def": 85,
-      "fis": 80
+      "vel": 60,
+      "fin": 37,
+      "pas": 65,
+      "dri": 55,
+      "def": 87,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-chelsea-2021-andreas-christensen",
     "team": "Chelsea",
@@ -248,16 +248,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 77,
-      "fin": 76,
-      "pas": 83,
-      "dri": 84,
-      "def": 42,
-      "fis": 66
+      "vel": 79,
+      "fin": 78,
+      "pas": 85,
+      "dri": 86,
+      "def": 43,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-chelsea-2021-kai-havertz",
     "team": "Chelsea",
@@ -269,16 +269,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 73,
-      "fin": 67,
-      "pas": 83,
-      "dri": 78,
-      "def": 67,
-      "fis": 73
+      "vel": 75,
+      "fin": 69,
+      "pas": 85,
+      "dri": 80,
+      "def": 69,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-chelsea-2021-mateo-kovacic",
     "team": "Chelsea",
@@ -291,16 +291,16 @@
       "PE",
       "PD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 82,
-      "pas": 72,
-      "dri": 82,
-      "def": 36,
-      "fis": 65
+      "vel": 87,
+      "fin": 84,
+      "pas": 74,
+      "dri": 84,
+      "def": 37,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-chelsea-2021-christian-pulisic",
     "team": "Chelsea",
@@ -313,16 +313,16 @@
       "PD",
       "MEI"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 78,
-      "pas": 72,
-      "dri": 83,
-      "def": 32,
-      "fis": 61
+      "vel": 83,
+      "fin": 80,
+      "pas": 74,
+      "dri": 85,
+      "def": 33,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "ucl-chelsea-2021-hakim-ziyech",
     "team": "Chelsea",
@@ -335,16 +335,16 @@
       "ATA",
       "PE"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 75,
-      "fin": 83,
-      "pas": 63,
-      "dri": 75,
-      "def": 31,
-      "fis": 74
+      "vel": 77,
+      "fin": 85,
+      "pas": 65,
+      "dri": 77,
+      "def": 32,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "ucl-chelsea-2021-timo-werner",
     "team": "Chelsea",
@@ -356,16 +356,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 54,
-      "fin": 31,
-      "pas": 58,
-      "dri": 49,
-      "def": 75,
-      "fis": 75
+      "vel": 55,
+      "fin": 32,
+      "pas": 60,
+      "dri": 50,
+      "def": 77,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "ucl-chelsea-2021-kurt-zouma",
     "team": "Chelsea",
@@ -378,16 +378,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 77,
-      "fin": 44,
-      "pas": 66,
-      "dri": 67,
-      "def": 69,
-      "fis": 68
+      "vel": 79,
+      "fin": 45,
+      "pas": 68,
+      "dri": 69,
+      "def": 71,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "ucl-chelsea-2021-marcos-alonso",
     "team": "Chelsea",
@@ -401,16 +401,16 @@
       "PE",
       "MD"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 75,
-      "fin": 72,
-      "pas": 66,
-      "dri": 77,
+      "vel": 76,
+      "fin": 73,
+      "pas": 67,
+      "dri": 78,
       "def": 31,
-      "fis": 55
+      "fis": 56
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "ucl-chelsea-2021-callum-hudson-odoi",
     "team": "Chelsea",
@@ -422,16 +422,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 72,
-      "fin": 44,
-      "pas": 65,
-      "dri": 62,
-      "def": 65,
-      "fis": 64
+      "vel": 73,
+      "fin": 45,
+      "pas": 66,
+      "dri": 63,
+      "def": 66,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "ucl-chelsea-2021-emerson-palmieri",
     "team": "Chelsea",
@@ -443,22 +443,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 71,
+    "ovr": 72,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 11,
-      "pas": 49,
+      "pas": 50,
       "dri": 30,
       "def": 17,
-      "fis": 62,
-      "ref": 75,
-      "han": 69,
-      "pos": 71,
-      "div": 72,
-      "kic": 58,
-      "one": 70
+      "fis": 63,
+      "ref": 76,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 59,
+      "one": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 76,
     "id": "ucl-chelsea-2021-kepa-arrizabalaga",
     "team": "Chelsea",
@@ -471,16 +471,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 70,
+    "ovr": 71,
     "attrs": {
-      "vel": 61,
-      "fin": 59,
-      "pas": 75,
-      "dri": 65,
-      "def": 54,
-      "fis": 61
+      "vel": 62,
+      "fin": 60,
+      "pas": 76,
+      "dri": 66,
+      "def": 55,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 74,
     "id": "ucl-chelsea-2021-billy-gilmour",
     "team": "Chelsea",
@@ -492,22 +492,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 68,
+    "ovr": 69,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 11,
-      "pas": 45,
+      "pas": 46,
       "dri": 30,
       "def": 17,
-      "fis": 59,
-      "ref": 72,
-      "han": 66,
-      "pos": 68,
-      "div": 69,
-      "kic": 55,
-      "one": 67
+      "fis": 60,
+      "ref": 73,
+      "han": 67,
+      "pos": 69,
+      "div": 70,
+      "kic": 56,
+      "one": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 72,
     "id": "ucl-chelsea-2021-willy-caballero",
     "team": "Chelsea",

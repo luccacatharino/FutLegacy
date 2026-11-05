@@ -37,5 +37,30 @@
       "ucl-bayern-1974-bernd-durnberger",
       "ucl-bayern-1974-rainer-zobel"
     ]
+  },
+  {
+    "name": "Atlético de Madrid",
+    "year": 1974,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1974_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-atletico-de-madrid-1974-miguel-reina",
+      "ucl-atletico-de-madrid-1974-francisco-melo",
+      "ucl-atletico-de-madrid-1974-jose-luis-capon",
+      "ucl-atletico-de-madrid-1974-adelardo-rodriguez",
+      "ucl-atletico-de-madrid-1974-ramon-heredia",
+      "ucl-atletico-de-madrid-1974-eusebio",
+      "ucl-atletico-de-madrid-1974-jose-ufarte",
+      "ucl-atletico-de-madrid-1974-luis-aragones",
+      "ucl-atletico-de-madrid-1974-jose-eulogio-garate",
+      "ucl-atletico-de-madrid-1974-javier-irureta",
+      "ucl-atletico-de-madrid-1974-ignacio-salcedo",
+      "ucl-atletico-de-madrid-1974-alberto-fernandez",
+      "ucl-atletico-de-madrid-1974-heraldo-bezerra"
+    ]
   }
 ]

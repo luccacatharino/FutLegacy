@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 11,
-      "pas": 51,
-      "dri": 22,
+      "pas": 52,
+      "dri": 23,
       "def": 17,
-      "fis": 72,
-      "ref": 80,
-      "han": 76,
-      "pos": 78,
-      "div": 79,
-      "kic": 67,
-      "one": 78
+      "fis": 74,
+      "ref": 82,
+      "han": 78,
+      "pos": 80,
+      "div": 81,
+      "kic": 69,
+      "one": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-estudiantes-1970-nestor-errea",
     "team": "Estudiantes",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 71,
-      "fin": 37,
-      "pas": 66,
-      "dri": 67,
-      "def": 68,
-      "fis": 70
+      "vel": 73,
+      "fin": 38,
+      "pas": 68,
+      "dri": 69,
+      "def": 70,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-estudiantes-1970-ruben-pagnanini",
     "team": "Estudiantes",
@@ -52,16 +52,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 71,
-      "fin": 36,
-      "pas": 67,
-      "dri": 66,
-      "def": 66,
-      "fis": 64
+      "vel": 73,
+      "fin": 37,
+      "pas": 69,
+      "dri": 68,
+      "def": 68,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-estudiantes-1970-hugo-spadaro",
     "team": "Estudiantes",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 59,
-      "fin": 29,
-      "pas": 59,
-      "dri": 43,
-      "def": 78,
-      "fis": 78
+      "vel": 60,
+      "fin": 30,
+      "pas": 60,
+      "dri": 44,
+      "def": 80,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-estudiantes-1970-nestor-togneri",
     "team": "Estudiantes",
@@ -94,16 +94,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 60,
-      "fin": 45,
-      "pas": 74,
-      "dri": 66,
-      "def": 75,
-      "fis": 78
+      "vel": 62,
+      "fin": 46,
+      "pas": 76,
+      "dri": 68,
+      "def": 77,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-estudiantes-1970-carlos-pachame",
     "team": "Estudiantes",
@@ -115,16 +115,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 64,
-      "fin": 59,
-      "pas": 78,
-      "dri": 75,
-      "def": 59,
-      "fis": 70
+      "vel": 66,
+      "fin": 61,
+      "pas": 80,
+      "dri": 77,
+      "def": 61,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-estudiantes-1970-jorge-solari",
     "team": "Estudiantes",
@@ -136,16 +136,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 65,
-      "fin": 62,
-      "pas": 79,
-      "dri": 73,
-      "def": 62,
-      "fis": 68
+      "vel": 67,
+      "fin": 64,
+      "pas": 81,
+      "dri": 75,
+      "def": 64,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-estudiantes-1970-carlos-bilardo",
     "team": "Estudiantes",
@@ -157,16 +157,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 80,
-      "fin": 71,
-      "pas": 70,
-      "dri": 78,
-      "def": 31,
-      "fis": 60
+      "vel": 82,
+      "fin": 73,
+      "pas": 72,
+      "dri": 80,
+      "def": 32,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-estudiantes-1970-juan-echecopar",
     "team": "Estudiantes",
@@ -178,16 +178,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 83,
-      "pas": 59,
-      "dri": 69,
-      "def": 27,
-      "fis": 75
+      "vel": 74,
+      "fin": 85,
+      "pas": 60,
+      "dri": 71,
+      "def": 28,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-estudiantes-1970-marcos-conigliaro",
     "team": "Estudiantes",
@@ -199,16 +199,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 70,
-      "pas": 72,
-      "dri": 83,
-      "def": 33,
-      "fis": 59
+      "vel": 83,
+      "fin": 72,
+      "pas": 74,
+      "dri": 85,
+      "def": 34,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-estudiantes-1970-eduardo-flores",
     "team": "Estudiantes",
@@ -220,16 +220,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 72,
-      "fin": 77,
-      "pas": 84,
-      "dri": 86,
-      "def": 39,
-      "fis": 68
+      "vel": 74,
+      "fin": 79,
+      "pas": 86,
+      "dri": 88,
+      "def": 40,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-estudiantes-1970-juan-ramon-veron",
     "team": "Estudiantes",
@@ -241,16 +241,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 64,
-      "fin": 57,
-      "pas": 76,
-      "dri": 70,
-      "def": 58,
-      "fis": 66
+      "vel": 66,
+      "fin": 59,
+      "pas": 78,
+      "dri": 72,
+      "def": 60,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-estudiantes-1970-christian-rudzki",
     "team": "Estudiantes",
@@ -262,16 +262,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 64,
-      "def": 68,
-      "fis": 66
+      "vel": 72,
+      "fin": 39,
+      "pas": 68,
+      "dri": 65,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-estudiantes-1970-jose-hugo-medina",
     "team": "Estudiantes",
@@ -283,16 +283,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 71,
+    "ovr": 72,
     "attrs": {
-      "vel": 64,
-      "fin": 74,
-      "pas": 53,
-      "dri": 63,
+      "vel": 65,
+      "fin": 75,
+      "pas": 54,
+      "dri": 64,
       "def": 21,
-      "fis": 68
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 76,
     "id": "lib-estudiantes-1970-camilo-a-aguilar",
     "team": "Estudiantes",

@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 44,
+      "vel": 45,
       "fin": 17,
-      "pas": 58,
-      "dri": 26,
-      "def": 23,
-      "fis": 78,
-      "ref": 86,
-      "han": 82,
-      "pos": 84,
-      "div": 85,
-      "kic": 73,
-      "one": 84
+      "pas": 59,
+      "dri": 27,
+      "def": 24,
+      "fis": 80,
+      "ref": 88,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 75,
+      "one": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-vasco-1998-carlos-germano",
     "team": "Vasco",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 72,
-      "fin": 38,
-      "pas": 68,
-      "dri": 67,
-      "def": 69,
-      "fis": 70
+      "vel": 74,
+      "fin": 39,
+      "pas": 70,
+      "dri": 69,
+      "def": 71,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-vasco-1998-vagner",
     "team": "Vasco",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 57,
-      "fin": 29,
-      "pas": 58,
-      "dri": 46,
-      "def": 79,
-      "fis": 79
+      "vel": 58,
+      "fin": 30,
+      "pas": 59,
+      "dri": 47,
+      "def": 81,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-vasco-1998-odvan",
     "team": "Vasco",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 64,
-      "fin": 36,
-      "pas": 66,
-      "dri": 47,
-      "def": 86,
-      "fis": 84
+      "vel": 66,
+      "fin": 37,
+      "pas": 68,
+      "dri": 48,
+      "def": 88,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "lib-vasco-1998-mauro-galvao",
     "team": "Vasco",
@@ -94,16 +94,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 62,
-      "fin": 45,
-      "pas": 75,
-      "dri": 65,
-      "def": 74,
-      "fis": 76
+      "vel": 64,
+      "fin": 46,
+      "pas": 77,
+      "dri": 67,
+      "def": 76,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-vasco-1998-luisinho",
     "team": "Vasco",
@@ -116,16 +116,16 @@
       "LE",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 79,
-      "fin": 46,
-      "pas": 75,
-      "dri": 72,
-      "def": 76,
-      "fis": 76
+      "vel": 81,
+      "fin": 47,
+      "pas": 77,
+      "dri": 74,
+      "def": 78,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-vasco-1998-felipe",
     "team": "Vasco",
@@ -137,16 +137,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 60,
-      "fin": 42,
-      "pas": 73,
-      "dri": 62,
-      "def": 76,
-      "fis": 75
+      "vel": 62,
+      "fin": 43,
+      "pas": 75,
+      "dri": 64,
+      "def": 78,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-vasco-1998-nasa",
     "team": "Vasco",
@@ -158,16 +158,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 70,
-      "fin": 66,
-      "pas": 85,
-      "dri": 80,
-      "def": 66,
-      "fis": 75
+      "vel": 72,
+      "fin": 68,
+      "pas": 87,
+      "dri": 82,
+      "def": 68,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-vasco-1998-juninho",
     "team": "Vasco",
@@ -179,16 +179,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 70,
-      "fin": 71,
-      "pas": 83,
-      "dri": 79,
-      "def": 33,
-      "fis": 60
+      "vel": 72,
+      "fin": 73,
+      "pas": 85,
+      "dri": 81,
+      "def": 34,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-vasco-1998-pedrinho",
     "team": "Vasco",
@@ -200,16 +200,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 77,
-      "fin": 88,
-      "pas": 63,
-      "dri": 76,
-      "def": 32,
-      "fis": 80
+      "vel": 79,
+      "fin": 90,
+      "pas": 65,
+      "dri": 78,
+      "def": 33,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-vasco-1998-luizao",
     "team": "Vasco",
@@ -221,16 +221,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 74,
-      "fin": 86,
-      "pas": 62,
-      "dri": 76,
-      "def": 30,
-      "fis": 77
+      "vel": 76,
+      "fin": 88,
+      "pas": 63,
+      "dri": 78,
+      "def": 31,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-vasco-1998-donizete",
     "team": "Vasco",
@@ -242,16 +242,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 66,
-      "fin": 69,
-      "pas": 78,
-      "dri": 82,
-      "def": 33,
-      "fis": 59
+      "vel": 68,
+      "fin": 71,
+      "pas": 80,
+      "dri": 84,
+      "def": 34,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-vasco-1998-ramon",
     "team": "Vasco",
@@ -263,22 +263,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 71,
+    "ovr": 72,
     "attrs": {
       "vel": 32,
       "fin": 9,
-      "pas": 49,
+      "pas": 50,
       "dri": 18,
       "def": 11,
-      "fis": 65,
-      "ref": 73,
-      "han": 69,
-      "pos": 71,
-      "div": 72,
-      "kic": 60,
-      "one": 71
+      "fis": 66,
+      "ref": 74,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 61,
+      "one": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 76,
     "id": "lib-vasco-1998-marcio",
     "team": "Vasco",
@@ -290,16 +290,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 53,
+      "vel": 54,
       "fin": 25,
-      "pas": 54,
-      "dri": 39,
-      "def": 73,
-      "fis": 74
+      "pas": 55,
+      "dri": 40,
+      "def": 74,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "lib-vasco-1998-alex-pinho",
     "team": "Vasco",
@@ -311,16 +311,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 70,
-      "fin": 37,
-      "pas": 66,
-      "dri": 62,
-      "def": 67,
-      "fis": 65
+      "vel": 71,
+      "fin": 38,
+      "pas": 67,
+      "dri": 63,
+      "def": 68,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-vasco-1998-vitor",
     "team": "Vasco",
@@ -332,16 +332,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 56,
-      "fin": 29,
-      "pas": 57,
-      "dri": 43,
-      "def": 76,
-      "fis": 77
+      "vel": 57,
+      "fin": 30,
+      "pas": 59,
+      "dri": 44,
+      "def": 78,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-vasco-1998-valber",
     "team": "Vasco",
@@ -353,16 +353,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 57,
-      "fin": 40,
-      "pas": 69,
-      "dri": 59,
-      "def": 69,
-      "fis": 68
+      "vel": 58,
+      "fin": 41,
+      "pas": 70,
+      "dri": 60,
+      "def": 70,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "lib-vasco-1998-nelson",
     "team": "Vasco",
@@ -374,19 +374,245 @@
     "positions": [
       "PD"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 70,
-      "pas": 70,
-      "dri": 78,
-      "def": 30,
-      "fis": 63
+      "vel": 80,
+      "fin": 72,
+      "pas": 72,
+      "dri": 80,
+      "def": 31,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-vasco-1998-mauricinho",
     "team": "Vasco",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "José Francisco Cevallos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-jose-francisco-cevallos",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Gómez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-luis-gomez",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Holger Quiñonez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-holger-quinonez",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Jimmy Montanero",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-jimmy-montanero",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Capurro",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-luis-capurro",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Macias",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-roberto-macias",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Julio Rosero",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-julio-rosero",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcelo Morales",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-marcelo-morales",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Washington Aires",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-washington-aires",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Antony de Ávila",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-antony-de-avila",
+    "team": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib"
+  },
+  {
+    "name": "Nicolas Asencio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-barcelona-de-guayaquil-1998-nicolas-asencio",
+    "team": "Barcelona de Guayaquil",
     "year": 1998,
     "comp": "lib"
   }

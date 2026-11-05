@@ -52,5 +52,28 @@
       "lib-botafogo-2024-junior-santos",
       "lib-botafogo-2024-matheus-martins"
     ]
+  },
+  {
+    "name": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2024_Copa_Libertadores_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-atletico-mg-2024-everson",
+      "lib-atletico-mg-2024-lyanco",
+      "lib-atletico-mg-2024-rodrigo-battaglia",
+      "lib-atletico-mg-2024-junior-alonso",
+      "lib-atletico-mg-2024-hulk",
+      "lib-atletico-mg-2024-fausto-vera",
+      "lib-atletico-mg-2024-alan-franco",
+      "lib-atletico-mg-2024-guilherme-arana",
+      "lib-atletico-mg-2024-gustavo-scarpa",
+      "lib-atletico-mg-2024-paulinho",
+      "lib-atletico-mg-2024-deyverson"
+    ]
   }
 ]

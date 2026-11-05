@@ -48,5 +48,28 @@
       "lib-palmeiras-1999-euller",
       "lib-palmeiras-1999-cleber"
     ]
+  },
+  {
+    "name": "Deportivo Cali",
+    "year": 1999,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1999_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-deportivo-cali-1999-rafael-dudamel",
+      "lib-deportivo-cali-1999-john-perez",
+      "lib-deportivo-cali-1999-mario-yepes",
+      "lib-deportivo-cali-1999-andres-mosquera",
+      "lib-deportivo-cali-1999-gerardo-bedoya",
+      "lib-deportivo-cali-1999-alexander-viveros",
+      "lib-deportivo-cali-1999-martin-zapata",
+      "lib-deportivo-cali-1999-mayer-candelo",
+      "lib-deportivo-cali-1999-geovanny-cordoba",
+      "lib-deportivo-cali-1999-victor-bonilla",
+      "lib-deportivo-cali-1999-carlos-castillo"
+    ]
   }
 ]

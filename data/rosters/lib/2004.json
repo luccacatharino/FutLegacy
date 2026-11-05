@@ -48,5 +48,28 @@
       "lib-once-caldas-2004-javier-araujo",
       "lib-once-caldas-2004-wilmer-ortegon"
     ]
+  },
+  {
+    "name": "Boca Juniors",
+    "year": 2004,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2004_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-boca-juniors-2004-roberto-abbondanzieri",
+      "lib-boca-juniors-2004-pablo-alvarez",
+      "lib-boca-juniors-2004-rolando-schiavi",
+      "lib-boca-juniors-2004-nicolas-burdisso",
+      "lib-boca-juniors-2004-clemente-rodriguez",
+      "lib-boca-juniors-2004-pablo-ledesma",
+      "lib-boca-juniors-2004-javier-villarreal",
+      "lib-boca-juniors-2004-diego-cagna",
+      "lib-boca-juniors-2004-iarley",
+      "lib-boca-juniors-2004-guillermo-barros-schelotto",
+      "lib-boca-juniors-2004-antonio-barijho"
+    ]
   }
 ]

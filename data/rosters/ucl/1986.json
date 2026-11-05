@@ -38,5 +38,30 @@
       "ucl-steaua-bucareste-1986-lucian-balan",
       "ucl-steaua-bucareste-1986-marin-radu"
     ]
+  },
+  {
+    "name": "Barcelona",
+    "year": 1986,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1986_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-barcelona-1986-urruti",
+      "ucl-barcelona-1986-gerardo",
+      "ucl-barcelona-1986-migueli",
+      "ucl-barcelona-1986-julio-alberto",
+      "ucl-barcelona-1986-victor-munoz",
+      "ucl-barcelona-1986-jose-ramon-alexanko",
+      "ucl-barcelona-1986-lobo-carrasco",
+      "ucl-barcelona-1986-bernd-schuster",
+      "ucl-barcelona-1986-angel-pedraza",
+      "ucl-barcelona-1986-steve-archibald",
+      "ucl-barcelona-1986-marcos-alonso",
+      "ucl-barcelona-1986-josep-moratalla",
+      "ucl-barcelona-1986-pichi-alonso"
+    ]
   }
 ]

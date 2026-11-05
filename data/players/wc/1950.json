@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 60,
-      "dri": 35,
+      "pas": 62,
+      "dri": 36,
       "def": 15,
-      "fis": 71,
-      "ref": 82,
-      "han": 78,
-      "pos": 79,
-      "div": 80,
-      "kic": 65,
-      "one": 77
+      "fis": 73,
+      "ref": 84,
+      "han": 80,
+      "pos": 81,
+      "div": 82,
+      "kic": 67,
+      "one": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-uruguai-1950-roque-maspoli",
     "team": "Uruguai",
@@ -31,16 +31,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 62,
-      "fin": 39,
-      "pas": 62,
-      "dri": 44,
-      "def": 79,
-      "fis": 80
+      "vel": 64,
+      "fin": 40,
+      "pas": 64,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-uruguai-1950-matias-gonzalez",
     "team": "Uruguai",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 55,
-      "fin": 39,
-      "pas": 62,
-      "dri": 44,
-      "def": 79,
-      "fis": 73
+      "vel": 56,
+      "fin": 40,
+      "pas": 63,
+      "dri": 45,
+      "def": 80,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-uruguai-1950-eusebio-tejera",
     "team": "Uruguai",
@@ -74,16 +74,16 @@
       "VOL",
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 67,
-      "fin": 57,
-      "pas": 73,
-      "dri": 69,
-      "def": 72,
-      "fis": 72
+      "vel": 68,
+      "fin": 58,
+      "pas": 74,
+      "dri": 70,
+      "def": 73,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-uruguai-1950-schubert-gambetta",
     "team": "Uruguai",
@@ -96,16 +96,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 76,
-      "fin": 66,
-      "pas": 82,
-      "dri": 78,
-      "def": 81,
-      "fis": 81
+      "vel": 78,
+      "fin": 68,
+      "pas": 84,
+      "dri": 80,
+      "def": 83,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-uruguai-1950-obdulio-varela",
     "team": "Uruguai",
@@ -118,16 +118,16 @@
       "LE",
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 81,
-      "fin": 50,
-      "pas": 72,
-      "dri": 76,
-      "def": 73,
-      "fis": 72
+      "vel": 83,
+      "fin": 51,
+      "pas": 74,
+      "dri": 78,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-uruguai-1950-victor-rodriguez-andrade",
     "team": "Uruguai",
@@ -140,16 +140,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 90,
-      "fin": 81,
-      "pas": 80,
-      "dri": 84,
-      "def": 38,
-      "fis": 66
+      "vel": 92,
+      "fin": 83,
+      "pas": 82,
+      "dri": 86,
+      "def": 39,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-uruguai-1950-alcides-ghiggia",
     "team": "Uruguai",
@@ -162,16 +162,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 68,
-      "fin": 70,
-      "pas": 81,
-      "dri": 76,
-      "def": 37,
-      "fis": 58
+      "vel": 69,
+      "fin": 71,
+      "pas": 82,
+      "dri": 77,
+      "def": 38,
+      "fis": 59
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-uruguai-1950-julio-perez",
     "team": "Uruguai",
@@ -183,16 +183,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 78,
-      "fin": 80,
-      "pas": 68,
-      "dri": 77,
-      "def": 34,
-      "fis": 79
+      "vel": 80,
+      "fin": 82,
+      "pas": 70,
+      "dri": 79,
+      "def": 35,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-uruguai-1950-oscar-miguez",
     "team": "Uruguai",
@@ -205,16 +205,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 85,
-      "fin": 80,
-      "pas": 91,
-      "dri": 86,
-      "def": 46,
-      "fis": 68
+      "vel": 87,
+      "fin": 82,
+      "pas": 93,
+      "dri": 88,
+      "def": 47,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-uruguai-1950-juan-schiaffino",
     "team": "Uruguai",
@@ -227,16 +227,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 69,
+    "ovr": 70,
     "attrs": {
-      "vel": 71,
-      "fin": 69,
-      "pas": 68,
-      "dri": 72,
+      "vel": 72,
+      "fin": 70,
+      "pas": 69,
+      "dri": 73,
       "def": 26,
-      "fis": 54
+      "fis": 55
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 73,
     "id": "wc-uruguai-1950-ruben-moran",
     "team": "Uruguai",
@@ -248,22 +248,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 57,
+      "pas": 58,
       "dri": 25,
       "def": 12,
-      "fis": 68,
-      "ref": 76,
-      "han": 72,
-      "pos": 73,
-      "div": 74,
-      "kic": 59,
-      "one": 71
+      "fis": 69,
+      "ref": 77,
+      "han": 73,
+      "pos": 74,
+      "div": 75,
+      "kic": 60,
+      "one": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-brasil-1950-barbosa",
     "team": "Brasil",
@@ -275,16 +275,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 57,
-      "fin": 41,
-      "pas": 57,
-      "dri": 46,
-      "def": 74,
-      "fis": 75
+      "vel": 58,
+      "fin": 42,
+      "pas": 58,
+      "dri": 47,
+      "def": 75,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-brasil-1950-augusto",
     "team": "Brasil",
@@ -296,16 +296,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 58,
+      "vel": 59,
       "fin": 36,
-      "pas": 58,
-      "dri": 47,
-      "def": 75,
-      "fis": 76
+      "pas": 59,
+      "dri": 48,
+      "def": 76,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-brasil-1950-juvenal",
     "team": "Brasil",
@@ -318,16 +318,16 @@
       "VOL",
       "LD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 72,
-      "fin": 56,
-      "pas": 79,
-      "dri": 69,
-      "def": 78,
-      "fis": 78
+      "vel": 74,
+      "fin": 57,
+      "pas": 81,
+      "dri": 71,
+      "def": 80,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-brasil-1950-bauer",
     "team": "Brasil",
@@ -340,16 +340,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 73,
-      "fin": 63,
-      "pas": 79,
-      "dri": 75,
-      "def": 78,
-      "fis": 78
+      "vel": 75,
+      "fin": 65,
+      "pas": 81,
+      "dri": 77,
+      "def": 80,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-brasil-1950-danilo-alvim",
     "team": "Brasil",
@@ -362,16 +362,16 @@
       "LE",
       "VOL"
     ],
-    "ovr": 71,
+    "ovr": 72,
     "attrs": {
-      "vel": 77,
-      "fin": 46,
-      "pas": 68,
-      "dri": 65,
-      "def": 69,
-      "fis": 68
+      "vel": 78,
+      "fin": 47,
+      "pas": 69,
+      "dri": 66,
+      "def": 70,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 76,
     "id": "wc-brasil-1950-bigode",
     "team": "Brasil",
@@ -384,16 +384,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 76,
-      "pas": 75,
-      "dri": 79,
-      "def": 33,
-      "fis": 61
+      "vel": 80,
+      "fin": 78,
+      "pas": 77,
+      "dri": 81,
+      "def": 34,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-brasil-1950-friaca",
     "team": "Brasil",
@@ -406,16 +406,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 84,
-      "fin": 79,
-      "pas": 90,
-      "dri": 85,
-      "def": 45,
-      "fis": 74
+      "vel": 86,
+      "fin": 81,
+      "pas": 92,
+      "dri": 87,
+      "def": 46,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1950-zizinho",
     "team": "Brasil",
@@ -427,16 +427,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 83,
-      "fin": 85,
-      "pas": 73,
-      "dri": 82,
-      "def": 39,
-      "fis": 84
+      "vel": 85,
+      "fin": 87,
+      "pas": 75,
+      "dri": 84,
+      "def": 40,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1950-ademir-de-menezes",
     "team": "Brasil",
@@ -449,16 +449,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 79,
-      "fin": 74,
-      "pas": 85,
-      "dri": 80,
-      "def": 40,
-      "fis": 69
+      "vel": 81,
+      "fin": 76,
+      "pas": 87,
+      "dri": 82,
+      "def": 41,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-brasil-1950-jair",
     "team": "Brasil",
@@ -471,19 +471,4663 @@
       "PE",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 84,
-      "fin": 82,
-      "pas": 74,
-      "dri": 85,
-      "def": 32,
-      "fis": 67
+      "vel": 86,
+      "fin": 84,
+      "pas": 76,
+      "dri": 87,
+      "def": 33,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-brasil-1950-chico",
     "team": "Brasil",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Livingstone",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-livingstone",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Quitral",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-quitral",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Álvarez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-m-alvarez",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Farías",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-farias",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Machuca",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-machuca",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Flores",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-flores",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Roldán",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-roldan",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Busquets",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-busquets",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Campos",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-campos",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Carvallo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-carvallo",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Urroz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-urroz",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Rojas",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-c-rojas",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Sáez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-saez",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Robledo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-robledo",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Cremaschi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-cremaschi",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Riera",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-riera",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Muñoz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-m-munoz",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Infante",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-infante",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mayanés",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-mayanes",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ibáñez",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-ibanez",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Prieto",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-prieto",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Díaz",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-1950-g-diaz",
+    "team": "Chile",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "B. Williams",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-b-williams",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ditchburn",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-ditchburn",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramsey",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-ramsey",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Aston",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-aston",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Scott",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-scott",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Hughes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-hughes",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Taylor",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-taylor",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Eckersley",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-eckersley",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Wright",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-wright",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mannion",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-mannion",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Dickinson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-dickinson",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Cockburn",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-cockburn",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Nicholson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-nicholson",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Watson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-watson",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Baily",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-baily",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Matthews",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-matthews",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Finney",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-finney",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mortensen",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-mortensen",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Milburn",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-milburn",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bentley",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-bentley",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mullen",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1950-mullen",
+    "team": "Inglaterra",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramallets",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-ramallets",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Eizaguirre",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-eizaguirre",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Acuña",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-acuna",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Alonso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-alonso",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Antúnez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-antunez",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Lesmes",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-lesmes",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Parra",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-parra",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Puchades",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-puchades",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Gonzalvo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-m-gonzalvo",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Panizo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-panizo",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Molowny",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-molowny",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Gonzalvo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-j-gonzalvo",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Silva",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-silva",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Asensi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-asensi",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Nando",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-nando",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Zarra",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-zarra",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Basora",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-basora",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Gaínza",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-gainza",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "César",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-cesar",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Igoa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-igoa",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Juncosa",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-juncosa",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Hernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1950-hernandez",
+    "team": "Espanha",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Sentimenti IV",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-sentimenti-iv",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Moro",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-moro",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Casari",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-casari",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Caprile",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-caprile",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Parola",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-parola",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Blason",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-blason",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Giovannini",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-giovannini",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Fattori",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-fattori",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Furiassi",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-furiassi",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Annovazzi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-annovazzi",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Pandolfini",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-pandolfini",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Campatelli",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-campatelli",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mari",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-mari",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Magli",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-magli",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Tognon",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-tognon",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Remondini",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-remondini",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Boniperti",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-boniperti",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Amadei",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-amadei",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Carapellese",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-carapellese",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Lorenzi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-lorenzi",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Cappello",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-cappello",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Muccinelli",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1950-muccinelli",
+    "team": "Itália",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Carbajal",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-carbajal",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Córdoba",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-cordoba",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Zetter",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-zetter",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Gutiérrez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-gutierrez",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Gómez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-g-gomez",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Montemayor",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-montemayor",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Roca",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-roca",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ruiz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-ruiz",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Flores",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-flores",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ochoa",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-ochoa",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ortiz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-ortiz",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Guevara",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-guevara",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Hernández",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-f-hernandez",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Cuburu",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-cuburu",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Pérez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-m-perez",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Casarín",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-casarin",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Naranjo",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-naranjo",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Velázquez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-velazquez",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Septién",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-septien",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Borbolla",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-borbolla",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Navarro",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-navarro",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Prieto",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1950-prieto",
+    "team": "México",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Centurión",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-centurion",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Vargas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-vargas",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Cabrera",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-cabrera",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Gavilán",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-gavilan",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Céspedes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-cespedes",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "A. González",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-a-gonzalez",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Paredes",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-paredes",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Cantero",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-cantero",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "López Fretes",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-lopez-fretes",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Leguizamón",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-leguizamon",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Báez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-baez",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ar. González",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-ar-gonzalez",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "A. López",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-a-lopez",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Cañete",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-canete",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Sosa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-sosa",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Avalos",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-e-avalos",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Avalos",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-m-avalos",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Jara Saguier",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-jara-saguier",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Calonga",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-calonga",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Unzaim",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-unzaim",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Osorio",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-osorio",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Berni",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1950-berni",
+    "team": "Paraguai",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Stuber",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-stuber",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Corrodi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-corrodi",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Hug",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-hug",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Steffen",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-steffen",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bocquet",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-bocquet",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Gyger",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-gyger",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Neury",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-neury",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Kernen",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-kernen",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Rey",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-rey",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bickel",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-bickel",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Eggimann",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-eggimann",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Quinche",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-quinche",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Hasler",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-hasler",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Fatton",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-fatton",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Antenen",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-antenen",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Tamini",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-tamini",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bader",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-bader",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Friedländer",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-friedlander",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Lusenti",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-lusenti",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Schneiter",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-schneiter",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Beerli",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-beerli",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Siegenthaler",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1950-siegenthaler",
+    "team": "Suíça",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Svensson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-k-svensson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Lindberg",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-lindberg",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Svensson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-t-svensson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Nilsson",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-e-nilsson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Samuelsson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-samuelsson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Månsson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-mansson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Johansson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-g-johansson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Nordahl",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-k-nordahl",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Andersson",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-s-andersson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Åhlund",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-ahlund",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Gärd",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-gard",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Jeppson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-jeppson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Palmér",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-palmer",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Skoglund",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-skoglund",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Nilsson",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-s-nilsson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Sundqvist",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-sundqvist",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Jönsson",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-e-jonsson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Rydell",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-rydell",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Tapper",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-tapper",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mellberg",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-mellberg",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ku. Svensson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-1950-ku-svensson",
+    "team": "Suécia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Borghi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-borghi",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Gardassanich",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-gardassanich",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Keough",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-keough",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Maca",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-maca",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Annis",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-annis",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bahr",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-bahr",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Souza",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-j-souza",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Colombo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-colombo",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "McIlvenny",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-mcilvenny",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "McLaughlin",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-mclaughlin",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Coombes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-coombes",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Gaetjens",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-gaetjens",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Souza",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-e-souza",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Pariani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-pariani",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Wallace",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-wallace",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Wolanin",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-wolanin",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Craddock",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-craddock",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "DiOrio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-1950-diorio",
+    "team": "Estados Unidos",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Beara",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-beara",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mrkušić",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-mrkusic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Stanković",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-stankovic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Horvat",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-horvat",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Jovanović",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-jovanovic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Čolić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-colic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Broketa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-broketa",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Zlatković",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-zlatkovic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Bobek",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-bobek",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Zlatko Čajkovski",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-zlatko-cajkovski",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mitić",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-mitic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Vukas",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-vukas",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Atanacković",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-atanackovic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Đajić",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-ajic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Katnić",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-katnic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Palfi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-palfi",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Radovniković",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-radovnikovic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Željko Čajkovski",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-zeljko-cajkovski",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Tomašević",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-tomasevic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Ognjanov",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-ognjanov",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Mihajlović",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-mihajlovic",
+    "team": "Iugoslávia",
+    "year": 1950,
+    "comp": "wc"
+  },
+  {
+    "name": "Firm",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1950-firm",
+    "team": "Iugoslávia",
     "year": 1950,
     "comp": "wc"
   }

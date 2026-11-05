@@ -37,5 +37,29 @@
       "ucl-hamburgo-1983-thomas-von-heesen",
       "ucl-hamburgo-1983-jurgen-groh"
     ]
+  },
+  {
+    "name": "Juventus",
+    "year": 1983,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1983_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-juventus-1983-dino-zoff",
+      "ucl-juventus-1983-gaetano-scirea",
+      "ucl-juventus-1983-claudio-gentile",
+      "ucl-juventus-1983-sergio-brio",
+      "ucl-juventus-1983-antonio-cabrini",
+      "ucl-juventus-1983-marco-tardelli",
+      "ucl-juventus-1983-massimo-bonini",
+      "ucl-juventus-1983-michel-platini",
+      "ucl-juventus-1983-roberto-bettega",
+      "ucl-juventus-1983-zbigniew-boniek",
+      "ucl-juventus-1983-paolo-rossi",
+      "ucl-juventus-1983-domenico-marocchino"
+    ]
   }
 ]

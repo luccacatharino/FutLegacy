@@ -40,5 +40,29 @@
       "lib-santos-1963-pele",
       "lib-santos-1963-pepe"
     ]
+  },
+  {
+    "name": "Boca Juniors",
+    "year": 1963,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1963_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-boca-juniors-1963-nestor-errea",
+      "lib-boca-juniors-1963-ruben-magdalena",
+      "lib-boca-juniors-1963-silvio-marzolini",
+      "lib-boca-juniors-1963-carmelo-simeone",
+      "lib-boca-juniors-1963-antonio-rattin",
+      "lib-boca-juniors-1963-alcides-silveira",
+      "lib-boca-juniors-1963-ernesto-grillo",
+      "lib-boca-juniors-1963-angel-clemente-rojas",
+      "lib-boca-juniors-1963-norberto-menendez",
+      "lib-boca-juniors-1963-jose-sanfilippo",
+      "lib-boca-juniors-1963-alberto-mario-gonzalez",
+      "lib-boca-juniors-1963-orlando"
+    ]
   }
 ]

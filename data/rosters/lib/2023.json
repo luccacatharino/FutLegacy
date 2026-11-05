@@ -52,5 +52,28 @@
       "lib-fluminense-2023-lima",
       "lib-fluminense-2023-yony-gonzalez"
     ]
+  },
+  {
+    "name": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2023_Copa_Libertadores_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-boca-juniors-2023-sergio-romero",
+      "lib-boca-juniors-2023-luis-advincula",
+      "lib-boca-juniors-2023-nicolas-figal",
+      "lib-boca-juniors-2023-nicolas-valentini",
+      "lib-boca-juniors-2023-frank-fabra",
+      "lib-boca-juniors-2023-ezequiel-fernandez",
+      "lib-boca-juniors-2023-miguel-merentiel",
+      "lib-boca-juniors-2023-cristian-medina",
+      "lib-boca-juniors-2023-pol-fernandez",
+      "lib-boca-juniors-2023-valentin-barco",
+      "lib-boca-juniors-2023-edinson-cavani"
+    ]
   }
 ]

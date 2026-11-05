@@ -44,5 +44,29 @@
       "lib-nacional-1971-ruben-bareno",
       "lib-nacional-1971-juan-carlos-mamelli"
     ]
+  },
+  {
+    "name": "Estudiantes",
+    "year": 1971,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1971_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-estudiantes-1971-carlos-leone",
+      "lib-estudiantes-1971-ramon-aguirre-suarez",
+      "lib-estudiantes-1971-nestor-togneri",
+      "lib-estudiantes-1971-oscar-malbernat",
+      "lib-estudiantes-1971-carlos-pachame",
+      "lib-estudiantes-1971-jose-hugo-medina",
+      "lib-estudiantes-1971-daniel-romeo",
+      "lib-estudiantes-1971-juan-echecopar",
+      "lib-estudiantes-1971-christian-rudzki",
+      "lib-estudiantes-1971-pedro-verde",
+      "lib-estudiantes-1971-juan-ramon-veron",
+      "lib-estudiantes-1971-ruben-bedogni"
+    ]
   }
 ]

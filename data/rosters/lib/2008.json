@@ -48,5 +48,28 @@
       "lib-ldu-quito-2008-edder-vaca",
       "lib-ldu-quito-2008-byron-camacho"
     ]
+  },
+  {
+    "name": "Fluminense",
+    "year": 2008,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2008_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-fluminense-2008-fernando-henrique",
+      "lib-fluminense-2008-gabriel",
+      "lib-fluminense-2008-thiago-silva",
+      "lib-fluminense-2008-luiz-alberto",
+      "lib-fluminense-2008-junior-cesar",
+      "lib-fluminense-2008-ygor",
+      "lib-fluminense-2008-arouca",
+      "lib-fluminense-2008-cicero",
+      "lib-fluminense-2008-thiago-neves",
+      "lib-fluminense-2008-dario-conca",
+      "lib-fluminense-2008-washington"
+    ]
   }
 ]

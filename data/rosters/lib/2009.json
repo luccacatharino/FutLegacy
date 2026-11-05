@@ -47,5 +47,28 @@
       "lib-estudiantes-2009-maximiliano-nunez",
       "lib-estudiantes-2009-juan-salgueiro"
     ]
+  },
+  {
+    "name": "Cruzeiro",
+    "year": 2009,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2009_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-cruzeiro-2009-fabio",
+      "lib-cruzeiro-2009-jonathan",
+      "lib-cruzeiro-2009-leonardo-silva",
+      "lib-cruzeiro-2009-anderson",
+      "lib-cruzeiro-2009-gerson-magrao",
+      "lib-cruzeiro-2009-marquinhos-parana",
+      "lib-cruzeiro-2009-henrique",
+      "lib-cruzeiro-2009-ramires",
+      "lib-cruzeiro-2009-wagner",
+      "lib-cruzeiro-2009-wellington-paulista",
+      "lib-cruzeiro-2009-kleber"
+    ]
   }
 ]

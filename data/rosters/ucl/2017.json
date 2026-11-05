@@ -43,5 +43,35 @@
       "ucl-real-madrid-2017-danilo",
       "ucl-real-madrid-2017-kiko-casilla"
     ]
+  },
+  {
+    "name": "Juventus",
+    "year": 2017,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2017_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-juventus-2017-gianluigi-buffon",
+      "ucl-juventus-2017-andrea-barzagli",
+      "ucl-juventus-2017-leonardo-bonucci",
+      "ucl-juventus-2017-giorgio-chiellini",
+      "ucl-juventus-2017-dani-alves",
+      "ucl-juventus-2017-miralem-pjanic",
+      "ucl-juventus-2017-sami-khedira",
+      "ucl-juventus-2017-alex-sandro",
+      "ucl-juventus-2017-paulo-dybala",
+      "ucl-juventus-2017-gonzalo-higuain",
+      "ucl-juventus-2017-mario-mandzukic",
+      "ucl-juventus-2017-neto",
+      "ucl-juventus-2017-medhi-benatia",
+      "ucl-juventus-2017-stephan-lichtsteiner",
+      "ucl-juventus-2017-juan-cuadrado",
+      "ucl-juventus-2017-claudio-marchisio",
+      "ucl-juventus-2017-mario-lemina",
+      "ucl-juventus-2017-kwadwo-asamoah"
+    ]
   }
 ]

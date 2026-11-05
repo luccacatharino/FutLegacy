@@ -47,5 +47,28 @@
       "lib-vasco-1998-nelson",
       "lib-vasco-1998-mauricinho"
     ]
+  },
+  {
+    "name": "Barcelona de Guayaquil",
+    "year": 1998,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1998_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-barcelona-de-guayaquil-1998-jose-francisco-cevallos",
+      "lib-barcelona-de-guayaquil-1998-luis-gomez",
+      "lib-barcelona-de-guayaquil-1998-holger-quinonez",
+      "lib-barcelona-de-guayaquil-1998-jimmy-montanero",
+      "lib-barcelona-de-guayaquil-1998-luis-capurro",
+      "lib-barcelona-de-guayaquil-1998-roberto-macias",
+      "lib-barcelona-de-guayaquil-1998-julio-rosero",
+      "lib-barcelona-de-guayaquil-1998-marcelo-morales",
+      "lib-barcelona-de-guayaquil-1998-washington-aires",
+      "lib-barcelona-de-guayaquil-1998-antony-de-avila",
+      "lib-barcelona-de-guayaquil-1998-nicolas-asencio"
+    ]
   }
 ]

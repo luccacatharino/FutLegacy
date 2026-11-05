@@ -5,16 +5,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 92,
+    "ovr": 93,
     "attrs": {
-      "vel": 91,
-      "fin": 90,
-      "pas": 87,
-      "dri": 93,
+      "vel": 92,
+      "fin": 91,
+      "pas": 88,
+      "dri": 94,
       "def": 31,
-      "fis": 62
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 98,
     "id": "ucl-barcelona-2009-lionel-messi",
     "team": "Barcelona",
@@ -26,16 +26,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 92,
     "attrs": {
-      "vel": 68,
-      "fin": 68,
-      "pas": 92,
-      "dri": 85,
-      "def": 66,
-      "fis": 62
+      "vel": 70,
+      "fin": 70,
+      "pas": 94,
+      "dri": 87,
+      "def": 67,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 96,
     "id": "ucl-barcelona-2009-xavi",
     "team": "Barcelona",
@@ -48,16 +48,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 77,
-      "fin": 75,
-      "pas": 90,
-      "dri": 92,
-      "def": 54,
-      "fis": 59
+      "vel": 79,
+      "fin": 77,
+      "pas": 92,
+      "dri": 94,
+      "def": 55,
+      "fis": 60
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "ucl-barcelona-2009-andres-iniesta",
     "team": "Barcelona",
@@ -69,16 +69,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 88,
-      "fin": 91,
-      "pas": 71,
-      "dri": 83,
-      "def": 44,
-      "fis": 87
+      "vel": 90,
+      "fin": 93,
+      "pas": 73,
+      "dri": 85,
+      "def": 45,
+      "fis": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "ucl-barcelona-2009-samuel-eto-o",
     "team": "Barcelona",
@@ -91,16 +91,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 85,
-      "fin": 57,
-      "pas": 79,
-      "dri": 80,
-      "def": 82,
-      "fis": 77
+      "vel": 87,
+      "fin": 58,
+      "pas": 81,
+      "dri": 82,
+      "def": 84,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "ucl-barcelona-2009-carles-puyol",
     "team": "Barcelona",
@@ -113,16 +113,16 @@
       "PE",
       "ATA"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 85,
-      "fin": 89,
-      "pas": 81,
-      "dri": 88,
-      "def": 29,
-      "fis": 75
+      "vel": 87,
+      "fin": 91,
+      "pas": 83,
+      "dri": 90,
+      "def": 30,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-barcelona-2009-thierry-henry",
     "team": "Barcelona",
@@ -134,16 +134,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 64,
-      "fin": 41,
-      "pas": 68,
-      "dri": 54,
-      "def": 85,
-      "fis": 85
+      "vel": 66,
+      "fin": 42,
+      "pas": 70,
+      "dri": 55,
+      "def": 87,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-barcelona-2009-gerard-pique",
     "team": "Barcelona",
@@ -155,22 +155,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 37,
+      "vel": 38,
       "fin": 11,
-      "pas": 56,
-      "dri": 25,
+      "pas": 57,
+      "dri": 26,
       "def": 17,
-      "fis": 74,
-      "ref": 82,
-      "han": 81,
-      "pos": 83,
-      "div": 84,
-      "kic": 65,
-      "one": 82
+      "fis": 76,
+      "ref": 84,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 67,
+      "one": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-barcelona-2009-victor-valdes",
     "team": "Barcelona",
@@ -182,16 +182,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 69,
-      "fin": 54,
-      "pas": 78,
-      "dri": 70,
-      "def": 82,
-      "fis": 81
+      "vel": 71,
+      "fin": 55,
+      "pas": 80,
+      "dri": 72,
+      "def": 84,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-barcelona-2009-sergio-busquets",
     "team": "Barcelona",
@@ -205,16 +205,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 60,
-      "fin": 37,
-      "pas": 64,
-      "dri": 55,
-      "def": 81,
-      "fis": 81
+      "vel": 61,
+      "fin": 38,
+      "pas": 66,
+      "dri": 56,
+      "def": 83,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-barcelona-2009-yaya-toure",
     "team": "Barcelona",
@@ -227,16 +227,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 70,
-      "pas": 81,
-      "dri": 76,
-      "def": 65,
-      "fis": 72
+      "vel": 74,
+      "fin": 72,
+      "pas": 83,
+      "dri": 78,
+      "def": 67,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-barcelona-2009-seydou-keita",
     "team": "Barcelona",
@@ -249,16 +249,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 76,
-      "fin": 79,
-      "pas": 59,
-      "dri": 71,
-      "def": 32,
-      "fis": 75
+      "vel": 78,
+      "fin": 81,
+      "pas": 61,
+      "dri": 73,
+      "def": 33,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "ucl-barcelona-2009-ei-ur-gu-johnsen",
     "team": "Barcelona",
@@ -271,16 +271,16 @@
       "ATA",
       "PD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 71,
-      "fin": 79,
-      "pas": 59,
-      "dri": 71,
-      "def": 32,
-      "fis": 70
+      "vel": 73,
+      "fin": 81,
+      "pas": 61,
+      "dri": 73,
+      "def": 33,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "ucl-barcelona-2009-bojan",
     "team": "Barcelona",
@@ -292,16 +292,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 75,
-      "fin": 47,
-      "pas": 64,
-      "dri": 65,
-      "def": 67,
-      "fis": 67
+      "vel": 76,
+      "fin": 48,
+      "pas": 65,
+      "dri": 66,
+      "def": 68,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "ucl-barcelona-2009-sylvinho",
     "team": "Barcelona",
@@ -314,16 +314,16 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 52,
+      "vel": 53,
       "fin": 29,
-      "pas": 56,
-      "dri": 47,
-      "def": 73,
-      "fis": 73
+      "pas": 57,
+      "dri": 48,
+      "def": 74,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "ucl-barcelona-2009-martin-caceres",
     "team": "Barcelona",
@@ -336,16 +336,16 @@
       "PD",
       "PE"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 76,
-      "fin": 73,
-      "pas": 67,
-      "dri": 78,
+      "vel": 77,
+      "fin": 74,
+      "pas": 68,
+      "dri": 79,
       "def": 27,
-      "fis": 56
+      "fis": 57
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "ucl-barcelona-2009-pedro",
     "team": "Barcelona",
@@ -357,22 +357,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 36,
+      "vel": 37,
       "fin": 11,
-      "pas": 45,
+      "pas": 46,
       "dri": 25,
       "def": 17,
-      "fis": 63,
-      "ref": 71,
-      "han": 70,
-      "pos": 72,
-      "div": 73,
-      "kic": 54,
-      "one": 71
+      "fis": 64,
+      "ref": 72,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 55,
+      "one": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "ucl-barcelona-2009-jose-manuel-pinto",
     "team": "Barcelona",
@@ -385,19 +385,391 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 66,
+    "ovr": 67,
     "attrs": {
-      "vel": 46,
+      "vel": 47,
       "fin": 23,
-      "pas": 50,
-      "dri": 36,
-      "def": 67,
-      "fis": 67
+      "pas": 51,
+      "dri": 37,
+      "def": 68,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 70,
     "id": "ucl-barcelona-2009-marc-muniesa",
     "team": "Barcelona",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Edwin van der Sar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84,
+      "ref": 88,
+      "han": 86,
+      "pos": 86,
+      "div": 87,
+      "kic": 78,
+      "one": 86
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-edwin-van-der-sar",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "John O'Shea",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-john-o-shea",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Rio Ferdinand",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-rio-ferdinand",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nemanja Vidić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 88,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-nemanja-vidic",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Patrice Evra",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-patrice-evra",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Anderson",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-anderson",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Michael Carrick",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-michael-carrick",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ryan Giggs",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-ryan-giggs",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Park Ji-sung",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-park-ji-sung",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Wayne Rooney",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-wayne-rooney",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 88,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-cristiano-ronaldo",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Tomasz Kuszczak",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 77,
+      "fin": 64,
+      "pas": 82,
+      "dri": 79,
+      "def": 49,
+      "fis": 80,
+      "ref": 84,
+      "han": 82,
+      "pos": 82,
+      "div": 83,
+      "kic": 74,
+      "one": 82
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-tomasz-kuszczak",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Rafael",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-rafael",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jonny Evans",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 77,
+      "fin": 64,
+      "pas": 82,
+      "dri": 79,
+      "def": 84,
+      "fis": 80
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-jonny-evans",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Nani",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 77,
+      "fin": 64,
+      "pas": 82,
+      "dri": 79,
+      "def": 49,
+      "fis": 80
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-nani",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Paul Scholes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-paul-scholes",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Dimitar Berbatov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 77,
+      "fin": 85,
+      "pas": 82,
+      "dri": 79,
+      "def": 49,
+      "fis": 80
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-dimitar-berbatov",
+    "team": "Manchester United",
+    "year": 2009,
+    "comp": "ucl"
+  },
+  {
+    "name": "Carlos Tevez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 77,
+      "fin": 85,
+      "pas": 82,
+      "dri": 79,
+      "def": 49,
+      "fis": 80
+    },
+    "ratingRevision": 6,
+    "id": "ucl-manchester-united-2009-carlos-tevez",
+    "team": "Manchester United",
     "year": 2009,
     "comp": "ucl"
   }

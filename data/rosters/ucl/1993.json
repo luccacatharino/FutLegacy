@@ -41,5 +41,33 @@
       "ucl-marseille-1993-jean-jacques-eydelie",
       "ucl-marseille-1993-jean-christophe-thomas"
     ]
+  },
+  {
+    "name": "Milan",
+    "year": 1993,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1993_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-milan-1993-sebastiano-rossi",
+      "ucl-milan-1993-mauro-tassotti",
+      "ucl-milan-1993-alessandro-costacurta",
+      "ucl-milan-1993-franco-baresi",
+      "ucl-milan-1993-paolo-maldini",
+      "ucl-milan-1993-gianluigi-lentini",
+      "ucl-milan-1993-demetrio-albertini",
+      "ucl-milan-1993-frank-rijkaard",
+      "ucl-milan-1993-roberto-donadoni",
+      "ucl-milan-1993-marco-van-basten",
+      "ucl-milan-1993-daniele-massaro",
+      "ucl-milan-1993-carlo-cudicini",
+      "ucl-milan-1993-stefano-nava",
+      "ucl-milan-1993-stefano-eranio",
+      "ucl-milan-1993-alberico-evani",
+      "ucl-milan-1993-jean-pierre-papin"
+    ]
   }
 ]

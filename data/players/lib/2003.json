@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 45,
+      "vel": 46,
       "fin": 20,
-      "pas": 59,
-      "dri": 26,
-      "def": 25,
-      "fis": 78,
-      "ref": 87,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 74,
-      "one": 85
+      "pas": 60,
+      "dri": 27,
+      "def": 26,
+      "fis": 80,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 76,
+      "one": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-boca-juniors-2003-roberto-abbondanzieri",
     "team": "Boca Juniors",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 78,
-      "fin": 44,
-      "pas": 74,
-      "dri": 71,
-      "def": 75,
-      "fis": 71
+      "vel": 80,
+      "fin": 45,
+      "pas": 76,
+      "dri": 73,
+      "def": 77,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-boca-juniors-2003-hugo-ibarra",
     "team": "Boca Juniors",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 63,
-      "fin": 35,
-      "pas": 61,
-      "dri": 47,
-      "def": 86,
-      "fis": 85
+      "vel": 65,
+      "fin": 36,
+      "pas": 62,
+      "dri": 48,
+      "def": 88,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-boca-juniors-2003-rolando-schiavi",
     "team": "Boca Juniors",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 59,
-      "fin": 32,
-      "pas": 60,
-      "dri": 45,
-      "def": 82,
-      "fis": 81
+      "vel": 60,
+      "fin": 33,
+      "pas": 61,
+      "dri": 46,
+      "def": 84,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-boca-juniors-2003-nicolas-burdisso",
     "team": "Boca Juniors",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 73,
-      "fin": 41,
-      "pas": 68,
-      "dri": 69,
-      "def": 72,
-      "fis": 69
+      "vel": 75,
+      "fin": 42,
+      "pas": 70,
+      "dri": 71,
+      "def": 74,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-boca-juniors-2003-clemente-rodriguez",
     "team": "Boca Juniors",
@@ -115,16 +115,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 71,
-      "fin": 65,
-      "pas": 81,
-      "dri": 80,
-      "def": 66,
-      "fis": 72
+      "vel": 73,
+      "fin": 67,
+      "pas": 83,
+      "dri": 82,
+      "def": 68,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-boca-juniors-2003-diego-cagna",
     "team": "Boca Juniors",
@@ -136,16 +136,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 69,
-      "fin": 64,
-      "pas": 84,
-      "dri": 79,
-      "def": 65,
-      "fis": 74
+      "vel": 71,
+      "fin": 66,
+      "pas": 86,
+      "dri": 81,
+      "def": 67,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-boca-juniors-2003-sebastian-battaglia",
     "team": "Boca Juniors",
@@ -157,16 +157,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 62,
-      "fin": 47,
-      "pas": 76,
-      "dri": 66,
-      "def": 78,
-      "fis": 77
+      "vel": 64,
+      "fin": 48,
+      "pas": 78,
+      "dri": 68,
+      "def": 80,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-boca-juniors-2003-raul-cascini",
     "team": "Boca Juniors",
@@ -178,16 +178,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 82,
-      "fin": 74,
-      "pas": 74,
-      "dri": 87,
-      "def": 33,
-      "fis": 65
+      "vel": 84,
+      "fin": 76,
+      "pas": 76,
+      "dri": 89,
+      "def": 34,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-boca-juniors-2003-guillermo-barros-schelotto",
     "team": "Boca Juniors",
@@ -199,16 +199,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 76,
-      "fin": 87,
-      "pas": 64,
-      "dri": 76,
-      "def": 31,
-      "fis": 79
+      "vel": 78,
+      "fin": 89,
+      "pas": 66,
+      "dri": 78,
+      "def": 32,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "lib-boca-juniors-2003-marcelo-delgado",
     "team": "Boca Juniors",
@@ -220,16 +220,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 79,
-      "fin": 90,
-      "pas": 67,
-      "dri": 77,
-      "def": 34,
-      "fis": 82
+      "vel": 81,
+      "fin": 92,
+      "pas": 69,
+      "dri": 79,
+      "def": 35,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "lib-boca-juniors-2003-carlos-tevez",
     "team": "Boca Juniors",
@@ -242,16 +242,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 63,
-      "fin": 58,
-      "pas": 78,
-      "dri": 76,
-      "def": 59,
-      "fis": 66
+      "vel": 65,
+      "fin": 59,
+      "pas": 80,
+      "dri": 78,
+      "def": 61,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-boca-juniors-2003-javier-villarreal",
     "team": "Boca Juniors",
@@ -263,22 +263,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
       "vel": 35,
       "fin": 9,
-      "pas": 52,
+      "pas": 53,
       "dri": 21,
       "def": 15,
-      "fis": 68,
-      "ref": 76,
-      "han": 72,
-      "pos": 74,
-      "div": 75,
-      "kic": 63,
-      "one": 74
+      "fis": 69,
+      "ref": 77,
+      "han": 73,
+      "pos": 75,
+      "div": 76,
+      "kic": 64,
+      "one": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-boca-juniors-2003-willy-caballero",
     "team": "Boca Juniors",
@@ -290,16 +290,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 69,
-      "fin": 36,
-      "pas": 65,
-      "dri": 61,
-      "def": 65,
-      "fis": 64
+      "vel": 70,
+      "fin": 37,
+      "pas": 66,
+      "dri": 62,
+      "def": 66,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "lib-boca-juniors-2003-pablo-jerez",
     "team": "Boca Juniors",
@@ -311,16 +311,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 77,
-      "fin": 69,
-      "pas": 69,
-      "dri": 77,
-      "def": 29,
-      "fis": 62
+      "vel": 79,
+      "fin": 71,
+      "pas": 71,
+      "dri": 79,
+      "def": 30,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-boca-juniors-2003-raul-estevez",
     "team": "Boca Juniors",
@@ -333,16 +333,16 @@
       "ATA",
       "PE"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 67,
-      "fin": 76,
-      "pas": 55,
-      "dri": 65,
+      "vel": 68,
+      "fin": 77,
+      "pas": 56,
+      "dri": 66,
       "def": 24,
-      "fis": 70
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-boca-juniors-2003-franco-cangele",
     "team": "Boca Juniors",
@@ -354,16 +354,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 58,
-      "fin": 42,
-      "pas": 70,
-      "dri": 60,
-      "def": 70,
-      "fis": 69
+      "vel": 59,
+      "fin": 43,
+      "pas": 71,
+      "dri": 61,
+      "def": 71,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-boca-juniors-2003-gustavo-pinto",
     "team": "Boca Juniors",
@@ -375,16 +375,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 66,
-      "fin": 67,
-      "pas": 79,
-      "dri": 76,
+      "vel": 67,
+      "fin": 68,
+      "pas": 80,
+      "dri": 77,
       "def": 31,
-      "fis": 58
+      "fis": 59
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-boca-juniors-2003-miguel-caneo",
     "team": "Boca Juniors",
@@ -397,19 +397,245 @@
       "LD",
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 63,
-      "def": 68,
-      "fis": 66
+      "vel": 72,
+      "fin": 39,
+      "pas": 68,
+      "dri": 64,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-boca-juniors-2003-jose-maria-calvo",
     "team": "Boca Juniors",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Fábio Costa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-fabio-costa",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Reginaldo Araújo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-reginaldo-araujo",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Alex",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-alex",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Pereira",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-pereira",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Léo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-leo",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Paulo Almeida",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-paulo-almeida",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Renato",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-renato",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Fabiano",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-fabiano",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Diego",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-diego",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardo Oliveira",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 87,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-ricardo-oliveira",
+    "team": "Santos",
+    "year": 2003,
+    "comp": "lib"
+  },
+  {
+    "name": "Robinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-santos-2003-robinho",
+    "team": "Santos",
     "year": 2003,
     "comp": "lib"
   }

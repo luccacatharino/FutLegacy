@@ -47,5 +47,28 @@
       "lib-boca-juniors-2000-anibal-matellan",
       "lib-boca-juniors-2000-cesar-la-paglia"
     ]
+  },
+  {
+    "name": "Palmeiras",
+    "year": 2000,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2000_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-palmeiras-2000-marcos",
+      "lib-palmeiras-2000-nenem",
+      "lib-palmeiras-2000-argel",
+      "lib-palmeiras-2000-roque-junior",
+      "lib-palmeiras-2000-junior",
+      "lib-palmeiras-2000-galeano",
+      "lib-palmeiras-2000-cesar-sampaio",
+      "lib-palmeiras-2000-rogerio",
+      "lib-palmeiras-2000-alex",
+      "lib-palmeiras-2000-pena",
+      "lib-palmeiras-2000-euller"
+    ]
   }
 ]

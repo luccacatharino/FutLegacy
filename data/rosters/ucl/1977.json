@@ -41,5 +41,30 @@
       "ucl-liverpool-1977-alan-waddle",
       "ucl-liverpool-1977-peter-mcdonnell"
     ]
+  },
+  {
+    "name": "Borussia Mönchengladbach",
+    "year": 1977,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1977_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-borussia-monchengladbach-1977-wolfgang-kneib",
+      "ucl-borussia-monchengladbach-1977-berti-vogts",
+      "ucl-borussia-monchengladbach-1977-hans-klinkhammer",
+      "ucl-borussia-monchengladbach-1977-hans-jurgen-wittkamp",
+      "ucl-borussia-monchengladbach-1977-rainer-bonhof",
+      "ucl-borussia-monchengladbach-1977-horst-wohlers",
+      "ucl-borussia-monchengladbach-1977-allan-simonsen",
+      "ucl-borussia-monchengladbach-1977-herbert-wimmer",
+      "ucl-borussia-monchengladbach-1977-uli-stielike",
+      "ucl-borussia-monchengladbach-1977-frank-schaffer",
+      "ucl-borussia-monchengladbach-1977-jupp-heynckes",
+      "ucl-borussia-monchengladbach-1977-christian-kulik",
+      "ucl-borussia-monchengladbach-1977-wilfried-hannes"
+    ]
   }
 ]

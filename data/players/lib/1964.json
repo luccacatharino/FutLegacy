@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 45,
+      "vel": 46,
       "fin": 15,
-      "pas": 59,
-      "dri": 24,
-      "def": 21,
-      "fis": 75,
-      "ref": 84,
-      "han": 80,
-      "pos": 82,
-      "div": 83,
-      "kic": 71,
-      "one": 82
+      "pas": 60,
+      "dri": 25,
+      "def": 22,
+      "fis": 77,
+      "ref": 86,
+      "han": 82,
+      "pos": 84,
+      "div": 85,
+      "kic": 73,
+      "one": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-independiente-1964-miguel-angel-santoro",
     "team": "Independiente",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
+      "vel": 72,
       "fin": 35,
-      "pas": 67,
-      "dri": 64,
-      "def": 65,
-      "fis": 64
+      "pas": 68,
+      "dri": 65,
+      "def": 66,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-independiente-1964-juan-c-guzman",
     "team": "Independiente",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 55,
-      "fin": 25,
-      "pas": 57,
-      "dri": 42,
-      "def": 79,
-      "fis": 78
+      "vel": 56,
+      "fin": 26,
+      "pas": 59,
+      "dri": 43,
+      "def": 81,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-independiente-1964-tomas-rolan",
     "team": "Independiente",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 56,
-      "fin": 30,
-      "pas": 58,
-      "dri": 41,
-      "def": 79,
-      "fis": 78
+      "vel": 57,
+      "fin": 31,
+      "pas": 59,
+      "dri": 42,
+      "def": 81,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-independiente-1964-roberto-ferreiro",
     "team": "Independiente",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 73,
-      "fin": 37,
-      "pas": 68,
-      "dri": 64,
-      "def": 71,
-      "fis": 69
+      "vel": 75,
+      "fin": 38,
+      "pas": 70,
+      "dri": 66,
+      "def": 73,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-independiente-1964-david-acevedo",
     "team": "Independiente",
@@ -115,16 +115,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 59,
-      "fin": 44,
-      "pas": 72,
-      "dri": 62,
-      "def": 74,
-      "fis": 75
+      "vel": 61,
+      "fin": 45,
+      "pas": 74,
+      "dri": 64,
+      "def": 76,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-independiente-1964-jorge-maldonado",
     "team": "Independiente",
@@ -136,16 +136,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 85,
-      "fin": 74,
-      "pas": 75,
-      "dri": 85,
-      "def": 33,
-      "fis": 65
+      "vel": 87,
+      "fin": 76,
+      "pas": 77,
+      "dri": 87,
+      "def": 34,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-independiente-1964-raul-bernao",
     "team": "Independiente",
@@ -157,16 +157,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 63,
-      "fin": 66,
-      "pas": 75,
-      "dri": 77,
-      "def": 30,
-      "fis": 56
+      "vel": 65,
+      "fin": 68,
+      "pas": 77,
+      "dri": 79,
+      "def": 31,
+      "fis": 57
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-independiente-1964-pedro-prospitti",
     "team": "Independiente",
@@ -178,16 +178,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 68,
-      "fin": 79,
-      "pas": 56,
-      "dri": 67,
-      "def": 23,
-      "fis": 70
+      "vel": 70,
+      "fin": 81,
+      "pas": 57,
+      "dri": 69,
+      "def": 24,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-independiente-1964-luis-suarez",
     "team": "Independiente",
@@ -199,16 +199,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 73,
-      "fin": 85,
-      "pas": 60,
-      "dri": 72,
-      "def": 29,
-      "fis": 75
+      "vel": 75,
+      "fin": 87,
+      "pas": 62,
+      "dri": 74,
+      "def": 30,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-independiente-1964-mario-rodriguez",
     "team": "Independiente",
@@ -220,16 +220,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 78,
-      "fin": 70,
-      "pas": 70,
-      "dri": 82,
-      "def": 29,
-      "fis": 60
+      "vel": 80,
+      "fin": 72,
+      "pas": 72,
+      "dri": 84,
+      "def": 30,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-independiente-1964-raul-savoy",
     "team": "Independiente",
@@ -241,16 +241,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 70,
-      "fin": 37,
-      "pas": 66,
-      "dri": 63,
-      "def": 68,
-      "fis": 64
+      "vel": 71,
+      "fin": 38,
+      "pas": 67,
+      "dri": 64,
+      "def": 69,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-independiente-1964-hector-zerrillo",
     "team": "Independiente",
@@ -262,16 +262,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 67,
-      "fin": 68,
-      "pas": 80,
-      "dri": 77,
-      "def": 31,
-      "fis": 59
+      "vel": 69,
+      "fin": 70,
+      "pas": 82,
+      "dri": 79,
+      "def": 32,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-independiente-1964-osvaldo-mura",
     "team": "Independiente",

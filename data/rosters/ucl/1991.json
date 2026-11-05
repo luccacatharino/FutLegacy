@@ -41,5 +41,33 @@
       "ucl-estrela-vermelha-1991-ivica-momcilovic",
       "ucl-estrela-vermelha-1991-milic-jovanovic"
     ]
+  },
+  {
+    "name": "Marseille",
+    "year": 1991,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1991_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-marseille-1991-pascal-olmeta",
+      "ucl-marseille-1991-basile-boli",
+      "ucl-marseille-1991-carlos-mozer",
+      "ucl-marseille-1991-bernard-casoni",
+      "ucl-marseille-1991-manuel-amoros",
+      "ucl-marseille-1991-laurent-fournier",
+      "ucl-marseille-1991-bruno-germain",
+      "ucl-marseille-1991-eric-di-meco",
+      "ucl-marseille-1991-chris-waddle",
+      "ucl-marseille-1991-jean-pierre-papin",
+      "ucl-marseille-1991-abedi-pele",
+      "ucl-marseille-1991-dragan-stojkovic",
+      "ucl-marseille-1991-philippe-vercruysse",
+      "ucl-marseille-1991-jean-tigana",
+      "ucl-marseille-1991-eric-mura",
+      "ucl-marseille-1991-alain-casanova"
+    ]
   }
 ]

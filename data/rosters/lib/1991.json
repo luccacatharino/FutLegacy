@@ -42,5 +42,30 @@
       "lib-colo-colo-1991-ruben-martinez",
       "lib-colo-colo-1991-leonel-herrera"
     ]
+  },
+  {
+    "name": "Olimpia",
+    "year": 1991,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1991_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-olimpia-1991-jorge-battaglia",
+      "lib-olimpia-1991-virginio-caceres",
+      "lib-olimpia-1991-remigio-fernandez",
+      "lib-olimpia-1991-cesar-castro",
+      "lib-olimpia-1991-silvio-suarez",
+      "lib-olimpia-1991-fermin-balbuena",
+      "lib-olimpia-1991-jorge-guasch",
+      "lib-olimpia-1991-luis-monzon",
+      "lib-olimpia-1991-carlos-guirland",
+      "lib-olimpia-1991-adriano-samaniego",
+      "lib-olimpia-1991-gabriel-gonzalez",
+      "lib-olimpia-1991-cristobal-cubilla",
+      "lib-olimpia-1991-jorge-villalba"
+    ]
   }
 ]

@@ -41,5 +41,32 @@
       "ucl-nottingham-forest-1979-david-needham",
       "ucl-nottingham-forest-1979-chris-woods"
     ]
+  },
+  {
+    "name": "Malmö",
+    "year": 1979,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1979_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-malmo-1979-jan-moller",
+      "ucl-malmo-1979-roland-andersson",
+      "ucl-malmo-1979-kent-jonsson",
+      "ucl-malmo-1979-magnus-andersson",
+      "ucl-malmo-1979-ingemar-erlandsson",
+      "ucl-malmo-1979-robert-prytz",
+      "ucl-malmo-1979-staffan-tapper",
+      "ucl-malmo-1979-anders-ljungberg",
+      "ucl-malmo-1979-jan-olov-kindvall",
+      "ucl-malmo-1979-tore-cervin",
+      "ucl-malmo-1979-tommy-hansson",
+      "ucl-malmo-1979-mats-arvidsson",
+      "ucl-malmo-1979-tommy-andersson",
+      "ucl-malmo-1979-claes-malmberg",
+      "ucl-malmo-1979-arne-akesson"
+    ]
   }
 ]

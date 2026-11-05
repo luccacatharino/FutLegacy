@@ -42,5 +42,29 @@
       "lib-penarol-1966-hector-silva",
       "lib-penarol-1966-tabare-gonzalez"
     ]
+  },
+  {
+    "name": "River Plate",
+    "year": 1966,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1966_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-river-plate-1966-amadeo-carrizo",
+      "lib-river-plate-1966-alberto-sainz",
+      "lib-river-plate-1966-j-carlos-guzman",
+      "lib-river-plate-1966-roberto-matosas",
+      "lib-river-plate-1966-abel-vieytez",
+      "lib-river-plate-1966-juan-carlos-sarnari",
+      "lib-river-plate-1966-daniel-bayo",
+      "lib-river-plate-1966-miguel-loayza",
+      "lib-river-plate-1966-luis-cubilla",
+      "lib-river-plate-1966-daniel-onega",
+      "lib-river-plate-1966-jorge-solari",
+      "lib-river-plate-1966-ermindo-onega"
+    ]
   }
 ]

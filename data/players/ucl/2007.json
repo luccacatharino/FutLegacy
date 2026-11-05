@@ -5,16 +5,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 93,
     "attrs": {
-      "vel": 90,
-      "fin": 88,
-      "pas": 88,
-      "dri": 92,
-      "def": 31,
-      "fis": 74
+      "vel": 92,
+      "fin": 90,
+      "pas": 90,
+      "dri": 94,
+      "def": 32,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 97,
     "id": "ucl-milan-2007-kaka",
     "team": "Milan",
@@ -27,16 +27,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 61,
-      "fin": 69,
-      "pas": 90,
-      "dri": 80,
-      "def": 67,
-      "fis": 63
+      "vel": 62,
+      "fin": 71,
+      "pas": 92,
+      "dri": 82,
+      "def": 69,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "ucl-milan-2007-andrea-pirlo",
     "team": "Milan",
@@ -48,16 +48,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 69,
-      "fin": 33,
-      "pas": 73,
-      "dri": 63,
-      "def": 91,
-      "fis": 80
+      "vel": 71,
+      "fin": 34,
+      "pas": 75,
+      "dri": 64,
+      "def": 93,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-milan-2007-alessandro-nesta",
     "team": "Milan",
@@ -69,16 +69,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 65,
-      "fin": 40,
-      "pas": 77,
-      "dri": 65,
-      "def": 91,
-      "fis": 75
+      "vel": 67,
+      "fin": 41,
+      "pas": 79,
+      "dri": 67,
+      "def": 93,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-milan-2007-paolo-maldini",
     "team": "Milan",
@@ -91,16 +91,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 69,
-      "fin": 80,
-      "pas": 88,
-      "dri": 85,
-      "def": 61,
-      "fis": 81
+      "vel": 71,
+      "fin": 82,
+      "pas": 90,
+      "dri": 87,
+      "def": 62,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "ucl-milan-2007-clarence-seedorf",
     "team": "Milan",
@@ -112,16 +112,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 75,
-      "fin": 92,
-      "pas": 62,
-      "dri": 69,
-      "def": 24,
-      "fis": 61
+      "vel": 77,
+      "fin": 94,
+      "pas": 63,
+      "dri": 71,
+      "def": 25,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-milan-2007-filippo-inzaghi",
     "team": "Milan",
@@ -134,16 +134,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 66,
-      "fin": 47,
-      "pas": 72,
-      "dri": 61,
-      "def": 89,
-      "fis": 87
+      "vel": 68,
+      "fin": 48,
+      "pas": 74,
+      "dri": 62,
+      "def": 91,
+      "fis": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-milan-2007-gennaro-gattuso",
     "team": "Milan",
@@ -155,22 +155,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 11,
-      "pas": 57,
-      "dri": 30,
+      "pas": 58,
+      "dri": 31,
       "def": 17,
-      "fis": 71,
-      "ref": 84,
-      "han": 78,
-      "pos": 80,
-      "div": 81,
-      "kic": 67,
-      "one": 79
+      "fis": 73,
+      "ref": 86,
+      "han": 80,
+      "pos": 82,
+      "div": 83,
+      "kic": 69,
+      "one": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-milan-2007-dida",
     "team": "Milan",
@@ -183,16 +183,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 68,
-      "fin": 53,
-      "pas": 77,
-      "dri": 69,
-      "def": 81,
-      "fis": 80
+      "vel": 70,
+      "fin": 54,
+      "pas": 79,
+      "dri": 71,
+      "def": 83,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-milan-2007-massimo-ambrosini",
     "team": "Milan",
@@ -204,16 +204,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 79,
-      "fin": 82,
-      "pas": 62,
-      "dri": 74,
-      "def": 35,
-      "fis": 78
+      "vel": 81,
+      "fin": 84,
+      "pas": 64,
+      "dri": 76,
+      "def": 36,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "ucl-milan-2007-alberto-gilardino",
     "team": "Milan",
@@ -226,16 +226,16 @@
       "ZAG",
       "LE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 57,
-      "fin": 34,
-      "pas": 61,
-      "dri": 52,
-      "def": 83,
-      "fis": 78
+      "vel": 58,
+      "fin": 35,
+      "pas": 63,
+      "dri": 53,
+      "def": 85,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "ucl-milan-2007-kakha-kaladze",
     "team": "Milan",
@@ -247,16 +247,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 80,
-      "fin": 47,
-      "pas": 69,
-      "dri": 70,
-      "def": 72,
-      "fis": 71
+      "vel": 82,
+      "fin": 48,
+      "pas": 71,
+      "dri": 72,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "ucl-milan-2007-cafu",
     "team": "Milan",
@@ -269,16 +269,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 77,
-      "fin": 49,
-      "pas": 70,
-      "dri": 71,
-      "def": 70,
-      "fis": 69
+      "vel": 79,
+      "fin": 50,
+      "pas": 72,
+      "dri": 73,
+      "def": 72,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "ucl-milan-2007-marek-jankulovski",
     "team": "Milan",
@@ -290,16 +290,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 79,
-      "fin": 51,
-      "pas": 68,
-      "dri": 69,
-      "def": 71,
-      "fis": 70
+      "vel": 81,
+      "fin": 52,
+      "pas": 70,
+      "dri": 71,
+      "def": 73,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "ucl-milan-2007-massimo-oddo",
     "team": "Milan",
@@ -312,16 +312,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 76,
-      "fin": 48,
-      "pas": 69,
-      "dri": 66,
-      "def": 68,
-      "fis": 68
+      "vel": 78,
+      "fin": 49,
+      "pas": 71,
+      "dri": 68,
+      "def": 70,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "ucl-milan-2007-serginho",
     "team": "Milan",
@@ -334,16 +334,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 66,
-      "fin": 64,
-      "pas": 75,
-      "dri": 70,
-      "def": 59,
-      "fis": 66
+      "vel": 67,
+      "fin": 65,
+      "pas": 76,
+      "dri": 71,
+      "def": 60,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "ucl-milan-2007-cristian-brocchi",
     "team": "Milan",
@@ -356,16 +356,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 73,
-      "fin": 45,
-      "pas": 67,
-      "dri": 67,
-      "def": 66,
-      "fis": 65
+      "vel": 74,
+      "fin": 46,
+      "pas": 68,
+      "dri": 68,
+      "def": 67,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "ucl-milan-2007-giuseppe-favalli",
     "team": "Milan",
@@ -377,25 +377,251 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 11,
-      "pas": 50,
+      "pas": 51,
       "dri": 30,
       "def": 17,
-      "fis": 63,
-      "ref": 76,
-      "han": 70,
-      "pos": 72,
-      "div": 73,
-      "kic": 59,
-      "one": 71
+      "fis": 64,
+      "ref": 77,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 60,
+      "one": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "ucl-milan-2007-zeljko-kalac",
     "team": "Milan",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Pepe Reina",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84,
+      "ref": 88,
+      "han": 86,
+      "pos": 86,
+      "div": 87,
+      "kic": 78,
+      "one": 86
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-pepe-reina",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Steve Finnan",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-steve-finnan",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jamie Carragher",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-jamie-carragher",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Daniel Agger",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 88,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-daniel-agger",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "John Arne Riise",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-john-arne-riise",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Xabi Alonso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-xabi-alonso",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Javier Mascherano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 88,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-javier-mascherano",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Jermaine Pennant",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-jermaine-pennant",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Boudewijn Zenden",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-boudewijn-zenden",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Steven Gerrard",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-steven-gerrard",
+    "team": "Liverpool",
+    "year": 2007,
+    "comp": "ucl"
+  },
+  {
+    "name": "Dirk Kuyt",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 88,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-liverpool-2007-dirk-kuyt",
+    "team": "Liverpool",
     "year": 2007,
     "comp": "ucl"
   }

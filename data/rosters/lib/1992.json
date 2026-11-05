@@ -45,5 +45,30 @@
       "lib-sao-paulo-1992-suelio",
       "lib-sao-paulo-1992-rinaldo"
     ]
+  },
+  {
+    "name": "Newell’s Old Boys",
+    "year": 1992,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1992_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-newell-s-old-boys-1992-norberto-scoponi",
+      "lib-newell-s-old-boys-1992-fernando-gamboa",
+      "lib-newell-s-old-boys-1992-eduardo-berizzo",
+      "lib-newell-s-old-boys-1992-gustavo-raggio",
+      "lib-newell-s-old-boys-1992-mauricio-pochettino",
+      "lib-newell-s-old-boys-1992-alfredo-berti",
+      "lib-newell-s-old-boys-1992-julio-saldana",
+      "lib-newell-s-old-boys-1992-julio-zamora",
+      "lib-newell-s-old-boys-1992-gerardo-martino",
+      "lib-newell-s-old-boys-1992-ricardo-lunari",
+      "lib-newell-s-old-boys-1992-alfredo-mendoza",
+      "lib-newell-s-old-boys-1992-cristian-domizzi",
+      "lib-newell-s-old-boys-1992-aldo-soria"
+    ]
   }
 ]

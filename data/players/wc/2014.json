@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 73,
-      "dri": 41,
-      "def": 28,
-      "fis": 84,
-      "ref": 92,
-      "han": 88,
-      "pos": 89,
-      "div": 90,
-      "kic": 75,
-      "one": 87
+      "pas": 75,
+      "dri": 42,
+      "def": 29,
+      "fis": 86,
+      "ref": 94,
+      "han": 90,
+      "pos": 91,
+      "div": 92,
+      "kic": 77,
+      "one": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "wc-alemanha-2014-manuel-neuer",
     "team": "Alemanha",
@@ -32,16 +32,16 @@
       "LD",
       "VOL"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 91,
-      "fin": 66,
-      "pas": 82,
-      "dri": 86,
-      "def": 83,
-      "fis": 82
+      "vel": 93,
+      "fin": 68,
+      "pas": 84,
+      "dri": 88,
+      "def": 85,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "wc-alemanha-2014-philipp-lahm",
     "team": "Alemanha",
@@ -54,16 +54,16 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 66,
-      "fin": 50,
-      "pas": 66,
-      "dri": 55,
-      "def": 90,
-      "fis": 84
+      "vel": 68,
+      "fin": 51,
+      "pas": 68,
+      "dri": 56,
+      "def": 92,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-alemanha-2014-jerome-boateng",
     "team": "Alemanha",
@@ -75,16 +75,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 73,
-      "fin": 50,
-      "pas": 73,
-      "dri": 55,
-      "def": 90,
-      "fis": 84
+      "vel": 75,
+      "fin": 51,
+      "pas": 75,
+      "dri": 56,
+      "def": 92,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-alemanha-2014-mats-hummels",
     "team": "Alemanha",
@@ -97,16 +97,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 87,
-      "fin": 56,
-      "pas": 78,
-      "dri": 75,
-      "def": 79,
-      "fis": 78
+      "vel": 89,
+      "fin": 57,
+      "pas": 80,
+      "dri": 77,
+      "def": 81,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-alemanha-2014-benedikt-howedes",
     "team": "Alemanha",
@@ -115,6 +115,28 @@
   },
   {
     "name": "Bastian Schweinsteiger",
+    "positions": [
+      "MC",
+      "VOL"
+    ],
+    "ovr": 88,
+    "attrs": {
+      "vel": 82,
+      "fin": 79,
+      "pas": 90,
+      "dri": 89,
+      "def": 69,
+      "fis": 80
+    },
+    "ratingRevision": 6,
+    "previousOvr": 92,
+    "id": "wc-alemanha-2014-bastian-schweinsteiger",
+    "team": "Alemanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sami Khedira",
     "positions": [
       "MC",
       "VOL"
@@ -128,29 +150,7 @@
       "def": 67,
       "fis": 78
     },
-    "ratingRevision": 4,
-    "previousOvr": 92,
-    "id": "wc-alemanha-2014-bastian-schweinsteiger",
-    "team": "Alemanha",
-    "year": 2014,
-    "comp": "wc"
-  },
-  {
-    "name": "Sami Khedira",
-    "positions": [
-      "MC",
-      "VOL"
-    ],
-    "ovr": 84,
-    "attrs": {
-      "vel": 78,
-      "fin": 75,
-      "pas": 86,
-      "dri": 85,
-      "def": 65,
-      "fis": 76
-    },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-alemanha-2014-sami-khedira",
     "team": "Alemanha",
@@ -163,16 +163,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 82,
-      "fin": 79,
-      "pas": 90,
-      "dri": 89,
-      "def": 69,
-      "fis": 80
+      "vel": 84,
+      "fin": 81,
+      "pas": 92,
+      "dri": 91,
+      "def": 71,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-alemanha-2014-toni-kroos",
     "team": "Alemanha",
@@ -185,16 +185,16 @@
       "MEI",
       "ME"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 86,
-      "dri": 88,
-      "def": 49,
-      "fis": 70
+      "vel": 82,
+      "fin": 84,
+      "pas": 88,
+      "dri": 90,
+      "def": 50,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-alemanha-2014-mesut-ozil",
     "team": "Alemanha",
@@ -207,16 +207,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 93,
-      "fin": 86,
-      "pas": 85,
-      "dri": 89,
-      "def": 43,
-      "fis": 78
+      "vel": 95,
+      "fin": 88,
+      "pas": 87,
+      "dri": 91,
+      "def": 44,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-alemanha-2014-thomas-muller",
     "team": "Alemanha",
@@ -228,16 +228,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 79,
-      "fin": 88,
-      "pas": 69,
-      "dri": 78,
-      "def": 42,
-      "fis": 80
+      "vel": 81,
+      "fin": 90,
+      "pas": 71,
+      "dri": 80,
+      "def": 43,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-alemanha-2014-miroslav-klose",
     "team": "Alemanha",
@@ -249,22 +249,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 63,
-      "dri": 38,
+      "pas": 65,
+      "dri": 39,
       "def": 18,
-      "fis": 74,
-      "ref": 84,
-      "han": 80,
-      "pos": 81,
-      "div": 82,
-      "kic": 67,
-      "one": 79
+      "fis": 76,
+      "ref": 86,
+      "han": 82,
+      "pos": 83,
+      "div": 84,
+      "kic": 69,
+      "one": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-argentina-2014-sergio-romero",
     "team": "Argentina",
@@ -276,16 +276,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 81,
-      "fin": 56,
-      "pas": 79,
-      "dri": 76,
-      "def": 80,
-      "fis": 72
+      "vel": 83,
+      "fin": 57,
+      "pas": 81,
+      "dri": 78,
+      "def": 82,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-argentina-2014-pablo-zabaleta",
     "team": "Argentina",
@@ -297,16 +297,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 64,
-      "fin": 41,
-      "pas": 64,
-      "dri": 46,
-      "def": 81,
-      "fis": 75
+      "vel": 66,
+      "fin": 42,
+      "pas": 66,
+      "dri": 47,
+      "def": 83,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-argentina-2014-martin-demichelis",
     "team": "Argentina",
@@ -318,16 +318,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 64,
-      "fin": 48,
-      "pas": 64,
-      "dri": 53,
-      "def": 81,
-      "fis": 82
+      "vel": 66,
+      "fin": 49,
+      "pas": 66,
+      "dri": 54,
+      "def": 83,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-argentina-2014-ezequiel-garay",
     "team": "Argentina",
@@ -340,16 +340,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 86,
-      "fin": 55,
-      "pas": 77,
-      "dri": 74,
-      "def": 78,
-      "fis": 77
+      "vel": 88,
+      "fin": 56,
+      "pas": 79,
+      "dri": 76,
+      "def": 80,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-argentina-2014-marcos-rojo",
     "team": "Argentina",
@@ -362,16 +362,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 75,
-      "fin": 65,
-      "pas": 88,
-      "dri": 78,
-      "def": 87,
-      "fis": 80
+      "vel": 77,
+      "fin": 67,
+      "pas": 90,
+      "dri": 80,
+      "def": 89,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-argentina-2014-javier-mascherano",
     "team": "Argentina",
@@ -384,16 +384,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 69,
-      "fin": 66,
-      "pas": 84,
-      "dri": 76,
-      "def": 63,
-      "fis": 67
+      "vel": 71,
+      "fin": 68,
+      "pas": 86,
+      "dri": 78,
+      "def": 65,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-argentina-2014-lucas-biglia",
     "team": "Argentina",
@@ -406,16 +406,16 @@
       "MC",
       "MD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 69,
-      "fin": 66,
-      "pas": 77,
-      "dri": 76,
-      "def": 56,
-      "fis": 67
+      "vel": 71,
+      "fin": 68,
+      "pas": 79,
+      "dri": 78,
+      "def": 57,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-argentina-2014-enzo-perez",
     "team": "Argentina",
@@ -437,7 +437,7 @@
       "def": 54,
       "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-argentina-2014-lionel-messi",
     "team": "Argentina",
@@ -449,16 +449,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 71,
-      "fin": 80,
-      "pas": 68,
-      "dri": 70,
-      "def": 34,
-      "fis": 72
+      "vel": 73,
+      "fin": 82,
+      "pas": 70,
+      "dri": 72,
+      "def": 35,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-argentina-2014-gonzalo-higuain",
     "team": "Argentina",
@@ -471,16 +471,16 @@
       "PE",
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 85,
-      "fin": 76,
-      "pas": 75,
-      "dri": 79,
-      "def": 33,
-      "fis": 61
+      "vel": 87,
+      "fin": 78,
+      "pas": 77,
+      "dri": 81,
+      "def": 34,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-argentina-2014-ezequiel-lavezzi",
     "team": "Argentina",
@@ -493,16 +493,16 @@
       "ME",
       "PE"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 86,
-      "fin": 72,
-      "pas": 80,
-      "dri": 86,
-      "def": 54,
-      "fis": 74
+      "vel": 88,
+      "fin": 74,
+      "pas": 82,
+      "dri": 88,
+      "def": 55,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-argentina-2014-angel-di-maria",
     "team": "Argentina",
@@ -514,22 +514,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 69,
-      "dri": 37,
-      "def": 24,
-      "fis": 80,
-      "ref": 88,
-      "han": 84,
-      "pos": 85,
-      "div": 86,
-      "kic": 71,
-      "one": 83
+      "pas": 71,
+      "dri": 38,
+      "def": 25,
+      "fis": 82,
+      "ref": 90,
+      "han": 86,
+      "pos": 87,
+      "div": 88,
+      "kic": 73,
+      "one": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-costa-rica-2014-keylor-navas",
     "team": "Costa Rica",
@@ -542,16 +542,16 @@
       "LD",
       "MD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 56,
-      "pas": 72,
-      "dri": 76,
-      "def": 73,
-      "fis": 72
+      "vel": 83,
+      "fin": 57,
+      "pas": 74,
+      "dri": 78,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-costa-rica-2014-cristian-gamboa",
     "team": "Costa Rica",
@@ -563,16 +563,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 59,
-      "fin": 43,
-      "pas": 66,
-      "dri": 48,
-      "def": 83,
-      "fis": 77
+      "vel": 61,
+      "fin": 44,
+      "pas": 68,
+      "dri": 49,
+      "def": 85,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-costa-rica-2014-oscar-duarte",
     "team": "Costa Rica",
@@ -584,16 +584,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 65,
-      "fin": 49,
-      "pas": 65,
-      "dri": 54,
-      "def": 82,
-      "fis": 83
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 84,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-costa-rica-2014-giancarlo-gonzalez",
     "team": "Costa Rica",
@@ -605,16 +605,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 59,
-      "fin": 43,
-      "pas": 59,
-      "dri": 48,
-      "def": 83,
-      "fis": 77
+      "vel": 61,
+      "fin": 44,
+      "pas": 61,
+      "dri": 49,
+      "def": 85,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-costa-rica-2014-michael-umana",
     "team": "Costa Rica",
@@ -627,16 +627,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 83,
-      "fin": 52,
-      "pas": 74,
-      "dri": 78,
-      "def": 75,
-      "fis": 74
+      "vel": 85,
+      "fin": 53,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-costa-rica-2014-junior-diaz",
     "team": "Costa Rica",
@@ -649,16 +649,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 67,
-      "fin": 57,
-      "pas": 80,
-      "dri": 69,
-      "def": 79,
-      "fis": 72
+      "vel": 69,
+      "fin": 58,
+      "pas": 82,
+      "dri": 71,
+      "def": 81,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-costa-rica-2014-yeltsin-tejeda",
     "team": "Costa Rica",
@@ -671,16 +671,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 74,
-      "fin": 71,
-      "pas": 82,
-      "dri": 81,
-      "def": 61,
-      "fis": 71
+      "vel": 76,
+      "fin": 73,
+      "pas": 84,
+      "dri": 83,
+      "def": 63,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-costa-rica-2014-celso-borges",
     "team": "Costa Rica",
@@ -693,16 +693,16 @@
       "MD",
       "MEI"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 79,
-      "fin": 71,
-      "pas": 73,
-      "dri": 79,
-      "def": 54,
-      "fis": 67
+      "vel": 81,
+      "fin": 73,
+      "pas": 75,
+      "dri": 81,
+      "def": 55,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-costa-rica-2014-christian-bolanos",
     "team": "Costa Rica",
@@ -715,16 +715,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 76,
-      "fin": 78,
-      "pas": 89,
-      "dri": 84,
-      "def": 44,
-      "fis": 66
+      "vel": 78,
+      "fin": 80,
+      "pas": 91,
+      "dri": 86,
+      "def": 45,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-costa-rica-2014-bryan-ruiz",
     "team": "Costa Rica",
@@ -737,16 +737,16 @@
       "ATA",
       "PD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 75,
-      "fin": 84,
-      "pas": 65,
-      "dri": 74,
-      "def": 38,
-      "fis": 76
+      "vel": 77,
+      "fin": 86,
+      "pas": 67,
+      "dri": 76,
+      "def": 39,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-costa-rica-2014-joel-campbell",
     "team": "Costa Rica",
@@ -758,22 +758,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 65,
-      "dri": 40,
+      "pas": 67,
+      "dri": 41,
       "def": 20,
-      "fis": 76,
-      "ref": 85,
-      "han": 81,
-      "pos": 82,
-      "div": 83,
-      "kic": 68,
-      "one": 80
+      "fis": 78,
+      "ref": 87,
+      "han": 83,
+      "pos": 84,
+      "div": 85,
+      "kic": 70,
+      "one": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-colombia-2014-david-ospina",
     "team": "Colômbia",
@@ -786,16 +786,16 @@
       "LD",
       "MD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 83,
-      "fin": 58,
-      "pas": 74,
-      "dri": 78,
-      "def": 75,
-      "fis": 74
+      "vel": 85,
+      "fin": 59,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-colombia-2014-camilo-zuniga",
     "team": "Colômbia",
@@ -807,16 +807,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 62,
-      "fin": 46,
-      "pas": 62,
-      "dri": 51,
-      "def": 79,
-      "fis": 80
+      "vel": 64,
+      "fin": 47,
+      "pas": 64,
+      "dri": 52,
+      "def": 81,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-colombia-2014-cristian-zapata",
     "team": "Colômbia",
@@ -828,16 +828,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 66,
-      "fin": 43,
-      "pas": 66,
-      "dri": 55,
-      "def": 83,
-      "fis": 84
+      "vel": 68,
+      "fin": 44,
+      "pas": 68,
+      "dri": 56,
+      "def": 85,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-colombia-2014-mario-yepes",
     "team": "Colômbia",
@@ -850,16 +850,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 86,
-      "fin": 55,
-      "pas": 77,
-      "dri": 74,
-      "def": 78,
-      "fis": 71
+      "vel": 88,
+      "fin": 56,
+      "pas": 79,
+      "dri": 76,
+      "def": 80,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-colombia-2014-pablo-armero",
     "team": "Colômbia",
@@ -871,16 +871,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 56,
-      "pas": 79,
-      "dri": 75,
-      "def": 78,
-      "fis": 78
+      "vel": 74,
+      "fin": 57,
+      "pas": 81,
+      "dri": 77,
+      "def": 80,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-colombia-2014-carlos-sanchez",
     "team": "Colômbia",
@@ -893,16 +893,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 70,
-      "fin": 67,
-      "pas": 85,
-      "dri": 77,
-      "def": 64,
-      "fis": 68
+      "vel": 72,
+      "fin": 69,
+      "pas": 87,
+      "dri": 79,
+      "def": 66,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-colombia-2014-abel-aguilar",
     "team": "Colômbia",
@@ -915,16 +915,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 87,
-      "fin": 85,
-      "pas": 77,
-      "dri": 88,
-      "def": 42,
-      "fis": 70
+      "vel": 89,
+      "fin": 87,
+      "pas": 79,
+      "dri": 90,
+      "def": 43,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-colombia-2014-juan-cuadrado",
     "team": "Colômbia",
@@ -937,16 +937,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 85,
-      "fin": 80,
-      "pas": 91,
-      "dri": 86,
-      "def": 47,
-      "fis": 75
+      "vel": 87,
+      "fin": 82,
+      "pas": 93,
+      "dri": 88,
+      "def": 48,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-colombia-2014-james-rodriguez",
     "team": "Colômbia",
@@ -959,16 +959,16 @@
       "PE",
       "ATA"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 76,
-      "pas": 75,
-      "dri": 79,
-      "def": 33,
-      "fis": 61
+      "vel": 80,
+      "fin": 78,
+      "pas": 77,
+      "dri": 81,
+      "def": 34,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-colombia-2014-victor-ibarbo",
     "team": "Colômbia",
@@ -980,16 +980,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 77,
-      "fin": 79,
-      "pas": 67,
-      "dri": 70,
-      "def": 33,
-      "fis": 78
+      "vel": 79,
+      "fin": 81,
+      "pas": 69,
+      "dri": 72,
+      "def": 34,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-colombia-2014-teofilo-gutierrez",
     "team": "Colômbia",
@@ -1001,22 +1001,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 64,
-      "dri": 39,
-      "def": 25,
-      "fis": 76,
-      "ref": 87,
-      "han": 83,
-      "pos": 84,
-      "div": 85,
-      "kic": 70,
-      "one": 82
+      "pas": 66,
+      "dri": 40,
+      "def": 26,
+      "fis": 78,
+      "ref": 89,
+      "han": 85,
+      "pos": 86,
+      "div": 87,
+      "kic": 72,
+      "one": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-argelia-2014-rais-m-bolhi",
     "team": "Argélia",
@@ -1029,16 +1029,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 81,
-      "fin": 50,
-      "pas": 72,
-      "dri": 76,
-      "def": 73,
-      "fis": 72
+      "vel": 83,
+      "fin": 51,
+      "pas": 74,
+      "dri": 78,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-argelia-2014-aissa-mandi",
     "team": "Argélia",
@@ -1050,16 +1050,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 62,
-      "fin": 46,
-      "pas": 62,
-      "dri": 51,
-      "def": 79,
-      "fis": 80
+      "vel": 64,
+      "fin": 47,
+      "pas": 64,
+      "dri": 52,
+      "def": 81,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-argelia-2014-rafik-halliche",
     "team": "Argélia",
@@ -1071,16 +1071,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 59,
-      "fin": 43,
-      "pas": 59,
-      "dri": 48,
-      "def": 76,
-      "fis": 77
+      "vel": 61,
+      "fin": 44,
+      "pas": 61,
+      "dri": 49,
+      "def": 78,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-argelia-2014-essaid-belkalem",
     "team": "Argélia",
@@ -1093,16 +1093,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 76,
-      "fin": 51,
-      "pas": 67,
-      "dri": 71,
-      "def": 68,
-      "fis": 67
+      "vel": 77,
+      "fin": 52,
+      "pas": 68,
+      "dri": 72,
+      "def": 69,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-argelia-2014-djamel-mesbah",
     "team": "Argélia",
@@ -1115,16 +1115,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 67,
-      "fin": 57,
-      "pas": 73,
-      "dri": 69,
-      "def": 79,
-      "fis": 72
+      "vel": 69,
+      "fin": 59,
+      "pas": 75,
+      "dri": 71,
+      "def": 81,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-argelia-2014-medhi-lacen",
     "team": "Argélia",
@@ -1137,16 +1137,16 @@
       "VOL",
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 69,
-      "fin": 53,
-      "pas": 76,
-      "dri": 66,
-      "def": 75,
-      "fis": 68
+      "vel": 70,
+      "fin": 54,
+      "pas": 77,
+      "dri": 67,
+      "def": 76,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-argelia-2014-mehdi-mostefa",
     "team": "Argélia",
@@ -1159,16 +1159,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 71,
-      "fin": 68,
-      "pas": 79,
-      "dri": 78,
-      "def": 58,
-      "fis": 68
+      "vel": 73,
+      "fin": 70,
+      "pas": 81,
+      "dri": 80,
+      "def": 60,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-argelia-2014-saphir-taider",
     "team": "Argélia",
@@ -1181,16 +1181,16 @@
       "PD",
       "MEI"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 89,
-      "fin": 80,
-      "pas": 79,
-      "dri": 83,
-      "def": 37,
-      "fis": 65
+      "vel": 91,
+      "fin": 82,
+      "pas": 81,
+      "dri": 85,
+      "def": 38,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-argelia-2014-sofiane-feghouli",
     "team": "Argélia",
@@ -1203,16 +1203,16 @@
       "MEI",
       "PE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 76,
-      "fin": 78,
-      "pas": 82,
-      "dri": 84,
-      "def": 38,
-      "fis": 66
+      "vel": 78,
+      "fin": 80,
+      "pas": 84,
+      "dri": 86,
+      "def": 39,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-argelia-2014-yacine-brahimi",
     "team": "Argélia",
@@ -1224,19 +1224,7924 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 81,
-      "fin": 83,
-      "pas": 71,
-      "dri": 74,
-      "def": 37,
-      "fis": 82
+      "vel": 83,
+      "fin": 85,
+      "pas": 73,
+      "dri": 76,
+      "def": 38,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-argelia-2014-islam-slimani",
     "team": "Argélia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Courtois",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-courtois",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mignolet",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-mignolet",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bossut",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-bossut",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Kompany",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-kompany",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Alderweireld",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-alderweireld",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vertonghen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-vertonghen",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vermaelen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-vermaelen",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Buyten",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-van-buyten",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lombaerts",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-lombaerts",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vanden Borre",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-vanden-borre",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ciman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-ciman",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Witsel",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-witsel",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "De Bruyne",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-de-bruyne",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fellaini",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-fellaini",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Dembélé",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-dembele",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Defour",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-defour",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Hazard",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-e-hazard",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lukaku",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-lukaku",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mertens",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-mertens",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mirallas",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-mirallas",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Chadli",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-chadli",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Januzaj",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-januzaj",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Origi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2014-origi",
+    "team": "Bélgica",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Júlio César",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-julio-cesar",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jefferson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-jefferson",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Victor",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-victor",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Thiago Silva",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-thiago-silva",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Alves",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-d-alves",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Marcelo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-marcelo",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "David Luiz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-david-luiz",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Dante",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-dante",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Maicon",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-maicon",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Maxwell",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-maxwell",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Henrique",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-henrique",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Oscar",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-oscar",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Gustavo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-l-gustavo",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fernandinho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-fernandinho",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Hernanes",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-hernanes",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Paulinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-paulinho",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramires",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-ramires",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Neymar",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-neymar",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Hulk",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-hulk",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Willian",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-willian",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bernard",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-bernard",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fred",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-fred",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jô",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2014-jo",
+    "team": "Brasil",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bravo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-bravo",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Herrera",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-herrera",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Toselli",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-toselli",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Medel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-medel",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Isla",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-isla",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mena",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-mena",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jara",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-jara",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Rojas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-rojas",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Albornoz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-albornoz",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vidal",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-vidal",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Aránguiz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-aranguiz",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Valdivia",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-valdivia",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Díaz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-m-diaz",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Beausejour",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-beausejour",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Carmona",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-carmona",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Orellana",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-orellana",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Silva",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-f-silva",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Gutiérrez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-f-gutierrez",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fuenzalida",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-fuenzalida",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Alexis",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-alexis",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vargas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-vargas",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Pinilla",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-pinilla",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Paredes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-chile-2014-paredes",
+    "team": "Chile",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Barry",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-barry",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gbohouo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-gbohouo",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mandé",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-mande",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Kolo Touré",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-kolo-toure",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Aurier",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-aurier",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Zokora",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-zokora",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Boka",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-boka",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bamba",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-bamba",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Djakpa",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-djakpa",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Akpa Akpro",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-akpa-akpro",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Viera",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-viera",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Yaya Touré",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-yaya-toure",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Tioté",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-tiote",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Serey Dié",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-serey-die",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Diomandé",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-diomande",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Drogba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-drogba",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bony",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-bony",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gervinho",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-gervinho",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Kalou",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-kalou",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gradel",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-gradel",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ya Konan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-ya-konan",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-sio",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bolly",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2014-bolly",
+    "team": "Costa do Marfim",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Casillas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-casillas",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "De Gea",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-de-gea",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Reina",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-reina",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-ramos",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Piqué",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-pique",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jordi Alba",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-jordi-alba",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Azpilicueta",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-azpilicueta",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Albiol",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-albiol",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Juanfran",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-juanfran",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Iniesta",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-iniesta",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Silva",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-d-silva",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Xabi Alonso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-xabi-alonso",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Busquets",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-busquets",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Xavi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-xavi",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fàbregas",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-fabregas",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mata",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-mata",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Javi Martínez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-javi-martinez",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cazorla",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-cazorla",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Koke",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-koke",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Costa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-d-costa",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Villa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-villa",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Pedro",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-pedro",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Torres",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2014-torres",
+    "team": "Espanha",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lloris",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-lloris",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ruffier",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-ruffier",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Landreau",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-landreau",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Varane",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-varane",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Evra",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-evra",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Koscielny",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-koscielny",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sakho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-sakho",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sagna",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-sagna",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Debuchy",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-debuchy",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mangala",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-mangala",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Digne",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-digne",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Pogba",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-pogba",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Matuidi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-matuidi",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cabaye",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-cabaye",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Valbuena",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-valbuena",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sissoko",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-sissoko",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Schneiderlin",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-schneiderlin",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mavuba",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-mavuba",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Benzema",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-benzema",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Giroud",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-giroud",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Griezmann",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-griezmann",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Rémy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2014-remy",
+    "team": "França",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Dauda",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-dauda",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Kwarasey",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-kwarasey",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Adams",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-adams",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Boye",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-boye",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Afful",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-afful",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jo. Mensah",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-jo-mensah",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Opare",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-opare",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Inkoom",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-inkoom",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sumaila",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-sumaila",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Asamoah",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-k-asamoah",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "K-P. Boateng",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-k-p-boateng",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Essien",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-essien",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Muntari",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-muntari",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Wakaso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-wakaso",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Badu",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-badu",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Acquah",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-acquah",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Rabiu",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-rabiu",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Ayew",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-a-ayew",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gyan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-gyan",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Atsu",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-atsu",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Ayew",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-j-ayew",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Waris",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-gana-2014-waris",
+    "team": "Gana",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Karnezis",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-karnezis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Glykos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-glykos",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Kapino",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-kapino",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sokratis",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-sokratis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Manolas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-manolas",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Torosidis",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-torosidis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Tzavellas",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-tzavellas",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Holebas",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-holebas",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vyntra",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-vyntra",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Moras",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-moras",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Karagounis",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-karagounis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Katsouranis",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-katsouranis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Samaris",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-samaris",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Maniatis",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-maniatis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Kone",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-kone",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Tziolis",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-tziolis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Christodoulopoulos",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-christodoulopoulos",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Tachtsidis",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-tachtsidis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Samaras",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-samaras",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mitroglou",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-mitroglou",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Salpingidis",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-salpingidis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gekas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-gekas",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fetfatzidis",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-grecia-2014-fetfatzidis",
+    "team": "Grécia",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Buffon",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-buffon",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sirigu",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-sirigu",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Perin",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-perin",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Chiellini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-chiellini",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Barzagli",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-barzagli",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bonucci",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-bonucci",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "De Sciglio",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-de-sciglio",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Abate",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-abate",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Darmian",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-darmian",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Astori",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-astori",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Paletta",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-paletta",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Pirlo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-pirlo",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Marchisio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-marchisio",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "De Rossi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-de-rossi",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Verratti",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-verratti",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Motta",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-t-motta",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cassano",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-cassano",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Candreva",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-candreva",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Parolo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-parolo",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Balotelli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-balotelli",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Insigne",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-insigne",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cerci",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-cerci",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Immobile",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-2014-immobile",
+    "team": "Itália",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ochoa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-ochoa",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Corona",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-corona",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Talavera",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-talavera",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Márquez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-marquez",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Moreno",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-moreno",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Layun",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-layun",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Aguilar",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-aguilar",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Rodríguez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-f-rodriguez",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Salcido",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-salcido",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Reyes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-reyes",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ponce",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-ponce",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Herrera",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-herrera",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "G. dos Santos",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-g-dos-santos",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Guardado",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-guardado",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vazquez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-vazquez",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fabian",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-fabian",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Pena",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-pena",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Hernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-j-hernandez",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Peralta",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-peralta",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jiménez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-jimenez",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Aquino",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-aquino",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Pulido",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-pulido",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Brizuela",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2014-brizuela",
+    "team": "México",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cillessen",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-cillessen",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Krul",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-krul",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vorm",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-vorm",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "De Vrij",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-de-vrij",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Blind",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-blind",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vlaar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-vlaar",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Janmaat",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-janmaat",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Martins Indi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-martins-indi",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Veltman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-veltman",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Verhaegh",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-verhaegh",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sneijder",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-sneijder",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "De Jong",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-de-jong",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Wijnaldum",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-wijnaldum",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Kuyt",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-kuyt",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "De Guzman",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-de-guzman",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fer",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-fer",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Clasie",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-clasie",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Robben",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-robben",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Persie",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-van-persie",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Huntelaar",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-huntelaar",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Depay",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-depay",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lens",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2014-lens",
+    "team": "Países Baixos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Enyeama",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-enyeama",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ejide",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-ejide",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Agbim",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-agbim",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Yobo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-yobo",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ambrose",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-ambrose",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Omeruo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-omeruo",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Oboabona",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-oboabona",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Egwuekwe",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-egwuekwe",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Oshaniwa",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-oshaniwa",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Odunlami",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-odunlami",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mikel",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-mikel",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Onazi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-onazi",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Uzoenyi",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-uzoenyi",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gabriel",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-gabriel",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Babatunde",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-babatunde",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Musa",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-musa",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Moses",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-moses",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Emenike",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-emenike",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Odemwingie",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-odemwingie",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ameobi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-ameobi",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Nwofor",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-nwofor",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Uchebo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-nigeria-2014-uchebo",
+    "team": "Nigéria",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Rui Patrício",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-rui-patricio",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Eduardo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-eduardo",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Beto",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-beto",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Pepe",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-pepe",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Coentrão",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-coentrao",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bruno Alves",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-bruno-alves",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "João Pereira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-joao-pereira",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ricardo Costa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-ricardo-costa",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Luís Neto",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-luis-neto",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "André Almeida",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-andre-almeida",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Moutinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-moutinho",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "William Carvalho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-william-carvalho",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Meireles",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-meireles",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Miguel Veloso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-miguel-veloso",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Rafa Silva",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-rafa-silva",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Amorim",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-amorim",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Vieirinha",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-vieirinha",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-cristiano-ronaldo",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Nani",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-nani",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Hugo Almeida",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-hugo-almeida",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Postiga",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-postiga",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Varela",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-varela",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Éder",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2014-eder",
+    "team": "Portugal",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Benaglio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-benaglio",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Sommer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-sommer",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bürki",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-burki",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lichtsteiner",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-lichtsteiner",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Rodríguez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-r-rodriguez",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Schär",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-schar",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Senderos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-senderos",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Djourou",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-djourou",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "von Bergen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-von-bergen",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Ziegler",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-ziegler",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lang",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-lang",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Inler",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-inler",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Xhaka",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-xhaka",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Barnetta",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-barnetta",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Behrami",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-behrami",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Džemaili",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-dzemaili",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Fernandes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-g-fernandes",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Shaqiri",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-shaqiri",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Drmić",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-drmic",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Seferović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-seferovic",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Mehmedi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-mehmedi",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Stocker",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-stocker",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gavranović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2014-gavranovic",
+    "team": "Suíça",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Muslera",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-muslera",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Muñoz",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-r-munoz",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Godín",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-godin",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lugano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-lugano",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Maxi Pereira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-maxi-pereira",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cáceres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-caceres",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Á. Pereira",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-a-pereira",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fucile",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-fucile",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Giménez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-gimenez",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Coates",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-coates",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Arévalo Ríos",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-arevalo-rios",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Rodríguez",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-c-rodriguez",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Pérez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-d-perez",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Ramírez",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-g-ramirez",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Gargano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-gargano",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Lodeiro",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-lodeiro",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "A. González",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-a-gonzalez",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Suárez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-suarez",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cavani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-cavani",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Forlán",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-forlan",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Hernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-a-hernandez",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Stuani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2014-stuani",
+    "team": "Uruguai",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Howard",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-howard",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Guzan",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-guzan",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Rimando",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-rimando",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Besler",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-besler",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Fabian Johnson",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-fabian-johnson",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Omar Gonzalez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-omar-gonzalez",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Beasley",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-beasley",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Cameron",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-cameron",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Brooks",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-brooks",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Yedlin",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-yedlin",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Chandler",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-chandler",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Dempsey",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-dempsey",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bradley",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-bradley",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jermaine Jones",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-jermaine-jones",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Zusi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-zusi",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Bedoya",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-bedoya",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Beckerman",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-beckerman",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Diskerud",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-diskerud",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Brad Davis",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-brad-davis",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Altidore",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-altidore",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Jóhannsson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-johannsson",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Wondolowski",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-wondolowski",
+    "team": "Estados Unidos",
+    "year": 2014,
+    "comp": "wc"
+  },
+  {
+    "name": "Green",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2014-green",
+    "team": "Estados Unidos",
     "year": 2014,
     "comp": "wc"
   }

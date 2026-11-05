@@ -45,5 +45,30 @@
       "lib-river-plate-1996-marcelo-escudero",
       "lib-river-plate-1996-gabriel-cedres"
     ]
+  },
+  {
+    "name": "América de Cali",
+    "year": 1996,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1996_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-america-de-cali-1996-oscar-cordoba",
+      "lib-america-de-cali-1996-james-cardona",
+      "lib-america-de-cali-1996-jorge-bermudez",
+      "lib-america-de-cali-1996-carlos-asprilla",
+      "lib-america-de-cali-1996-foad-maziri",
+      "lib-america-de-cali-1996-wilmer-cabrera",
+      "lib-america-de-cali-1996-alfredo-berti",
+      "lib-america-de-cali-1996-alex-escobar",
+      "lib-america-de-cali-1996-frankie-oviedo",
+      "lib-america-de-cali-1996-henry-zambrano",
+      "lib-america-de-cali-1996-antony-de-avila",
+      "lib-america-de-cali-1996-giovanni-hernandez",
+      "lib-america-de-cali-1996-ricardo-perez"
+    ]
   }
 ]

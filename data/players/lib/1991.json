@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 44,
+      "vel": 45,
       "fin": 14,
-      "pas": 58,
-      "dri": 22,
+      "pas": 59,
+      "dri": 23,
       "def": 20,
-      "fis": 74,
-      "ref": 83,
-      "han": 79,
-      "pos": 81,
-      "div": 82,
-      "kic": 70,
-      "one": 81
+      "fis": 76,
+      "ref": 85,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 72,
+      "one": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-colo-colo-1991-daniel-moron",
     "team": "Colo-Colo",
@@ -31,16 +31,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 57,
-      "fin": 31,
-      "pas": 58,
-      "dri": 46,
-      "def": 80,
-      "fis": 79
+      "vel": 58,
+      "fin": 32,
+      "pas": 59,
+      "dri": 47,
+      "def": 82,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-colo-colo-1991-lizardo-garrido",
     "team": "Colo-Colo",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 56,
-      "fin": 30,
-      "pas": 57,
-      "dri": 41,
-      "def": 79,
-      "fis": 82
+      "vel": 57,
+      "fin": 31,
+      "pas": 58,
+      "dri": 42,
+      "def": 81,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-colo-colo-1991-miguel-ramirez",
     "team": "Colo-Colo",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 58,
-      "fin": 30,
-      "pas": 59,
-      "dri": 45,
-      "def": 80,
-      "fis": 78
+      "vel": 59,
+      "fin": 31,
+      "pas": 60,
+      "dri": 46,
+      "def": 82,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-colo-colo-1991-javier-margas",
     "team": "Colo-Colo",
@@ -94,16 +94,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 59,
-      "fin": 44,
-      "pas": 73,
-      "dri": 65,
-      "def": 74,
-      "fis": 77
+      "vel": 60,
+      "fin": 45,
+      "pas": 75,
+      "dri": 67,
+      "def": 76,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-colo-colo-1991-eduardo-vilches",
     "team": "Colo-Colo",
@@ -115,16 +115,16 @@
     "positions": [
       "ME"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 75,
-      "fin": 59,
-      "pas": 75,
-      "dri": 75,
-      "def": 56,
-      "fis": 69
+      "vel": 77,
+      "fin": 60,
+      "pas": 77,
+      "dri": 77,
+      "def": 57,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-colo-colo-1991-ruben-espinoza",
     "team": "Colo-Colo",
@@ -136,16 +136,16 @@
     "positions": [
       "MD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 79,
-      "fin": 62,
-      "pas": 79,
-      "dri": 77,
-      "def": 60,
-      "fis": 70
+      "vel": 81,
+      "fin": 64,
+      "pas": 81,
+      "dri": 79,
+      "def": 61,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-colo-colo-1991-gabriel-mendoza",
     "team": "Colo-Colo",
@@ -157,16 +157,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 59,
-      "fin": 54,
-      "pas": 74,
-      "dri": 70,
-      "def": 55,
-      "fis": 64
+      "vel": 60,
+      "fin": 55,
+      "pas": 75,
+      "dri": 71,
+      "def": 56,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-colo-colo-1991-juan-carlos-peralta",
     "team": "Colo-Colo",
@@ -178,16 +178,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 69,
-      "fin": 63,
-      "pas": 83,
-      "dri": 78,
-      "def": 64,
-      "fis": 72
+      "vel": 71,
+      "fin": 65,
+      "pas": 85,
+      "dri": 80,
+      "def": 66,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-colo-colo-1991-jaime-pizarro",
     "team": "Colo-Colo",
@@ -199,16 +199,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 82,
-      "pas": 59,
-      "dri": 68,
-      "def": 25,
-      "fis": 76
+      "vel": 74,
+      "fin": 84,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-colo-colo-1991-luis-perez",
     "team": "Colo-Colo",
@@ -220,16 +220,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 84,
-      "fin": 74,
-      "pas": 75,
-      "dri": 87,
-      "def": 36,
-      "fis": 63
+      "vel": 86,
+      "fin": 76,
+      "pas": 77,
+      "dri": 89,
+      "def": 37,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-colo-colo-1991-marcelo-barticciotto",
     "team": "Colo-Colo",
@@ -241,16 +241,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 77,
-      "fin": 89,
-      "pas": 63,
-      "dri": 74,
-      "def": 33,
-      "fis": 81
+      "vel": 79,
+      "fin": 91,
+      "pas": 65,
+      "dri": 76,
+      "def": 34,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-colo-colo-1991-ruben-martinez",
     "team": "Colo-Colo",
@@ -262,19 +262,285 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 71,
-      "fin": 80,
-      "pas": 59,
-      "dri": 69,
-      "def": 28,
-      "fis": 74
+      "vel": 73,
+      "fin": 82,
+      "pas": 61,
+      "dri": 71,
+      "def": 29,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-colo-colo-1991-leonel-herrera",
     "team": "Colo-Colo",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Battaglia",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-jorge-battaglia",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Virginio Cáceres",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-virginio-caceres",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Remigio Fernández",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-remigio-fernandez",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "César Castro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-cesar-castro",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Silvio Suárez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-silvio-suarez",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Fermín Balbuena",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-fermin-balbuena",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Guasch",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-jorge-guasch",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Monzón",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-luis-monzon",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Carlos Guirland",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-carlos-guirland",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Adriano Samaniego",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-adriano-samaniego",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Gabriel González",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-gabriel-gonzalez",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Cristóbal Cubilla",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 75,
+      "fin": 83,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 78
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-cristobal-cubilla",
+    "team": "Olimpia",
+    "year": 1991,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Villalba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 76,
+      "fin": 84,
+      "pas": 81,
+      "dri": 78,
+      "def": 48,
+      "fis": 79
+    },
+    "ratingRevision": 6,
+    "id": "lib-olimpia-1991-jorge-villalba",
+    "team": "Olimpia",
     "year": 1991,
     "comp": "lib"
   }

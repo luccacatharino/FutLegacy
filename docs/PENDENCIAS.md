@@ -2,14 +2,14 @@
 
 ## Entregue e auditado
 
-- 166 elencos, 2387 cartas; 100 elencos campeões (54 Libertadores e 46 Champions). Nenhum clube campeão obrigatório ausente.
+- 488 elencos, 8894 cartas; 100 elencos campeões (54 Libertadores e 46 Champions). Nenhum clube campeão obrigatório ausente.
 - 8 formações, ordenação dinâmica, filtros, sorteio sem reposição inclusive rerolls, 3 modos ativos. Brasileirão removido a pedido.
 - Clubes, atletas e temporadas referenciados. Campeonatos do jogo misturam temporadas e são fictícios.
 
 ## Dados que ainda precisam de expansão ou revisão
 
-- Nenhum recorte é anunciado como lista integral de inscritos. 103 elencos têm menos de 16 atletas; todos têm ao menos onze e permitem draft funcional. Os demais também podem ter reservas de campanha fora do recorte.
-- Copa: 63 seleções/edições, 32 seleções e 19 Copas entre 1950 e 2022. Faltam elencos de 2026 e expansão das listas de reservas da maioria das seleções.
+- Nenhum recorte é anunciado como lista integral de inscritos. 165 elencos têm menos de 16 atletas; todos têm ao menos onze e permitem draft funcional. Os demais também podem ter reservas de campanha fora do recorte.
+- Copa: 299 seleções/edições, 55 seleções e 20 Copas entre 1950 e 2026. Três fichas do acervo referenciado aguardam desambiguação de nomes; veja cup-import-report.json. Novas notas individuais são provisórias.
 - Os OVR são notas editoriais por temporada/competição, não dados oficiais. Os atributos da maioria das seleções da Copa usam perfis posicionais estimados; a revisão individual ainda não está completa.
 - Identificadores normalizados por nome ainda precisam de reconciliação integral de apelidos e homônimos. A contagem de nomes únicos não equivale a um censo definitivo de pessoas.
 - Escudos podem usar a identidade atual; não reproduzem necessariamente a variante histórica da temporada.
@@ -49,6 +49,55 @@
 - Libertadores · Grêmio 1995 — 14
 - Libertadores · Cruzeiro 1997 — 12
 - Libertadores · Athletico-PR 2022 — 11
+- Libertadores · Olimpia 1960 — 11
+- Libertadores · Peñarol 1962 — 11
+- Libertadores · Boca Juniors 1963 — 12
+- Libertadores · River Plate 1966 — 12
+- Libertadores · Nacional 1967 — 11
+- Libertadores · Palmeiras 1968 — 11
+- Libertadores · Estudiantes 1971 — 12
+- Libertadores · Colo-Colo 1973 — 13
+- Libertadores · River Plate 1976 — 11
+- Libertadores · Deportivo Cali 1978 — 13
+- Libertadores · Boca Juniors 1979 — 12
+- Libertadores · Internacional 1980 — 12
+- Libertadores · Cobreloa 1981 — 12
+- Libertadores · Cobreloa 1982 — 13
+- Libertadores · Peñarol 1983 — 12
+- Libertadores · América de Cali 1986 — 13
+- Libertadores · Newell’s Old Boys 1988 — 13
+- Libertadores · Olimpia 1989 — 13
+- Libertadores · Barcelona de Guayaquil 1990 — 13
+- Libertadores · Olimpia 1991 — 13
+- Libertadores · Newell’s Old Boys 1992 — 13
+- Libertadores · Universidad Católica 1993 — 11
+- Libertadores · São Paulo 1994 — 11
+- Libertadores · Atlético Nacional 1995 — 12
+- Libertadores · América de Cali 1996 — 13
+- Libertadores · Sporting Cristal 1997 — 14
+- Libertadores · Barcelona de Guayaquil 1998 — 11
+- Libertadores · Deportivo Cali 1999 — 11
+- Libertadores · Palmeiras 2000 — 11
+- Libertadores · São Caetano 2002 — 11
+- Libertadores · Santos 2003 — 11
+- Libertadores · Boca Juniors 2004 — 11
+- Libertadores · Athletico-PR 2005 — 11
+- Libertadores · São Paulo 2006 — 11
+- Libertadores · Fluminense 2008 — 11
+- Libertadores · Cruzeiro 2009 — 11
+- Libertadores · Guadalajara 2010 — 11
+- Libertadores · Peñarol 2011 — 11
+- Libertadores · Boca Juniors 2012 — 11
+- Libertadores · Olimpia 2013 — 11
+- Libertadores · Nacional de Asunción 2014 — 11
+- Libertadores · Independiente del Valle 2016 — 11
+- Libertadores · Lanús 2017 — 11
+- Libertadores · Boca Juniors 2018 — 11
+- Libertadores · River Plate 2019 — 11
+- Libertadores · Santos 2020 — 11
+- Libertadores · Flamengo 2021 — 11
+- Libertadores · Boca Juniors 2023 — 11
+- Libertadores · Atlético-MG 2024 — 11
 - Champions League · Real Madrid 1960 — 11
 - Champions League · Bayern 1974 — 12
 - Champions League · Ajax 1971 — 15
@@ -63,6 +112,19 @@
 - Champions League · Steaua Bucareste 1986 — 13
 - Champions League · Inter 2023 — 11
 - Champions League · Manchester United 2011 — 11
+- Champions League · Eintracht Frankfurt 1960 — 11
+- Champions League · Real Madrid 1962 — 11
+- Champions League · Real Madrid 1964 — 11
+- Champions League · Benfica 1965 — 11
+- Champions League · Inter 1967 — 12
+- Champions League · Atlético de Madrid 1974 — 13
+- Champions League · Borussia Mönchengladbach 1977 — 13
+- Champions League · Malmö 1979 — 15
+- Champions League · Hamburgo 1980 — 12
+- Champions League · Juventus 1983 — 12
+- Champions League · Barcelona 1986 — 13
+- Champions League · Liverpool 2007 — 11
+- Champions League · Bayern 2010 — 11
 - Copa do Mundo · Uruguai 1950 — 11
 - Copa do Mundo · Brasil 1950 — 11
 - Copa do Mundo · Alemanha 1954 — 11

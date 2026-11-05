@@ -41,5 +41,33 @@
       "ucl-milan-1994-stefano-nava",
       "ucl-milan-1994-mario-ielpo"
     ]
+  },
+  {
+    "name": "Barcelona",
+    "year": 1994,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1994_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-barcelona-1994-andoni-zubizarreta",
+      "ucl-barcelona-1994-albert-ferrer",
+      "ucl-barcelona-1994-pep-guardiola",
+      "ucl-barcelona-1994-ronald-koeman",
+      "ucl-barcelona-1994-miguel-angel-nadal",
+      "ucl-barcelona-1994-jose-mari-bakero",
+      "ucl-barcelona-1994-sergi-barjuan",
+      "ucl-barcelona-1994-hristo-stoichkov",
+      "ucl-barcelona-1994-guillermo-amor",
+      "ucl-barcelona-1994-romario",
+      "ucl-barcelona-1994-txiki-begiristain",
+      "ucl-barcelona-1994-juan-carlos",
+      "ucl-barcelona-1994-carles-busquets",
+      "ucl-barcelona-1994-eusebio-sacristan",
+      "ucl-barcelona-1994-jon-andoni-goikoetxea",
+      "ucl-barcelona-1994-quique-estebaranz"
+    ]
   }
 ]

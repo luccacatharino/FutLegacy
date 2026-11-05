@@ -49,5 +49,28 @@
       "lib-internacional-2010-tinga",
       "lib-internacional-2010-leandro-damiao"
     ]
+  },
+  {
+    "name": "Guadalajara",
+    "year": 2010,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2010_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-guadalajara-2010-luis-ernesto-michel",
+      "lib-guadalajara-2010-jonny-magallon",
+      "lib-guadalajara-2010-hector-reynoso",
+      "lib-guadalajara-2010-mario-de-luna",
+      "lib-guadalajara-2010-miguel-angel-ponce",
+      "lib-guadalajara-2010-edgar-mejia",
+      "lib-guadalajara-2010-xavier-baez",
+      "lib-guadalajara-2010-omar-arellano",
+      "lib-guadalajara-2010-adolfo-bautista",
+      "lib-guadalajara-2010-marco-fabian",
+      "lib-guadalajara-2010-omar-bravo"
+    ]
   }
 ]

@@ -4,16 +4,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 93,
-      "fin": 87,
-      "pas": 82,
-      "dri": 92,
-      "def": 46,
-      "fis": 75
+      "vel": 95,
+      "fin": 89,
+      "pas": 84,
+      "dri": 94,
+      "def": 47,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "ucl-celtic-1967-jimmy-johnstone",
     "team": "Celtic",
@@ -25,16 +25,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 90,
-      "fin": 87,
-      "pas": 81,
-      "dri": 87,
-      "def": 41,
-      "fis": 70
+      "vel": 92,
+      "fin": 89,
+      "pas": 83,
+      "dri": 89,
+      "def": 42,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "ucl-celtic-1967-bobby-lennox",
     "team": "Celtic",
@@ -46,16 +46,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 67,
-      "fin": 39,
-      "pas": 66,
-      "dri": 57,
-      "def": 88,
-      "fis": 88
+      "vel": 69,
+      "fin": 40,
+      "pas": 68,
+      "dri": 58,
+      "def": 90,
+      "fis": 90
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "ucl-celtic-1967-billy-mcneill",
     "team": "Celtic",
@@ -67,16 +67,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 76,
-      "fin": 74,
-      "pas": 90,
-      "dri": 80,
-      "def": 69,
-      "fis": 76
+      "vel": 78,
+      "fin": 76,
+      "pas": 92,
+      "dri": 82,
+      "def": 71,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "ucl-celtic-1967-bobby-murdoch",
     "team": "Celtic",
@@ -88,16 +88,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 83,
-      "fin": 55,
-      "pas": 76,
-      "dri": 77,
-      "def": 76,
-      "fis": 75
+      "vel": 85,
+      "fin": 56,
+      "pas": 78,
+      "dri": 79,
+      "def": 78,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "ucl-celtic-1967-tommy-gemmell",
     "team": "Celtic",
@@ -109,16 +109,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 79,
-      "fin": 87,
-      "pas": 67,
-      "dri": 79,
-      "def": 40,
-      "fis": 78
+      "vel": 81,
+      "fin": 89,
+      "pas": 69,
+      "dri": 81,
+      "def": 41,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-celtic-1967-stevie-chalmers",
     "team": "Celtic",
@@ -130,16 +130,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 74,
-      "fin": 72,
-      "pas": 83,
-      "dri": 78,
-      "def": 67,
-      "fis": 74
+      "vel": 76,
+      "fin": 74,
+      "pas": 85,
+      "dri": 80,
+      "def": 69,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "ucl-celtic-1967-bertie-auld",
     "team": "Celtic",
@@ -151,16 +151,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 79,
-      "fin": 87,
-      "pas": 67,
-      "dri": 79,
-      "def": 35,
-      "fis": 78
+      "vel": 81,
+      "fin": 89,
+      "pas": 69,
+      "dri": 81,
+      "def": 36,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "ucl-celtic-1967-willie-wallace",
     "team": "Celtic",
@@ -172,22 +172,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 37,
+      "vel": 38,
       "fin": 11,
-      "pas": 54,
-      "dri": 25,
+      "pas": 55,
+      "dri": 26,
       "def": 17,
-      "fis": 72,
-      "ref": 80,
-      "han": 79,
-      "pos": 81,
-      "div": 82,
-      "kic": 63,
-      "one": 80
+      "fis": 74,
+      "ref": 82,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 65,
+      "one": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-celtic-1967-ronnie-simpson",
     "team": "Celtic",
@@ -199,16 +199,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 58,
-      "fin": 35,
-      "pas": 62,
-      "dri": 53,
-      "def": 84,
-      "fis": 79
+      "vel": 59,
+      "fin": 36,
+      "pas": 64,
+      "dri": 54,
+      "def": 86,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-celtic-1967-john-clark",
     "team": "Celtic",
@@ -220,16 +220,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 78,
-      "fin": 50,
-      "pas": 67,
-      "dri": 68,
-      "def": 70,
-      "fis": 69
+      "vel": 80,
+      "fin": 51,
+      "pas": 69,
+      "dri": 70,
+      "def": 72,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "ucl-celtic-1967-jim-craig",
     "team": "Celtic",
@@ -241,25 +241,277 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 36,
+      "vel": 37,
       "fin": 11,
-      "pas": 45,
+      "pas": 46,
       "dri": 25,
       "def": 17,
-      "fis": 63,
-      "ref": 71,
-      "han": 70,
-      "pos": 72,
-      "div": 73,
-      "kic": 54,
-      "one": 71
+      "fis": 64,
+      "ref": 72,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 55,
+      "one": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "ucl-celtic-1967-john-fallon",
     "team": "Celtic",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Giuliano Sarti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84,
+      "ref": 88,
+      "han": 86,
+      "pos": 86,
+      "div": 87,
+      "kic": 78,
+      "one": 86
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-giuliano-sarti",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Armando Picchi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-armando-picchi",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Tarcisio Burgnich",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-tarcisio-burgnich",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Aristide Guarneri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 88,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-aristide-guarneri",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Giacinto Facchetti",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 87,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-giacinto-facchetti",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Gianfranco Bedin",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-gianfranco-bedin",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Sandro Mazzola",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 68,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-sandro-mazzola",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mauro Bicicli",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-mauro-bicicli",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Angelo Domenghini",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-angelo-domenghini",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Renato Cappellini",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 86,
+    "attrs": {
+      "vel": 81,
+      "fin": 89,
+      "pas": 86,
+      "dri": 83,
+      "def": 53,
+      "fis": 84
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-renato-cappellini",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Mario Corso",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 85,
+    "attrs": {
+      "vel": 80,
+      "fin": 67,
+      "pas": 85,
+      "dri": 82,
+      "def": 52,
+      "fis": 83
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-mario-corso",
+    "team": "Inter",
+    "year": 1967,
+    "comp": "ucl"
+  },
+  {
+    "name": "Ferdinando Miniussi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 82,
+    "attrs": {
+      "vel": 77,
+      "fin": 64,
+      "pas": 82,
+      "dri": 79,
+      "def": 49,
+      "fis": 80,
+      "ref": 84,
+      "han": 82,
+      "pos": 82,
+      "div": 83,
+      "kic": 74,
+      "one": 82
+    },
+    "ratingRevision": 6,
+    "id": "ucl-inter-1967-ferdinando-miniussi",
+    "team": "Inter",
     "year": 1967,
     "comp": "ucl"
   }

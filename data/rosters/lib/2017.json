@@ -48,5 +48,28 @@
       "lib-gremio-2017-jael",
       "lib-gremio-2017-rafael-thyere"
     ]
+  },
+  {
+    "name": "Lanús",
+    "year": 2017,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2017_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-lanus-2017-esteban-andrada",
+      "lib-lanus-2017-jose-luis-gomez",
+      "lib-lanus-2017-rolando-garcia-guerreno",
+      "lib-lanus-2017-diego-braghieri",
+      "lib-lanus-2017-maximiliano-velazquez",
+      "lib-lanus-2017-roman-martinez",
+      "lib-lanus-2017-ivan-marcone",
+      "lib-lanus-2017-nicolas-pasquini",
+      "lib-lanus-2017-alejandro-silva",
+      "lib-lanus-2017-jose-sand",
+      "lib-lanus-2017-lautaro-acosta"
+    ]
   }
 ]

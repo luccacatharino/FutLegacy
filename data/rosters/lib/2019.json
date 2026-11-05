@@ -52,5 +52,28 @@
       "lib-flamengo-2019-lincoln",
       "lib-flamengo-2019-orlando-berrio"
     ]
+  },
+  {
+    "name": "River Plate",
+    "year": 2019,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2019_Copa_Libertadores_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-river-plate-2019-franco-armani",
+      "lib-river-plate-2019-gonzalo-montiel",
+      "lib-river-plate-2019-lucas-martinez-quarta",
+      "lib-river-plate-2019-javier-pinola",
+      "lib-river-plate-2019-milton-casco",
+      "lib-river-plate-2019-enzo-perez",
+      "lib-river-plate-2019-exequiel-palacios",
+      "lib-river-plate-2019-nicolas-de-la-cruz",
+      "lib-river-plate-2019-ignacio-fernandez",
+      "lib-river-plate-2019-rafael-santos-borre",
+      "lib-river-plate-2019-matias-suarez"
+    ]
   }
 ]

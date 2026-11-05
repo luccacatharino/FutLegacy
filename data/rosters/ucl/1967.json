@@ -37,5 +37,29 @@
       "ucl-celtic-1967-jim-craig",
       "ucl-celtic-1967-john-fallon"
     ]
+  },
+  {
+    "name": "Inter",
+    "year": 1967,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1967_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-inter-1967-giuliano-sarti",
+      "ucl-inter-1967-armando-picchi",
+      "ucl-inter-1967-tarcisio-burgnich",
+      "ucl-inter-1967-aristide-guarneri",
+      "ucl-inter-1967-giacinto-facchetti",
+      "ucl-inter-1967-gianfranco-bedin",
+      "ucl-inter-1967-sandro-mazzola",
+      "ucl-inter-1967-mauro-bicicli",
+      "ucl-inter-1967-angelo-domenghini",
+      "ucl-inter-1967-renato-cappellini",
+      "ucl-inter-1967-mario-corso",
+      "ucl-inter-1967-ferdinando-miniussi"
+    ]
   }
 ]

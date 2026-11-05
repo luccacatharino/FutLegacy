@@ -41,5 +41,29 @@
       "lib-gremio-1983-tarciso",
       "lib-gremio-1983-cesar"
     ]
+  },
+  {
+    "name": "Peñarol",
+    "year": 1983,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1983_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-penarol-1983-gustavo-fernandez",
+      "lib-penarol-1983-nestor-montelongo",
+      "lib-penarol-1983-walter-olivera",
+      "lib-penarol-1983-nelson-gutierrez",
+      "lib-penarol-1983-victor-diogo",
+      "lib-penarol-1983-mario-saralegui",
+      "lib-penarol-1983-miguel-bossio",
+      "lib-penarol-1983-jose-zalazar",
+      "lib-penarol-1983-venancio-ramos",
+      "lib-penarol-1983-fernando-morena",
+      "lib-penarol-1983-walkir-silva",
+      "lib-penarol-1983-jose-villarreal"
+    ]
   }
 ]

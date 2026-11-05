@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 75,
-      "dri": 43,
-      "def": 30,
-      "fis": 80,
-      "ref": 92,
-      "han": 88,
-      "pos": 89,
-      "div": 90,
-      "kic": 75,
-      "one": 87
+      "pas": 77,
+      "dri": 44,
+      "def": 31,
+      "fis": 82,
+      "ref": 94,
+      "han": 90,
+      "pos": 91,
+      "div": 92,
+      "kic": 77,
+      "one": 89
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "wc-italia-2006-gianluigi-buffon",
     "team": "Itália",
@@ -32,16 +32,16 @@
       "LD",
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 91,
-      "fin": 59,
-      "pas": 82,
-      "dri": 79,
-      "def": 83,
-      "fis": 76
+      "vel": 93,
+      "fin": 60,
+      "pas": 84,
+      "dri": 81,
+      "def": 85,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-italia-2006-gianluca-zambrotta",
     "team": "Itália",
@@ -53,16 +53,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 75,
-      "fin": 52,
-      "pas": 75,
-      "dri": 57,
-      "def": 92,
-      "fis": 86
+      "vel": 77,
+      "fin": 53,
+      "pas": 77,
+      "dri": 58,
+      "def": 94,
+      "fis": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-italia-2006-fabio-cannavaro",
     "team": "Itália",
@@ -74,16 +74,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 67,
-      "fin": 44,
-      "pas": 67,
-      "dri": 56,
-      "def": 84,
-      "fis": 85
+      "vel": 69,
+      "fin": 45,
+      "pas": 69,
+      "dri": 57,
+      "def": 86,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-italia-2006-marco-materazzi",
     "team": "Itália",
@@ -95,16 +95,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 85,
-      "fin": 60,
-      "pas": 76,
-      "dri": 80,
-      "def": 77,
-      "fis": 76
+      "vel": 87,
+      "fin": 61,
+      "pas": 78,
+      "dri": 82,
+      "def": 79,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-italia-2006-fabio-grosso",
     "team": "Itália",
@@ -117,16 +117,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 78,
-      "fin": 62,
-      "pas": 85,
-      "dri": 75,
-      "def": 84,
-      "fis": 84
+      "vel": 80,
+      "fin": 63,
+      "pas": 87,
+      "dri": 77,
+      "def": 86,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-italia-2006-gennaro-gattuso",
     "team": "Itália",
@@ -139,16 +139,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 61,
-      "fin": 69,
-      "pas": 90,
-      "dri": 80,
-      "def": 70,
-      "fis": 81
+      "vel": 62,
+      "fin": 71,
+      "pas": 92,
+      "dri": 82,
+      "def": 72,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-italia-2006-andrea-pirlo",
     "team": "Itália",
@@ -161,16 +161,16 @@
       "MD",
       "PD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 86,
-      "fin": 72,
-      "pas": 80,
-      "dri": 79,
-      "def": 54,
-      "fis": 67
+      "vel": 88,
+      "fin": 74,
+      "pas": 82,
+      "dri": 81,
+      "def": 55,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-italia-2006-mauro-camoranesi",
     "team": "Itália",
@@ -183,16 +183,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 74,
-      "fin": 71,
-      "pas": 82,
-      "dri": 81,
-      "def": 61,
-      "fis": 72
+      "vel": 76,
+      "fin": 73,
+      "pas": 84,
+      "dri": 83,
+      "def": 63,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-italia-2006-simone-perrotta",
     "team": "Itália",
@@ -205,16 +205,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 78,
-      "fin": 80,
-      "pas": 84,
-      "dri": 86,
-      "def": 40,
-      "fis": 68
+      "vel": 80,
+      "fin": 82,
+      "pas": 86,
+      "dri": 88,
+      "def": 41,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-italia-2006-francesco-totti",
     "team": "Itália",
@@ -226,16 +226,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 79,
-      "fin": 81,
-      "pas": 69,
-      "dri": 72,
-      "def": 35,
-      "fis": 80
+      "vel": 81,
+      "fin": 83,
+      "pas": 71,
+      "dri": 74,
+      "def": 36,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-italia-2006-luca-toni",
     "team": "Itália",
@@ -247,22 +247,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 59,
-      "dri": 34,
+      "pas": 61,
+      "dri": 35,
       "def": 14,
-      "fis": 70,
-      "ref": 80,
-      "han": 76,
-      "pos": 77,
-      "div": 78,
-      "kic": 63,
-      "one": 75
+      "fis": 72,
+      "ref": 82,
+      "han": 78,
+      "pos": 79,
+      "div": 80,
+      "kic": 65,
+      "one": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-franca-2006-fabien-barthez",
     "team": "França",
@@ -274,16 +274,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 87,
-      "fin": 56,
-      "pas": 78,
-      "dri": 82,
-      "def": 79,
-      "fis": 78
+      "vel": 89,
+      "fin": 57,
+      "pas": 80,
+      "dri": 84,
+      "def": 81,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-franca-2006-willy-sagnol",
     "team": "França",
@@ -296,16 +296,16 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 70,
-      "fin": 47,
-      "pas": 70,
-      "dri": 52,
-      "def": 87,
-      "fis": 88
+      "vel": 72,
+      "fin": 48,
+      "pas": 72,
+      "dri": 53,
+      "def": 89,
+      "fis": 90
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-franca-2006-lilian-thuram",
     "team": "França",
@@ -317,16 +317,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 65,
-      "fin": 49,
-      "pas": 65,
-      "dri": 54,
-      "def": 82,
-      "fis": 83
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 84,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-franca-2006-william-gallas",
     "team": "França",
@@ -339,16 +339,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 84,
-      "fin": 53,
-      "pas": 75,
-      "dri": 79,
-      "def": 76,
-      "fis": 75
+      "vel": 86,
+      "fin": 54,
+      "pas": 77,
+      "dri": 81,
+      "def": 78,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-franca-2006-eric-abidal",
     "team": "França",
@@ -361,16 +361,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 76,
-      "fin": 73,
-      "pas": 91,
-      "dri": 83,
-      "def": 70,
-      "fis": 74
+      "vel": 78,
+      "fin": 75,
+      "pas": 93,
+      "dri": 85,
+      "def": 72,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-franca-2006-patrick-vieira",
     "team": "França",
@@ -382,16 +382,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 79,
-      "fin": 63,
-      "pas": 86,
-      "dri": 76,
-      "def": 85,
-      "fis": 85
+      "vel": 81,
+      "fin": 64,
+      "pas": 88,
+      "dri": 78,
+      "def": 87,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-franca-2006-claude-makelele",
     "team": "França",
@@ -404,16 +404,16 @@
       "PD",
       "PE"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 83,
-      "pas": 75,
-      "dri": 86,
-      "def": 33,
-      "fis": 68
+      "vel": 87,
+      "fin": 85,
+      "pas": 77,
+      "dri": 88,
+      "def": 34,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-franca-2006-franck-ribery",
     "team": "França",
@@ -426,16 +426,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 74,
-      "fin": 81,
-      "pas": 90,
-      "dri": 91,
-      "def": 51,
-      "fis": 77
+      "vel": 76,
+      "fin": 83,
+      "pas": 92,
+      "dri": 93,
+      "def": 52,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-franca-2006-zinedine-zidane",
     "team": "França",
@@ -448,16 +448,16 @@
       "ME",
       "PE"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 86,
-      "fin": 72,
-      "pas": 80,
-      "dri": 79,
-      "def": 54,
-      "fis": 67
+      "vel": 88,
+      "fin": 74,
+      "pas": 82,
+      "dri": 81,
+      "def": 55,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-franca-2006-florent-malouda",
     "team": "França",
@@ -470,16 +470,16 @@
       "ATA",
       "PE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 83,
-      "fin": 85,
-      "pas": 73,
-      "dri": 76,
-      "def": 39,
-      "fis": 84
+      "vel": 85,
+      "fin": 87,
+      "pas": 75,
+      "dri": 78,
+      "def": 40,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-franca-2006-thierry-henry",
     "team": "França",
@@ -491,22 +491,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 61,
-      "dri": 36,
-      "def": 23,
-      "fis": 73,
-      "ref": 84,
-      "han": 80,
-      "pos": 81,
-      "div": 82,
-      "kic": 67,
-      "one": 79
+      "pas": 63,
+      "dri": 37,
+      "def": 24,
+      "fis": 75,
+      "ref": 86,
+      "han": 82,
+      "pos": 83,
+      "div": 84,
+      "kic": 69,
+      "one": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-portugal-2006-ricardo",
     "team": "Portugal",
@@ -519,16 +519,16 @@
       "LD",
       "MD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 82,
-      "fin": 57,
-      "pas": 73,
-      "dri": 77,
-      "def": 74,
-      "fis": 73
+      "vel": 84,
+      "fin": 58,
+      "pas": 75,
+      "dri": 79,
+      "def": 76,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-portugal-2006-miguel",
     "team": "Portugal",
@@ -540,16 +540,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 68,
-      "fin": 52,
-      "pas": 68,
-      "dri": 57,
-      "def": 85,
-      "fis": 86
+      "vel": 70,
+      "fin": 53,
+      "pas": 70,
+      "dri": 58,
+      "def": 87,
+      "fis": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-portugal-2006-ricardo-carvalho",
     "team": "Portugal",
@@ -561,16 +561,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 61,
-      "fin": 45,
-      "pas": 61,
-      "dri": 50,
-      "def": 78,
-      "fis": 79
+      "vel": 63,
+      "fin": 46,
+      "pas": 63,
+      "dri": 51,
+      "def": 80,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-portugal-2006-fernando-meira",
     "team": "Portugal",
@@ -582,16 +582,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 83,
-      "fin": 52,
-      "pas": 74,
-      "dri": 71,
-      "def": 75,
-      "fis": 74
+      "vel": 85,
+      "fin": 53,
+      "pas": 76,
+      "dri": 73,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-portugal-2006-nuno-valente",
     "team": "Portugal",
@@ -603,16 +603,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 71,
-      "fin": 55,
-      "pas": 78,
-      "dri": 68,
-      "def": 77,
-      "fis": 70
+      "vel": 73,
+      "fin": 56,
+      "pas": 80,
+      "dri": 70,
+      "def": 79,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-portugal-2006-costinha",
     "team": "Portugal",
@@ -625,16 +625,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 76,
-      "fin": 73,
-      "pas": 91,
-      "dri": 83,
-      "def": 70,
-      "fis": 74
+      "vel": 78,
+      "fin": 75,
+      "pas": 93,
+      "dri": 85,
+      "def": 72,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-portugal-2006-maniche",
     "team": "Portugal",
@@ -647,16 +647,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 77,
-      "fin": 79,
-      "pas": 83,
-      "dri": 85,
-      "def": 45,
-      "fis": 67
+      "vel": 79,
+      "fin": 81,
+      "pas": 85,
+      "dri": 87,
+      "def": 46,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-portugal-2006-deco",
     "team": "Portugal",
@@ -669,16 +669,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 83,
-      "fin": 81,
-      "pas": 80,
-      "dri": 84,
-      "def": 38,
-      "fis": 66
+      "vel": 85,
+      "fin": 83,
+      "pas": 82,
+      "dri": 86,
+      "def": 39,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-portugal-2006-luis-figo",
     "team": "Portugal",
@@ -691,16 +691,16 @@
       "PE",
       "PD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 86,
-      "fin": 77,
-      "pas": 76,
-      "dri": 87,
-      "def": 34,
-      "fis": 69
+      "vel": 88,
+      "fin": 79,
+      "pas": 78,
+      "dri": 89,
+      "def": 35,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-portugal-2006-cristiano-ronaldo",
     "team": "Portugal",
@@ -712,19 +712,6463 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 70,
-      "fin": 79,
-      "pas": 60,
-      "dri": 69,
+      "vel": 71,
+      "fin": 80,
+      "pas": 61,
+      "dri": 70,
       "def": 26,
-      "fis": 71
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-portugal-2006-pauleta",
     "team": "Portugal",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Abbondanzieri",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-abbondanzieri",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Franco",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-l-franco",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ayala",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-ayala",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Heinze",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-heinze",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Sorín",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-sorin",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Milito",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-g-milito",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Burdisso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-burdisso",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Coloccini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-coloccini",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Scaloni",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-scaloni",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cufré",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-cufre",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Riquelme",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-riquelme",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cambiasso",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-cambiasso",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Mascherano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-mascherano",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Maxi Rodríguez",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-maxi-rodriguez",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Aimar",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-aimar",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "L. González",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-l-gonzalez",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Tevez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-tevez",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Messi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-messi",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Crespo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-crespo",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Saviola",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-saviola",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Cruz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-j-cruz",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Palacio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2006-palacio",
+    "team": "Argentina",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Schwarzer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-schwarzer",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kalac",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-kalac",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Covic",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-covic",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Neill",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-neill",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Emerton",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-emerton",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Moore",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-moore",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Popovic",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-popovic",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Chipperfield",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-chipperfield",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lazaridis",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-lazaridis",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilkshire",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-wilkshire",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Beauchamp",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-beauchamp",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cahill",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-cahill",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Bresciano",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-bresciano",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Culina",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-culina",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Grella",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-grella",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Skoko",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-skoko",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Milligan",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-milligan",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kewell",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-kewell",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Viduka",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-viduka",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Aloisi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-aloisi",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Sterjovski",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-sterjovski",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kennedy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-kennedy",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Thompson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-australia-2006-thompson",
+    "team": "Austrália",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Dida",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-dida",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Júlio César",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-julio-cesar",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rogério Ceni",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-rogerio-ceni",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lúcio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-lucio",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Roberto Carlos",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-roberto-carlos",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cafu",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-cafu",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Juan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-juan",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Luisão",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-luisao",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cicinho",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-cicinho",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cris",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-cris",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Gilberto",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-gilberto",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ronaldinho",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-ronaldinho",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kaká",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-kaka",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Gilberto Silva",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-gilberto-silva",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Juninho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-juninho",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Zé Roberto",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-ze-roberto",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Emerson",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-emerson",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Mineiro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-mineiro",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ricardinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-ricardinho",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ronaldo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-ronaldo",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Adriano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-adriano",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Robinho",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-robinho",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Fred",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2006-fred",
+    "team": "Brasil",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Tizié",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-tizie",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Barry",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-barry",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Gnanhouan",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-gnanhouan",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kolo Touré",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-kolo-toure",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Boka",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-boka",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Eboué",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-eboue",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Méïté",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-meite",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Demel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-demel",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kouassi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-kouassi",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Zoro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-zoro",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Domoraud",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-domoraud",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Yaya Touré",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-yaya-toure",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Zokora",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-zokora",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "B. Kalou",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-b-kalou",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Faé",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-fae",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Yapi Yapo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-yapi-yapo",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Romaric",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-romaric",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Drogba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-drogba",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Dindane",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-dindane",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kader Keïta",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-kader-keita",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Arouna Koné",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-arouna-kone",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Bakari Koné",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-bakari-kone",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Akalé",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-costa-do-marfim-2006-akale",
+    "team": "Costa do Marfim",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Čech",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-cech",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Blažek",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-blazek",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kinský",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-kinsky",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Jankulovski",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-jankulovski",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ujfaluši",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-ujfalusi",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Grygera",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-grygera",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Jiránek",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-jiranek",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rozehnal",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-rozehnal",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Mareš",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-mares",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Nedvěd",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-nedved",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rosický",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-rosicky",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Galásek",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-galasek",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kováč",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-kovac",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Jarolím",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-jarolim",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Polák",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-polak",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Plašil",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-plasil",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Heinz",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-heinz",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Poborský",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-poborsky",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Koller",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-koller",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Baroš",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-baros",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Sionko",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-sionko",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lokvenc",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-lokvenc",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Štajner",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-republica-tcheca-2006-stajner",
+    "team": "República Tcheca",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Mora",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-mora",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Villafuerte",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-villafuerte",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lanza",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-lanza",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Hurtado",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-hurtado",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "De la Cruz",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-de-la-cruz",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Espinoza",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-espinoza",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Reasco",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-reasco",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Guagua",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-guagua",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ambrosi",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-ambrosi",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Perlaza",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-perlaza",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Méndez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-mendez",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Castillo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-castillo",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Tenorio",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-e-tenorio",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ayoví",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-ayovi",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Urrutia",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-urrutia",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lara",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-lara",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Saritama",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-saritama",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Valencia",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-a-valencia",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Delgado",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-delgado",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kaviedes",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-kaviedes",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Tenorio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-c-tenorio",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Benítez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-benitez",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Borja",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2006-borja",
+    "team": "Equador",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Robinson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-robinson",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "D. James",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-d-james",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Carson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-carson",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Terry",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-terry",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Cole",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-a-cole",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Ferdinand",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-r-ferdinand",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Campbell",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-campbell",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Neville",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-g-neville",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Carragher",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-carragher",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Bridge",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-bridge",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Gerrard",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-gerrard",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Beckham",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-beckham",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lampard",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-lampard",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Hargreaves",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-hargreaves",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Carrick",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-carrick",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Jenas",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-jenas",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rooney",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-rooney",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Owen",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-owen",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Cole",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-j-cole",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lennon",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-lennon",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Crouch",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-crouch",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Walcott",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2006-walcott",
+    "team": "Inglaterra",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Casillas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-casillas",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cañizares",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-canizares",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Reina",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-reina",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Puyol",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-puyol",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramos",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-ramos",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Salgado",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-salgado",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Marchena",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-marchena",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Pernía",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-pernia",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Antonio López",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-antonio-lopez",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Juanito",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-juanito",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ibáñez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-ibanez",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Xavi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-xavi",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Xabi Alonso",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-xabi-alonso",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Iniesta",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-iniesta",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Fàbregas",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-fabregas",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Albelda",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-albelda",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Luis García",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-luis-garcia",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Senna",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-senna",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Raúl",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-raul",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Torres",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-torres",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Villa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-villa",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Reyes",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-reyes",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Joaquín",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2006-joaquin",
+    "team": "Espanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kahn",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-kahn",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lehmann",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-lehmann",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Hildebrand",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-hildebrand",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lahm",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-lahm",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Metzelder",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-metzelder",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Mertesacker",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-mertesacker",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Friedrich",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-friedrich",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Huth",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-huth",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Nowotny",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-nowotny",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Jansen",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-jansen",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ballack",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-ballack",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Schweinsteiger",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-schweinsteiger",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Frings",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-frings",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kehl",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-kehl",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Hitzlsperger",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-hitzlsperger",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Borowski",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-borowski",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Klose",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-klose",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Podolski",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-podolski",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Schneider",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-schneider",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Neuville",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-neuville",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Odonkor",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-odonkor",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Hanke",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2006-hanke",
+    "team": "Alemanha",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Van der Sar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-van-der-sar",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Stekelenburg",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-stekelenburg",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Timmer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-timmer",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Bronckhorst",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-van-bronckhorst",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Mathijsen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-mathijsen",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Boulahrouz",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-boulahrouz",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ooijer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-ooijer",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Heitinga",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-heitinga",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Jaliens",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-jaliens",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kromkamp",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-kromkamp",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "De Cler",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-de-cler",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Van der Vaart",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-van-der-vaart",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Sneijder",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-sneijder",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cocu",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-cocu",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Bommel",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-van-bommel",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Landzaat",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-landzaat",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Maduro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-maduro",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Nistelrooy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-van-nistelrooy",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Robben",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-robben",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Persie",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-van-persie",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kuyt",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-kuyt",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Vennegoor of Hesselink",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-vennegoor-of-hesselink",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Babel",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2006-babel",
+    "team": "Países Baixos",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Zuberbühler",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-zuberbuhler",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Benaglio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-benaglio",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Coltorti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-coltorti",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Senderos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-senderos",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Magnin",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-magnin",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Müller",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-muller",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Spycher",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-spycher",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Djourou",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-djourou",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Grichting",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-grichting",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "P. Degen",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-p-degen",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Vogel",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-vogel",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Barnetta",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-barnetta",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Wicky",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-wicky",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Yakin",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-yakin",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Cabanas",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-cabanas",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Behrami",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-behrami",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Margairaz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-margairaz",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Džemaili",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-dzemaili",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Frei",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-frei",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Streller",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-streller",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Gygax",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-gygax",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Degen",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-d-degen",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lustrinelli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2006-lustrinelli",
+    "team": "Suíça",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Isaksson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-isaksson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Shaaban",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-shaaban",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Alvbåge",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-alvbage",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Mellberg",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-mellberg",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Nilsson",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-m-nilsson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Edman",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-edman",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Lučić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-lucic",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "P. Hansson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-p-hansson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Svensson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-k-svensson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Stenman",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-stenman",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ljungberg",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-ljungberg",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Källström",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-kallstrom",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Linderoth",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-linderoth",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Alexandersson",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-alexandersson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Svensson",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-a-svensson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Andersson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-andersson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Jonson",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-jonson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Ibrahimović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-ibrahimovic",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "H. Larsson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-h-larsson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilhelmsson",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-wilhelmsson",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Allbäck",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-allback",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Elmander",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-elmander",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rosenberg",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2006-rosenberg",
+    "team": "Suécia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Shovkovskyi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-shovkovskyi",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Pyatov",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-pyatov",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Shust",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-shust",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Nesmachniy",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-nesmachniy",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rusol",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-rusol",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Vashchuk",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-vashchuk",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Yezerskiy",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-yezerskiy",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Chyhrynskyi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-chyhrynskyi",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Sviderskyi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-sviderskyi",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Yatsenko",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-yatsenko",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Tymoshchuk",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-tymoshchuk",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Husin",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-husin",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Kalynychenko",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-kalynychenko",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Shelayev",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-shelayev",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rotan",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-rotan",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Nazarenko",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-nazarenko",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Shevchenko",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-shevchenko",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Voronin",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-voronin",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Rebrov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-rebrov",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Husyev",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-husyev",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Vorobey",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-vorobey",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Milevskyi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-milevskyi",
+    "team": "Ucrânia",
+    "year": 2006,
+    "comp": "wc"
+  },
+  {
+    "name": "Byelik",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-ucrania-2006-byelik",
+    "team": "Ucrânia",
     "year": 2006,
     "comp": "wc"
   }

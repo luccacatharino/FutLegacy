@@ -6,16 +6,16 @@
       "PE",
       "ATA"
     ],
-    "ovr": 91,
+    "ovr": 93,
     "attrs": {
-      "vel": 91,
-      "fin": 89,
-      "pas": 86,
-      "dri": 93,
-      "def": 28,
-      "fis": 70
+      "vel": 93,
+      "fin": 91,
+      "pas": 88,
+      "dri": 95,
+      "def": 29,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 97,
     "id": "ucl-manchester-united-1968-george-best",
     "team": "Manchester United",
@@ -28,16 +28,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 90,
+    "ovr": 92,
     "attrs": {
-      "vel": 79,
-      "fin": 91,
-      "pas": 91,
-      "dri": 87,
-      "def": 53,
-      "fis": 79
+      "vel": 81,
+      "fin": 93,
+      "pas": 93,
+      "dri": 89,
+      "def": 54,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 96,
     "id": "ucl-manchester-united-1968-bobby-charlton",
     "team": "Manchester United",
@@ -50,16 +50,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 70,
-      "fin": 59,
-      "pas": 79,
-      "dri": 71,
-      "def": 83,
-      "fis": 82
+      "vel": 72,
+      "fin": 60,
+      "pas": 81,
+      "dri": 73,
+      "def": 85,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "ucl-manchester-united-1968-nobby-stiles",
     "team": "Manchester United",
@@ -72,16 +72,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 72,
-      "fin": 70,
-      "pas": 86,
-      "dri": 81,
-      "def": 65,
-      "fis": 72
+      "vel": 74,
+      "fin": 72,
+      "pas": 88,
+      "dri": 83,
+      "def": 67,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "ucl-manchester-united-1968-paddy-crerand",
     "team": "Manchester United",
@@ -93,16 +93,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 61,
-      "fin": 38,
-      "pas": 65,
-      "dri": 51,
-      "def": 82,
-      "fis": 82
+      "vel": 63,
+      "fin": 39,
+      "pas": 67,
+      "dri": 52,
+      "def": 84,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "ucl-manchester-united-1968-bill-foulkes",
     "team": "Manchester United",
@@ -114,22 +114,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 38,
+      "vel": 39,
       "fin": 11,
-      "pas": 54,
-      "dri": 26,
+      "pas": 55,
+      "dri": 27,
       "def": 17,
-      "fis": 71,
-      "ref": 80,
-      "han": 78,
-      "pos": 80,
-      "div": 81,
-      "kic": 63,
-      "one": 79
+      "fis": 73,
+      "ref": 82,
+      "han": 80,
+      "pos": 82,
+      "div": 83,
+      "kic": 65,
+      "one": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-manchester-united-1968-alex-stepney",
     "team": "Manchester United",
@@ -142,16 +142,16 @@
       "PE",
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 85,
-      "fin": 82,
-      "pas": 72,
-      "dri": 82,
-      "def": 36,
-      "fis": 65
+      "vel": 87,
+      "fin": 84,
+      "pas": 74,
+      "dri": 84,
+      "def": 37,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "ucl-manchester-united-1968-john-aston",
     "team": "Manchester United",
@@ -163,16 +163,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 77,
-      "fin": 49,
-      "pas": 71,
-      "dri": 71,
-      "def": 74,
-      "fis": 69
+      "vel": 79,
+      "fin": 50,
+      "pas": 73,
+      "dri": 73,
+      "def": 76,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "ucl-manchester-united-1968-tony-dunne",
     "team": "Manchester United",
@@ -184,16 +184,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 73,
-      "fin": 81,
-      "pas": 61,
-      "dri": 73,
-      "def": 34,
-      "fis": 72
+      "vel": 75,
+      "fin": 83,
+      "pas": 63,
+      "dri": 75,
+      "def": 35,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "ucl-manchester-united-1968-brian-kidd",
     "team": "Manchester United",
@@ -205,16 +205,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 57,
-      "fin": 34,
-      "pas": 61,
-      "dri": 47,
-      "def": 78,
-      "fis": 78
+      "vel": 58,
+      "fin": 35,
+      "pas": 63,
+      "dri": 48,
+      "def": 80,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "ucl-manchester-united-1968-david-sadler",
     "team": "Manchester United",
@@ -226,16 +226,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 79,
-      "fin": 46,
-      "pas": 68,
-      "dri": 69,
-      "def": 71,
-      "fis": 70
+      "vel": 81,
+      "fin": 47,
+      "pas": 70,
+      "dri": 71,
+      "def": 73,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "ucl-manchester-united-1968-shay-brennan",
     "team": "Manchester United",
@@ -247,22 +247,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 71,
+    "ovr": 72,
     "attrs": {
-      "vel": 37,
+      "vel": 38,
       "fin": 11,
-      "pas": 45,
+      "pas": 46,
       "dri": 26,
       "def": 17,
-      "fis": 62,
-      "ref": 71,
-      "han": 69,
-      "pos": 71,
-      "div": 72,
-      "kic": 54,
-      "one": 70
+      "fis": 63,
+      "ref": 72,
+      "han": 70,
+      "pos": 72,
+      "div": 73,
+      "kic": 55,
+      "one": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 76,
     "id": "ucl-manchester-united-1968-jimmy-rimmer",
     "team": "Manchester United",

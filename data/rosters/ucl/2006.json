@@ -43,5 +43,35 @@
       "ucl-barcelona-2006-oleguer",
       "ucl-barcelona-2006-albert-jorquera"
     ]
+  },
+  {
+    "name": "Arsenal",
+    "year": 2006,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2006_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-arsenal-2006-jens-lehmann",
+      "ucl-arsenal-2006-emmanuel-eboue",
+      "ucl-arsenal-2006-kolo-toure",
+      "ucl-arsenal-2006-sol-campbell",
+      "ucl-arsenal-2006-ashley-cole",
+      "ucl-arsenal-2006-robert-pires",
+      "ucl-arsenal-2006-gilberto-silva",
+      "ucl-arsenal-2006-cesc-fabregas",
+      "ucl-arsenal-2006-alexander-hleb",
+      "ucl-arsenal-2006-freddie-ljungberg",
+      "ucl-arsenal-2006-thierry-henry",
+      "ucl-arsenal-2006-manuel-almunia",
+      "ucl-arsenal-2006-philippe-senderos",
+      "ucl-arsenal-2006-gael-clichy",
+      "ucl-arsenal-2006-mathieu-flamini",
+      "ucl-arsenal-2006-jose-antonio-reyes",
+      "ucl-arsenal-2006-dennis-bergkamp",
+      "ucl-arsenal-2006-robin-van-persie"
+    ]
   }
 ]

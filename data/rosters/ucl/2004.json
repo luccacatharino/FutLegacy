@@ -43,5 +43,35 @@
       "ucl-porto-2004-ricardo-costa",
       "ucl-porto-2004-nuno-espirito-santo"
     ]
+  },
+  {
+    "name": "Monaco",
+    "year": 2004,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2004_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-monaco-2004-flavio-roma",
+      "ucl-monaco-2004-hugo-ibarra",
+      "ucl-monaco-2004-julien-rodriguez",
+      "ucl-monaco-2004-gael-givet",
+      "ucl-monaco-2004-patrice-evra",
+      "ucl-monaco-2004-edouard-cisse",
+      "ucl-monaco-2004-lucas-bernardi",
+      "ucl-monaco-2004-akis-zikos",
+      "ucl-monaco-2004-ludovic-giuly",
+      "ucl-monaco-2004-jerome-rothen",
+      "ucl-monaco-2004-fernando-morientes",
+      "ucl-monaco-2004-tony-sylva",
+      "ucl-monaco-2004-sebastien-squillaci",
+      "ucl-monaco-2004-jaroslav-plasil",
+      "ucl-monaco-2004-hassan-el-fakiri",
+      "ucl-monaco-2004-dado-prso",
+      "ucl-monaco-2004-shabani-nonda",
+      "ucl-monaco-2004-emmanuel-adebayor"
+    ]
   }
 ]

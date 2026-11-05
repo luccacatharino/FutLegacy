@@ -43,5 +43,29 @@
       "lib-gremio-1995-alexandre-gaucho",
       "lib-gremio-1995-luciano-dias"
     ]
+  },
+  {
+    "name": "Atlético Nacional",
+    "year": 1995,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1995_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-atletico-nacional-1995-rene-higuita",
+      "lib-atletico-nacional-1995-jose-santa",
+      "lib-atletico-nacional-1995-victor-marulanda",
+      "lib-atletico-nacional-1995-francisco-foronda",
+      "lib-atletico-nacional-1995-francisco-mosquera",
+      "lib-atletico-nacional-1995-mauricio-serna",
+      "lib-atletico-nacional-1995-carlos-gutierrez",
+      "lib-atletico-nacional-1995-jaime-pabon",
+      "lib-atletico-nacional-1995-alexis-garcia",
+      "lib-atletico-nacional-1995-juan-pablo-angel",
+      "lib-atletico-nacional-1995-jaime-arango",
+      "lib-atletico-nacional-1995-william-matamba"
+    ]
   }
 ]

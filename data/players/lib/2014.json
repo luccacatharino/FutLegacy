@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 44,
+      "vel": 45,
       "fin": 16,
-      "pas": 59,
-      "dri": 23,
-      "def": 22,
-      "fis": 78,
-      "ref": 85,
-      "han": 81,
-      "pos": 83,
-      "div": 84,
-      "kic": 72,
-      "one": 83
+      "pas": 60,
+      "dri": 24,
+      "def": 23,
+      "fis": 80,
+      "ref": 87,
+      "han": 83,
+      "pos": 85,
+      "div": 86,
+      "kic": 74,
+      "one": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-san-lorenzo-2014-sebastian-torrico",
     "team": "San Lorenzo",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 75,
-      "fin": 42,
-      "pas": 70,
-      "dri": 66,
-      "def": 73,
-      "fis": 70
+      "vel": 77,
+      "fin": 43,
+      "pas": 72,
+      "dri": 68,
+      "def": 75,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-san-lorenzo-2014-julio-buffarini",
     "team": "San Lorenzo",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 52,
+      "vel": 53,
       "fin": 24,
-      "pas": 53,
+      "pas": 54,
       "dri": 36,
-      "def": 74,
-      "fis": 74
+      "def": 75,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-san-lorenzo-2014-fabricio-fontanini",
     "team": "San Lorenzo",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 59,
-      "fin": 34,
-      "pas": 61,
-      "dri": 46,
-      "def": 83,
-      "fis": 83
+      "vel": 60,
+      "fin": 35,
+      "pas": 63,
+      "dri": 47,
+      "def": 85,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-san-lorenzo-2014-santiago-gentiletti",
     "team": "San Lorenzo",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 74,
-      "fin": 38,
-      "pas": 70,
-      "dri": 69,
-      "def": 72,
-      "fis": 71
+      "vel": 76,
+      "fin": 39,
+      "pas": 72,
+      "dri": 71,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-san-lorenzo-2014-emmanuel-mas",
     "team": "San Lorenzo",
@@ -115,16 +115,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 81,
-      "fin": 73,
-      "pas": 72,
-      "dri": 86,
-      "def": 32,
-      "fis": 66
+      "vel": 83,
+      "fin": 75,
+      "pas": 74,
+      "dri": 88,
+      "def": 33,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-san-lorenzo-2014-hector-villalba",
     "team": "San Lorenzo",
@@ -136,16 +136,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 62,
-      "fin": 47,
-      "pas": 75,
-      "dri": 65,
-      "def": 78,
-      "fis": 77
+      "vel": 64,
+      "fin": 48,
+      "pas": 77,
+      "dri": 67,
+      "def": 80,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-san-lorenzo-2014-juan-mercier",
     "team": "San Lorenzo",
@@ -157,16 +157,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 72,
-      "fin": 67,
-      "pas": 86,
-      "dri": 80,
-      "def": 68,
-      "fis": 76
+      "vel": 74,
+      "fin": 69,
+      "pas": 88,
+      "dri": 82,
+      "def": 70,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-san-lorenzo-2014-nestor-ortigoza",
     "team": "San Lorenzo",
@@ -178,16 +178,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 73,
-      "fin": 78,
-      "pas": 85,
-      "dri": 89,
-      "def": 41,
-      "fis": 65
+      "vel": 75,
+      "fin": 80,
+      "pas": 87,
+      "dri": 91,
+      "def": 42,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-san-lorenzo-2014-ignacio-piatti",
     "team": "San Lorenzo",
@@ -199,16 +199,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 74,
-      "fin": 76,
-      "pas": 87,
-      "dri": 85,
-      "def": 40,
-      "fis": 66
+      "vel": 76,
+      "fin": 78,
+      "pas": 89,
+      "dri": 87,
+      "def": 41,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-san-lorenzo-2014-leandro-romagnoli",
     "team": "San Lorenzo",
@@ -220,16 +220,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 73,
-      "fin": 84,
-      "pas": 60,
-      "dri": 73,
-      "def": 28,
-      "fis": 78
+      "vel": 75,
+      "fin": 86,
+      "pas": 62,
+      "dri": 75,
+      "def": 29,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-san-lorenzo-2014-mauro-matos",
     "team": "San Lorenzo",
@@ -241,16 +241,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 57,
-      "fin": 30,
-      "pas": 58,
-      "dri": 44,
-      "def": 80,
-      "fis": 77
+      "vel": 58,
+      "fin": 31,
+      "pas": 59,
+      "dri": 45,
+      "def": 82,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-san-lorenzo-2014-walter-kannemann",
     "team": "San Lorenzo",
@@ -262,22 +262,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
       "vel": 34,
       "fin": 9,
-      "pas": 51,
+      "pas": 52,
       "dri": 20,
       "def": 14,
-      "fis": 67,
-      "ref": 75,
-      "han": 71,
-      "pos": 73,
-      "div": 74,
-      "kic": 62,
-      "one": 73
+      "fis": 68,
+      "ref": 76,
+      "han": 72,
+      "pos": 74,
+      "div": 75,
+      "kic": 63,
+      "one": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-san-lorenzo-2014-cristian-alvarez",
     "team": "San Lorenzo",
@@ -289,16 +289,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 63,
-      "def": 68,
-      "fis": 66
+      "vel": 72,
+      "fin": 39,
+      "pas": 68,
+      "dri": 64,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-san-lorenzo-2014-gonzalo-prosperi",
     "team": "San Lorenzo",
@@ -310,16 +310,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 61,
-      "fin": 44,
-      "pas": 73,
-      "dri": 63,
-      "def": 73,
-      "fis": 72
+      "vel": 63,
+      "fin": 45,
+      "pas": 75,
+      "dri": 65,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-san-lorenzo-2014-enzo-kalinski",
     "team": "San Lorenzo",
@@ -332,16 +332,16 @@
       "MEI",
       "PD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 71,
-      "fin": 72,
-      "pas": 84,
-      "dri": 81,
-      "def": 35,
-      "fis": 63
+      "vel": 73,
+      "fin": 74,
+      "pas": 86,
+      "dri": 83,
+      "def": 36,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-san-lorenzo-2014-pablo-barrientos",
     "team": "San Lorenzo",
@@ -354,16 +354,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 70,
-      "pas": 70,
-      "dri": 78,
-      "def": 30,
-      "fis": 63
+      "vel": 80,
+      "fin": 72,
+      "pas": 72,
+      "dri": 80,
+      "def": 31,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-san-lorenzo-2014-gonzalo-veron",
     "team": "San Lorenzo",
@@ -375,16 +375,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 82,
-      "pas": 61,
-      "dri": 71,
-      "def": 30,
-      "fis": 76
+      "vel": 74,
+      "fin": 84,
+      "pas": 63,
+      "dri": 73,
+      "def": 31,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-san-lorenzo-2014-martin-cauteruccio",
     "team": "San Lorenzo",
@@ -396,16 +396,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 58,
-      "fin": 31,
-      "pas": 59,
-      "dri": 45,
-      "def": 78,
-      "fis": 79
+      "vel": 60,
+      "fin": 32,
+      "pas": 61,
+      "dri": 46,
+      "def": 80,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-san-lorenzo-2014-mauro-cetto",
     "team": "San Lorenzo",
@@ -417,19 +417,245 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 69,
-      "fin": 78,
-      "pas": 57,
-      "dri": 67,
-      "def": 26,
-      "fis": 72
+      "vel": 71,
+      "fin": 80,
+      "pas": 59,
+      "dri": 69,
+      "def": 27,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-san-lorenzo-2014-nicolas-blandi",
     "team": "San Lorenzo",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Ignacio Don",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-ignacio-don",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Ramón Coronel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-ramon-coronel",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Raúl Piris",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-raul-piris",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "José Cáceres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-jose-caceres",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "David Mendoza",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-david-mendoza",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Argüello",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-juan-arguello",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Silvio Torales",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-silvio-torales",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Derlis Orué",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-derlis-orue",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcos Melgarejo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-marcos-melgarejo",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Julián Benítez",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-julian-benitez",
+    "team": "Nacional de Asunción",
+    "year": 2014,
+    "comp": "lib"
+  },
+  {
+    "name": "Fredy Bareiro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-nacional-de-asuncion-2014-fredy-bareiro",
+    "team": "Nacional de Asunción",
     "year": 2014,
     "comp": "lib"
   }

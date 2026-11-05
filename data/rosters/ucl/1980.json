@@ -40,5 +40,29 @@
       "ucl-nottingham-forest-1980-jimmy-montgomery",
       "ucl-nottingham-forest-1980-bryn-gunn"
     ]
+  },
+  {
+    "name": "Hamburgo",
+    "year": 1980,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1980_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-hamburgo-1980-rudi-kargus",
+      "ucl-hamburgo-1980-ivan-buljan",
+      "ucl-hamburgo-1980-peter-nogly",
+      "ucl-hamburgo-1980-ditmar-jakobs",
+      "ucl-hamburgo-1980-manfred-kaltz",
+      "ucl-hamburgo-1980-holger-hieronymus",
+      "ucl-hamburgo-1980-felix-magath",
+      "ucl-hamburgo-1980-caspar-memering",
+      "ucl-hamburgo-1980-kevin-keegan",
+      "ucl-hamburgo-1980-willi-reimann",
+      "ucl-hamburgo-1980-jurgen-milewski",
+      "ucl-hamburgo-1980-horst-hrubesch"
+    ]
   }
 ]

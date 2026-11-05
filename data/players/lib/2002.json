@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 44,
+      "vel": 45,
       "fin": 14,
-      "pas": 58,
-      "dri": 23,
+      "pas": 59,
+      "dri": 24,
       "def": 20,
-      "fis": 75,
-      "ref": 83,
-      "han": 79,
-      "pos": 81,
-      "div": 82,
-      "kic": 70,
-      "one": 81
+      "fis": 77,
+      "ref": 85,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 72,
+      "one": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-olimpia-2002-ricardo-tavarelli",
     "team": "Olimpia",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 72,
-      "fin": 39,
-      "pas": 68,
-      "dri": 66,
-      "def": 70,
-      "fis": 67
+      "vel": 74,
+      "fin": 40,
+      "pas": 70,
+      "dri": 68,
+      "def": 72,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-olimpia-2002-nestor-isasi",
     "team": "Olimpia",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 55,
-      "fin": 24,
-      "pas": 56,
-      "dri": 41,
-      "def": 78,
-      "fis": 78
+      "vel": 56,
+      "fin": 25,
+      "pas": 57,
+      "dri": 42,
+      "def": 80,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-olimpia-2002-nelson-zelaya",
     "team": "Olimpia",
@@ -74,16 +74,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 62,
-      "def": 69,
-      "fis": 68
+      "vel": 73,
+      "fin": 39,
+      "pas": 69,
+      "dri": 64,
+      "def": 71,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-olimpia-2002-henrique-da-silva",
     "team": "Olimpia",
@@ -95,16 +95,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 58,
-      "fin": 30,
-      "pas": 59,
-      "dri": 46,
-      "def": 80,
-      "fis": 83
+      "vel": 59,
+      "fin": 31,
+      "pas": 60,
+      "dri": 47,
+      "def": 82,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-olimpia-2002-julio-caceres",
     "team": "Olimpia",
@@ -116,16 +116,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 61,
-      "fin": 45,
-      "pas": 74,
-      "dri": 61,
-      "def": 76,
-      "fis": 72
+      "vel": 63,
+      "fin": 46,
+      "pas": 76,
+      "dri": 63,
+      "def": 78,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-olimpia-2002-julio-enciso",
     "team": "Olimpia",
@@ -137,16 +137,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 63,
-      "fin": 60,
-      "pas": 78,
-      "dri": 76,
-      "def": 60,
-      "fis": 69
+      "vel": 65,
+      "fin": 62,
+      "pas": 80,
+      "dri": 78,
+      "def": 62,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-olimpia-2002-gaston-cordoba",
     "team": "Olimpia",
@@ -158,16 +158,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 62,
-      "fin": 57,
-      "pas": 77,
-      "dri": 70,
-      "def": 57,
-      "fis": 65
+      "vel": 64,
+      "fin": 59,
+      "pas": 79,
+      "dri": 72,
+      "def": 59,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-olimpia-2002-juan-carlos-franco",
     "team": "Olimpia",
@@ -179,16 +179,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 71,
-      "fin": 76,
-      "pas": 84,
-      "dri": 84,
-      "def": 39,
-      "fis": 63
+      "vel": 73,
+      "fin": 78,
+      "pas": 86,
+      "dri": 86,
+      "def": 40,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-olimpia-2002-sergio-orteman",
     "team": "Olimpia",
@@ -200,16 +200,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 70,
-      "fin": 81,
-      "pas": 58,
-      "dri": 70,
-      "def": 25,
-      "fis": 76
+      "vel": 72,
+      "fin": 83,
+      "pas": 59,
+      "dri": 72,
+      "def": 26,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-olimpia-2002-richard-baez",
     "team": "Olimpia",
@@ -221,16 +221,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 72,
-      "fin": 83,
-      "pas": 59,
-      "dri": 69,
-      "def": 27,
-      "fis": 73
+      "vel": 74,
+      "fin": 85,
+      "pas": 60,
+      "dri": 71,
+      "def": 28,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-olimpia-2002-miguel-benitez",
     "team": "Olimpia",
@@ -242,22 +242,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
       "vel": 33,
       "fin": 9,
-      "pas": 50,
+      "pas": 51,
       "dri": 19,
       "def": 13,
-      "fis": 66,
-      "ref": 74,
-      "han": 70,
-      "pos": 72,
-      "div": 73,
-      "kic": 61,
-      "one": 72
+      "fis": 67,
+      "ref": 75,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 62,
+      "one": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "lib-olimpia-2002-danilo-aceval",
     "team": "Olimpia",
@@ -269,16 +269,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 71,
-      "fin": 80,
-      "pas": 59,
-      "dri": 69,
-      "def": 28,
-      "fis": 74
+      "vel": 73,
+      "fin": 82,
+      "pas": 61,
+      "dri": 71,
+      "def": 29,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-olimpia-2002-mauro-caballero",
     "team": "Olimpia",
@@ -291,16 +291,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 63,
-      "def": 68,
-      "fis": 66
+      "vel": 72,
+      "fin": 39,
+      "pas": 68,
+      "dri": 64,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-olimpia-2002-virginio-caceres",
     "team": "Olimpia",
@@ -312,16 +312,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 62,
-      "fin": 55,
-      "pas": 74,
-      "dri": 68,
-      "def": 56,
-      "fis": 64
+      "vel": 63,
+      "fin": 56,
+      "pas": 75,
+      "dri": 69,
+      "def": 57,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-olimpia-2002-francisco-esteche",
     "team": "Olimpia",
@@ -333,16 +333,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 62,
-      "fin": 55,
-      "pas": 74,
-      "dri": 68,
-      "def": 56,
-      "fis": 64
+      "vel": 63,
+      "fin": 56,
+      "pas": 75,
+      "dri": 69,
+      "def": 57,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-olimpia-2002-carlos-estigarribia",
     "team": "Olimpia",
@@ -354,16 +354,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 66,
-      "fin": 75,
-      "pas": 54,
-      "dri": 64,
+      "vel": 67,
+      "fin": 76,
+      "pas": 55,
+      "dri": 65,
       "def": 23,
-      "fis": 69
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "lib-olimpia-2002-hernan-lopez",
     "team": "Olimpia",
@@ -375,16 +375,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 56,
+      "vel": 57,
       "fin": 28,
-      "pas": 56,
-      "dri": 42,
-      "def": 75,
-      "fis": 76
+      "pas": 57,
+      "dri": 43,
+      "def": 76,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-olimpia-2002-pedro-benitez",
     "team": "Olimpia",
@@ -396,19 +396,245 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 61,
-      "fin": 44,
-      "pas": 73,
-      "dri": 63,
-      "def": 73,
-      "fis": 72
+      "vel": 63,
+      "fin": 45,
+      "pas": 75,
+      "dri": 65,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-olimpia-2002-victor-quintana",
     "team": "Olimpia",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Silvio Luiz",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-silvio-luiz",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Russo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-russo",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-daniel",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Dininho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-dininho",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Rubens Cardoso",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-rubens-cardoso",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Marcos Senna",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-marcos-senna",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Ailton",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-ailton",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Anaílson",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-anailson",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Adãozinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-adaozinho",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Robert",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-robert",
+    "team": "São Caetano",
+    "year": 2002,
+    "comp": "lib"
+  },
+  {
+    "name": "Somália",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-sao-caetano-2002-somalia",
+    "team": "São Caetano",
     "year": 2002,
     "comp": "lib"
   }

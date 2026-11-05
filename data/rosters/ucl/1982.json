@@ -41,5 +41,33 @@
       "ucl-aston-villa-1982-david-geddis",
       "ucl-aston-villa-1982-pat-heard"
     ]
+  },
+  {
+    "name": "Bayern",
+    "year": 1982,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1982_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-bayern-1982-manfred-muller",
+      "ucl-bayern-1982-wolfgang-dremmler",
+      "ucl-bayern-1982-hans-weiner",
+      "ucl-bayern-1982-klaus-augenthaler",
+      "ucl-bayern-1982-paul-breitner",
+      "ucl-bayern-1982-reinhold-mathy",
+      "ucl-bayern-1982-wolfgang-kraus",
+      "ucl-bayern-1982-bernd-durnberger",
+      "ucl-bayern-1982-udo-horsmann",
+      "ucl-bayern-1982-dieter-hoene",
+      "ucl-bayern-1982-karl-heinz-rummenigge",
+      "ucl-bayern-1982-walter-junghans",
+      "ucl-bayern-1982-kurt-niedermayer",
+      "ucl-bayern-1982-hans-pflugler",
+      "ucl-bayern-1982-asgeir-sigurvinsson",
+      "ucl-bayern-1982-gunter-guttler"
+    ]
   }
 ]

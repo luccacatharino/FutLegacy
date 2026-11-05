@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 65,
-      "dri": 40,
+      "pas": 67,
+      "dri": 41,
       "def": 20,
-      "fis": 76,
-      "ref": 87,
-      "han": 83,
-      "pos": 84,
-      "div": 85,
-      "kic": 70,
-      "one": 82
+      "fis": 78,
+      "ref": 89,
+      "han": 85,
+      "pos": 86,
+      "div": 87,
+      "kic": 72,
+      "one": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-brasil-1962-gilmar",
     "team": "Brasil",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 89,
-      "fin": 64,
-      "pas": 80,
-      "dri": 84,
-      "def": 81,
-      "fis": 80
+      "vel": 91,
+      "fin": 66,
+      "pas": 82,
+      "dri": 86,
+      "def": 83,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-brasil-1962-djalma-santos",
     "team": "Brasil",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 67,
-      "fin": 44,
-      "pas": 67,
-      "dri": 49,
-      "def": 84,
-      "fis": 85
+      "vel": 69,
+      "fin": 45,
+      "pas": 69,
+      "dri": 50,
+      "def": 86,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-brasil-1962-mauro-ramos",
     "team": "Brasil",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 63,
-      "fin": 47,
-      "pas": 63,
-      "dri": 52,
-      "def": 80,
-      "fis": 81
+      "vel": 65,
+      "fin": 48,
+      "pas": 65,
+      "dri": 53,
+      "def": 82,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-brasil-1962-zozimo",
     "team": "Brasil",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 89,
-      "fin": 64,
-      "pas": 80,
-      "dri": 84,
-      "def": 81,
-      "fis": 80
+      "vel": 91,
+      "fin": 66,
+      "pas": 82,
+      "dri": 86,
+      "def": 83,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-brasil-1962-nilton-santos",
     "team": "Brasil",
@@ -116,16 +116,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 74,
-      "fin": 64,
-      "pas": 80,
-      "dri": 76,
-      "def": 79,
-      "fis": 79
+      "vel": 76,
+      "fin": 66,
+      "pas": 82,
+      "dri": 78,
+      "def": 81,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-brasil-1962-zito",
     "team": "Brasil",
@@ -138,16 +138,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 78,
-      "fin": 74,
-      "pas": 92,
-      "dri": 84,
-      "def": 71,
-      "fis": 75
+      "vel": 80,
+      "fin": 76,
+      "pas": 94,
+      "dri": 86,
+      "def": 73,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-brasil-1962-didi",
     "team": "Brasil",
@@ -160,16 +160,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 92,
+    "ovr": 93,
     "attrs": {
-      "vel": 90,
-      "fin": 80,
-      "pas": 82,
-      "dri": 93,
-      "def": 50,
-      "fis": 78
+      "vel": 91,
+      "fin": 81,
+      "pas": 83,
+      "dri": 94,
+      "def": 51,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 98,
     "id": "wc-brasil-1962-garrincha",
     "team": "Brasil",
@@ -181,16 +181,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 83,
-      "fin": 85,
-      "pas": 73,
-      "dri": 82,
-      "def": 39,
-      "fis": 84
+      "vel": 85,
+      "fin": 87,
+      "pas": 75,
+      "dri": 84,
+      "def": 40,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-brasil-1962-amarildo",
     "team": "Brasil",
@@ -202,16 +202,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 80,
-      "fin": 89,
-      "pas": 70,
-      "dri": 79,
-      "def": 43,
-      "fis": 81
+      "vel": 82,
+      "fin": 91,
+      "pas": 72,
+      "dri": 81,
+      "def": 44,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1962-vava",
     "team": "Brasil",
@@ -224,16 +224,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 84,
-      "fin": 82,
-      "pas": 81,
-      "dri": 85,
-      "def": 39,
-      "fis": 67
+      "vel": 86,
+      "fin": 84,
+      "pas": 83,
+      "dri": 87,
+      "def": 40,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-brasil-1962-zagallo",
     "team": "Brasil",
@@ -246,16 +246,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 88,
-      "fin": 92,
-      "pas": 89,
-      "dri": 92,
-      "def": 39,
-      "fis": 80
+      "vel": 90,
+      "fin": 94,
+      "pas": 91,
+      "dri": 94,
+      "def": 40,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1962-pele",
     "team": "Brasil",
@@ -267,22 +267,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 64,
-      "dri": 39,
+      "pas": 66,
+      "dri": 40,
       "def": 19,
-      "fis": 75,
-      "ref": 85,
-      "han": 81,
-      "pos": 82,
-      "div": 83,
-      "kic": 68,
-      "one": 80
+      "fis": 77,
+      "ref": 87,
+      "han": 83,
+      "pos": 84,
+      "div": 85,
+      "kic": 70,
+      "one": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-tchecoslovaquia-1962-viliam-schrojf",
     "team": "Tchecoslováquia",
@@ -294,16 +294,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 77,
-      "fin": 52,
-      "pas": 68,
-      "dri": 72,
-      "def": 69,
-      "fis": 68
+      "vel": 78,
+      "fin": 53,
+      "pas": 69,
+      "dri": 73,
+      "def": 70,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-tchecoslovaquia-1962-jiri-tichy",
     "team": "Tchecoslováquia",
@@ -315,16 +315,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 64,
-      "fin": 41,
-      "pas": 64,
-      "dri": 46,
-      "def": 81,
-      "fis": 82
+      "vel": 66,
+      "fin": 42,
+      "pas": 66,
+      "dri": 47,
+      "def": 83,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-tchecoslovaquia-1962-jan-popluhar",
     "team": "Tchecoslováquia",
@@ -336,16 +336,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 80,
-      "fin": 55,
-      "pas": 71,
-      "dri": 75,
-      "def": 72,
-      "fis": 71
+      "vel": 82,
+      "fin": 56,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-tchecoslovaquia-1962-ladislav-novak",
     "team": "Tchecoslováquia",
@@ -358,16 +358,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 70,
-      "fin": 54,
-      "pas": 77,
-      "dri": 73,
-      "def": 76,
-      "fis": 76
+      "vel": 72,
+      "fin": 55,
+      "pas": 79,
+      "dri": 75,
+      "def": 78,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-tchecoslovaquia-1962-svatopluk-pluskal",
     "team": "Tchecoslováquia",
@@ -380,16 +380,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 79,
-      "fin": 76,
-      "pas": 87,
-      "dri": 86,
-      "def": 66,
-      "fis": 77
+      "vel": 81,
+      "fin": 78,
+      "pas": 89,
+      "dri": 88,
+      "def": 68,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-tchecoslovaquia-1962-josef-masopust",
     "team": "Tchecoslováquia",
@@ -402,16 +402,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 79,
-      "fin": 77,
-      "pas": 69,
-      "dri": 80,
+      "vel": 80,
+      "fin": 78,
+      "pas": 70,
+      "dri": 81,
       "def": 27,
-      "fis": 62
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-tchecoslovaquia-1962-tomas-pospichal",
     "team": "Tchecoslováquia",
@@ -423,16 +423,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 74,
-      "fin": 83,
-      "pas": 64,
-      "dri": 73,
-      "def": 30,
-      "fis": 75
+      "vel": 76,
+      "fin": 85,
+      "pas": 66,
+      "dri": 75,
+      "def": 31,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-tchecoslovaquia-1962-adolf-scherer",
     "team": "Tchecoslováquia",
@@ -445,16 +445,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 69,
-      "fin": 78,
-      "pas": 59,
-      "dri": 68,
+      "vel": 70,
+      "fin": 79,
+      "pas": 60,
+      "dri": 69,
       "def": 25,
-      "fis": 70
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-tchecoslovaquia-1962-josef-kadraba",
     "team": "Tchecoslováquia",
@@ -467,16 +467,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 76,
-      "fin": 71,
-      "pas": 82,
-      "dri": 77,
-      "def": 38,
-      "fis": 59
+      "vel": 78,
+      "fin": 73,
+      "pas": 84,
+      "dri": 79,
+      "def": 39,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-tchecoslovaquia-1962-andrej-kvasnak",
     "team": "Tchecoslováquia",
@@ -489,16 +489,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 76,
-      "fin": 74,
-      "pas": 66,
-      "dri": 77,
+      "vel": 77,
+      "fin": 75,
+      "pas": 67,
+      "dri": 78,
       "def": 31,
-      "fis": 59
+      "fis": 60
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-tchecoslovaquia-1962-josef-jelinek",
     "team": "Tchecoslováquia",
@@ -510,22 +510,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 59,
-      "dri": 34,
+      "pas": 61,
+      "dri": 35,
       "def": 14,
-      "fis": 70,
-      "ref": 80,
-      "han": 76,
-      "pos": 77,
-      "div": 78,
-      "kic": 63,
-      "one": 75
+      "fis": 72,
+      "ref": 82,
+      "han": 78,
+      "pos": 79,
+      "div": 80,
+      "kic": 65,
+      "one": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-chile-1962-misael-escuti",
     "team": "Chile",
@@ -537,16 +537,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 81,
-      "fin": 56,
-      "pas": 72,
-      "dri": 76,
-      "def": 73,
-      "fis": 72
+      "vel": 83,
+      "fin": 57,
+      "pas": 74,
+      "dri": 78,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-chile-1962-luis-eyzaguirre",
     "team": "Chile",
@@ -558,16 +558,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 61,
-      "fin": 38,
-      "pas": 61,
-      "dri": 43,
-      "def": 78,
-      "fis": 72
+      "vel": 62,
+      "fin": 39,
+      "pas": 62,
+      "dri": 44,
+      "def": 79,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-chile-1962-raul-sanchez",
     "team": "Chile",
@@ -579,16 +579,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 80,
-      "fin": 49,
-      "pas": 71,
-      "dri": 68,
-      "def": 72,
-      "fis": 65
+      "vel": 81,
+      "fin": 50,
+      "pas": 72,
+      "dri": 69,
+      "def": 73,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-chile-1962-sergio-navarro",
     "team": "Chile",
@@ -600,16 +600,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 54,
-      "fin": 38,
-      "pas": 61,
-      "dri": 43,
-      "def": 78,
-      "fis": 72
+      "vel": 55,
+      "fin": 39,
+      "pas": 62,
+      "dri": 44,
+      "def": 79,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-chile-1962-carlos-contreras",
     "team": "Chile",
@@ -622,16 +622,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 73,
-      "fin": 57,
-      "pas": 80,
-      "dri": 70,
-      "def": 79,
-      "fis": 72
+      "vel": 75,
+      "fin": 58,
+      "pas": 82,
+      "dri": 72,
+      "def": 81,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-chile-1962-eladio-rojas",
     "team": "Chile",
@@ -644,16 +644,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 73,
-      "fin": 70,
-      "pas": 81,
-      "dri": 80,
-      "def": 60,
-      "fis": 70
+      "vel": 75,
+      "fin": 72,
+      "pas": 83,
+      "dri": 82,
+      "def": 62,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-chile-1962-jorge-toro",
     "team": "Chile",
@@ -666,16 +666,16 @@
       "PD",
       "MEI"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 79,
-      "fin": 77,
-      "pas": 69,
-      "dri": 80,
-      "def": 34,
-      "fis": 62
+      "vel": 81,
+      "fin": 79,
+      "pas": 71,
+      "dri": 82,
+      "def": 35,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-chile-1962-jaime-ramirez",
     "team": "Chile",
@@ -687,16 +687,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 73,
-      "fin": 75,
-      "pas": 63,
-      "dri": 66,
+      "vel": 74,
+      "fin": 76,
+      "pas": 64,
+      "dri": 67,
       "def": 29,
-      "fis": 74
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-chile-1962-honorino-landa",
     "team": "Chile",
@@ -709,16 +709,16 @@
       "PE",
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 92,
-      "fin": 83,
-      "pas": 82,
-      "dri": 86,
-      "def": 40,
-      "fis": 68
+      "vel": 94,
+      "fin": 85,
+      "pas": 84,
+      "dri": 88,
+      "def": 41,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-chile-1962-leonel-sanchez",
     "team": "Chile",
@@ -731,19 +731,4327 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 73,
-      "fin": 68,
-      "pas": 79,
-      "dri": 81,
-      "def": 35,
-      "fis": 63
+      "vel": 75,
+      "fin": 70,
+      "pas": 81,
+      "dri": 83,
+      "def": 36,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-chile-1962-alberto-fouillioux",
     "team": "Chile",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Roma",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-roma",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Domínguez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-dominguez",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Marzolini",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-marzolini",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramos Delgado",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-ramos-delgado",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sainz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-sainz",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mariotti",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-mariotti",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Rattín",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-rattin",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Albrecht",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-albrecht",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Navarro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-navarro",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sacchi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-sacchi",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Pando",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-pando",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Belén",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-belen",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Cap",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-cap",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "O. Rossi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-o-rossi",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Abeledo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-abeledo",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Páez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-paez",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sanfilippo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-sanfilippo",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sosa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-sosa",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Facundo",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-facundo",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Pagani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-pagani",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Oleniak",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-oleniak",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "A. González",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1962-a-gonzalez",
+    "team": "Argentina",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Springett",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-springett",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Hodgkinson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-hodgkinson",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Moore",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-moore",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilson",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-wilson",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Armfield",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-armfield",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Norman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-norman",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Swan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-swan",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Howe",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-howe",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "B. Charlton",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-b-charlton",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Haynes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-haynes",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Robson",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-robson",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Flowers",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-flowers",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Eastham",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-eastham",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Anderson",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-anderson",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Adamson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-adamson",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Greaves",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-greaves",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Hunt",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-hunt",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Douglas",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-douglas",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Connelly",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-connelly",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Hitchens",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-hitchens",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Kevan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-kevan",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Peacock",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1962-peacock",
+    "team": "Inglaterra",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Araquistáin",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-araquistain",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Carmelo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-carmelo",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sadurní",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-sadurni",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Santamaría",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-santamaria",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Garay",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-garay",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Rivilla",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-rivilla",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Pachín",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-pachin",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Reija",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-reija",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Gràcia",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-gracia",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Rodri",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-rodri",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Echeberría",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-echeberria",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Luis Suárez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-luis-suarez",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Del Sol",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-del-sol",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Segarra",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-segarra",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Adelardo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-adelardo",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Vergés",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-verges",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Di Stéfano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-di-stefano",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Gento",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-gento",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Puskás",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-puskas",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Peiró",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-peiro",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Collar",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-collar",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Martínez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-1962-e-martinez",
+    "team": "Espanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Tilkowski",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-tilkowski",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Fahrian",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-fahrian",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sawitzki",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-sawitzki",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Schnellinger",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-schnellinger",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Erhardt",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-erhardt",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Nowak",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-nowak",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilden",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-wilden",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Kurbjuhn",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-kurbjuhn",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Schäfer",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-schafer",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Szymaniak",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-szymaniak",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Brülls",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-brulls",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Schulz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-schulz",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Giesemann",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-giesemann",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sturm",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-sturm",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Herrmann",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-herrmann",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Koslowski",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-koslowski",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Werner",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-werner",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Seeler",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-seeler",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Haller",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-haller",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Kraus",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-kraus",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Vollmar",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-vollmar",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Strehl",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1962-strehl",
+    "team": "Alemanha",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Grosics",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-grosics",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Szentmihályi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-szentmihalyi",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ilku",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-ilku",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mátrai",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-matrai",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mészöly",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-meszoly",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Solymosi",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-solymosi",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Sárosi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-l-sarosi",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sóvári",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-sovari",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ihász",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-ihasz",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Göröcs",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-gorocs",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sipos",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-sipos",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Nagy",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-nagy",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mencel",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-mencel",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Albert",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-albert",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Tichy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-tichy",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Sándor",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-k-sandor",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Fenyvesi",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-fenyvesi",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Farkas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-farkas",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Rákosi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-rakosi",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Monostori",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-monostori",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Kuharszki",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-kuharszki",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Bödör",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1962-bodor",
+    "team": "Hungria",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Buffon",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-buffon",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Albertosi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-albertosi",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mattrel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-mattrel",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Maldini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-maldini",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Salvadore",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-salvadore",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Losi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-losi",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Radice",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-radice",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Robotti",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-robotti",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "David",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-david",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Janich",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-janich",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Tumburus",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-tumburus",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Trapattoni",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-trapattoni",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Maschio",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-maschio",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Rivera",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-rivera",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Bulgarelli",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-bulgarelli",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ferrini",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-ferrini",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sívori",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-sivori",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Altafini",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-altafini",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Pascutti",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-pascutti",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mora",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-mora",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Menichelli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-menichelli",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sormani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1962-sormani",
+    "team": "Itália",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Carbajal",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-carbajal",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Gómez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-j-gomez",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mota",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-mota",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Cárdenas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-cardenas",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sepúlveda",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-sepulveda",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Villegas",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-villegas",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Del Muro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-del-muro",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Jáuregui",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-jauregui",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Chaires",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-chaires",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Reyes",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-reyes",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Nájera",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-najera",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Farfán",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-farfan",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "P. Romero",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-p-romero",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Velarde",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-velarde",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "H. Hernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-h-hernandez",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Isidoro Díaz",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-isidoro-diaz",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Del Águila",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-del-aguila",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ortiz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-ortiz",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Jasso",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-jasso",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Hernández",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-a-hernandez",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ruvalcaba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-ruvalcaba",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Baeza",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1962-baeza",
+    "team": "México",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Yashin",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-yashin",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Maslachenko",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-maslachenko",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Kotrikadze",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-kotrikadze",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Voronin",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-voronin",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Maslyonkin",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-maslyonkin",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Shesternyov",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-shesternyov",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Dubinski",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-dubinski",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Chokheli",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-chokheli",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ostrovskiy",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-ostrovskiy",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "V. Ivanov",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-v-ivanov",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Netto",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-netto",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Sabo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-sabo",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Manoshin",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-manoshin",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Metreveli",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-metreveli",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ponedelnik",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-ponedelnik",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Meskhi",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-meskhi",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Chislenko",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-chislenko",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Khusainov",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-khusainov",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Gusarov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-gusarov",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mamykin",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-mamykin",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Serebryanikov",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-serebryanikov",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Kanevski",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1962-kanevski",
+    "team": "União Soviética",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Šoškić",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-soskic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Krivokuća",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-krivokuca",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Stojanović",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-stojanovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Jusufi",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-jusufi",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Durković",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-durkovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Šijaković",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-sijakovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Nikolić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-nikolic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Svinjarević",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-svinjarevic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Šekularac",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-sekularac",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Radaković",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-radakovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Marković",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-markovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "V. Popović",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-v-popovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Matuš",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-matus",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Melić",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-melic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Jerković",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-jerkovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Galić",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-galic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Skoblar",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-skoblar",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Anković",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-ankovic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Mujić",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-mujic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Kovačević",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-kovacevic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Stipić",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-stipic",
+    "team": "Iugoslávia",
+    "year": 1962,
+    "comp": "wc"
+  },
+  {
+    "name": "Ivoš",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1962-ivos",
+    "team": "Iugoslávia",
     "year": 1962,
     "comp": "wc"
   }

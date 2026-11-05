@@ -52,5 +52,28 @@
       "lib-palmeiras-2020-lucas-lima",
       "lib-palmeiras-2020-willian"
     ]
+  },
+  {
+    "name": "Santos",
+    "year": 2020,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2020_Copa_Libertadores_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-santos-2020-john",
+      "lib-santos-2020-para",
+      "lib-santos-2020-lucas-verissimo",
+      "lib-santos-2020-luan-peres",
+      "lib-santos-2020-felipe-jonatan",
+      "lib-santos-2020-sandry",
+      "lib-santos-2020-diego-pituca",
+      "lib-santos-2020-alison",
+      "lib-santos-2020-marinho",
+      "lib-santos-2020-kaio-jorge",
+      "lib-santos-2020-yeferson-soteldo"
+    ]
   }
 ]

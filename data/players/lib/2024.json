@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 47,
+      "vel": 48,
       "fin": 19,
-      "pas": 61,
-      "dri": 29,
-      "def": 25,
-      "fis": 77,
-      "ref": 87,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 74,
-      "one": 85
+      "pas": 62,
+      "dri": 30,
+      "def": 26,
+      "fis": 79,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 76,
+      "one": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-botafogo-2024-john",
     "team": "Botafogo",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 73,
-      "fin": 42,
-      "pas": 68,
-      "dri": 67,
-      "def": 72,
-      "fis": 70
+      "vel": 75,
+      "fin": 43,
+      "pas": 70,
+      "dri": 69,
+      "def": 74,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-botafogo-2024-vitinho",
     "team": "Botafogo",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 61,
-      "fin": 30,
-      "pas": 62,
-      "dri": 43,
-      "def": 84,
-      "fis": 80
+      "vel": 63,
+      "fin": 31,
+      "pas": 64,
+      "dri": 44,
+      "def": 86,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-botafogo-2024-adryelson",
     "team": "Botafogo",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 64,
-      "fin": 35,
-      "pas": 66,
-      "dri": 50,
-      "def": 84,
-      "fis": 84
+      "vel": 66,
+      "fin": 36,
+      "pas": 68,
+      "dri": 51,
+      "def": 86,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-botafogo-2024-alexander-barboza",
     "team": "Botafogo",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 75,
-      "fin": 45,
-      "pas": 71,
-      "dri": 72,
-      "def": 75,
-      "fis": 75
+      "vel": 77,
+      "fin": 46,
+      "pas": 73,
+      "dri": 74,
+      "def": 77,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-botafogo-2024-alex-telles",
     "team": "Botafogo",
@@ -115,16 +115,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 62,
-      "fin": 49,
-      "pas": 76,
-      "dri": 67,
-      "def": 79,
-      "fis": 78
+      "vel": 64,
+      "fin": 50,
+      "pas": 78,
+      "dri": 69,
+      "def": 81,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-botafogo-2024-marlon-freitas",
     "team": "Botafogo",
@@ -136,16 +136,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 61,
-      "fin": 48,
-      "pas": 75,
-      "dri": 63,
-      "def": 78,
-      "fis": 75
+      "vel": 63,
+      "fin": 49,
+      "pas": 77,
+      "dri": 65,
+      "def": 80,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-botafogo-2024-gregore",
     "team": "Botafogo",
@@ -157,16 +157,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 73,
-      "fin": 77,
-      "pas": 85,
-      "dri": 87,
-      "def": 41,
-      "fis": 66
+      "vel": 75,
+      "fin": 79,
+      "pas": 87,
+      "dri": 89,
+      "def": 42,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "lib-botafogo-2024-thiago-almada",
     "team": "Botafogo",
@@ -178,16 +178,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 75,
-      "fin": 76,
-      "pas": 88,
-      "dri": 86,
-      "def": 38,
-      "fis": 66
+      "vel": 77,
+      "fin": 78,
+      "pas": 90,
+      "dri": 88,
+      "def": 39,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-botafogo-2024-jefferson-savarino",
     "team": "Botafogo",
@@ -200,16 +200,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 89,
-      "fin": 82,
-      "pas": 80,
-      "dri": 89,
-      "def": 41,
-      "fis": 73
+      "vel": 91,
+      "fin": 84,
+      "pas": 82,
+      "dri": 91,
+      "def": 42,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "lib-botafogo-2024-luiz-henrique",
     "team": "Botafogo",
@@ -221,16 +221,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 77,
-      "fin": 88,
-      "pas": 64,
-      "dri": 74,
-      "def": 32,
-      "fis": 79
+      "vel": 79,
+      "fin": 90,
+      "pas": 66,
+      "dri": 76,
+      "def": 33,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-botafogo-2024-igor-jesus",
     "team": "Botafogo",
@@ -242,22 +242,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 36,
+      "vel": 37,
       "fin": 9,
-      "pas": 53,
-      "dri": 22,
+      "pas": 54,
+      "dri": 23,
       "def": 16,
-      "fis": 69,
-      "ref": 77,
-      "han": 73,
-      "pos": 75,
-      "div": 76,
-      "kic": 64,
-      "one": 75
+      "fis": 71,
+      "ref": 79,
+      "han": 75,
+      "pos": 77,
+      "div": 78,
+      "kic": 66,
+      "one": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-botafogo-2024-gatito-fernandez",
     "team": "Botafogo",
@@ -269,16 +269,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 55,
+      "vel": 56,
       "fin": 27,
-      "pas": 55,
-      "dri": 41,
-      "def": 74,
-      "fis": 75
+      "pas": 56,
+      "dri": 42,
+      "def": 75,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-botafogo-2024-lucas-halter",
     "team": "Botafogo",
@@ -291,16 +291,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 72,
-      "fin": 39,
-      "pas": 68,
-      "dri": 65,
-      "def": 69,
-      "fis": 67
+      "vel": 74,
+      "fin": 40,
+      "pas": 70,
+      "dri": 67,
+      "def": 71,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-botafogo-2024-marcal",
     "team": "Botafogo",
@@ -313,16 +313,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 75,
-      "fin": 42,
-      "pas": 71,
-      "dri": 68,
-      "def": 72,
-      "fis": 70
+      "vel": 77,
+      "fin": 43,
+      "pas": 73,
+      "dri": 70,
+      "def": 74,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-botafogo-2024-cuiabano",
     "team": "Botafogo",
@@ -335,16 +335,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 60,
-      "fin": 44,
-      "pas": 72,
-      "dri": 62,
-      "def": 72,
-      "fis": 71
+      "vel": 62,
+      "fin": 45,
+      "pas": 74,
+      "dri": 64,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-botafogo-2024-danilo-barbosa",
     "team": "Botafogo",
@@ -357,16 +357,16 @@
       "MC",
       "LD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 68,
-      "fin": 61,
-      "pas": 80,
-      "dri": 74,
-      "def": 62,
-      "fis": 70
+      "vel": 70,
+      "fin": 63,
+      "pas": 82,
+      "dri": 76,
+      "def": 64,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-botafogo-2024-tche-tche",
     "team": "Botafogo",
@@ -379,16 +379,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 61,
-      "fin": 44,
-      "pas": 73,
-      "dri": 63,
-      "def": 73,
-      "fis": 72
+      "vel": 63,
+      "fin": 45,
+      "pas": 75,
+      "dri": 65,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-botafogo-2024-allan",
     "team": "Botafogo",
@@ -400,16 +400,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 72,
-      "fin": 73,
-      "pas": 85,
-      "dri": 82,
-      "def": 36,
-      "fis": 64
+      "vel": 74,
+      "fin": 75,
+      "pas": 87,
+      "dri": 84,
+      "def": 37,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-botafogo-2024-eduardo",
     "team": "Botafogo",
@@ -421,16 +421,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 68,
-      "fin": 69,
-      "pas": 81,
-      "dri": 78,
-      "def": 32,
-      "fis": 60
+      "vel": 70,
+      "fin": 71,
+      "pas": 83,
+      "dri": 80,
+      "def": 33,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-botafogo-2024-oscar-romero",
     "team": "Botafogo",
@@ -442,16 +442,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 73,
-      "fin": 83,
-      "pas": 62,
-      "dri": 72,
-      "def": 31,
-      "fis": 77
+      "vel": 75,
+      "fin": 85,
+      "pas": 64,
+      "dri": 74,
+      "def": 32,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-botafogo-2024-tiquinho-soares",
     "team": "Botafogo",
@@ -464,16 +464,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 84,
-      "fin": 76,
-      "pas": 75,
-      "dri": 84,
-      "def": 35,
-      "fis": 69
+      "vel": 86,
+      "fin": 78,
+      "pas": 77,
+      "dri": 86,
+      "def": 36,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-botafogo-2024-junior-santos",
     "team": "Botafogo",
@@ -485,19 +485,245 @@
     "positions": [
       "PE"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 70,
-      "pas": 70,
-      "dri": 78,
-      "def": 30,
-      "fis": 63
+      "vel": 80,
+      "fin": 72,
+      "pas": 72,
+      "dri": 80,
+      "def": 31,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-botafogo-2024-matheus-martins",
     "team": "Botafogo",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Everson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-everson",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Lyanco",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-lyanco",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Rodrigo Battaglia",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-rodrigo-battaglia",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Júnior Alonso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-junior-alonso",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Hulk",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-hulk",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Fausto Vera",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-fausto-vera",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Alan Franco",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-alan-franco",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Guilherme Arana",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-guilherme-arana",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Gustavo Scarpa",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-gustavo-scarpa",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Paulinho",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-paulinho",
+    "team": "Atlético-MG",
+    "year": 2024,
+    "comp": "lib"
+  },
+  {
+    "name": "Deyverson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-atletico-mg-2024-deyverson",
+    "team": "Atlético-MG",
     "year": 2024,
     "comp": "lib"
   }

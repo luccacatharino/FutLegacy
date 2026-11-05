@@ -41,5 +41,33 @@
       "ucl-milan-1989-roberto-mussi",
       "ucl-milan-1989-davide-pinato"
     ]
+  },
+  {
+    "name": "Steaua Bucareste",
+    "year": 1989,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1989_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-steaua-bucareste-1989-silviu-lung",
+      "ucl-steaua-bucareste-1989-dan-petrescu",
+      "ucl-steaua-bucareste-1989-nicolae-ungureanu",
+      "ucl-steaua-bucareste-1989-adrian-bumbescu",
+      "ucl-steaua-bucareste-1989-tudorel-stoica",
+      "ucl-steaua-bucareste-1989-stefan-iovan",
+      "ucl-steaua-bucareste-1989-marius-lacatus",
+      "ucl-steaua-bucareste-1989-daniel-minea",
+      "ucl-steaua-bucareste-1989-victor-piturca",
+      "ucl-steaua-bucareste-1989-gheorghe-hagi",
+      "ucl-steaua-bucareste-1989-iosif-rotariu",
+      "ucl-steaua-bucareste-1989-gheorghe-liliac",
+      "ucl-steaua-bucareste-1989-petre-bunaciu",
+      "ucl-steaua-bucareste-1989-gabi-balint",
+      "ucl-steaua-bucareste-1989-lucian-balan",
+      "ucl-steaua-bucareste-1989-adrian-negrau"
+    ]
   }
 ]

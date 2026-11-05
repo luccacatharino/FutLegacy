@@ -50,5 +50,28 @@
       "lib-internacional-2006-renan",
       "lib-internacional-2006-edigle"
     ]
+  },
+  {
+    "name": "São Paulo",
+    "year": 2006,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2006_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-sao-paulo-2006-rogerio-ceni",
+      "lib-sao-paulo-2006-fabao",
+      "lib-sao-paulo-2006-diego-lugano",
+      "lib-sao-paulo-2006-edcarlos",
+      "lib-sao-paulo-2006-leandro",
+      "lib-sao-paulo-2006-josue",
+      "lib-sao-paulo-2006-mineiro",
+      "lib-sao-paulo-2006-junior",
+      "lib-sao-paulo-2006-souza",
+      "lib-sao-paulo-2006-danilo",
+      "lib-sao-paulo-2006-ricardo-oliveira"
+    ]
   }
 ]

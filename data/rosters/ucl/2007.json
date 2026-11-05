@@ -43,5 +43,28 @@
       "ucl-milan-2007-giuseppe-favalli",
       "ucl-milan-2007-zeljko-kalac"
     ]
+  },
+  {
+    "name": "Liverpool",
+    "year": 2007,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2007_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-liverpool-2007-pepe-reina",
+      "ucl-liverpool-2007-steve-finnan",
+      "ucl-liverpool-2007-jamie-carragher",
+      "ucl-liverpool-2007-daniel-agger",
+      "ucl-liverpool-2007-john-arne-riise",
+      "ucl-liverpool-2007-xabi-alonso",
+      "ucl-liverpool-2007-javier-mascherano",
+      "ucl-liverpool-2007-jermaine-pennant",
+      "ucl-liverpool-2007-boudewijn-zenden",
+      "ucl-liverpool-2007-steven-gerrard",
+      "ucl-liverpool-2007-dirk-kuyt"
+    ]
   }
 ]

@@ -41,5 +41,33 @@
       "ucl-juventus-1996-sergio-porrini",
       "ucl-juventus-1996-michelangelo-rampulla"
     ]
+  },
+  {
+    "name": "Ajax",
+    "year": 1996,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1996_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-ajax-1996-edwin-van-der-sar",
+      "ucl-ajax-1996-sonny-silooy",
+      "ucl-ajax-1996-danny-blind",
+      "ucl-ajax-1996-frank-de-boer",
+      "ucl-ajax-1996-winston-bogarde",
+      "ucl-ajax-1996-ronald-de-boer",
+      "ucl-ajax-1996-finidi-george",
+      "ucl-ajax-1996-edgar-davids",
+      "ucl-ajax-1996-nwankwo-kanu",
+      "ucl-ajax-1996-jari-litmanen",
+      "ucl-ajax-1996-kiki-musampa",
+      "ucl-ajax-1996-fred-grim",
+      "ucl-ajax-1996-arnold-scholten",
+      "ucl-ajax-1996-dave-van-den-bergh",
+      "ucl-ajax-1996-patrick-kluivert",
+      "ucl-ajax-1996-nordin-wooter"
+    ]
   }
 ]

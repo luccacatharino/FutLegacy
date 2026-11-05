@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 43,
+      "vel": 44,
       "fin": 14,
-      "pas": 66,
-      "dri": 41,
+      "pas": 68,
+      "dri": 42,
       "def": 21,
-      "fis": 77,
-      "ref": 88,
-      "han": 84,
-      "pos": 85,
-      "div": 86,
-      "kic": 71,
-      "one": 83
+      "fis": 79,
+      "ref": 90,
+      "han": 86,
+      "pos": 87,
+      "div": 88,
+      "kic": 73,
+      "one": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-brasil-1958-gilmar",
     "team": "Brasil",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 89,
-      "fin": 64,
-      "pas": 80,
-      "dri": 84,
-      "def": 81,
-      "fis": 80
+      "vel": 91,
+      "fin": 66,
+      "pas": 82,
+      "dri": 86,
+      "def": 83,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-brasil-1958-djalma-santos",
     "team": "Brasil",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 65,
-      "fin": 49,
-      "pas": 65,
-      "dri": 54,
-      "def": 82,
-      "fis": 83
+      "vel": 67,
+      "fin": 50,
+      "pas": 67,
+      "dri": 55,
+      "def": 84,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-brasil-1958-bellini",
     "team": "Brasil",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 65,
-      "fin": 42,
-      "pas": 65,
-      "dri": 47,
-      "def": 82,
-      "fis": 83
+      "vel": 67,
+      "fin": 43,
+      "pas": 67,
+      "dri": 48,
+      "def": 84,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-brasil-1958-orlando",
     "team": "Brasil",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 90,
-      "fin": 65,
-      "pas": 81,
-      "dri": 85,
-      "def": 82,
-      "fis": 81
+      "vel": 92,
+      "fin": 67,
+      "pas": 83,
+      "dri": 87,
+      "def": 84,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-brasil-1958-nilton-santos",
     "team": "Brasil",
@@ -116,16 +116,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 75,
-      "fin": 65,
-      "pas": 81,
-      "dri": 77,
-      "def": 80,
-      "fis": 80
+      "vel": 77,
+      "fin": 67,
+      "pas": 83,
+      "dri": 79,
+      "def": 82,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "wc-brasil-1958-zito",
     "team": "Brasil",
@@ -138,16 +138,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 81,
-      "fin": 77,
-      "pas": 93,
-      "dri": 87,
-      "def": 74,
-      "fis": 78
+      "vel": 83,
+      "fin": 79,
+      "pas": 95,
+      "dri": 89,
+      "def": 76,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-brasil-1958-didi",
     "team": "Brasil",
@@ -160,16 +160,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 90,
+    "ovr": 92,
     "attrs": {
-      "vel": 90,
-      "fin": 80,
-      "pas": 82,
-      "dri": 93,
-      "def": 48,
-      "fis": 76
+      "vel": 92,
+      "fin": 82,
+      "pas": 84,
+      "dri": 95,
+      "def": 49,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 96,
     "id": "wc-brasil-1958-garrincha",
     "team": "Brasil",
@@ -182,16 +182,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 91,
+    "ovr": 93,
     "attrs": {
-      "vel": 87,
-      "fin": 91,
-      "pas": 88,
-      "dri": 91,
-      "def": 45,
-      "fis": 80
+      "vel": 89,
+      "fin": 93,
+      "pas": 90,
+      "dri": 93,
+      "def": 46,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 97,
     "id": "wc-brasil-1958-pele",
     "team": "Brasil",
@@ -203,16 +203,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 80,
-      "fin": 89,
-      "pas": 70,
-      "dri": 79,
-      "def": 43,
-      "fis": 81
+      "vel": 82,
+      "fin": 91,
+      "pas": 72,
+      "dri": 81,
+      "def": 44,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-brasil-1958-vava",
     "team": "Brasil",
@@ -225,16 +225,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 85,
-      "fin": 83,
-      "pas": 82,
-      "dri": 86,
-      "def": 40,
-      "fis": 68
+      "vel": 87,
+      "fin": 85,
+      "pas": 84,
+      "dri": 88,
+      "def": 41,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "wc-brasil-1958-zagallo",
     "team": "Brasil",
@@ -246,22 +246,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 58,
+      "pas": 59,
       "dri": 26,
       "def": 13,
-      "fis": 69,
-      "ref": 77,
-      "han": 73,
-      "pos": 74,
-      "div": 75,
-      "kic": 60,
-      "one": 72
+      "fis": 70,
+      "ref": 78,
+      "han": 74,
+      "pos": 75,
+      "div": 76,
+      "kic": 61,
+      "one": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-suecia-1958-kalle-svensson",
     "team": "Suécia",
@@ -273,16 +273,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 78,
-      "fin": 54,
-      "pas": 76,
-      "dri": 73,
-      "def": 77,
-      "fis": 69
+      "vel": 80,
+      "fin": 55,
+      "pas": 78,
+      "dri": 75,
+      "def": 79,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-suecia-1958-orvar-bergmark",
     "team": "Suécia",
@@ -294,16 +294,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 58,
-      "fin": 42,
-      "pas": 58,
-      "dri": 47,
-      "def": 75,
-      "fis": 76
+      "vel": 59,
+      "fin": 43,
+      "pas": 59,
+      "dri": 48,
+      "def": 76,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-suecia-1958-bengt-gustavsson",
     "team": "Suécia",
@@ -315,16 +315,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 75,
-      "fin": 50,
-      "pas": 66,
-      "dri": 70,
-      "def": 67,
-      "fis": 66
+      "vel": 76,
+      "fin": 51,
+      "pas": 67,
+      "dri": 71,
+      "def": 68,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "wc-suecia-1958-sven-axbom",
     "team": "Suécia",
@@ -337,16 +337,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 64,
-      "fin": 54,
-      "pas": 70,
-      "dri": 66,
-      "def": 76,
-      "fis": 69
+      "vel": 65,
+      "fin": 55,
+      "pas": 71,
+      "dri": 67,
+      "def": 77,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-suecia-1958-reino-borjesson",
     "team": "Suécia",
@@ -359,16 +359,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 68,
-      "fin": 52,
-      "pas": 75,
-      "dri": 65,
-      "def": 74,
-      "fis": 74
+      "vel": 69,
+      "fin": 53,
+      "pas": 76,
+      "dri": 66,
+      "def": 75,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-suecia-1958-sigge-parling",
     "team": "Suécia",
@@ -381,16 +381,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 87,
-      "fin": 78,
-      "pas": 77,
-      "dri": 88,
-      "def": 35,
-      "fis": 70
+      "vel": 89,
+      "fin": 80,
+      "pas": 79,
+      "dri": 90,
+      "def": 36,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-suecia-1958-kurt-hamrin",
     "team": "Suécia",
@@ -403,16 +403,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 77,
-      "fin": 72,
-      "pas": 83,
-      "dri": 85,
-      "def": 39,
-      "fis": 67
+      "vel": 79,
+      "fin": 74,
+      "pas": 85,
+      "dri": 87,
+      "def": 40,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-suecia-1958-gunnar-gren",
     "team": "Suécia",
@@ -424,16 +424,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 75,
-      "fin": 84,
-      "pas": 65,
-      "dri": 74,
-      "def": 38,
-      "fis": 76
+      "vel": 77,
+      "fin": 86,
+      "pas": 67,
+      "dri": 76,
+      "def": 39,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-suecia-1958-agne-simonsson",
     "team": "Suécia",
@@ -446,16 +446,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 80,
-      "fin": 70,
-      "pas": 88,
-      "dri": 80,
-      "def": 67,
-      "fis": 71
+      "vel": 82,
+      "fin": 72,
+      "pas": 90,
+      "dri": 82,
+      "def": 69,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-suecia-1958-nils-liedholm",
     "team": "Suécia",
@@ -468,19 +468,4642 @@
       "PE",
       "ME"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 88,
-      "fin": 79,
-      "pas": 78,
-      "dri": 82,
-      "def": 36,
-      "fis": 64
+      "vel": 90,
+      "fin": 81,
+      "pas": 80,
+      "dri": 84,
+      "def": 37,
+      "fis": 66
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-suecia-1958-lennart-skoglund",
     "team": "Suécia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Carrizo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-carrizo",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Musimessi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-musimessi",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramos Delgado",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-ramos-delgado",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Dellacha",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-dellacha",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Vairo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-vairo",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Lombardo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-lombardo",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Pérez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-perez",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Edwards",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-edwards",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Acevedo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-acevedo",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Rossi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-rossi",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Varacka",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-varacka",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Mouriño",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-mourino",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Labruna",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-labruna",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Corbatta",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-corbatta",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Sanfilippo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-sanfilippo",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Menéndez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-menendez",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Prado",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-prado",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Infante",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-infante",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Rojas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-rojas",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Cruz",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-cruz",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Avio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-avio",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Boggio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-1958-boggio",
+    "team": "Argentina",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "McDonald",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-mcdonald",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Hopkinson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-hopkinson",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Hodgkinson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-hodgkinson",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Wright",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-wright",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Howe",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-howe",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Banks",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-banks",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Norman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-norman",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Sillett",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-sillett",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Haynes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-haynes",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "B. Charlton",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-b-charlton",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Robson",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-robson",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Slater",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-slater",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Clamp",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-clamp",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Clayton",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-clayton",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Broadbent",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-broadbent",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Setters",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-setters",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Finney",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-finney",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Douglas",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-douglas",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kevan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-kevan",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Smith",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-smith",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Brabrook",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-brabrook",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "A'Court",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1958-a-court",
+    "team": "Inglaterra",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Remetter",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-remetter",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Abbès",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-abbes",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Colonna",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-colonna",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Marche",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-marche",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kaelbel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-kaelbel",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Lerond",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-lerond",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Mouynet",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-mouynet",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kopa",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-kopa",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Jonquet",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-jonquet",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Piantoni",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-piantoni",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Marcel",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-marcel",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Penverne",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-penverne",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Vincent",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-vincent",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Oliver",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-oliver",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Chiarelli",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-chiarelli",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Lafont",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-lafont",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Hnatow",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-hnatow",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bellot",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-bellot",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Fontaine",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-fontaine",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Douis",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-douis",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Wisnieski",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-wisnieski",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bruey",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1958-bruey",
+    "team": "França",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Herkenrath",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-herkenrath",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kwiatkowski",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-kwiatkowski",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Erhardt",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-erhardt",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Juskowiak",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-juskowiak",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Schnellinger",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-schnellinger",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Stollenwerk",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-stollenwerk",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Wewers",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-wewers",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Walter",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-f-walter",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Schäfer",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-schafer",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Eckel",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-eckel",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Szymaniak",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-szymaniak",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Schmidt",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-schmidt",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Rahn",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-rahn",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Seeler",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-seeler",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Klodt",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-klodt",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kelbassa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-kelbassa",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Cieslarczyk",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-cieslarczyk",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Sturm",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1958-sturm",
+    "team": "Alemanha",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Grosics",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-grosics",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Ilku",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-ilku",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Mátrai",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-matrai",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Sárosi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-l-sarosi",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kárpáti",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-karpati",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Szigeti",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-szigeti",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bozsik",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-bozsik",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Hidegkuti",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-hidegkuti",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Sipos",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-sipos",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Berendy",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-berendy",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Szojka",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-szojka",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kotász",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-kotasz",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Tichy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-tichy",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Budai",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-budai",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Sándor",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-k-sandor",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Fenyvesi",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-fenyvesi",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bundzsák",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-bundzsak",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Monostori",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-monostori",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Lachos",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-lachos",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Vasas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-vasas",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Friedmanszky",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-friedmanszky",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bencsics",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-hungria-1958-bencsics",
+    "team": "Hungria",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Gregg",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-gregg",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Uprichard",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-uprichard",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Rea",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-rea",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "McMichael",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-mcmichael",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Cunningham",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-cunningham",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Keith",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-keith",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Graham",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-graham",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Hamill",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-hamill",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Blanchflower",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-blanchflower",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "McIlroy",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-mcilroy",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Peacock",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-peacock",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Cush",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-cush",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Casey",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-casey",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Chapman",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-chapman",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "McParland",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-mcparland",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bingham",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-bingham",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Simpson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-simpson",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Dougan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-dougan",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Scott",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-scott",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "McCrory",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-mccrory",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Coyle",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-coyle",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Trainor",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-irlanda-do-norte-1958-trainor",
+    "team": "Irlanda do Norte",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Mayeregger",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-mayeregger",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Aguilar",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-aguilar",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Arévalo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-arevalo",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Achúcarro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-achucarro",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Echagüe",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-echague",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Gini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-gini",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Segovia",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-segovia",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Miranda",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-miranda",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Aguilera",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-aguilera",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Villalba",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-villalba",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Lezcano",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-j-lezcano",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Santos Silva",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-santos-silva",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Agüero",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-aguero",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Ré",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-re",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Amarilla",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-amarilla",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Romero",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-romero",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Parodi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-parodi",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Penayo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-penayo",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Aveiro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-aveiro",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Lezcano",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-c-lezcano",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Insfrán",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-e-insfran",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "El. Insfrán",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-1958-el-insfran",
+    "team": "Paraguai",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Yashin",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-yashin",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Maslachenko",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-maslachenko",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Belyayev",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-belyayev",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kuznetsov",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-kuznetsov",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kesarev",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-kesarev",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Ostrovskiy",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-ostrovskiy",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Yerokhin",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-yerokhin",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Netto",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-netto",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "V. Ivanov",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-v-ivanov",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Voinov",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-voinov",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Salnikov",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-salnikov",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Krizhevsky",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-krizhevsky",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Maslyonkin",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-maslyonkin",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bubukin",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-bubukin",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Tsarev",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-tsarev",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Fedosov",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-fedosov",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Falin",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-falin",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Simonyan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-simonyan",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Ilyin",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-ilyin",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Gusarov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-gusarov",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Apukhtin",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-apukhtin",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Ivanov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uniao-sovietica-1958-a-ivanov",
+    "team": "União Soviética",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Kelsey",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-kelsey",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Vearncombe",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-vearncombe",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Jones",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-k-jones",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Williams",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-s-williams",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Hopkins",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-hopkins",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Sullivan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-sullivan",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Edwards",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-t-edwards",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Baker",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-c-baker",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "I. Allchurch",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-i-allchurch",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Charles",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-m-charles",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Bowen",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-bowen",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Vernon",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-vernon",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Hewitt",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-hewitt",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Crowe",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-crowe",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Elsworthy",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-elsworthy",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Charles",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-j-charles",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Jones",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-c-jones",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Medwin",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-medwin",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Webster",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-webster",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Allchurch",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-l-allchurch",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Leek",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-leek",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Baker",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-pais-de-gales-1958-g-baker",
+    "team": "País de Gales",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Beara",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-beara",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Krivokuća",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-krivokuca",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Crnković",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-crnkovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Popović",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-popovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Šijaković",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-sijakovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Milorad Milutinović",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-milorad-milutinovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Tomić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-tomic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Boškov",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-boskov",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Zebec",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-zebec",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Šekularac",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-sekularac",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Krstić",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-krstic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Rajkov",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-rajkov",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Šantek",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-santek",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Veselinović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-veselinovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Milutinović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-m-milutinovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Petaković",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-petakovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Pašić",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-pasic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Lipošinović",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-liposinovic",
+    "team": "Iugoslávia",
+    "year": 1958,
+    "comp": "wc"
+  },
+  {
+    "name": "Ognjanović",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1958-ognjanovic",
+    "team": "Iugoslávia",
     "year": 1958,
     "comp": "wc"
   }

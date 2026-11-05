@@ -43,5 +43,30 @@
       "lib-atletico-nacional-1989-niver-arboleda",
       "lib-atletico-nacional-1989-john-jairo-trellez"
     ]
+  },
+  {
+    "name": "Olimpia",
+    "year": 1989,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1989_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-olimpia-1989-ever-almeida",
+      "lib-olimpia-1989-fidel-mino",
+      "lib-olimpia-1989-gustavo-benitez",
+      "lib-olimpia-1989-herib-chamas",
+      "lib-olimpia-1989-roberto-krausemann",
+      "lib-olimpia-1989-jorge-guasch",
+      "lib-olimpia-1989-vidal-sanabria",
+      "lib-olimpia-1989-rafael-bobadilla",
+      "lib-olimpia-1989-gustavo-neffa",
+      "lib-olimpia-1989-raul-amarilla",
+      "lib-olimpia-1989-alfredo-mendoza",
+      "lib-olimpia-1989-gabriel-gonzalez",
+      "lib-olimpia-1989-fermin-balbuena"
+    ]
   }
 ]

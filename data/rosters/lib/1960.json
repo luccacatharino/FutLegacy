@@ -41,5 +41,28 @@
       "lib-penarol-1960-carlos-borges",
       "lib-penarol-1960-jose-mario-griecco"
     ]
+  },
+  {
+    "name": "Olimpia",
+    "year": 1960,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1960_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-olimpia-1960-herminio-arias",
+      "lib-olimpia-1960-edelmiro-arevalo",
+      "lib-olimpia-1960-juan-vicente-lezcano",
+      "lib-olimpia-1960-mariano-osorio",
+      "lib-olimpia-1960-claudio-lezcano",
+      "lib-olimpia-1960-pascual-rojas",
+      "lib-olimpia-1960-vicente-rodriguez",
+      "lib-olimpia-1960-hipolito-recalde",
+      "lib-olimpia-1960-luis-doldan",
+      "lib-olimpia-1960-pedro-antonio-cabral",
+      "lib-olimpia-1960-teovaldo-melgarejo"
+    ]
   }
 ]

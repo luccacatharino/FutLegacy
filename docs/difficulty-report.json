@@ -1,19 +1,19 @@
 {
   "matches": 900,
   "previous": {
-    "wins": 387,
-    "draws": 201,
+    "wins": 404,
+    "draws": 189,
     "goals": [
-      1661,
-      1459
+      1498,
+      1299
     ]
   },
   "current": {
-    "wins": 433,
-    "draws": 201,
+    "wins": 429,
+    "draws": 192,
     "goals": [
-      1772,
-      1355
+      1571,
+      1236
     ]
   },
   "oldEfficiency": 0.98,

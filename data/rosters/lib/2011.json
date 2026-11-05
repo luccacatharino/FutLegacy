@@ -52,5 +52,28 @@
       "lib-santos-2011-vladimir",
       "lib-santos-2011-maikon-leite"
     ]
+  },
+  {
+    "name": "Peñarol",
+    "year": 2011,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2011_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-penarol-2011-sebastian-sosa",
+      "lib-penarol-2011-dario-rodriguez",
+      "lib-penarol-2011-guillermo-rodriguez",
+      "lib-penarol-2011-carlos-valdez",
+      "lib-penarol-2011-alejandro-gonzalez",
+      "lib-penarol-2011-luis-aguiar",
+      "lib-penarol-2011-nicolas-freitas",
+      "lib-penarol-2011-matias-mier",
+      "lib-penarol-2011-matias-corujo",
+      "lib-penarol-2011-juan-manuel-olivera",
+      "lib-penarol-2011-alejandro-martinuccio"
+    ]
   }
 ]

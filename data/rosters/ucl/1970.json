@@ -41,5 +41,33 @@
       "ucl-feyenoord-1970-guus-haak",
       "ucl-feyenoord-1970-piet-vrauwdeunt"
     ]
+  },
+  {
+    "name": "Celtic",
+    "year": 1970,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1970_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-celtic-1970-evan-williams",
+      "ucl-celtic-1970-david-hay",
+      "ucl-celtic-1970-billy-mcneill",
+      "ucl-celtic-1970-jim-brogan",
+      "ucl-celtic-1970-tommy-gemmell",
+      "ucl-celtic-1970-bobby-murdoch",
+      "ucl-celtic-1970-bertie-auld",
+      "ucl-celtic-1970-jimmy-johnstone",
+      "ucl-celtic-1970-john-hughes",
+      "ucl-celtic-1970-willie-wallace",
+      "ucl-celtic-1970-bobby-lennox",
+      "ucl-celtic-1970-john-fallon",
+      "ucl-celtic-1970-jim-craig",
+      "ucl-celtic-1970-george-connelly",
+      "ucl-celtic-1970-tommy-callaghan",
+      "ucl-celtic-1970-harry-hood"
+    ]
   }
 ]

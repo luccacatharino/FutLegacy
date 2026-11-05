@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 47,
+      "vel": 48,
       "fin": 17,
-      "pas": 62,
-      "dri": 29,
-      "def": 22,
-      "fis": 77,
-      "ref": 87,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 74,
-      "one": 85
+      "pas": 63,
+      "dri": 30,
+      "def": 23,
+      "fis": 79,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 76,
+      "one": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-fluminense-2023-fabio",
     "team": "Fluminense",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 78,
-      "fin": 41,
-      "pas": 69,
-      "dri": 66,
-      "def": 71,
-      "fis": 69
+      "vel": 80,
+      "fin": 42,
+      "pas": 71,
+      "dri": 68,
+      "def": 73,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-fluminense-2023-samuel-xavier",
     "team": "Fluminense",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 62,
-      "fin": 35,
-      "pas": 63,
-      "dri": 48,
-      "def": 85,
-      "fis": 82
+      "vel": 63,
+      "fin": 36,
+      "pas": 65,
+      "dri": 49,
+      "def": 87,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-fluminense-2023-nino",
     "team": "Fluminense",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 57,
-      "fin": 29,
-      "pas": 59,
-      "dri": 43,
-      "def": 79,
-      "fis": 82
+      "vel": 58,
+      "fin": 30,
+      "pas": 60,
+      "dri": 44,
+      "def": 81,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-fluminense-2023-felipe-melo",
     "team": "Fluminense",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 76,
-      "fin": 43,
-      "pas": 72,
-      "dri": 72,
-      "def": 74,
-      "fis": 76
+      "vel": 78,
+      "fin": 44,
+      "pas": 74,
+      "dri": 74,
+      "def": 76,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-fluminense-2023-marcelo",
     "team": "Fluminense",
@@ -115,16 +115,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 67,
-      "fin": 59,
-      "pas": 82,
-      "dri": 74,
-      "def": 59,
-      "fis": 69
+      "vel": 69,
+      "fin": 60,
+      "pas": 84,
+      "dri": 76,
+      "def": 60,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-fluminense-2023-martinelli",
     "team": "Fluminense",
@@ -136,16 +136,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 69,
-      "fin": 50,
-      "pas": 78,
-      "dri": 70,
-      "def": 80,
-      "fis": 82
+      "vel": 71,
+      "fin": 51,
+      "pas": 80,
+      "dri": 72,
+      "def": 82,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-fluminense-2023-andre",
     "team": "Fluminense",
@@ -157,16 +157,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 89,
-      "fin": 78,
-      "pas": 80,
-      "dri": 89,
-      "def": 41,
-      "fis": 70
+      "vel": 91,
+      "fin": 80,
+      "pas": 82,
+      "dri": 91,
+      "def": 42,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "lib-fluminense-2023-jhon-arias",
     "team": "Fluminense",
@@ -178,16 +178,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 73,
-      "fin": 76,
-      "pas": 85,
-      "dri": 89,
-      "def": 39,
-      "fis": 65
+      "vel": 75,
+      "fin": 78,
+      "pas": 87,
+      "dri": 91,
+      "def": 40,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-fluminense-2023-ganso",
     "team": "Fluminense",
@@ -199,16 +199,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 84,
-      "fin": 76,
-      "pas": 75,
-      "dri": 86,
-      "def": 35,
-      "fis": 68
+      "vel": 86,
+      "fin": 78,
+      "pas": 77,
+      "dri": 88,
+      "def": 36,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-fluminense-2023-keno",
     "team": "Fluminense",
@@ -220,16 +220,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 80,
-      "fin": 92,
-      "pas": 68,
-      "dri": 79,
-      "def": 37,
-      "fis": 85
+      "vel": 82,
+      "fin": 94,
+      "pas": 70,
+      "dri": 81,
+      "def": 38,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "lib-fluminense-2023-german-cano",
     "team": "Fluminense",
@@ -241,16 +241,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 77,
-      "fin": 87,
-      "pas": 65,
-      "dri": 77,
-      "def": 30,
-      "fis": 78
+      "vel": 79,
+      "fin": 89,
+      "pas": 67,
+      "dri": 79,
+      "def": 31,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-fluminense-2023-john-kennedy",
     "team": "Fluminense",
@@ -262,22 +262,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 70,
+    "ovr": 71,
     "attrs": {
       "vel": 31,
       "fin": 9,
-      "pas": 48,
+      "pas": 49,
       "dri": 17,
       "def": 10,
-      "fis": 64,
-      "ref": 72,
-      "han": 68,
-      "pos": 70,
-      "div": 71,
-      "kic": 59,
-      "one": 70
+      "fis": 65,
+      "ref": 73,
+      "han": 69,
+      "pos": 71,
+      "div": 72,
+      "kic": 60,
+      "one": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 75,
     "id": "lib-fluminense-2023-pedro-rangel",
     "team": "Fluminense",
@@ -289,16 +289,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 56,
+      "vel": 57,
       "fin": 28,
-      "pas": 56,
-      "dri": 42,
-      "def": 75,
-      "fis": 76
+      "pas": 57,
+      "dri": 43,
+      "def": 76,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-fluminense-2023-marlon",
     "team": "Fluminense",
@@ -310,16 +310,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 72,
-      "fin": 39,
-      "pas": 68,
-      "dri": 64,
-      "def": 69,
-      "fis": 67
+      "vel": 74,
+      "fin": 40,
+      "pas": 70,
+      "dri": 66,
+      "def": 71,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-fluminense-2023-guga",
     "team": "Fluminense",
@@ -331,16 +331,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 64,
-      "def": 68,
-      "fis": 66
+      "vel": 72,
+      "fin": 39,
+      "pas": 68,
+      "dri": 65,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-fluminense-2023-diogo-barbosa",
     "team": "Fluminense",
@@ -352,16 +352,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 55,
+      "vel": 56,
       "fin": 27,
-      "pas": 55,
-      "dri": 41,
-      "def": 74,
-      "fis": 75
+      "pas": 56,
+      "dri": 42,
+      "def": 75,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-fluminense-2023-david-braz",
     "team": "Fluminense",
@@ -374,16 +374,16 @@
       "VOL",
       "LE"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 63,
-      "fin": 46,
-      "pas": 75,
-      "dri": 65,
-      "def": 75,
-      "fis": 74
+      "vel": 65,
+      "fin": 47,
+      "pas": 77,
+      "dri": 67,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-fluminense-2023-alexsander",
     "team": "Fluminense",
@@ -395,16 +395,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 65,
-      "fin": 66,
-      "pas": 78,
-      "dri": 75,
+      "vel": 66,
+      "fin": 67,
+      "pas": 79,
+      "dri": 76,
       "def": 30,
-      "fis": 57
+      "fis": 58
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-fluminense-2023-leo-fernandez",
     "team": "Fluminense",
@@ -416,16 +416,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 61,
-      "fin": 54,
-      "pas": 73,
-      "dri": 67,
-      "def": 55,
-      "fis": 63
+      "vel": 62,
+      "fin": 55,
+      "pas": 74,
+      "dri": 68,
+      "def": 56,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "lib-fluminense-2023-daniel",
     "team": "Fluminense",
@@ -437,16 +437,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 58,
-      "fin": 42,
-      "pas": 70,
-      "dri": 60,
-      "def": 70,
-      "fis": 69
+      "vel": 59,
+      "fin": 43,
+      "pas": 71,
+      "dri": 61,
+      "def": 71,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "lib-fluminense-2023-thiago-santos",
     "team": "Fluminense",
@@ -459,16 +459,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 66,
-      "fin": 59,
-      "pas": 78,
-      "dri": 72,
-      "def": 60,
-      "fis": 68
+      "vel": 68,
+      "fin": 61,
+      "pas": 80,
+      "dri": 74,
+      "def": 62,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-fluminense-2023-lima",
     "team": "Fluminense",
@@ -481,19 +481,245 @@
       "PD",
       "ATA"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 74,
-      "fin": 66,
-      "pas": 65,
-      "dri": 74,
+      "vel": 75,
+      "fin": 67,
+      "pas": 66,
+      "dri": 75,
       "def": 25,
-      "fis": 59
+      "fis": 60
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "lib-fluminense-2023-yony-gonzalez",
     "team": "Fluminense",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Sergio Romero",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-sergio-romero",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Advíncula",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-luis-advincula",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Nicolás Figal",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-nicolas-figal",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Nicolás Valentini",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-nicolas-valentini",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Frank Fabra",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-frank-fabra",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Ezequiel Fernández",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-ezequiel-fernandez",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Merentiel",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-miguel-merentiel",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Cristian Medina",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-cristian-medina",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Pol Fernández",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-pol-fernandez",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Valentín Barco",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-valentin-barco",
+    "team": "Boca Juniors",
+    "year": 2023,
+    "comp": "lib"
+  },
+  {
+    "name": "Edinson Cavani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-boca-juniors-2023-edinson-cavani",
+    "team": "Boca Juniors",
     "year": 2023,
     "comp": "lib"
   }

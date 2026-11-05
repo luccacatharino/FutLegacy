@@ -1,0 +1,15 @@
+{
+  "matches": 300,
+  "goals": 1064,
+  "averageGoals": 3.546666666666667,
+  "fouls": 5524,
+  "yellows": 1360,
+  "penalties": 155,
+  "corners": 906,
+  "speedModes": [
+    "Normal",
+    "Rápida (3x)"
+  ],
+  "stylesRemoved": true,
+  "motion": "formation and ball-dependent"
+}

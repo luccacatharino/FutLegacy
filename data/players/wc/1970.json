@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 62,
-      "dri": 30,
+      "pas": 64,
+      "dri": 31,
       "def": 17,
-      "fis": 67,
-      "ref": 80,
-      "han": 76,
-      "pos": 77,
-      "div": 78,
-      "kic": 63,
-      "one": 75
+      "fis": 69,
+      "ref": 82,
+      "han": 78,
+      "pos": 79,
+      "div": 80,
+      "kic": 65,
+      "one": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-brasil-1970-felix",
     "team": "Brasil",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 93,
-      "fin": 62,
-      "pas": 84,
-      "dri": 81,
-      "def": 85,
-      "fis": 78
+      "vel": 95,
+      "fin": 63,
+      "pas": 86,
+      "dri": 83,
+      "def": 87,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-brasil-1970-carlos-alberto",
     "team": "Brasil",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 60,
-      "fin": 44,
-      "pas": 60,
-      "dri": 49,
-      "def": 84,
-      "fis": 78
+      "vel": 62,
+      "fin": 45,
+      "pas": 62,
+      "dri": 50,
+      "def": 86,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-brasil-1970-brito",
     "team": "Brasil",
@@ -74,16 +74,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 62,
-      "fin": 46,
-      "pas": 69,
-      "dri": 51,
-      "def": 86,
-      "fis": 80
+      "vel": 64,
+      "fin": 47,
+      "pas": 71,
+      "dri": 52,
+      "def": 88,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-brasil-1970-piazza",
     "team": "Brasil",
@@ -95,16 +95,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 84,
-      "fin": 53,
-      "pas": 75,
-      "dri": 72,
-      "def": 76,
-      "fis": 69
+      "vel": 86,
+      "fin": 54,
+      "pas": 77,
+      "dri": 74,
+      "def": 78,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-brasil-1970-everaldo",
     "team": "Brasil",
@@ -117,16 +117,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 73,
-      "fin": 64,
-      "pas": 80,
-      "dri": 76,
-      "def": 79,
-      "fis": 79
+      "vel": 75,
+      "fin": 66,
+      "pas": 82,
+      "dri": 78,
+      "def": 81,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-brasil-1970-clodoaldo",
     "team": "Brasil",
@@ -139,16 +139,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 83,
-      "fin": 73,
-      "pas": 91,
-      "dri": 83,
-      "def": 70,
-      "fis": 80
+      "vel": 85,
+      "fin": 75,
+      "pas": 93,
+      "dri": 85,
+      "def": 72,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "wc-brasil-1970-gerson",
     "team": "Brasil",
@@ -161,16 +161,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 93,
-      "fin": 86,
-      "pas": 85,
-      "dri": 93,
-      "def": 43,
-      "fis": 78
+      "vel": 95,
+      "fin": 88,
+      "pas": 87,
+      "dri": 95,
+      "def": 44,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "wc-brasil-1970-jairzinho",
     "team": "Brasil",
@@ -192,7 +192,7 @@
       "def": 56,
       "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 98,
     "id": "wc-brasil-1970-pele",
     "team": "Brasil",
@@ -205,16 +205,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 87,
+    "ovr": 89,
     "attrs": {
-      "vel": 82,
-      "fin": 91,
-      "pas": 72,
-      "dri": 81,
-      "def": 45,
-      "fis": 83
+      "vel": 84,
+      "fin": 93,
+      "pas": 74,
+      "dri": 83,
+      "def": 46,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "wc-brasil-1970-tostao",
     "team": "Brasil",
@@ -227,16 +227,16 @@
       "ME",
       "MEI"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 91,
-      "fin": 83,
-      "pas": 85,
-      "dri": 91,
-      "def": 59,
-      "fis": 79
+      "vel": 93,
+      "fin": 85,
+      "pas": 87,
+      "dri": 93,
+      "def": 60,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-brasil-1970-rivellino",
     "team": "Brasil",
@@ -248,22 +248,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 62,
-      "dri": 30,
+      "pas": 64,
+      "dri": 31,
       "def": 17,
-      "fis": 73,
-      "ref": 81,
-      "han": 77,
-      "pos": 78,
-      "div": 79,
-      "kic": 64,
-      "one": 76
+      "fis": 75,
+      "ref": 83,
+      "han": 79,
+      "pos": 80,
+      "div": 81,
+      "kic": 66,
+      "one": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-italia-1970-enrico-albertosi",
     "team": "Itália",
@@ -276,16 +276,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 80,
-      "fin": 55,
-      "pas": 78,
-      "dri": 75,
-      "def": 79,
-      "fis": 71
+      "vel": 82,
+      "fin": 56,
+      "pas": 80,
+      "dri": 77,
+      "def": 81,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-italia-1970-tarcisio-burgnich",
     "team": "Itália",
@@ -297,16 +297,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 62,
-      "fin": 39,
-      "pas": 62,
-      "dri": 51,
-      "def": 79,
-      "fis": 80
+      "vel": 64,
+      "fin": 40,
+      "pas": 64,
+      "dri": 52,
+      "def": 81,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-italia-1970-roberto-rosato",
     "team": "Itália",
@@ -319,16 +319,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 62,
-      "fin": 39,
-      "pas": 62,
-      "dri": 44,
-      "def": 79,
-      "fis": 80
+      "vel": 64,
+      "fin": 40,
+      "pas": 64,
+      "dri": 45,
+      "def": 81,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-italia-1970-pierluigi-cera",
     "team": "Itália",
@@ -340,16 +340,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 88,
-      "fin": 63,
-      "pas": 79,
-      "dri": 83,
-      "def": 80,
-      "fis": 79
+      "vel": 90,
+      "fin": 65,
+      "pas": 81,
+      "dri": 85,
+      "def": 82,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-italia-1970-giacinto-facchetti",
     "team": "Itália",
@@ -362,16 +362,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 65,
-      "fin": 55,
-      "pas": 78,
-      "dri": 68,
-      "def": 77,
-      "fis": 70
+      "vel": 67,
+      "fin": 56,
+      "pas": 80,
+      "dri": 70,
+      "def": 79,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-italia-1970-mario-bertini",
     "team": "Itália",
@@ -384,16 +384,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 73,
-      "fin": 70,
-      "pas": 81,
-      "dri": 80,
-      "def": 60,
-      "fis": 70
+      "vel": 75,
+      "fin": 72,
+      "pas": 83,
+      "dri": 82,
+      "def": 62,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-italia-1970-giancarlo-de-sisti",
     "team": "Itália",
@@ -406,16 +406,16 @@
       "PD",
       "MD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 84,
-      "fin": 75,
-      "pas": 74,
-      "dri": 85,
-      "def": 32,
-      "fis": 67
+      "vel": 86,
+      "fin": 77,
+      "pas": 76,
+      "dri": 87,
+      "def": 33,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-italia-1970-angelo-domenghini",
     "team": "Itália",
@@ -428,16 +428,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 78,
-      "fin": 80,
-      "pas": 84,
-      "dri": 86,
-      "def": 40,
-      "fis": 68
+      "vel": 80,
+      "fin": 82,
+      "pas": 86,
+      "dri": 88,
+      "def": 41,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-italia-1970-sandro-mazzola",
     "team": "Itália",
@@ -449,16 +449,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 76,
-      "fin": 85,
-      "pas": 66,
-      "dri": 75,
-      "def": 39,
-      "fis": 77
+      "vel": 78,
+      "fin": 87,
+      "pas": 68,
+      "dri": 77,
+      "def": 40,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-italia-1970-roberto-boninsegna",
     "team": "Itália",
@@ -471,16 +471,16 @@
       "ATA",
       "PE"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 84,
-      "fin": 86,
-      "pas": 74,
-      "dri": 76,
-      "def": 40,
-      "fis": 78
+      "vel": 86,
+      "fin": 88,
+      "pas": 76,
+      "dri": 78,
+      "def": 41,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-italia-1970-gigi-riva",
     "team": "Itália",
@@ -492,22 +492,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 58,
+      "pas": 59,
       "dri": 26,
       "def": 13,
-      "fis": 69,
-      "ref": 77,
-      "han": 73,
-      "pos": 74,
-      "div": 75,
-      "kic": 60,
-      "one": 72
+      "fis": 70,
+      "ref": 78,
+      "han": 74,
+      "pos": 75,
+      "div": 76,
+      "kic": 61,
+      "one": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-peru-1970-luis-rubinos",
     "team": "Peru",
@@ -519,16 +519,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 76,
-      "fin": 51,
-      "pas": 67,
-      "dri": 71,
-      "def": 68,
-      "fis": 67
+      "vel": 77,
+      "fin": 52,
+      "pas": 68,
+      "dri": 72,
+      "def": 69,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-peru-1970-eloy-campos",
     "team": "Peru",
@@ -540,16 +540,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 67,
-      "fin": 44,
-      "pas": 67,
-      "dri": 56,
-      "def": 84,
-      "fis": 85
+      "vel": 69,
+      "fin": 45,
+      "pas": 69,
+      "dri": 57,
+      "def": 86,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-peru-1970-hector-chumpitaz",
     "team": "Peru",
@@ -561,16 +561,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 77,
-      "fin": 53,
-      "pas": 75,
-      "dri": 72,
-      "def": 76,
-      "fis": 68
+      "vel": 79,
+      "fin": 54,
+      "pas": 77,
+      "dri": 74,
+      "def": 78,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-peru-1970-nicolas-fuentes",
     "team": "Peru",
@@ -582,16 +582,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 58,
-      "fin": 42,
-      "pas": 58,
-      "dri": 47,
-      "def": 75,
-      "fis": 76
+      "vel": 60,
+      "fin": 43,
+      "pas": 60,
+      "dri": 48,
+      "def": 77,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-peru-1970-orlando-de-la-torre",
     "team": "Peru",
@@ -604,16 +604,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 77,
-      "fin": 67,
-      "pas": 85,
-      "dri": 77,
-      "def": 64,
-      "fis": 68
+      "vel": 79,
+      "fin": 69,
+      "pas": 87,
+      "dri": 79,
+      "def": 66,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-peru-1970-roberto-challe",
     "team": "Peru",
@@ -626,16 +626,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 71,
-      "fin": 62,
-      "pas": 78,
-      "dri": 74,
-      "def": 77,
-      "fis": 77
+      "vel": 73,
+      "fin": 64,
+      "pas": 80,
+      "dri": 76,
+      "def": 79,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-peru-1970-ramon-mifflin",
     "team": "Peru",
@@ -647,16 +647,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 79,
-      "fin": 81,
-      "pas": 69,
-      "dri": 72,
-      "def": 35,
-      "fis": 80
+      "vel": 81,
+      "fin": 83,
+      "pas": 71,
+      "dri": 74,
+      "def": 36,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-peru-1970-pedro-pablo-leon",
     "team": "Peru",
@@ -669,16 +669,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 79,
-      "fin": 81,
-      "pas": 92,
-      "dri": 87,
-      "def": 48,
-      "fis": 69
+      "vel": 81,
+      "fin": 83,
+      "pas": 94,
+      "dri": 89,
+      "def": 49,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-peru-1970-teofilo-cubillas",
     "team": "Peru",
@@ -691,16 +691,16 @@
       "ATA",
       "PE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 79,
-      "fin": 81,
-      "pas": 69,
-      "dri": 71,
-      "def": 35,
-      "fis": 73
+      "vel": 81,
+      "fin": 83,
+      "pas": 71,
+      "dri": 73,
+      "def": 36,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-peru-1970-hugo-sotil",
     "team": "Peru",
@@ -713,19 +713,3379 @@
       "PE",
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 87,
-      "fin": 78,
-      "pas": 77,
-      "dri": 88,
-      "def": 35,
-      "fis": 70
+      "vel": 89,
+      "fin": 80,
+      "pas": 79,
+      "dri": 90,
+      "def": 36,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-peru-1970-alberto-gallardo",
     "team": "Peru",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Piot",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-piot",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Trappeniers",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-trappeniers",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Duquesne",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-duquesne",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Heylens",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-heylens",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dewalque",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-dewalque",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Jeck",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-jeck",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Thissen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-thissen",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Beurlet",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-beurlet",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Moer",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-van-moer",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Semmeling",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-semmeling",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dockx",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-dockx",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Polleunis",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-polleunis",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Verheyen",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-verheyen",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Peeters",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-peeters",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Vandendaele",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-vandendaele",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Martens",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-martens",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Himst",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-van-himst",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Devrindt",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-devrindt",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Puis",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-puis",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Lambert",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-lambert",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Carteus",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-carteus",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Janssens",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-1970-janssens",
+    "team": "Bélgica",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Simeonov",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-simeonov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Yordanov",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-yordanov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Kamenski",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-kamenski",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Penev",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-penev",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dimitrov",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-dimitrov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Shalamanov",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-shalamanov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Zhechev",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-zhechev",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Aladzhov",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-aladzhov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Gaydarski",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-gaydarski",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Gaganelov",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-gaganelov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Bonev",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-bonev",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Yakimov",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-yakimov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Davidov",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-davidov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Nikodimov",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-nikodimov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Kolev",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-kolev",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Mitkov",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-mitkov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Asparuhov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-asparuhov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Zhekov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-zhekov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dermendzhiev",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-dermendzhiev",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Marashliev",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-marashliev",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Popov",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-popov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Grigorov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-bulgaria-1970-grigorov",
+    "team": "Bulgária",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Banks",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-banks",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Bonetti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-bonetti",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Stepney",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-stepney",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Moore",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-moore",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Cooper",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-cooper",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Labone",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-labone",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Charlton",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-j-charlton",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Newton",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-newton",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Hunter",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-hunter",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Wright",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-wright",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "B. Charlton",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-b-charlton",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Ball",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-ball",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Peters",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-peters",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Bell",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-bell",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Stiles",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-stiles",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Mullery",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-mullery",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Hughes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-hughes",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Hurst",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-hurst",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-lee",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Clarke",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-clarke",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Osgood",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-osgood",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Astle",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1970-astle",
+    "team": "Inglaterra",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Maier",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-maier",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Manglitz",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-manglitz",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Wolter",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-wolter",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Beckenbauer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-beckenbauer",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Vogts",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-vogts",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Schnellinger",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-schnellinger",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Schulz",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-schulz",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Höttges",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-hottges",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Fichtel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-fichtel",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Sieloff",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-sieloff",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Patzke",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-patzke",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Overath",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-overath",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Haller",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-haller",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Weber",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-weber",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Lorenz",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-lorenz",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dietrich",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-dietrich",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Müller",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-muller",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Seeler",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-seeler",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Grabowski",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-grabowski",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Libuda",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-libuda",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Held",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-held",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Löhr",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-1970-lohr",
+    "team": "Alemanha",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Calderón",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-calderon",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Mota",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-mota",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Castrejón",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-castrejon",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Peña",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-pena",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Hernández",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-hernandez",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Pérez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-m-perez",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Vantolrá",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-vantolra",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Alejándrez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-alejandrez",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Montes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-montes",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Guzmán",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-guzman",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Velarde",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-velarde",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Munguía",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-munguia",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Basaguren",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-basaguren",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Rivas",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-rivas",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Pulido",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-pulido",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "González",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-gonzalez",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Borja",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-borja",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Salgado",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-salgado",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Padilla",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-padilla",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Fragoso",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-fragoso",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Isidoro Díaz",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-isidoro-diaz",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Valdivia",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-1970-valdivia",
+    "team": "México",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Răducanu",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-raducanu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Adamache",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-adamache",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Gornea",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-gornea",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Lupescu",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-lupescu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Mocanu",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-mocanu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Sătmăreanu",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-satmareanu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Ivăncescu",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-ivancescu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Deleanu",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-deleanu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dinu",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-dinu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Nunweiller",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-nunweiller",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Tătaru",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-tataru",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Gergely",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-gergely",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Coe",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-coe",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dumitru",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-dumitru",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Pescaru",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-pescaru",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dobrin",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-dobrin",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Lucescu",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-lucescu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dumitrache",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-dumitrache",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Dembrovschi",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-dembrovschi",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Neagu",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-neagu",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Domide",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-domide",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Tufan",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1970-tufan",
+    "team": "Romênia",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Mazurkiewicz",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-mazurkiewicz",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "H. Santos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-h-santos",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Corbo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-corbo",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Ancheta",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-ancheta",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Ubiña",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-ubina",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Matosas",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-matosas",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Mujica",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-mujica",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Caetano",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-caetano",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Sandoval",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-sandoval",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Cámera",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-camera",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "P. Rocha",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-p-rocha",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Montero Castillo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-montero-castillo",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Espárrago",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-esparrago",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Maneiro",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-maneiro",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Cortés",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-cortes",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Fontes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-fontes",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Cubilla",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-cubilla",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Morales",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-morales",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Bareño",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-bareno",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Zubia",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-zubia",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Gómez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-gomez",
+    "team": "Uruguai",
+    "year": 1970,
+    "comp": "wc"
+  },
+  {
+    "name": "Losada",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1970-losada",
+    "team": "Uruguai",
     "year": 1970,
     "comp": "wc"
   }

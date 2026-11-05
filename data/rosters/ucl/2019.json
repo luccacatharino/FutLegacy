@@ -48,5 +48,40 @@
       "ucl-liverpool-2019-caoimhin-kelleher",
       "ucl-liverpool-2019-rhian-brewster"
     ]
+  },
+  {
+    "name": "Tottenham",
+    "year": 2019,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2019_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-tottenham-2019-hugo-lloris",
+      "ucl-tottenham-2019-kieran-trippier",
+      "ucl-tottenham-2019-toby-alderweireld",
+      "ucl-tottenham-2019-jan-vertonghen",
+      "ucl-tottenham-2019-danny-rose",
+      "ucl-tottenham-2019-moussa-sissoko",
+      "ucl-tottenham-2019-harry-winks",
+      "ucl-tottenham-2019-dele-alli",
+      "ucl-tottenham-2019-christian-eriksen",
+      "ucl-tottenham-2019-son-heung-min",
+      "ucl-tottenham-2019-harry-kane",
+      "ucl-tottenham-2019-michel-vorm",
+      "ucl-tottenham-2019-paulo-gazzaniga",
+      "ucl-tottenham-2019-davinson-sanchez",
+      "ucl-tottenham-2019-kyle-walker-peters",
+      "ucl-tottenham-2019-juan-foyth",
+      "ucl-tottenham-2019-serge-aurier",
+      "ucl-tottenham-2019-ben-davies",
+      "ucl-tottenham-2019-erik-lamela",
+      "ucl-tottenham-2019-victor-wanyama",
+      "ucl-tottenham-2019-eric-dier",
+      "ucl-tottenham-2019-lucas-moura",
+      "ucl-tottenham-2019-fernando-llorente"
+    ]
   }
 ]

@@ -36,5 +36,28 @@
       "ucl-inter-1965-joaquin-peiro",
       "ucl-inter-1965-gianfranco-bedin"
     ]
+  },
+  {
+    "name": "Benfica",
+    "year": 1965,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1965_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-benfica-1965-costa-pereira",
+      "ucl-benfica-1965-domiciano-cavem",
+      "ucl-benfica-1965-germano",
+      "ucl-benfica-1965-raul-machado",
+      "ucl-benfica-1965-fernando-cruz",
+      "ucl-benfica-1965-jose-neto",
+      "ucl-benfica-1965-mario-coluna",
+      "ucl-benfica-1965-jose-augusto",
+      "ucl-benfica-1965-jose-torres",
+      "ucl-benfica-1965-eusebio",
+      "ucl-benfica-1965-antonio-simoes"
+    ]
   }
 ]

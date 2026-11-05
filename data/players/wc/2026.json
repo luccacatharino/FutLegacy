@@ -1,0 +1,10703 @@
+[
+  {
+    "name": "E. Martínez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-e-martinez",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Musso",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-musso",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rulli",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-rulli",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Romero",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-c-romero",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Martínez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-l-martinez",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Tagliafico",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-tagliafico",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Otamendi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-otamendi",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Montiel",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-montiel",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Molina",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-molina",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Senesi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-senesi",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Medina",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-medina",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Barco",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-barco",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Messi★",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-messi",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Enzo Fernández",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-enzo-fernandez",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mac Allister",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-mac-allister",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Paredes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-paredes",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "De Paul",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-de-paul",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Palacios",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-palacios",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lo Celso",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-lo-celso",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Almada",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-almada",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Paz",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-paz",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Álvarez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-j-alvarez",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lautaro",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-lautaro",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "N. González",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-n-gonzalez",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Simeone",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-simeone",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "J. M. López",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2026-j-m-lopez",
+    "team": "Argentina",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Courtois",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-courtois",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lammens",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-lammens",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Penders",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-penders",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Theate",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-theate",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "De Cuyper",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-de-cuyper",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Castagne",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-castagne",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Meunier",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-meunier",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "De Winter",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-de-winter",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mechele",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-mechele",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ngoy",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-ngoy",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Seys",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-seys",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "De Bruyne★",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-de-bruyne",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Tielemans",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-tielemans",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "De Ketelaere",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-de-ketelaere",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Onana",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-onana",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Debast",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-debast",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Witsel",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-witsel",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vanaken",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-vanaken",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Raskin",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-raskin",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Doku",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-doku",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lukaku",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-lukaku",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Trossard",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-trossard",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lukébakio",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-lukebakio",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Saelemaekers",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-saelemaekers",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Fernandez-Pardo",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2026-fernandez-pardo",
+    "team": "Bélgica",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "St. Clair",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-st-clair",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Crépeau",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-crepeau",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Goodman",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-goodman",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Davies",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-davies",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bombito",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-bombito",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cornelius",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-cornelius",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Johnston",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-johnston",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Jones",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-a-jones",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Waterman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-waterman",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Laryea",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-laryea",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Sigur",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-sigur",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "de Fougerolles",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-de-fougerolles",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Eustáquio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-eustaquio",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Koné",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-kone",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Choinière",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-choiniere",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Osorio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-osorio",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Saliba",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-saliba",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ali Ahmed",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-ali-ahmed",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "J. David",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-j-david",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Buchanan",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-buchanan",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Larin",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-larin",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Millar",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-millar",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Shaffelburg",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-shaffelburg",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Oluwaseyi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-oluwaseyi",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "P. David",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-p-david",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nelson",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-canada-2026-nelson",
+    "team": "Canadá",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ospina",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-ospina",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vargas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-vargas",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Montero",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-montero",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Muñoz",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-munoz",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Sánchez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-d-sanchez",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lucumí",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-lucumi",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mina",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-mina",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mojica",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-mojica",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Arias",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-arias",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ditta",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-ditta",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Machado",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-machado",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "James",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-james",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lerma",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-lerma",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ríos",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-rios",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Quintero",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-quintero",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Castaño",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-castano",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Carrascal",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-carrascal",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Puerta",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-puerta",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Portilla",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-portilla",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Luis Díaz",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-luis-diaz",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Jhon Arias",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-jhon-arias",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Córdoba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-cordoba",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cucho",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-cucho",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Suárez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-l-suarez",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Campaz",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-campaz",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Gómez",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2026-a-gomez",
+    "team": "Colômbia",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vozinha★",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-vozinha",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Dos Santos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-dos-santos",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rosa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-rosa",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lopes Cabral",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-lopes-cabral",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Costa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-costa",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pico",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-pico",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Stopira",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-stopira",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Moreira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-moreira",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Diney",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-diney",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "W. Pina",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-w-pina",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pires",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-pires",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rodrigues",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-rodrigues",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Jamiro",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-jamiro",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Cabral",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-j-cabral",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Duarte",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-d-duarte",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Pina",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-k-pina",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mendes",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-mendes",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "João Paulo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-joao-paulo",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Arcanjo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-arcanjo",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Varela",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-varela",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Duarte",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-l-duarte",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Y. Semedo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-y-semedo",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "W. Semedo",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-w-semedo",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Da Costa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-da-costa",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Benchimol",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-benchimol",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Livramento",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-cabo-verde-2026-livramento",
+    "team": "Cabo Verde",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Galíndez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-galindez",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramírez",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-ramirez",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Valle",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-valle",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pacho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-pacho",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Hincapié",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-hincapie",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Estupiñán",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-estupinan",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Á. Preciado",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-a-preciado",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ordóñez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-ordonez",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Torres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-f-torres",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Medina",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-medina",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Porozo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-porozo",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Caicedo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-caicedo",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Páez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-paez",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Franco",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-franco",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Alcívar",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-alcivar",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vite",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-vite",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Castillo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-d-castillo",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Angulo",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-angulo",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Plata",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-plata",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Valencia★",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-e-valencia",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Rodríguez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-k-rodriguez",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Valencia",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-a-valencia",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Yeboah",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-yeboah",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Minda",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-minda",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Arévalo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-arevalo",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Caicedo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-equador-2026-j-caicedo",
+    "team": "Equador",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "El-Shenawy",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-el-shenawy",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Shobeir",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-shobeir",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Soliman",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-soliman",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Alaa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-m-alaa",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Y. Ibrahim",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-y-ibrahim",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Abdelmonem",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-abdelmonem",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Hany",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-hany",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rabia",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-rabia",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Fatouh",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-fatouh",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Hafez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-hafez",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Abdelmaguid",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-abdelmaguid",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Fathy",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-fathy",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Alaa",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-t-alaa",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Trézéguet",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-trezeguet",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ashour",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-ashour",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Zizo",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-zizo",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ziko",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-ziko",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Adel",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-adel",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lasheen",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-lasheen",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ha. Hassan",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-ha-hassan",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Attia",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-attia",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Saber",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-saber",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Emad",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-emad",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Salah★",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-salah",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Marmoush",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-marmoush",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Abdelkarim",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2026-abdelkarim",
+    "team": "Egito",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pickford",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-pickford",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Henderson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-d-henderson",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Trafford",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-trafford",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Guéhi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-guehi",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "James",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-james",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Stones",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-stones",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Konsa",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-konsa",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "O'Reilly",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-o-reilly",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Chalobah",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-chalobah",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Burn",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-burn",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Spence",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-spence",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Quansah",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-quansah",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bellingham",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-bellingham",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rice",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-rice",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rogers",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-rogers",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Eze",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-eze",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mainoo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-mainoo",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Anderson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-anderson",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Henderson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-j-henderson",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Kane",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-kane",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Saka",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-saka",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rashford",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-rashford",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gordon",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-gordon",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Watkins",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-watkins",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Madueke",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-madueke",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Toney",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2026-toney",
+    "team": "Inglaterra",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Simón",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-simon",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Raya",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-raya",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Joan García",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-joan-garcia",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cubarsí",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-cubarsi",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cucurella",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-cucurella",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Porro",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-porro",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Laporte",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-laporte",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Grimaldo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-grimaldo",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Llorente",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-llorente",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Eric García",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-eric-garcia",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pubill",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-pubill",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rodri★",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-rodri",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Fabián",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-fabian",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pedri",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-pedri",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Merino",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-merino",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Zubimendi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-zubimendi",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gavi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-gavi",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Baena",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-baena",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lamine Yamal★",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-lamine-yamal",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nico Williams",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-nico-williams",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Oyarzabal",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-oyarzabal",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Olmo",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-olmo",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ferran",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-ferran",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Yeremy",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-yeremy",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Borja Iglesias",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-borja-iglesias",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Víctor Muñoz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2026-victor-munoz",
+    "team": "Espanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Maignan",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-maignan",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Samba",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-samba",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Risser",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-risser",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Upamecano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-upamecano",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Saliba",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-saliba",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Koundé",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-kounde",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Konaté",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-konate",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Theo Hernandez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-theo-hernandez",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gusto",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-gusto",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Digne",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-digne",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lucas Hernandez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-lucas-hernandez",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lacroix",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-lacroix",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Tchouaméni",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-tchouameni",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Kanté",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-kante",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cherki",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-cherki",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rabiot",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-rabiot",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Koné",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-kone",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Zaïre-Emery",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-zaire-emery",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Akliouche",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-akliouche",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mbappé★",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-mbappe",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Dembélé",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-dembele",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Olise",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-olise",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Doué",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-doue",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Marcus Thuram",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-marcus-thuram",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Barcola",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-barcola",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mateta",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-2026-mateta",
+    "team": "França",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Neuer★",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-neuer",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nübel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-nubel",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Baumann",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-baumann",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rüdiger",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-rudiger",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Schlotterbeck",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-schlotterbeck",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Tah",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-tah",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Raum",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-raum",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Anton",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-anton",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Thiaw",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-thiaw",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Brown",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-brown",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Wirtz",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-wirtz",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Kimmich",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-kimmich",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Musiala",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-musiala",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pavlović",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-pavlovic",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Goretzka",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-goretzka",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Stiller",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-stiller",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Groß",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-gro",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nmecha",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-nmecha",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Amiri",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-amiri",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ouédraogo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-ouedraogo",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Undav",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-undav",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Havertz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-havertz",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Sané",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-sane",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Woltemade",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-woltemade",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Beier",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-beier",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Leweling",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2026-leweling",
+    "team": "Alemanha",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bono",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-bono",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Munir Mohamedi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-munir-mohamedi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Tagnaouti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-tagnaouti",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Hakimi",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-hakimi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mazraoui",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-mazraoui",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Diop",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-diop",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Riad",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-riad",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "El Ouahdi",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-el-ouahdi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Salah-Eddine",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-salah-eddine",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Saâdane",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-saadane",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Belammari",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-belammari",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Halhal",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-halhal",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Amrabat",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-s-amrabat",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ounahi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-ounahi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Brahim Díaz",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-brahim-diaz",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Saïbari",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-saibari",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "El Khannouss",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-el-khannouss",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bouaddi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-bouaddi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "El Aynaoui",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-el-aynaoui",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "El Mourabet",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-el-mourabet",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rahimi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-rahimi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "El Kaabi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-el-kaabi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Talbi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-talbi",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Sbaï",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-sbai",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Yassine",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-yassine",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Amaimouni",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2026-amaimouni",
+    "team": "Marrocos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rangel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-rangel",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ochoa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-ochoa",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Acevedo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-acevedo",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Sánchez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-j-sanchez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Montes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-montes",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vásquez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-vasquez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gallardo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-gallardo",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "I. Reyes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-i-reyes",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Chávez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-m-chavez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Álvarez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-e-alvarez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Fidalgo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-fidalgo",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pineda",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-pineda",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Romo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-romo",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Chávez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-l-chavez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lira",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-lira",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mora",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-mora",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "O. Vargas",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-o-vargas",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "B. Gutiérrez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-b-gutierrez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Giménez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-s-gimenez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Jiménez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-jimenez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Quiñones",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-quinones",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vega",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-vega",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Huerta",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-huerta",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Alvarado",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-alvarado",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "A. González",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-a-gonzalez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Martínez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-mexico-2026-g-martinez",
+    "team": "México",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Verbruggen",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-verbruggen",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Flekken",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-flekken",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Roefs",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-roefs",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Dijk★",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-van-dijk",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Dumfries",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-dumfries",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Aké",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-ake",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Van de Ven",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-van-de-ven",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Geertruida",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-geertruida",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Hecke",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-van-hecke",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Hato",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-hato",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "F. de Jong",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-f-de-jong",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gravenberch",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-gravenberch",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Reijnders",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-reijnders",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Koopmeiners",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-koopmeiners",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "De Roon",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-de-roon",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Q. Timber",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-q-timber",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Wieffer",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-wieffer",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Til",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-til",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gakpo",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-gakpo",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Brobbey",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-brobbey",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Depay",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-depay",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Malen",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-malen",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Summerville",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-summerville",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Kluivert",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-kluivert",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Weghorst",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-weghorst",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Lang",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-2026-lang",
+    "team": "Países Baixos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nyland",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-nyland",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Klaesson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-klaesson",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Selvik",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-selvik",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ajer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-ajer",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ryerson",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-ryerson",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Østigård",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-stigard",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Hanche-Olsen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-hanche-olsen",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Wolfe",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-wolfe",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Heggem",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-t-heggem",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bjørkan",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-bj-rkan",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Pedersen",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-m-pedersen",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ødegaard★",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-degaard",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Berge",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-berge",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Aursnes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-aursnes",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "P. Berg",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-p-berg",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "K. Thorstvedt",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-k-thorstvedt",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Hauge",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-hauge",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Thorsby",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-thorsby",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Haaland★",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-haaland",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nusa",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-nusa",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Sørloth",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-s-rloth",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bobb",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-bobb",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Strand Larsen",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-strand-larsen",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Schjelderup",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-schjelderup",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Botheim",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-botheim",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "O. Solbakken",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-noruega-2026-o-solbakken",
+    "team": "Noruega",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gill",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-gill",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gatito",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-gatito",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Olivera",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-olivera",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Alderete",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-alderete",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Balbuena",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-balbuena",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Alonso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-alonso",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Gómez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-g-gomez",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Velázquez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-velazquez",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cáceres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-caceres",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Canale",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-canale",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Maidana",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-maidana",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Enciso",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-enciso",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Gómez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-d-gomez",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cubas",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-cubas",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Bobadilla",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-d-bobadilla",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Kaku",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-kaku",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ojeda",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-ojeda",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Galarza",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-galarza",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Almirón",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-almiron",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Sanabria",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-sanabria",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mauricio",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-mauricio",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Sosa",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-r-sosa",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Arce",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-a-arce",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Ávalos",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-g-avalos",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pitta",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-pitta",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Caballero",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paraguai-2026-g-caballero",
+    "team": "Paraguai",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Diogo Costa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-diogo-costa",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "José Sá",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-jose-sa",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rui Silva",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-rui-silva",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rúben Dias",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-ruben-dias",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nuno Mendes",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-nuno-mendes",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cancelo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-cancelo",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Dalot",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-dalot",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gonçalo Inácio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-goncalo-inacio",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Nélson Semedo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-nelson-semedo",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Tomás Araújo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-tomas-araujo",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Renato Veiga",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-renato-veiga",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vitinha",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-vitinha",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-bruno-fernandes",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Bernardo Silva",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-bernardo-silva",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "João Neves",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-joao-neves",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Matheus Nunes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-matheus-nunes",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rúben Neves",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-ruben-neves",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Samú Costa",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-samu-costa",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rafael Leão",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-rafael-leao",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cristiano Ronaldo★",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-cristiano-ronaldo",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gonçalo Ramos",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-goncalo-ramos",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "João Félix",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-joao-felix",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pedro Neto",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-pedro-neto",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Trincão",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-trincao",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Francisco Conceição",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-francisco-conceicao",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Gonçalo Guedes",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2026-goncalo-guedes",
+    "team": "Portugal",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Kobel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-kobel",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Mvogo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-mvogo",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Keller",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-keller",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Akanji",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-akanji",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Rodríguez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-r-rodriguez",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Elvedi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-elvedi",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Widmer",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-widmer",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Muheim",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-muheim",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Cömert",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-comert",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Amenda",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-amenda",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Jaquez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-jaquez",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Manzambi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-manzambi",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Xhaka",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-xhaka",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Zakaria",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-zakaria",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Freuler",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-freuler",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Jashari",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-jashari",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Sow",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-sow",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Aebischer",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-aebischer",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Rieder",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-rieder",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Embolo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-embolo",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Vargas",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-vargas",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ndoye",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-ndoye",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Okafor",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-okafor",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Amdouni",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-amdouni",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Itten",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-itten",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Fassnacht",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2026-fassnacht",
+    "team": "Suíça",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Turner",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-turner",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Freese",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-freese",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Brady",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-brady",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Robinson",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-a-robinson",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Dest",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-dest",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Richards",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-richards",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Trusty",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-trusty",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Robinson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-m-robinson",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Ream",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-ream",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "McKenzie",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-mckenzie",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Scally",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-scally",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Freeman",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-freeman",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Arfsten",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-arfsten",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Adams",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-adams",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "McKennie",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-mckennie",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Tillman",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-tillman",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Reyna",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-reyna",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Aaronson",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-aaronson",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Berhalter",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-berhalter",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Roldan",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-roldan",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Balogun",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-balogun",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Weah",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-weah",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pulisic",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-pulisic",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Pepi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-pepi",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Wright",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-wright",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  },
+  {
+    "name": "Zendejas",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-estados-unidos-2026-zendejas",
+    "team": "Estados Unidos",
+    "year": 2026,
+    "comp": "wc"
+  }
+]

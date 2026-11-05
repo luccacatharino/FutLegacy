@@ -36,5 +36,28 @@
       "ucl-real-madrid-1960-jose-maria-vidal",
       "ucl-real-madrid-1960-pachin"
     ]
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "year": 1960,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1960_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-eintracht-frankfurt-1960-egon-loy",
+      "ucl-eintracht-frankfurt-1960-friedel-lutz",
+      "ucl-eintracht-frankfurt-1960-hermann-hofer",
+      "ucl-eintracht-frankfurt-1960-hans-weilbacher",
+      "ucl-eintracht-frankfurt-1960-hans-walter-eigenbrodt",
+      "ucl-eintracht-frankfurt-1960-dieter-stinka",
+      "ucl-eintracht-frankfurt-1960-richard-kress",
+      "ucl-eintracht-frankfurt-1960-dieter-lindner",
+      "ucl-eintracht-frankfurt-1960-erwin-stein",
+      "ucl-eintracht-frankfurt-1960-alfred-pfaff",
+      "ucl-eintracht-frankfurt-1960-erich-meier"
+    ]
   }
 ]

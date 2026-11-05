@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 11,
-      "pas": 55,
-      "dri": 23,
-      "def": 21,
-      "fis": 73,
-      "ref": 82,
-      "han": 78,
-      "pos": 80,
-      "div": 81,
-      "kic": 69,
-      "one": 80
+      "pas": 56,
+      "dri": 24,
+      "def": 22,
+      "fis": 75,
+      "ref": 84,
+      "han": 80,
+      "pos": 82,
+      "div": 83,
+      "kic": 71,
+      "one": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-argentinos-juniors-1985-enrique-vidalle",
     "team": "Argentinos Juniors",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 72,
+      "vel": 73,
       "fin": 36,
-      "pas": 63,
-      "dri": 61,
-      "def": 66,
-      "fis": 66
+      "pas": 64,
+      "dri": 62,
+      "def": 67,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-argentinos-juniors-1985-carmelo-villalba",
     "team": "Argentinos Juniors",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 55,
-      "fin": 29,
-      "pas": 57,
-      "dri": 41,
-      "def": 78,
-      "fis": 81
+      "vel": 56,
+      "fin": 30,
+      "pas": 58,
+      "dri": 42,
+      "def": 80,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-argentinos-juniors-1985-jose-luis-pavoni",
     "team": "Argentinos Juniors",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 57,
-      "fin": 31,
-      "pas": 58,
-      "dri": 46,
-      "def": 80,
-      "fis": 82
+      "vel": 58,
+      "fin": 32,
+      "pas": 59,
+      "dri": 47,
+      "def": 82,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-argentinos-juniors-1985-jorge-olguin",
     "team": "Argentinos Juniors",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 72,
-      "fin": 39,
-      "pas": 67,
-      "dri": 69,
-      "def": 70,
-      "fis": 67
+      "vel": 74,
+      "fin": 40,
+      "pas": 69,
+      "dri": 71,
+      "def": 72,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-argentinos-juniors-1985-adrian-domenech",
     "team": "Argentinos Juniors",
@@ -115,16 +115,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 63,
-      "fin": 58,
-      "pas": 77,
-      "dri": 73,
-      "def": 59,
-      "fis": 67
+      "vel": 65,
+      "fin": 59,
+      "pas": 79,
+      "dri": 75,
+      "def": 61,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-argentinos-juniors-1985-emilio-commisso",
     "team": "Argentinos Juniors",
@@ -136,16 +136,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 61,
-      "fin": 47,
-      "pas": 74,
-      "dri": 65,
-      "def": 77,
-      "fis": 77
+      "vel": 63,
+      "fin": 48,
+      "pas": 76,
+      "dri": 67,
+      "def": 79,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-argentinos-juniors-1985-sergio-batista",
     "team": "Argentinos Juniors",
@@ -157,16 +157,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 64,
-      "fin": 61,
-      "pas": 78,
-      "dri": 76,
-      "def": 61,
-      "fis": 67
+      "vel": 66,
+      "fin": 63,
+      "pas": 80,
+      "dri": 78,
+      "def": 63,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-argentinos-juniors-1985-mario-videla",
     "team": "Argentinos Juniors",
@@ -178,16 +178,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 78,
-      "fin": 70,
-      "pas": 69,
-      "dri": 78,
-      "def": 29,
-      "fis": 61
+      "vel": 80,
+      "fin": 72,
+      "pas": 71,
+      "dri": 80,
+      "def": 30,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-argentinos-juniors-1985-jose-antonio-castro",
     "team": "Argentinos Juniors",
@@ -199,16 +199,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 75,
-      "fin": 79,
-      "pas": 88,
-      "dri": 85,
-      "def": 43,
-      "fis": 67
+      "vel": 77,
+      "fin": 81,
+      "pas": 90,
+      "dri": 87,
+      "def": 44,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 92,
     "id": "lib-argentinos-juniors-1985-claudio-borghi",
     "team": "Argentinos Juniors",
@@ -220,16 +220,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 69,
-      "fin": 81,
-      "pas": 57,
-      "dri": 68,
-      "def": 25,
-      "fis": 73
+      "vel": 71,
+      "fin": 83,
+      "pas": 59,
+      "dri": 70,
+      "def": 26,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-argentinos-juniors-1985-carlos-ereros",
     "team": "Argentinos Juniors",
@@ -241,16 +241,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 55,
+      "vel": 56,
       "fin": 27,
-      "pas": 52,
+      "pas": 53,
       "dri": 36,
-      "def": 77,
-      "fis": 74
+      "def": 78,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-argentinos-juniors-1985-jorge-pellegrini",
     "team": "Argentinos Juniors",
@@ -262,16 +262,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 69,
-      "fin": 78,
-      "pas": 57,
-      "dri": 67,
-      "def": 26,
-      "fis": 72
+      "vel": 71,
+      "fin": 80,
+      "pas": 59,
+      "dri": 69,
+      "def": 27,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-argentinos-juniors-1985-armando-dely-valdes",
     "team": "Argentinos Juniors",
@@ -283,16 +283,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 68,
-      "fin": 61,
-      "pas": 80,
-      "dri": 74,
-      "def": 62,
-      "fis": 70
+      "vel": 70,
+      "fin": 63,
+      "pas": 82,
+      "dri": 76,
+      "def": 64,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-argentinos-juniors-1985-juan-jose-lopez",
     "team": "Argentinos Juniors",
@@ -304,16 +304,16 @@
     "positions": [
       "MD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 72,
-      "fin": 57,
-      "pas": 72,
-      "dri": 70,
-      "def": 53,
-      "fis": 67
+      "vel": 74,
+      "fin": 59,
+      "pas": 74,
+      "dri": 72,
+      "def": 54,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-argentinos-juniors-1985-renato-corsi",
     "team": "Argentinos Juniors",
@@ -326,16 +326,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 64,
-      "def": 68,
-      "fis": 66
+      "vel": 72,
+      "fin": 39,
+      "pas": 68,
+      "dri": 65,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-argentinos-juniors-1985-carlos-mayor",
     "team": "Argentinos Juniors",
@@ -347,16 +347,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 57,
-      "fin": 41,
-      "pas": 69,
-      "dri": 59,
-      "def": 69,
-      "fis": 68
+      "vel": 58,
+      "fin": 42,
+      "pas": 70,
+      "dri": 60,
+      "def": 70,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "lib-argentinos-juniors-1985-miguel-lemme",
     "team": "Argentinos Juniors",

@@ -36,5 +36,28 @@
       "ucl-inter-1964-aurelio-milani",
       "ucl-inter-1964-carlo-tagnin"
     ]
+  },
+  {
+    "name": "Real Madrid",
+    "year": 1964,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1964_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-real-madrid-1964-jose-vicente",
+      "ucl-real-madrid-1964-isidro",
+      "ucl-real-madrid-1964-pachin",
+      "ucl-real-madrid-1964-lucien-muller",
+      "ucl-real-madrid-1964-jose-santamaria",
+      "ucl-real-madrid-1964-ignacio-zoco",
+      "ucl-real-madrid-1964-amancio",
+      "ucl-real-madrid-1964-felo",
+      "ucl-real-madrid-1964-alfredo-di-stefano",
+      "ucl-real-madrid-1964-ferenc-puskas",
+      "ucl-real-madrid-1964-paco-gento"
+    ]
   }
 ]

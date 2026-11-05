@@ -52,5 +52,28 @@
       "lib-palmeiras-2021-breno-lopes",
       "lib-palmeiras-2021-gabriel-veron"
     ]
+  },
+  {
+    "name": "Flamengo",
+    "year": 2021,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2021_Copa_Libertadores_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-flamengo-2021-diego-alves",
+      "lib-flamengo-2021-mauricio-isla",
+      "lib-flamengo-2021-rodrigo-caio",
+      "lib-flamengo-2021-david-luiz",
+      "lib-flamengo-2021-filipe-luis",
+      "lib-flamengo-2021-willian-arao",
+      "lib-flamengo-2021-andreas-pereira",
+      "lib-flamengo-2021-everton-ribeiro",
+      "lib-flamengo-2021-giorgian-de-arrascaeta",
+      "lib-flamengo-2021-bruno-henrique",
+      "lib-flamengo-2021-gabriel-barbosa"
+    ]
   }
 ]

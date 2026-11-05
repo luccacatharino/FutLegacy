@@ -40,5 +40,33 @@
       "ucl-ajax-1971-ruud-suurendonk",
       "ucl-ajax-1971-sies-wever"
     ]
+  },
+  {
+    "name": "Panathinaikos",
+    "year": 1971,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1971_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-panathinaikos-1971-takis-ikonomopoulos",
+      "ucl-panathinaikos-1971-yiannis-tomaras",
+      "ucl-panathinaikos-1971-giorgos-vlachos",
+      "ucl-panathinaikos-1971-kostas-eleftherakis",
+      "ucl-panathinaikos-1971-aristidis-kamaras",
+      "ucl-panathinaikos-1971-frangiskos-sourpis",
+      "ucl-panathinaikos-1971-charis-grammos",
+      "ucl-panathinaikos-1971-totis-filakouris",
+      "ucl-panathinaikos-1971-antonis-antoniadis",
+      "ucl-panathinaikos-1971-mimis-domazos",
+      "ucl-panathinaikos-1971-anthimos-kapsis",
+      "ucl-panathinaikos-1971-vasilis-konstantinou",
+      "ucl-panathinaikos-1971-victor-mitropoulos",
+      "ucl-panathinaikos-1971-kostas-athanasopoulos",
+      "ucl-panathinaikos-1971-mitsos-dimitriou",
+      "ucl-panathinaikos-1971-dimitris-kaligeris"
+    ]
   }
 ]

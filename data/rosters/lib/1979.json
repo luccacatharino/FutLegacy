@@ -42,5 +42,29 @@
       "lib-olimpia-1979-rogelio-delgado",
       "lib-olimpia-1979-jorge-guasch"
     ]
+  },
+  {
+    "name": "Boca Juniors",
+    "year": 1979,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1979_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-boca-juniors-1979-hugo-gatti",
+      "lib-boca-juniors-1979-vicente-pernia",
+      "lib-boca-juniors-1979-armando-capurro",
+      "lib-boca-juniors-1979-roberto-mouzo",
+      "lib-boca-juniors-1979-miguel-bordon",
+      "lib-boca-juniors-1979-jorge-benitez",
+      "lib-boca-juniors-1979-ruben-sune",
+      "lib-boca-juniors-1979-carlos-horacio-salinas",
+      "lib-boca-juniors-1979-ernesto-mastrangelo",
+      "lib-boca-juniors-1979-carlos-salguero",
+      "lib-boca-juniors-1979-juan-ramon-rocha",
+      "lib-boca-juniors-1979-jose-a-palacios"
+    ]
   }
 ]

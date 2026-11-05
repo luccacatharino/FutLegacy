@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 62,
-      "dri": 37,
+      "pas": 64,
+      "dri": 38,
       "def": 17,
-      "fis": 73,
-      "ref": 83,
-      "han": 79,
-      "pos": 80,
-      "div": 81,
-      "kic": 66,
-      "one": 78
+      "fis": 75,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 68,
+      "one": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-alemanha-1990-bodo-illgner",
     "team": "Alemanha",
@@ -32,16 +32,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 81,
-      "fin": 56,
-      "pas": 72,
-      "dri": 76,
-      "def": 73,
-      "fis": 72
+      "vel": 83,
+      "fin": 57,
+      "pas": 74,
+      "dri": 78,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-alemanha-1990-thomas-berthold",
     "team": "Alemanha",
@@ -53,16 +53,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 62,
-      "fin": 46,
-      "pas": 69,
-      "dri": 51,
-      "def": 86,
-      "fis": 80
+      "vel": 64,
+      "fin": 47,
+      "pas": 71,
+      "dri": 52,
+      "def": 88,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-alemanha-1990-klaus-augenthaler",
     "team": "Alemanha",
@@ -74,16 +74,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 71,
-      "fin": 48,
-      "pas": 71,
-      "dri": 53,
-      "def": 88,
-      "fis": 82
+      "vel": 73,
+      "fin": 49,
+      "pas": 73,
+      "dri": 54,
+      "def": 90,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-alemanha-1990-jurgen-kohler",
     "team": "Alemanha",
@@ -96,16 +96,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 63,
-      "fin": 47,
-      "pas": 63,
-      "dri": 52,
-      "def": 80,
-      "fis": 81
+      "vel": 65,
+      "fin": 48,
+      "pas": 65,
+      "dri": 53,
+      "def": 82,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-alemanha-1990-guido-buchwald",
     "team": "Alemanha",
@@ -118,16 +118,16 @@
       "LE",
       "ME"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 92,
-      "fin": 60,
-      "pas": 83,
-      "dri": 80,
-      "def": 84,
-      "fis": 77
+      "vel": 94,
+      "fin": 61,
+      "pas": 85,
+      "dri": 82,
+      "def": 86,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-alemanha-1990-andreas-brehme",
     "team": "Alemanha",
@@ -140,16 +140,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 84,
-      "fin": 81,
-      "pas": 92,
-      "dri": 91,
-      "def": 71,
-      "fis": 82
+      "vel": 86,
+      "fin": 83,
+      "pas": 94,
+      "dri": 93,
+      "def": 73,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "wc-alemanha-1990-lothar-matthaus",
     "team": "Alemanha",
@@ -162,16 +162,16 @@
       "MEI",
       "MD"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 75,
-      "fin": 77,
-      "pas": 88,
-      "dri": 83,
-      "def": 43,
-      "fis": 65
+      "vel": 77,
+      "fin": 79,
+      "pas": 90,
+      "dri": 85,
+      "def": 44,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-alemanha-1990-thomas-ha-ler",
     "team": "Alemanha",
@@ -184,16 +184,16 @@
       "MEI",
       "PD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 76,
-      "fin": 78,
-      "pas": 82,
-      "dri": 84,
-      "def": 38,
-      "fis": 66
+      "vel": 78,
+      "fin": 80,
+      "pas": 84,
+      "dri": 86,
+      "def": 39,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-alemanha-1990-pierre-littbarski",
     "team": "Alemanha",
@@ -205,16 +205,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 71,
-      "dri": 80,
-      "def": 37,
-      "fis": 82
+      "vel": 83,
+      "fin": 92,
+      "pas": 73,
+      "dri": 82,
+      "def": 38,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-alemanha-1990-jurgen-klinsmann",
     "team": "Alemanha",
@@ -226,16 +226,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 78,
-      "fin": 87,
-      "pas": 68,
-      "dri": 77,
-      "def": 34,
-      "fis": 79
+      "vel": 80,
+      "fin": 89,
+      "pas": 70,
+      "dri": 79,
+      "def": 35,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-alemanha-1990-rudi-voller",
     "team": "Alemanha",
@@ -247,22 +247,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 43,
+      "vel": 44,
       "fin": 14,
-      "pas": 66,
-      "dri": 41,
+      "pas": 68,
+      "dri": 42,
       "def": 21,
-      "fis": 77,
-      "ref": 88,
-      "han": 84,
-      "pos": 85,
-      "div": 86,
-      "kic": 71,
-      "one": 83
+      "fis": 79,
+      "ref": 90,
+      "han": 86,
+      "pos": 87,
+      "div": 88,
+      "kic": 73,
+      "one": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-argentina-1990-sergio-goycochea",
     "team": "Argentina",
@@ -274,16 +274,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 59,
-      "fin": 43,
-      "pas": 59,
-      "dri": 48,
-      "def": 76,
-      "fis": 77
+      "vel": 61,
+      "fin": 44,
+      "pas": 61,
+      "dri": 49,
+      "def": 78,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-argentina-1990-juan-simon",
     "team": "Argentina",
@@ -296,16 +296,16 @@
       "ZAG",
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 58,
-      "fin": 42,
-      "pas": 58,
-      "dri": 47,
-      "def": 75,
-      "fis": 76
+      "vel": 59,
+      "fin": 43,
+      "pas": 59,
+      "dri": 48,
+      "def": 76,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-argentina-1990-jose-serrizuela",
     "team": "Argentina",
@@ -317,16 +317,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 61,
-      "fin": 45,
-      "pas": 61,
-      "dri": 50,
-      "def": 85,
-      "fis": 79
+      "vel": 63,
+      "fin": 46,
+      "pas": 63,
+      "dri": 51,
+      "def": 87,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-argentina-1990-oscar-ruggeri",
     "team": "Argentina",
@@ -338,16 +338,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 71,
+    "ovr": 72,
     "attrs": {
-      "vel": 56,
+      "vel": 57,
       "fin": 34,
-      "pas": 56,
-      "dri": 45,
-      "def": 73,
-      "fis": 74
+      "pas": 57,
+      "dri": 46,
+      "def": 74,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 76,
     "id": "wc-argentina-1990-nestor-lorenzo",
     "team": "Argentina",
@@ -360,16 +360,16 @@
       "LD",
       "VOL"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 80,
-      "fin": 55,
-      "pas": 71,
-      "dri": 75,
-      "def": 72,
-      "fis": 71
+      "vel": 82,
+      "fin": 56,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-argentina-1990-roberto-sensini",
     "team": "Argentina",
@@ -382,16 +382,16 @@
       "MD",
       "MC"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 78,
-      "fin": 64,
-      "pas": 72,
-      "dri": 78,
-      "def": 46,
-      "fis": 66
+      "vel": 79,
+      "fin": 65,
+      "pas": 73,
+      "dri": 79,
+      "def": 47,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-argentina-1990-jose-basualdo",
     "team": "Argentina",
@@ -404,16 +404,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 66,
-      "fin": 62,
-      "pas": 80,
-      "dri": 72,
-      "def": 59,
-      "fis": 63
+      "vel": 67,
+      "fin": 63,
+      "pas": 81,
+      "dri": 73,
+      "def": 60,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-argentina-1990-pedro-troglio",
     "team": "Argentina",
@@ -426,16 +426,16 @@
       "MEI",
       "MD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 73,
-      "fin": 75,
-      "pas": 79,
-      "dri": 81,
-      "def": 35,
-      "fis": 63
+      "vel": 75,
+      "fin": 77,
+      "pas": 81,
+      "dri": 83,
+      "def": 36,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-argentina-1990-jorge-burruchaga",
     "team": "Argentina",
@@ -448,16 +448,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 85,
-      "fin": 87,
-      "pas": 89,
-      "dri": 93,
-      "def": 43,
-      "fis": 73
+      "vel": 87,
+      "fin": 89,
+      "pas": 91,
+      "dri": 95,
+      "def": 44,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-argentina-1990-diego-maradona",
     "team": "Argentina",
@@ -469,16 +469,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 70,
+    "ovr": 71,
     "attrs": {
-      "vel": 68,
-      "fin": 70,
-      "pas": 58,
-      "dri": 67,
+      "vel": 69,
+      "fin": 71,
+      "pas": 59,
+      "dri": 68,
       "def": 24,
-      "fis": 69
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 75,
     "id": "wc-argentina-1990-gustavo-dezotti",
     "team": "Argentina",
@@ -490,22 +490,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 61,
-      "dri": 36,
+      "pas": 63,
+      "dri": 37,
       "def": 16,
-      "fis": 72,
-      "ref": 83,
-      "han": 79,
-      "pos": 80,
-      "div": 81,
-      "kic": 66,
-      "one": 78
+      "fis": 74,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 68,
+      "one": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-camaroes-1990-thomas-n-kono",
     "team": "Camarões",
@@ -517,16 +517,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 81,
-      "fin": 50,
-      "pas": 72,
-      "dri": 69,
-      "def": 73,
-      "fis": 72
+      "vel": 83,
+      "fin": 51,
+      "pas": 74,
+      "dri": 71,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-camaroes-1990-stephen-tataw",
     "team": "Camarões",
@@ -539,16 +539,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 61,
-      "fin": 45,
-      "pas": 61,
-      "dri": 50,
-      "def": 78,
-      "fis": 79
+      "vel": 63,
+      "fin": 46,
+      "pas": 63,
+      "dri": 51,
+      "def": 80,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-camaroes-1990-emmanuel-kunde",
     "team": "Camarões",
@@ -561,16 +561,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 55,
-      "fin": 39,
-      "pas": 62,
-      "dri": 44,
-      "def": 79,
-      "fis": 73
+      "vel": 56,
+      "fin": 40,
+      "pas": 63,
+      "dri": 45,
+      "def": 80,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-camaroes-1990-andre-kana-biyik",
     "team": "Camarões",
@@ -582,16 +582,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 57,
+      "vel": 58,
       "fin": 35,
-      "pas": 57,
-      "dri": 46,
-      "def": 74,
-      "fis": 75
+      "pas": 58,
+      "dri": 47,
+      "def": 75,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "wc-camaroes-1990-jules-onana",
     "team": "Camarões",
@@ -603,16 +603,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 77,
-      "fin": 52,
-      "pas": 68,
-      "dri": 72,
-      "def": 69,
-      "fis": 68
+      "vel": 78,
+      "fin": 53,
+      "pas": 69,
+      "dri": 73,
+      "def": 70,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-camaroes-1990-bertin-ebwelle",
     "team": "Camarões",
@@ -624,16 +624,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 71,
+    "ovr": 72,
     "attrs": {
-      "vel": 56,
+      "vel": 57,
       "fin": 34,
-      "pas": 56,
-      "dri": 45,
-      "def": 73,
-      "fis": 74
+      "pas": 57,
+      "dri": 46,
+      "def": 74,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 76,
     "id": "wc-camaroes-1990-benjamin-massing",
     "team": "Camarões",
@@ -646,16 +646,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 69,
-      "fin": 66,
-      "pas": 77,
-      "dri": 76,
-      "def": 63,
-      "fis": 67
+      "vel": 71,
+      "fin": 68,
+      "pas": 79,
+      "dri": 78,
+      "def": 65,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-camaroes-1990-cyrille-makanaky",
     "team": "Camarões",
@@ -668,16 +668,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 67,
-      "fin": 63,
-      "pas": 81,
-      "dri": 73,
-      "def": 60,
-      "fis": 64
+      "vel": 68,
+      "fin": 64,
+      "pas": 82,
+      "dri": 74,
+      "def": 61,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-camaroes-1990-louis-paul-m-fede",
     "team": "Camarões",
@@ -689,16 +689,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 76,
-      "fin": 85,
-      "pas": 66,
-      "dri": 75,
-      "def": 32,
-      "fis": 77
+      "vel": 78,
+      "fin": 87,
+      "pas": 68,
+      "dri": 77,
+      "def": 33,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-camaroes-1990-francois-omam-biyik",
     "team": "Camarões",
@@ -711,16 +711,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 81,
-      "fin": 90,
-      "pas": 71,
-      "dri": 80,
-      "def": 37,
-      "fis": 82
+      "vel": 83,
+      "fin": 92,
+      "pas": 73,
+      "dri": 82,
+      "def": 38,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-camaroes-1990-roger-milla",
     "team": "Camarões",
@@ -732,22 +732,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 61,
-      "dri": 36,
-      "def": 23,
-      "fis": 73,
-      "ref": 84,
-      "han": 80,
-      "pos": 81,
-      "div": 82,
-      "kic": 67,
-      "one": 79
+      "pas": 63,
+      "dri": 37,
+      "def": 24,
+      "fis": 75,
+      "ref": 86,
+      "han": 82,
+      "pos": 83,
+      "div": 84,
+      "kic": 69,
+      "one": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-irlanda-1990-packie-bonner",
     "team": "Irlanda",
@@ -759,16 +759,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 80,
-      "fin": 49,
-      "pas": 71,
-      "dri": 75,
-      "def": 72,
-      "fis": 71
+      "vel": 82,
+      "fin": 50,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-irlanda-1990-chris-morris",
     "team": "Irlanda",
@@ -780,16 +780,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 63,
-      "fin": 40,
-      "pas": 63,
-      "dri": 52,
-      "def": 80,
-      "fis": 81
+      "vel": 65,
+      "fin": 41,
+      "pas": 65,
+      "dri": 53,
+      "def": 82,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-irlanda-1990-mick-mccarthy",
     "team": "Irlanda",
@@ -801,16 +801,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 59,
-      "fin": 43,
-      "pas": 59,
-      "dri": 48,
-      "def": 83,
-      "fis": 77
+      "vel": 61,
+      "fin": 44,
+      "pas": 61,
+      "dri": 49,
+      "def": 85,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-irlanda-1990-david-o-leary",
     "team": "Irlanda",
@@ -822,16 +822,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 83,
-      "fin": 52,
-      "pas": 74,
-      "dri": 78,
-      "def": 75,
-      "fis": 74
+      "vel": 85,
+      "fin": 53,
+      "pas": 76,
+      "dri": 80,
+      "def": 77,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-irlanda-1990-steve-staunton",
     "team": "Irlanda",
@@ -844,16 +844,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 77,
-      "fin": 61,
-      "pas": 84,
-      "dri": 74,
-      "def": 83,
-      "fis": 76
+      "vel": 79,
+      "fin": 62,
+      "pas": 86,
+      "dri": 76,
+      "def": 85,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-irlanda-1990-paul-mcgrath",
     "team": "Irlanda",
@@ -866,16 +866,16 @@
       "MC",
       "ME"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 74,
-      "fin": 64,
-      "pas": 82,
-      "dri": 81,
-      "def": 61,
-      "fis": 71
+      "vel": 76,
+      "fin": 66,
+      "pas": 84,
+      "dri": 83,
+      "def": 63,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-irlanda-1990-andy-townsend",
     "team": "Irlanda",
@@ -888,16 +888,16 @@
       "MD",
       "MC"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 79,
-      "fin": 71,
-      "pas": 80,
-      "dri": 79,
-      "def": 54,
-      "fis": 67
+      "vel": 81,
+      "fin": 73,
+      "pas": 82,
+      "dri": 81,
+      "def": 55,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-irlanda-1990-ray-houghton",
     "team": "Irlanda",
@@ -910,16 +910,16 @@
       "ME",
       "MEI"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 82,
-      "fin": 74,
-      "pas": 76,
-      "dri": 82,
-      "def": 50,
-      "fis": 70
+      "vel": 84,
+      "fin": 76,
+      "pas": 78,
+      "dri": 84,
+      "def": 51,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-irlanda-1990-kevin-sheedy",
     "team": "Irlanda",
@@ -931,16 +931,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 69,
-      "fin": 78,
-      "pas": 59,
-      "dri": 68,
+      "vel": 70,
+      "fin": 79,
+      "pas": 60,
+      "dri": 69,
       "def": 32,
-      "fis": 70
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-irlanda-1990-tony-cascarino",
     "team": "Irlanda",
@@ -952,19 +952,4333 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 70,
-      "fin": 79,
-      "pas": 60,
-      "dri": 69,
-      "def": 33,
-      "fis": 71
+      "vel": 72,
+      "fin": 81,
+      "pas": 62,
+      "dri": 71,
+      "def": 34,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-irlanda-1990-niall-quinn",
     "team": "Irlanda",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Taffarel",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-taffarel",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Acácio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-acacio",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Zé Carlos",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-ze-carlos",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Branco",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-branco",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Aldair",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-aldair",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Jorginho",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-jorginho",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Mozer",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-mozer",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ricardo Gomes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-ricardo-gomes",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Mazinho",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-mazinho",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Mauro Galvão",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-mauro-galvao",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ricardo Rocha",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-ricardo-rocha",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Alemão",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-alemao",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Valdo",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-valdo",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Dunga",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-dunga",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Paulo Silas",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-paulo-silas",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Bismarck",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-bismarck",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Careca",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-careca",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Romário",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-romario",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Bebeto",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-bebeto",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Müller",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-muller",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Renato Gaúcho",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-renato-gaucho",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Tita",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1990-tita",
+    "team": "Brasil",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "René Higuita",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-rene-higuita",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Niño",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-nino",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Andrés Escobar",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-andres-escobar",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Perea",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-perea",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Herrera",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-l-herrera",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Cabrera",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-cabrera",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Gómez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-g-gomez",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Alexis Mendoza",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-alexis-mendoza",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Pérez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-perez",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Cassiani",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-cassiani",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hoyos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-hoyos",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Carlos Valderrama",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-carlos-valderrama",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Freddy Rincón",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-freddy-rincon",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Álvarez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-alvarez",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Redín",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-redin",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Gabriel Gómez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-gabriel-gomez",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "León Villa",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-leon-villa",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Fajardo",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-fajardo",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Iguarán",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-iguaran",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-hernandez",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Estrada",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-estrada",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Guerrero",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-1990-guerrero",
+    "team": "Colômbia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Shobair",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-shobair",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Taher",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-taher",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "El-Batal",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-el-batal",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramzy",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-ramzy",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ibrahim Hassan",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-ibrahim-hassan",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Soliman",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-soliman",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Yakan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-yakan",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ahmed Ramzy",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-ahmed-ramzy",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Maihoub",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-maihoub",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Abdelghani",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-abdelghani",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Yassin",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-yassin",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Kasem",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-kasem",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Youssef",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-youssef",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Eid",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-eid",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Tolba",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-tolba",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Shawky",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-shawky",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Orabi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-orabi",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hossam Hassan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-hossam-hassan",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Abdelhamid",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-abdelhamid",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Abouzeid",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-abouzeid",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "El-Kass",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-el-kass",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Abdel Rahman",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-1990-abdel-rahman",
+    "team": "Egito",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Shilton",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-shilton",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Woods",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-woods",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Beasant",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-beasant",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Pearce",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-pearce",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Des Walker",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-des-walker",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Butcher",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-butcher",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Parker",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-parker",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Wright",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-wright",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Stevens",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-g-stevens",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Dorigo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-dorigo",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Gascoigne",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-gascoigne",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Beardsley",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-beardsley",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Robson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-robson",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Platt",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-platt",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "McMahon",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-mcmahon",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Webb",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-webb",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hodge",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-hodge",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Lineker",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-lineker",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Waddle",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-waddle",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Barnes",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-barnes",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Steven",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-t-steven",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Bull",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1990-bull",
+    "team": "Inglaterra",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Zenga",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-zenga",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Tacconi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-tacconi",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Pagliuca",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-pagliuca",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Baresi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-baresi",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Maldini",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-maldini",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Bergomi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-bergomi",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Vierchowod",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-vierchowod",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "De Agostini",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-de-agostini",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ferri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-ferri",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ferrara",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-ferrara",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Donadoni",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-donadoni",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Giannini",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-giannini",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ancelotti",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-ancelotti",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Berti",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-berti",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "De Napoli",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-de-napoli",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Marocchi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-marocchi",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Baggio",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-r-baggio",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Schillaci",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-schillaci",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Vialli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-vialli",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Mancini",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-mancini",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Serena",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-serena",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Carnevale",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1990-carnevale",
+    "team": "Itália",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Breukelen",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-van-breukelen",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Menzo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-menzo",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hiele",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-hiele",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Koeman",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-r-koeman",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Tiggelen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-van-tiggelen",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Aerle",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-van-aerle",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Blind",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-blind",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Rutjes",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-rutjes",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Fraser",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-fraser",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Rijkaard",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-rijkaard",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Gullit",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-gullit",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Wouters",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-wouters",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Winter",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-winter",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Koeman",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-e-koeman",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Witschge",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-witschge",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Basten",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-van-basten",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Kieft",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-kieft",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Van 't Schip",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-van-t-schip",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Vanenburg",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-vanenburg",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Gillhaus",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-gillhaus",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Roy",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-roy",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Van Loen",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-paises-baixos-1990-van-loen",
+    "team": "Países Baixos",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Lung",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-lung",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Stelea",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-stelea",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Liliac",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-liliac",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Popescu",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-popescu",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Andone",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-andone",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Rednic",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-rednic",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Klein",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-klein",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Săndoi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-sandoi",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Popescu",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-a-popescu",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hagi",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-hagi",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Sabău",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-sabau",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Mateuț",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-mateut",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "I. Rotariu",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-i-rotariu",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Lupu",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-lupu",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Lupescu",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-lupescu",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Timofte",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-timofte",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Muzsnay",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-muzsnay",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Răducioiu",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-raducioiu",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Lăcătuș",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-lacatus",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Dumitrescu",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-dumitrescu",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Balint",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-balint",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Cămătaru",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-romenia-1990-camataru",
+    "team": "Romênia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Stejskal",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-stejskal",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Mikloško",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-miklosko",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Palúch",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-paluch",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Kubík",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-kubik",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Kadlec",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-kadlec",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Kocian",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-kocian",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Straka",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-straka",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Weiss",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-weiss",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Bielik",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-bielik",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Kinier",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-kinier",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Moravčík",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-moravcik",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hašek",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-hasek",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Chovanec",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-chovanec",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Bílek",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-bilek",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Němec",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-nemec",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Němeček",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-nemecek",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hýravý",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-hyravy",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Skuhravý",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-skuhravy",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Luhový",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-luhovy",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Knoflíček",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-knoflicek",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Griga",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-griga",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Fieber",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1990-fieber",
+    "team": "Tchecoslováquia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Ivković",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-ivkovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Omerović",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-omerovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Leković",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-lekovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Hadžibegić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-hadzibegic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Jarni",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-jarni",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Stanojković",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-stanojkovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Spasić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-spasic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Jozić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-jozic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Brnović",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-brnovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Vulić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-vulic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Panadić",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-panadic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Stojković",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-stojkovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Prosinečki",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-prosinecki",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Sušić",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-susic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Savićević",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-savicevic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Katanec",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-katanec",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Šabanadžović",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-sabanadzovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Baljić",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-baljic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Pančev",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-pancev",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Vujović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-vujovic",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Šuker",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-suker",
+    "team": "Iugoslávia",
+    "year": 1990,
+    "comp": "wc"
+  },
+  {
+    "name": "Bokšić",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1990-boksic",
+    "team": "Iugoslávia",
     "year": 1990,
     "comp": "wc"
   }

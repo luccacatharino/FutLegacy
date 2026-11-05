@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 62,
-      "dri": 30,
+      "pas": 64,
+      "dri": 31,
       "def": 17,
-      "fis": 67,
-      "ref": 80,
-      "han": 76,
-      "pos": 77,
-      "div": 78,
-      "kic": 63,
-      "one": 75
+      "fis": 69,
+      "ref": 82,
+      "han": 78,
+      "pos": 79,
+      "div": 80,
+      "kic": 65,
+      "one": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-alemanha-1954-toni-turek",
     "team": "Alemanha",
@@ -32,16 +32,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 79,
-      "fin": 54,
-      "pas": 70,
-      "dri": 74,
-      "def": 71,
-      "fis": 70
+      "vel": 81,
+      "fin": 55,
+      "pas": 72,
+      "dri": 76,
+      "def": 73,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-alemanha-1954-josef-posipal",
     "team": "Alemanha",
@@ -54,16 +54,16 @@
       "ZAG",
       "VOL"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 64,
-      "fin": 41,
-      "pas": 64,
-      "dri": 46,
-      "def": 81,
-      "fis": 82
+      "vel": 66,
+      "fin": 42,
+      "pas": 66,
+      "dri": 47,
+      "def": 83,
+      "fis": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-alemanha-1954-werner-liebrich",
     "team": "Alemanha",
@@ -76,16 +76,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 73,
+    "ovr": 74,
     "attrs": {
-      "vel": 74,
-      "fin": 50,
-      "pas": 72,
-      "dri": 69,
-      "def": 73,
-      "fis": 66
+      "vel": 75,
+      "fin": 51,
+      "pas": 73,
+      "dri": 70,
+      "def": 74,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "wc-alemanha-1954-werner-kohlmeyer",
     "team": "Alemanha",
@@ -98,16 +98,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 67,
-      "fin": 57,
-      "pas": 73,
-      "dri": 69,
-      "def": 79,
-      "fis": 72
+      "vel": 69,
+      "fin": 59,
+      "pas": 75,
+      "dri": 71,
+      "def": 81,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-alemanha-1954-horst-eckel",
     "team": "Alemanha",
@@ -120,16 +120,16 @@
       "MC",
       "VOL"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 61,
-      "pas": 79,
-      "dri": 71,
-      "def": 58,
-      "fis": 68
+      "vel": 72,
+      "fin": 62,
+      "pas": 80,
+      "dri": 72,
+      "def": 59,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 79,
     "id": "wc-alemanha-1954-karl-mai",
     "team": "Alemanha",
@@ -142,16 +142,16 @@
       "PD",
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 91,
-      "fin": 82,
-      "pas": 81,
-      "dri": 85,
-      "def": 39,
-      "fis": 74
+      "vel": 93,
+      "fin": 84,
+      "pas": 83,
+      "dri": 87,
+      "def": 40,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-alemanha-1954-helmut-rahn",
     "team": "Alemanha",
@@ -164,16 +164,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 77,
-      "fin": 79,
-      "pas": 83,
-      "dri": 85,
-      "def": 39,
-      "fis": 67
+      "vel": 79,
+      "fin": 81,
+      "pas": 85,
+      "dri": 87,
+      "def": 40,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-alemanha-1954-max-morlock",
     "team": "Alemanha",
@@ -185,16 +185,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 77,
-      "fin": 79,
-      "pas": 67,
-      "dri": 70,
-      "def": 33,
-      "fis": 78
+      "vel": 79,
+      "fin": 81,
+      "pas": 69,
+      "dri": 72,
+      "def": 34,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "wc-alemanha-1954-ottmar-walter",
     "team": "Alemanha",
@@ -207,16 +207,16 @@
       "MEI",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 85,
-      "fin": 80,
-      "pas": 91,
-      "dri": 86,
-      "def": 46,
-      "fis": 68
+      "vel": 87,
+      "fin": 82,
+      "pas": 93,
+      "dri": 88,
+      "def": 47,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-alemanha-1954-fritz-walter",
     "team": "Alemanha",
@@ -229,16 +229,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 85,
-      "fin": 76,
-      "pas": 75,
-      "dri": 86,
-      "def": 33,
-      "fis": 68
+      "vel": 87,
+      "fin": 78,
+      "pas": 77,
+      "dri": 88,
+      "def": 34,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-alemanha-1954-hans-schafer",
     "team": "Alemanha",
@@ -250,22 +250,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 61,
-      "dri": 36,
+      "pas": 63,
+      "dri": 37,
       "def": 16,
-      "fis": 72,
-      "ref": 83,
-      "han": 79,
-      "pos": 80,
-      "div": 81,
-      "kic": 66,
-      "one": 78
+      "fis": 74,
+      "ref": 85,
+      "han": 81,
+      "pos": 82,
+      "div": 83,
+      "kic": 68,
+      "one": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-hungria-1954-gyula-grosics",
     "team": "Hungria",
@@ -277,16 +277,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 78,
-      "fin": 53,
-      "pas": 69,
-      "dri": 73,
-      "def": 70,
-      "fis": 69
+      "vel": 80,
+      "fin": 54,
+      "pas": 71,
+      "dri": 75,
+      "def": 72,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-hungria-1954-jeno-buzanszky",
     "team": "Hungria",
@@ -298,16 +298,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 60,
-      "fin": 44,
-      "pas": 60,
-      "dri": 49,
-      "def": 77,
-      "fis": 78
+      "vel": 62,
+      "fin": 45,
+      "pas": 62,
+      "dri": 50,
+      "def": 79,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "wc-hungria-1954-gyula-lorant",
     "team": "Hungria",
@@ -320,16 +320,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 81,
-      "fin": 50,
-      "pas": 72,
-      "dri": 76,
-      "def": 73,
-      "fis": 72
+      "vel": 83,
+      "fin": 51,
+      "pas": 74,
+      "dri": 78,
+      "def": 75,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-hungria-1954-mihaly-lantos",
     "team": "Hungria",
@@ -342,16 +342,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 75,
-      "fin": 65,
-      "pas": 81,
-      "dri": 77,
-      "def": 87,
-      "fis": 80
+      "vel": 77,
+      "fin": 67,
+      "pas": 83,
+      "dri": 79,
+      "def": 89,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-hungria-1954-jozsef-bozsik",
     "team": "Hungria",
@@ -364,16 +364,16 @@
       "VOL",
       "ZAG"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 68,
-      "fin": 58,
-      "pas": 74,
-      "dri": 70,
-      "def": 73,
-      "fis": 73
+      "vel": 70,
+      "fin": 60,
+      "pas": 76,
+      "dri": 72,
+      "def": 75,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "wc-hungria-1954-jozsef-zakarias",
     "team": "Hungria",
@@ -386,16 +386,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 88,
-      "fin": 86,
-      "pas": 78,
-      "dri": 89,
-      "def": 36,
-      "fis": 71
+      "vel": 90,
+      "fin": 88,
+      "pas": 80,
+      "dri": 91,
+      "def": 37,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-hungria-1954-zoltan-czibor",
     "team": "Hungria",
@@ -407,16 +407,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 89,
+    "ovr": 91,
     "attrs": {
-      "vel": 85,
-      "fin": 93,
-      "pas": 75,
-      "dri": 84,
-      "def": 41,
-      "fis": 86
+      "vel": 87,
+      "fin": 95,
+      "pas": 77,
+      "dri": 86,
+      "def": 42,
+      "fis": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "wc-hungria-1954-sandor-kocsis",
     "team": "Hungria",
@@ -429,16 +429,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 81,
-      "fin": 83,
-      "pas": 87,
-      "dri": 89,
-      "def": 43,
-      "fis": 71
+      "vel": 83,
+      "fin": 85,
+      "pas": 89,
+      "dri": 91,
+      "def": 44,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-hungria-1954-nandor-hidegkuti",
     "team": "Hungria",
@@ -451,16 +451,16 @@
       "ATA",
       "MEI"
     ],
-    "ovr": 90,
+    "ovr": 92,
     "attrs": {
-      "vel": 75,
-      "fin": 92,
-      "pas": 85,
-      "dri": 86,
-      "def": 47,
-      "fis": 85
+      "vel": 77,
+      "fin": 94,
+      "pas": 87,
+      "dri": 88,
+      "def": 48,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 96,
     "id": "wc-hungria-1954-ferenc-puskas",
     "team": "Hungria",
@@ -473,19 +473,5269 @@
       "PD",
       "PE"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
-      "vel": 77,
-      "fin": 75,
-      "pas": 67,
-      "dri": 78,
+      "vel": 78,
+      "fin": 76,
+      "pas": 68,
+      "dri": 79,
       "def": 25,
-      "fis": 60
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 77,
     "id": "wc-hungria-1954-mihaly-toth",
     "team": "Hungria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Zeman",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-zeman",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Schmied",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-schmied",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pelikan",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-pelikan",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hanappi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-hanappi",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Happel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-happel",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Barschandt",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-barschandt",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Stotz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-stotz",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Halla",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-halla",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ocwirk",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-ocwirk",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Stojaspal",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-stojaspal",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Koller",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-koller",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kollmann",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-kollmann",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Giesser",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-giesser",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Teinitzer",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-teinitzer",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Riegler",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-riegler",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Wagner",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-wagner",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Körner",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-r-korner",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Körner",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-a-korner",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Probst",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-probst",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Dienst",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-dienst",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Schleger",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-schleger",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Haummer",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-austria-1954-haummer",
+    "team": "Áustria",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Castilho",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-castilho",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Veludo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-veludo",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Cabeção",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-cabecao",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Djalma Santos",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-djalma-santos",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Nílton Santos",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-nilton-santos",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pinheiro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-pinheiro",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mauro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-mauro",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Paulinho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-paulinho",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Alfredo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-alfredo",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Didi",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-didi",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Bauer",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-bauer",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Brandãozinho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-brandaozinho",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ely",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-ely",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Dequinha",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-dequinha",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Julinho",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-julinho",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Baltazar",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-baltazar",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pinga",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-pinga",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Rodrigues",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-rodrigues",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Maurinho",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-maurinho",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Humberto",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-humberto",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Índio",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-indio",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Rubens",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-1954-rubens",
+    "team": "Brasil",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Merrick",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-merrick",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Burgin",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-burgin",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Byrne",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-byrne",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Staniforth",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-staniforth",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Chilton",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-chilton",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Green",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-green",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Wright",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-wright",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Dickinson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-dickinson",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Haynes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-haynes",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Broadis",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-broadis",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Owen",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-owen",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "McGarry",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-mcgarry",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Quixall",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-quixall",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Armstrong",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-armstrong",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Matthews",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-matthews",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Finney",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-finney",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Lofthouse",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-lofthouse",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Taylor",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-taylor",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mullen",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-mullen",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilshaw",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-wilshaw",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Jezzard",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-jezzard",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hooper",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-1954-hooper",
+    "team": "Inglaterra",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Remetter",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-remetter",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ruminski",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-ruminski",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Abbès",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-abbes",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Jonquet",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-jonquet",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Marche",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-marche",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kaelbel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-kaelbel",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Gianessi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-gianessi",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Grimonpon",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-grimonpon",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kopa",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-kopa",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Penverne",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-penverne",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Marcel",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-marcel",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Cuissard",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-cuissard",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Bieganski",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-bieganski",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Xercès Louis",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-xerces-louis",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mahjoub",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-mahjoub",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ben Tifour",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-ben-tifour",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Leblond",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-leblond",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Dereuddre",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-dereuddre",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Vincent",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-vincent",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Strappe",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-strappe",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Glovacki",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-glovacki",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Schultz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-franca-1954-schultz",
+    "team": "França",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ghezzi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-ghezzi",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Costagliola",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-costagliola",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Viola",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-viola",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Cervato",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-cervato",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Magnini",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-magnini",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Vincenzi",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-vincenzi",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Giacomazzi",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-giacomazzi",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pandolfini",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-pandolfini",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Neri",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-neri",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ferrario",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-ferrario",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Tognon",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-tognon",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mari",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-mari",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Segato",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-segato",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Nesti",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-nesti",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Gratton",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-gratton",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Boniperti",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-boniperti",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Lorenzi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-lorenzi",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Cappello",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-cappello",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pivatelli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-pivatelli",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Muccinelli",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-muccinelli",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Galli",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-galli",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Frignani",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-italia-1954-frignani",
+    "team": "Itália",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Martin",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-martin",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Anderson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-anderson",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Evans",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-evans",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Cunningham",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-cunningham",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Aird",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-aird",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilson",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-wilson",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Docherty",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-docherty",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Johnstone",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-johnstone",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Fernie",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-fernie",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Brown",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-brown",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Cowie",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-cowie",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Davidson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-davidson",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "McMillan",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-mcmillan",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mathers",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-mathers",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Combe",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-combe",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ormond",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-ormond",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mackenzie",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-mackenzie",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hamilton",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-hamilton",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mochan",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-mochan",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Henderson",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-henderson",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Binning",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-binning",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Copland",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-escocia-1954-copland",
+    "team": "Escócia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Parlier",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-parlier",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Eich",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-eich",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Stuber",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-stuber",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Bocquet",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-bocquet",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Neury",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-neury",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kernen",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-kernen",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Flückiger",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-fluckiger",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mathis",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-mathis",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Eggimann",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-eggimann",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Bigler",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-bigler",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Casali",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-casali",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Eschmann",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-eschmann",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Fesselet",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-fesselet",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Frosio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-frosio",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hügi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-hugi",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Antenen",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-antenen",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Fatton",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-fatton",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ballaman",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-ballaman",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Vonlanthen",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-vonlanthen",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mauron",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-mauron",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Meier",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-meier",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Riva",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-1954-riva",
+    "team": "Suíça",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Schrojf",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-schrojf",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Reimann",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-reimann",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Stacho",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-stacho",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Novák",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-novak",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Trnka",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-trnka",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Šafránek",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-safranek",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Krásnohorský",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-krasnohorsky",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pluskal",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-pluskal",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hemele",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-hemele",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Benedikovič",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-benedikovic",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kačáni",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-kacani",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hledík",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-hledik",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hertl",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-hertl",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Procházka",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-prochazka",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pažický",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-pazicky",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Pešek",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-pesek",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hlaváček",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-hlavacek",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Malatinský",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-malatinsky",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kraus",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-kraus",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Majer",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-majer",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Košnar",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-kosnar",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Gajdoš",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-tchecoslovaquia-1954-gajdos",
+    "team": "Tchecoslováquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Turgay",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-turgay",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Şükrü",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-sukru",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Bülent",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-bulent",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Basri",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-basri",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ertan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-ertan",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kadri",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-kadri",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Rober",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-rober",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Naci",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-naci",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Rıdvan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-r-dvan",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Nedim",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-nedim",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Suat",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-suat",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ahmet",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-ahmet",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Çetin",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-cetin",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Akgün",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-akgun",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ali",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-ali",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Lefter",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-lefter",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Metin Oktay",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-metin-oktay",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Burhan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-burhan",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Coşkun",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-coskun",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Erol",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-erol",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Necmi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-necmi",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Feridun",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-turquia-1954-feridun",
+    "team": "Turquia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Máspoli",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-maspoli",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Maceiras",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-maceiras",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Santamaría",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-santamaria",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Tejera",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-tejera",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "W. Martínez",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-w-martinez",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Davoine",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-davoine",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Schiaffino",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-schiaffino",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Varela",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-varela",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Andrade",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-andrade",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Pérez",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-j-perez",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Leopardi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-leopardi",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Carballo",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-carballo",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Rivera",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-rivera",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Cruz",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-l-cruz",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Abbadie",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-abbadie",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Míguez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-miguez",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Hohberg",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-hohberg",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Borges",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-borges",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ambrois",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-ambrois",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Castro",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-l-castro",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Souto",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-souto",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "O. Méndez",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-1954-o-mendez",
+    "team": "Uruguai",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Beara",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-beara",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Kralj",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-kralj",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Stanković",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-stankovic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Horvat",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-horvat",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Crnković",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-crnkovic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Zeković",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-zekovic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Milovanov",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-milovanov",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Belin",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-belin",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Bobek",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-bobek",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Vukas",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-vukas",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mitić",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-mitic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Z. Čajkovski",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-z-cajkovski",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Boškov",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-boskov",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Spajić",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-spajic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Mantula",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-mantula",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Papec",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-papec",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Zebec",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-zebec",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Milutinović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-m-milutinovic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Ognjanov",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-ognjanov",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Veselinović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-veselinovic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Dvornić",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-dvornic",
+    "team": "Iugoslávia",
+    "year": 1954,
+    "comp": "wc"
+  },
+  {
+    "name": "Petaković",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-iugoslavia-1954-petakovic",
+    "team": "Iugoslávia",
     "year": 1954,
     "comp": "wc"
   }

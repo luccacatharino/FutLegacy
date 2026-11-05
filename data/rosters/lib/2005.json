@@ -48,5 +48,28 @@
       "lib-sao-paulo-2005-diego-tardelli",
       "lib-sao-paulo-2005-marco-antonio"
     ]
+  },
+  {
+    "name": "Athletico-PR",
+    "year": 2005,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/2005_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-athletico-pr-2005-diego",
+      "lib-athletico-pr-2005-jancarlos",
+      "lib-athletico-pr-2005-danilo",
+      "lib-athletico-pr-2005-durval",
+      "lib-athletico-pr-2005-marcao",
+      "lib-athletico-pr-2005-cocito",
+      "lib-athletico-pr-2005-alan-bahia",
+      "lib-athletico-pr-2005-fernandinho",
+      "lib-athletico-pr-2005-fabricio",
+      "lib-athletico-pr-2005-lima",
+      "lib-athletico-pr-2005-aloisio"
+    ]
   }
 ]

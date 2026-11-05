@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 47,
+      "vel": 48,
       "fin": 19,
-      "pas": 61,
-      "dri": 24,
-      "def": 25,
-      "fis": 77,
-      "ref": 86,
-      "han": 82,
-      "pos": 84,
-      "div": 85,
-      "kic": 73,
-      "one": 84
+      "pas": 62,
+      "dri": 25,
+      "def": 26,
+      "fis": 79,
+      "ref": 88,
+      "han": 84,
+      "pos": 86,
+      "div": 87,
+      "kic": 75,
+      "one": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-boca-juniors-1978-hugo-gatti",
     "team": "Boca Juniors",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 74,
-      "fin": 43,
-      "pas": 69,
-      "dri": 69,
-      "def": 72,
-      "fis": 72
+      "vel": 76,
+      "fin": 44,
+      "pas": 71,
+      "dri": 71,
+      "def": 74,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-boca-juniors-1978-vicente-pernia",
     "team": "Boca Juniors",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 57,
-      "fin": 29,
-      "pas": 58,
-      "dri": 42,
-      "def": 79,
-      "fis": 79
+      "vel": 58,
+      "fin": 30,
+      "pas": 59,
+      "dri": 43,
+      "def": 81,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-boca-juniors-1978-francisco-sa",
     "team": "Boca Juniors",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 58,
-      "fin": 31,
-      "pas": 60,
-      "dri": 45,
-      "def": 81,
-      "fis": 80
+      "vel": 59,
+      "fin": 32,
+      "pas": 62,
+      "dri": 46,
+      "def": 83,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-boca-juniors-1978-roberto-mouzo",
     "team": "Boca Juniors",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 68,
+      "vel": 69,
       "fin": 35,
-      "pas": 64,
-      "dri": 63,
-      "def": 66,
-      "fis": 64
+      "pas": 65,
+      "dri": 64,
+      "def": 67,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-boca-juniors-1978-miguel-bordon",
     "team": "Boca Juniors",
@@ -115,16 +115,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 67,
-      "fin": 61,
-      "pas": 82,
-      "dri": 77,
-      "def": 62,
-      "fis": 70
+      "vel": 69,
+      "fin": 63,
+      "pas": 84,
+      "dri": 79,
+      "def": 64,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-boca-juniors-1978-jorge-benitez",
     "team": "Boca Juniors",
@@ -136,16 +136,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 64,
-      "fin": 47,
-      "pas": 77,
-      "dri": 66,
-      "def": 81,
-      "fis": 78
+      "vel": 66,
+      "fin": 48,
+      "pas": 79,
+      "dri": 68,
+      "def": 83,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-boca-juniors-1978-ruben-sune",
     "team": "Boca Juniors",
@@ -157,16 +157,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 69,
-      "fin": 74,
-      "pas": 81,
-      "dri": 85,
-      "def": 37,
-      "fis": 61
+      "vel": 71,
+      "fin": 76,
+      "pas": 83,
+      "dri": 87,
+      "def": 38,
+      "fis": 63
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-boca-juniors-1978-mario-zanabria",
     "team": "Boca Juniors",
@@ -178,16 +178,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 70,
-      "fin": 83,
-      "pas": 57,
-      "dri": 68,
-      "def": 26,
-      "fis": 76
+      "vel": 72,
+      "fin": 85,
+      "pas": 58,
+      "dri": 70,
+      "def": 27,
+      "fis": 78
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-boca-juniors-1978-ernesto-mastrangelo",
     "team": "Boca Juniors",
@@ -199,16 +199,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 78,
-      "fin": 72,
-      "pas": 69,
-      "dri": 79,
-      "def": 31,
-      "fis": 59
+      "vel": 80,
+      "fin": 74,
+      "pas": 71,
+      "dri": 81,
+      "def": 32,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-boca-juniors-1978-carlos-horacio-salinas",
     "team": "Boca Juniors",
@@ -220,16 +220,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 78,
-      "fin": 70,
-      "pas": 69,
-      "dri": 80,
-      "def": 30,
-      "fis": 59
+      "vel": 80,
+      "fin": 72,
+      "pas": 71,
+      "dri": 82,
+      "def": 31,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-boca-juniors-1978-hugo-perotti",
     "team": "Boca Juniors",
@@ -241,22 +241,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 39,
+      "vel": 40,
       "fin": 11,
-      "pas": 53,
+      "pas": 54,
       "dri": 19,
       "def": 18,
-      "fis": 72,
-      "ref": 79,
-      "han": 75,
-      "pos": 77,
-      "div": 78,
-      "kic": 66,
-      "one": 77
+      "fis": 74,
+      "ref": 81,
+      "han": 77,
+      "pos": 79,
+      "div": 80,
+      "kic": 68,
+      "one": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-boca-juniors-1978-carlos-rodriguez",
     "team": "Boca Juniors",
@@ -268,19 +268,285 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 71,
-      "fin": 80,
-      "pas": 59,
-      "dri": 69,
-      "def": 28,
-      "fis": 74
+      "vel": 73,
+      "fin": 82,
+      "pas": 61,
+      "dri": 71,
+      "def": 29,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-boca-juniors-1978-carlos-veglio",
     "team": "Boca Juniors",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Pedro Zape",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-pedro-zape",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "William Ospina",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-william-ospina",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Fernando Castro",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-fernando-castro",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Henry Caicedo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-henry-caicedo",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Escobar",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-miguel-escobar",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "César Valverde",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-cesar-valverde",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Rafael Otero",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-rafael-otero",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Ángel Landucci",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-angel-landucci",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Hector Achilli",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-hector-achilli",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "José Fernández",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 87,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-jose-fernandez",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Angel Torres",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-angel-torres",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Heriberto Correa",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 75,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 78
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-heriberto-correa",
+    "team": "Deportivo Cali",
+    "year": 1978,
+    "comp": "lib"
+  },
+  {
+    "name": "Héctor Jaramilo",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 76,
+      "fin": 63,
+      "pas": 81,
+      "dri": 78,
+      "def": 48,
+      "fis": 79
+    },
+    "ratingRevision": 6,
+    "id": "lib-deportivo-cali-1978-hector-jaramilo",
+    "team": "Deportivo Cali",
     "year": 1978,
     "comp": "lib"
   }

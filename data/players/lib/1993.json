@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 44,
+      "vel": 45,
       "fin": 17,
-      "pas": 58,
-      "dri": 28,
-      "def": 23,
-      "fis": 79,
-      "ref": 87,
-      "han": 83,
-      "pos": 85,
-      "div": 86,
-      "kic": 74,
-      "one": 85
+      "pas": 59,
+      "dri": 29,
+      "def": 24,
+      "fis": 81,
+      "ref": 89,
+      "han": 85,
+      "pos": 87,
+      "div": 88,
+      "kic": 76,
+      "one": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-sao-paulo-1993-zetti",
     "team": "São Paulo",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 76,
-      "fin": 39,
-      "pas": 71,
-      "dri": 66,
-      "def": 69,
-      "fis": 69
+      "vel": 78,
+      "fin": 40,
+      "pas": 73,
+      "dri": 68,
+      "def": 71,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-sao-paulo-1993-vitor",
     "team": "São Paulo",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 59,
-      "fin": 34,
-      "pas": 60,
-      "dri": 46,
-      "def": 83,
-      "fis": 84
+      "vel": 60,
+      "fin": 35,
+      "pas": 61,
+      "dri": 47,
+      "def": 85,
+      "fis": 86
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-sao-paulo-1993-valber",
     "team": "São Paulo",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 60,
-      "fin": 30,
-      "pas": 61,
-      "dri": 46,
-      "def": 79,
-      "fis": 80
+      "vel": 62,
+      "fin": 31,
+      "pas": 63,
+      "dri": 47,
+      "def": 81,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-sao-paulo-1993-gilmar",
     "team": "São Paulo",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 69,
-      "fin": 36,
-      "pas": 65,
-      "dri": 63,
-      "def": 67,
-      "fis": 65
+      "vel": 71,
+      "fin": 37,
+      "pas": 67,
+      "dri": 65,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-sao-paulo-1993-ronaldo-luiz",
     "team": "São Paulo",
@@ -115,16 +115,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 59,
-      "fin": 46,
-      "pas": 73,
-      "dri": 66,
-      "def": 76,
-      "fis": 73
+      "vel": 60,
+      "fin": 47,
+      "pas": 75,
+      "dri": 68,
+      "def": 78,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-sao-paulo-1993-pintado",
     "team": "São Paulo",
@@ -136,16 +136,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 63,
-      "fin": 60,
-      "pas": 78,
-      "dri": 75,
-      "def": 60,
-      "fis": 66
+      "vel": 65,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 62,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-sao-paulo-1993-dinho",
     "team": "São Paulo",
@@ -157,16 +157,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 78,
-      "fin": 81,
-      "pas": 91,
-      "dri": 89,
-      "def": 44,
-      "fis": 70
+      "vel": 80,
+      "fin": 83,
+      "pas": 93,
+      "dri": 91,
+      "def": 45,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 95,
     "id": "lib-sao-paulo-1993-rai",
     "team": "São Paulo",
@@ -179,16 +179,16 @@
       "LD",
       "MD"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 80,
-      "fin": 46,
-      "pas": 76,
-      "dri": 75,
-      "def": 77,
-      "fis": 75
+      "vel": 82,
+      "fin": 47,
+      "pas": 78,
+      "dri": 77,
+      "def": 79,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "lib-sao-paulo-1993-cafu",
     "team": "São Paulo",
@@ -200,16 +200,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 76,
-      "fin": 90,
-      "pas": 63,
-      "dri": 73,
-      "def": 33,
-      "fis": 80
+      "vel": 78,
+      "fin": 92,
+      "pas": 65,
+      "dri": 75,
+      "def": 34,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "lib-sao-paulo-1993-palhinha",
     "team": "São Paulo",
@@ -221,16 +221,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 90,
-      "fin": 81,
-      "pas": 80,
-      "dri": 87,
-      "def": 41,
-      "fis": 71
+      "vel": 92,
+      "fin": 83,
+      "pas": 82,
+      "dri": 89,
+      "def": 42,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "lib-sao-paulo-1993-muller",
     "team": "São Paulo",
@@ -243,16 +243,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 65,
-      "fin": 48,
-      "pas": 78,
-      "dri": 68,
-      "def": 77,
-      "fis": 79
+      "vel": 67,
+      "fin": 49,
+      "pas": 80,
+      "dri": 70,
+      "def": 79,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 88,
     "id": "lib-sao-paulo-1993-toninho-cerezo",
     "team": "São Paulo",
@@ -264,22 +264,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 72,
+    "ovr": 73,
     "attrs": {
       "vel": 33,
       "fin": 9,
-      "pas": 50,
+      "pas": 51,
       "dri": 19,
       "def": 13,
-      "fis": 66,
-      "ref": 74,
-      "han": 70,
-      "pos": 72,
-      "div": 73,
-      "kic": 61,
-      "one": 72
+      "fis": 67,
+      "ref": 75,
+      "han": 71,
+      "pos": 73,
+      "div": 74,
+      "kic": 62,
+      "one": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 78,
     "id": "lib-sao-paulo-1993-gilberto",
     "team": "São Paulo",
@@ -291,16 +291,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 58,
-      "fin": 31,
-      "pas": 59,
-      "dri": 45,
-      "def": 78,
-      "fis": 79
+      "vel": 60,
+      "fin": 32,
+      "pas": 61,
+      "dri": 46,
+      "def": 80,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-sao-paulo-1993-adilson",
     "team": "São Paulo",
@@ -313,16 +313,16 @@
       "LE",
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 75,
-      "fin": 42,
-      "pas": 71,
-      "dri": 68,
-      "def": 72,
-      "fis": 70
+      "vel": 77,
+      "fin": 43,
+      "pas": 73,
+      "dri": 70,
+      "def": 74,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-sao-paulo-1993-andre-luiz",
     "team": "São Paulo",
@@ -334,16 +334,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 77,
-      "fin": 69,
-      "pas": 69,
-      "dri": 77,
-      "def": 29,
-      "fis": 62
+      "vel": 79,
+      "fin": 71,
+      "pas": 71,
+      "dri": 79,
+      "def": 30,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-sao-paulo-1993-cate",
     "team": "São Paulo",
@@ -355,16 +355,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 81,
-      "fin": 73,
-      "pas": 72,
-      "dri": 81,
-      "def": 33,
-      "fis": 66
+      "vel": 83,
+      "fin": 75,
+      "pas": 74,
+      "dri": 83,
+      "def": 34,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-sao-paulo-1993-elivelton",
     "team": "São Paulo",
@@ -376,19 +376,245 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 71,
-      "fin": 38,
-      "pas": 67,
-      "dri": 64,
-      "def": 68,
-      "fis": 66
+      "vel": 72,
+      "fin": 39,
+      "pas": 68,
+      "dri": 65,
+      "def": 69,
+      "fis": 67
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-sao-paulo-1993-marcos-adriano",
     "team": "São Paulo",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Oscar Wirth",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-oscar-wirth",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Leonel Contreras",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-leonel-contreras",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Daniel López",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-daniel-lopez",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Sergio Vázquez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-sergio-vazquez",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Andrés Romero",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-andres-romero",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Raimundo Tupper",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-raimundo-tupper",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Ricardo Lunari",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-ricardo-lunari",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelson Parraguez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-nelson-parraguez",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario Lepe",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-mario-lepe",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Carlos Almada",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-juan-carlos-almada",
+    "team": "Universidad Católica",
+    "year": 1993,
+    "comp": "lib"
+  },
+  {
+    "name": "Luis Pérez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-universidad-catolica-1993-luis-perez",
+    "team": "Universidad Católica",
     "year": 1993,
     "comp": "lib"
   }

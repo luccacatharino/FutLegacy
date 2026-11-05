@@ -65,3 +65,239 @@ Recortes de jogadores reais das campanhas. Não são todos os inscritos. OVR ind
 - Estados Unidos 2002: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads).
 - Romênia 1994: 11 atletas. [Fonte](https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads).
 - Croácia 2022: 11 atletas. [Fonte](docs/FONTES.md).
+- Chile 1950: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/chi).
+- Inglaterra 1950: 21 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/eng).
+- Espanha 1950: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/esp).
+- Itália 1950: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/ita).
+- México 1950: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/mex).
+- Paraguai 1950: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/par).
+- Suíça 1950: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/sui).
+- Suécia 1950: 21 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/swe).
+- Estados Unidos 1950: 18 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/usa).
+- Iugoslávia 1950: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1950/yug).
+- Áustria 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/aut).
+- Brasil 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/bra).
+- Inglaterra 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/eng).
+- França 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/fra).
+- Itália 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/ita).
+- Escócia 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/sco).
+- Suíça 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/sui).
+- Tchecoslováquia 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/tch).
+- Turquia 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/tur).
+- Uruguai 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/uru).
+- Iugoslávia 1954: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1954/yug).
+- Argentina 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/arg).
+- Inglaterra 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/eng).
+- França 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/fra).
+- Alemanha 1958: 18 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/ger).
+- Hungria 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/hun).
+- Irlanda do Norte 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/nir).
+- Paraguai 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/par).
+- União Soviética 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/urs).
+- País de Gales 1958: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/wal).
+- Iugoslávia 1958: 19 atletas. [Fonte](https://www.7a0.com.br/en/copas/1958/yug).
+- Argentina 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/arg).
+- Inglaterra 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/eng).
+- Espanha 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/esp).
+- Alemanha 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/ger).
+- Hungria 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/hun).
+- Itália 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/ita).
+- México 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/mex).
+- União Soviética 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/urs).
+- Iugoslávia 1962: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1962/yug).
+- Argentina 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/arg).
+- Brasil 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/bra).
+- Espanha 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/esp).
+- França 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/fra).
+- Hungria 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/hun).
+- Itália 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/ita).
+- México 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/mex).
+- União Soviética 1966: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1966/urs).
+- Bélgica 1970: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1970/bel).
+- Bulgária 1970: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1970/bul).
+- Inglaterra 1970: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1970/eng).
+- Alemanha 1970: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1970/ger).
+- México 1970: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1970/mex).
+- Romênia 1970: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1970/rou).
+- Uruguai 1970: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1970/uru).
+- Argentina 1974: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1974/arg).
+- Brasil 1974: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1974/bra).
+- Chile 1974: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1974/chi).
+- Itália 1974: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1974/ita).
+- Escócia 1974: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1974/sco).
+- Suécia 1974: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1974/swe).
+- Uruguai 1974: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1974/uru).
+- Áustria 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/aut).
+- Brasil 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/bra).
+- Espanha 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/esp).
+- França 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/fra).
+- Itália 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/ita).
+- México 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/mex).
+- Peru 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/per).
+- Polônia 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/pol).
+- Escócia 1978: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1978/sco).
+- Argélia 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/alg).
+- Argentina 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/arg).
+- Áustria 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/aut).
+- Bélgica 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/bel).
+- Camarões 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/cmr).
+- Inglaterra 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/eng).
+- França 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/fra).
+- Hungria 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/hun).
+- Polônia 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/pol).
+- Escócia 1982: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1982/sco).
+- Brasil 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/bra).
+- Bulgária 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/bul).
+- Dinamarca 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/den).
+- Inglaterra 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/eng).
+- Espanha 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/esp).
+- França 1986: 21 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/fra).
+- Itália 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/ita).
+- Marrocos 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/mar).
+- México 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/mex).
+- Paraguai 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/par).
+- Polônia 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/pol).
+- União Soviética 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/urs).
+- Uruguai 1986: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1986/uru).
+- Brasil 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/bra).
+- Colômbia 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/col).
+- Egito 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/egy).
+- Inglaterra 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/eng).
+- Itália 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/ita).
+- Países Baixos 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/ned).
+- Romênia 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/rou).
+- Tchecoslováquia 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/tch).
+- Iugoslávia 1990: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1990/yug).
+- Argentina 1994: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/arg).
+- Colômbia 1994: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/col).
+- Alemanha 1994: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/ger).
+- México 1994: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/mex).
+- Países Baixos 1994: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/ned).
+- Nigéria 1994: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/nga).
+- Noruega 1994: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/nor).
+- Estados Unidos 1994: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1994/usa).
+- Argentina 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/arg).
+- Chile 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/chi).
+- Colômbia 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/col).
+- Croácia 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/cro).
+- Dinamarca 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/den).
+- Inglaterra 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/eng).
+- Alemanha 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/ger).
+- Itália 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/ita).
+- Nigéria 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/nga).
+- Noruega 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/nor).
+- Paraguai 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/par).
+- Romênia 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/rou).
+- Iugoslávia 1998: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/1998/yug).
+- Argentina 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/arg).
+- Camarões 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/cmr).
+- Dinamarca 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/den).
+- Inglaterra 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/eng).
+- Espanha 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/esp).
+- França 2002: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/fra).
+- Itália 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/ita).
+- Japão 2002: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/jpn).
+- México 2002: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/mex).
+- Nigéria 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/nga).
+- Portugal 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/por).
+- Uruguai 2002: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2002/uru).
+- Argentina 2006: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/arg).
+- Austrália 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/aus).
+- Brasil 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/bra).
+- Costa do Marfim 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/civ).
+- República Tcheca 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/cze).
+- Equador 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/ecu).
+- Inglaterra 2006: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/eng).
+- Espanha 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/esp).
+- Alemanha 2006: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/ger).
+- Países Baixos 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/ned).
+- Suíça 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/sui).
+- Suécia 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/swe).
+- Ucrânia 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/ukr).
+- Argentina 2010: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/arg).
+- Brasil 2010: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/bra).
+- Chile 2010: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/chi).
+- Costa do Marfim 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/civ).
+- Inglaterra 2010: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/eng).
+- França 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/fra).
+- Alemanha 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/ger).
+- Grécia 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/gre).
+- Itália 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/ita).
+- Japão 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/jpn).
+- Coreia do Sul 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/kor).
+- México 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/mex).
+- Paraguai 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/par).
+- Portugal 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/por).
+- África do Sul 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/rsa).
+- Uruguai 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/uru).
+- Bélgica 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/bel).
+- Brasil 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/bra).
+- Chile 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/chi).
+- Costa do Marfim 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/civ).
+- Espanha 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/esp).
+- França 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/fra).
+- Gana 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/gha).
+- Grécia 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/gre).
+- Itália 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/ita).
+- México 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/mex).
+- Países Baixos 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/ned).
+- Nigéria 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/nga).
+- Portugal 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/por).
+- Suíça 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/sui).
+- Uruguai 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/uru).
+- Estados Unidos 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/usa).
+- Argentina 2018: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/arg).
+- Bélgica 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/bel).
+- Brasil 2018: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/bra).
+- Colômbia 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/col).
+- Egito 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/egy).
+- Inglaterra 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/eng).
+- Espanha 2018: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/esp).
+- Alemanha 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/ger).
+- Japão 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/jpn).
+- Coreia do Sul 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/kor).
+- Marrocos 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/mar).
+- Peru 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/per).
+- Polônia 2018: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/pol).
+- Portugal 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/por).
+- Rússia 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/rus).
+- Senegal 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/sen).
+- Suíça 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/sui).
+- Suécia 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/swe).
+- Uruguai 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/uru).
+- Austrália 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/aus).
+- Bélgica 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/bel).
+- Brasil 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/bra).
+- Camarões 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/cmr).
+- Costa Rica 2022: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/crc).
+- Dinamarca 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/den).
+- Equador 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/ecu).
+- Inglaterra 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/eng).
+- Espanha 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/esp).
+- Alemanha 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/ger).
+- Gana 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/gha).
+- Coreia do Sul 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/kor).
+- Países Baixos 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/ned).
+- Polônia 2022: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/pol).
+- Portugal 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/por).
+- Senegal 2022: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/sen).
+- País de Gales 2022: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2022/wal).
+- Argentina 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/arg).
+- Bélgica 2026: 25 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/bel).
+- Canadá 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/can).
+- Colômbia 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/col).
+- Cabo Verde 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/cpv).
+- Equador 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/ecu).
+- Egito 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/egy).
+- Inglaterra 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/eng).
+- Espanha 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/esp).
+- França 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/fra).
+- Alemanha 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/ger).
+- Marrocos 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/mar).
+- México 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/mex).
+- Países Baixos 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/ned).
+- Noruega 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/nor).
+- Paraguai 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/par).
+- Portugal 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/por).
+- Suíça 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/sui).
+- Estados Unidos 2026: 26 atletas. [Fonte](https://www.7a0.com.br/en/copas/2026/usa).

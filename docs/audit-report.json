@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03T20:15:29.062Z",
+  "generatedAt": "2026-11-05T03:28:46.014Z",
   "competitions": {
     "lib": {
       "name": "Libertadores",
       "ratingDistribution": {
-        "mean": 78.96052631578948,
-        "atLeast90": 4,
+        "mean": 81.70107962213226,
+        "atLeast90": 15,
         "atLeast95": 3
       },
-      "clubs": 28,
-      "squads": 55,
+      "clubs": 40,
+      "squads": 104,
       "years": [
         1960,
         1962,
@@ -66,13 +66,13 @@
         2023,
         2024
       ],
-      "cards": 912,
+      "cards": 1482,
       "incomplete": 0,
       "fullRegisteredSquads": 0,
       "rarities": [
         {
           "name": "Comum",
-          "squads": 11
+          "squads": 60
         },
         {
           "name": "Competitivo",
@@ -91,12 +91,12 @@
     "ucl": {
       "name": "Champions League",
       "ratingDistribution": {
-        "mean": 80.44530244530245,
-        "atLeast90": 26,
+        "mean": 83.21158129175947,
+        "atLeast90": 74,
         "atLeast95": 2
       },
-      "clubs": 24,
-      "squads": 48,
+      "clubs": 34,
+      "squads": 85,
       "years": [
         1960,
         1961,
@@ -145,13 +145,13 @@
         2025,
         2026
       ],
-      "cards": 777,
+      "cards": 1347,
       "incomplete": 0,
       "fullRegisteredSquads": 0,
       "rarities": [
         {
           "name": "Comum",
-          "squads": 13
+          "squads": 50
         },
         {
           "name": "Competitivo",
@@ -170,12 +170,12 @@
     "wc": {
       "name": "Copa do Mundo",
       "ratingDistribution": {
-        "mean": 80.44555873925502,
-        "atLeast90": 17,
+        "mean": 76.95713107996703,
+        "atLeast90": 49,
         "atLeast95": 3
       },
-      "clubs": 32,
-      "squads": 63,
+      "clubs": 55,
+      "squads": 299,
       "years": [
         1950,
         1954,
@@ -195,15 +195,16 @@
         2010,
         2014,
         2018,
-        2022
+        2022,
+        2026
       ],
-      "cards": 698,
+      "cards": 6065,
       "incomplete": 0,
       "fullRegisteredSquads": 0,
       "rarities": [
         {
           "name": "Comum",
-          "squads": 25
+          "squads": 261
         },
         {
           "name": "Competitivo",
@@ -238,8 +239,8 @@
     "Os elencos são recortes de jogadores reais da campanha/ficha da final; não listas integrais de inscritos.",
     "A auditoria verifica cobertura, integridade e vínculos documentados; não substitui a revisão histórica humana das fontes."
   ],
-  "totalSquads": 166,
-  "totalCards": 2387,
-  "uniquePlayers": 1925,
+  "totalSquads": 488,
+  "totalCards": 8894,
+  "uniquePlayers": 6624,
   "incomplete": 0
 }

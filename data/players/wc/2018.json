@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 70,
-      "dri": 38,
-      "def": 25,
-      "fis": 75,
-      "ref": 87,
-      "han": 83,
-      "pos": 84,
-      "div": 85,
-      "kic": 70,
-      "one": 82
+      "pas": 72,
+      "dri": 39,
+      "def": 26,
+      "fis": 77,
+      "ref": 89,
+      "han": 85,
+      "pos": 86,
+      "div": 87,
+      "kic": 72,
+      "one": 84
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-franca-2018-hugo-lloris",
     "team": "França",
@@ -32,16 +32,16 @@
       "LD",
       "ZAG"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 81,
-      "fin": 56,
-      "pas": 79,
-      "dri": 76,
-      "def": 80,
-      "fis": 72
+      "vel": 83,
+      "fin": 57,
+      "pas": 81,
+      "dri": 78,
+      "def": 82,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-franca-2018-benjamin-pavard",
     "team": "França",
@@ -53,16 +53,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 68,
-      "fin": 52,
-      "pas": 68,
-      "dri": 57,
-      "def": 85,
-      "fis": 86
+      "vel": 70,
+      "fin": 53,
+      "pas": 70,
+      "dri": 58,
+      "def": 87,
+      "fis": 88
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-franca-2018-raphael-varane",
     "team": "França",
@@ -74,16 +74,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 67,
-      "fin": 51,
-      "pas": 67,
-      "dri": 56,
-      "def": 84,
-      "fis": 85
+      "vel": 69,
+      "fin": 52,
+      "pas": 69,
+      "dri": 57,
+      "def": 86,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-franca-2018-samuel-umtiti",
     "team": "França",
@@ -96,16 +96,16 @@
       "LE",
       "ZAG"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 84,
-      "fin": 59,
-      "pas": 75,
-      "dri": 79,
-      "def": 76,
-      "fis": 75
+      "vel": 86,
+      "fin": 60,
+      "pas": 77,
+      "dri": 81,
+      "def": 78,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-franca-2018-lucas-hernandez",
     "team": "França",
@@ -118,16 +118,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 75,
-      "fin": 65,
-      "pas": 88,
-      "dri": 78,
-      "def": 87,
-      "fis": 80
+      "vel": 77,
+      "fin": 67,
+      "pas": 90,
+      "dri": 80,
+      "def": 89,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "wc-franca-2018-n-golo-kante",
     "team": "França",
@@ -140,16 +140,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 83,
-      "fin": 73,
-      "pas": 91,
-      "dri": 83,
-      "def": 70,
-      "fis": 74
+      "vel": 85,
+      "fin": 75,
+      "pas": 93,
+      "dri": 85,
+      "def": 72,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-franca-2018-paul-pogba",
     "team": "França",
@@ -171,7 +171,7 @@
       "def": 46,
       "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-franca-2018-kylian-mbappe",
     "team": "França",
@@ -184,16 +184,16 @@
       "MEI",
       "ATA"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 84,
-      "fin": 86,
-      "pas": 90,
-      "dri": 92,
-      "def": 46,
-      "fis": 74
+      "vel": 86,
+      "fin": 88,
+      "pas": 92,
+      "dri": 94,
+      "def": 47,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-franca-2018-antoine-griezmann",
     "team": "França",
@@ -206,16 +206,16 @@
       "ME",
       "MC"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 85,
-      "fin": 71,
-      "pas": 79,
-      "dri": 85,
-      "def": 53,
-      "fis": 73
+      "vel": 87,
+      "fin": 73,
+      "pas": 81,
+      "dri": 87,
+      "def": 54,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "wc-franca-2018-blaise-matuidi",
     "team": "França",
@@ -227,16 +227,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 71,
-      "fin": 80,
-      "pas": 61,
-      "dri": 70,
-      "def": 34,
-      "fis": 72
+      "vel": 73,
+      "fin": 82,
+      "pas": 63,
+      "dri": 72,
+      "def": 35,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-franca-2018-olivier-giroud",
     "team": "França",
@@ -248,22 +248,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 42,
+      "vel": 43,
       "fin": 14,
-      "pas": 63,
-      "dri": 38,
+      "pas": 65,
+      "dri": 39,
       "def": 18,
-      "fis": 74,
-      "ref": 85,
-      "han": 81,
-      "pos": 82,
-      "div": 83,
-      "kic": 68,
-      "one": 80
+      "fis": 76,
+      "ref": 87,
+      "han": 83,
+      "pos": 84,
+      "div": 85,
+      "kic": 70,
+      "one": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-croacia-2018-danijel-subasic",
     "team": "Croácia",
@@ -275,16 +275,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 84,
-      "fin": 59,
-      "pas": 75,
-      "dri": 79,
-      "def": 76,
-      "fis": 75
+      "vel": 86,
+      "fin": 60,
+      "pas": 77,
+      "dri": 81,
+      "def": 78,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-croacia-2018-sime-vrsaljko",
     "team": "Croácia",
@@ -296,16 +296,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 63,
-      "fin": 47,
-      "pas": 63,
-      "dri": 52,
-      "def": 80,
-      "fis": 81
+      "vel": 65,
+      "fin": 48,
+      "pas": 65,
+      "dri": 53,
+      "def": 82,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-croacia-2018-dejan-lovren",
     "team": "Croácia",
@@ -317,16 +317,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 65,
-      "fin": 42,
-      "pas": 65,
-      "dri": 47,
-      "def": 82,
-      "fis": 83
+      "vel": 67,
+      "fin": 43,
+      "pas": 67,
+      "dri": 48,
+      "def": 84,
+      "fis": 85
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-croacia-2018-domagoj-vida",
     "team": "Croácia",
@@ -338,16 +338,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 80,
-      "fin": 55,
-      "pas": 71,
-      "dri": 75,
-      "def": 72,
-      "fis": 71
+      "vel": 82,
+      "fin": 56,
+      "pas": 73,
+      "dri": 77,
+      "def": 74,
+      "fis": 73
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "wc-croacia-2018-ivan-strinic",
     "team": "Croácia",
@@ -360,16 +360,16 @@
       "VOL",
       "MC"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 75,
-      "fin": 59,
-      "pas": 82,
-      "dri": 72,
-      "def": 81,
-      "fis": 74
+      "vel": 77,
+      "fin": 60,
+      "pas": 84,
+      "dri": 74,
+      "def": 83,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "wc-croacia-2018-marcelo-brozovic",
     "team": "Croácia",
@@ -382,16 +382,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 88,
+    "ovr": 90,
     "attrs": {
-      "vel": 82,
-      "fin": 79,
-      "pas": 90,
-      "dri": 89,
-      "def": 69,
-      "fis": 80
+      "vel": 84,
+      "fin": 81,
+      "pas": 92,
+      "dri": 91,
+      "def": 71,
+      "fis": 82
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 94,
     "id": "wc-croacia-2018-luka-modric",
     "team": "Croácia",
@@ -404,16 +404,16 @@
       "MC",
       "MEI"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 80,
-      "fin": 77,
-      "pas": 88,
-      "dri": 87,
-      "def": 67,
-      "fis": 77
+      "vel": 82,
+      "fin": 79,
+      "pas": 90,
+      "dri": 89,
+      "def": 69,
+      "fis": 79
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 90,
     "id": "wc-croacia-2018-ivan-rakitic",
     "team": "Croácia",
@@ -426,16 +426,16 @@
       "PD",
       "PE"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 83,
-      "fin": 81,
-      "pas": 73,
-      "dri": 84,
-      "def": 31,
-      "fis": 66
+      "vel": 85,
+      "fin": 83,
+      "pas": 75,
+      "dri": 86,
+      "def": 32,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "wc-croacia-2018-ante-rebic",
     "team": "Croácia",
@@ -448,16 +448,16 @@
       "PE",
       "ME"
     ],
-    "ovr": 84,
+    "ovr": 86,
     "attrs": {
-      "vel": 90,
-      "fin": 81,
-      "pas": 80,
-      "dri": 91,
-      "def": 38,
-      "fis": 73
+      "vel": 92,
+      "fin": 83,
+      "pas": 82,
+      "dri": 93,
+      "def": 39,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "wc-croacia-2018-ivan-perisic",
     "team": "Croácia",
@@ -469,19 +469,9448 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 82,
+    "ovr": 84,
     "attrs": {
-      "vel": 80,
-      "fin": 82,
-      "pas": 70,
-      "dri": 79,
-      "def": 36,
-      "fis": 81
+      "vel": 82,
+      "fin": 84,
+      "pas": 72,
+      "dri": 81,
+      "def": 37,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "wc-croacia-2018-mario-mandzukic",
     "team": "Croácia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Armani",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-armani",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Guzmán",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-guzman",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Caballero",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-caballero",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Otamendi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-otamendi",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mascherano",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-mascherano",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Tagliafico",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-tagliafico",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mercado",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-mercado",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rojo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-rojo",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ansaldi",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-ansaldi",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fazio",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-fazio",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Banega",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-banega",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Biglia",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-biglia",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lo Celso",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-lo-celso",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Enzo Pérez",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-enzo-perez",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Messi",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-messi",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Agüero",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-aguero",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Di María",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-di-maria",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Higuaín",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-higuain",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dybala",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-dybala",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Pavón",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-pavon",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Salvio",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-salvio",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Meza",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-argentina-2018-meza",
+    "team": "Argentina",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Courtois",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-courtois",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mignolet",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-mignolet",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Casteels",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-casteels",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kompany",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-kompany",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Alderweireld",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-alderweireld",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Vertonghen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-vertonghen",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Meunier",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-meunier",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Vermaelen",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-vermaelen",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Boyata",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-boyata",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dendoncker",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-dendoncker",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "De Bruyne",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-de-bruyne",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Witsel",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-witsel",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Carrasco",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-carrasco",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dembélé",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-dembele",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fellaini",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-fellaini",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Hazard",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-t-hazard",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Tielemans",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-tielemans",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Chadli",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-chadli",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "E. Hazard",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-e-hazard",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lukaku",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-lukaku",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mertens",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-mertens",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Batshuayi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-batshuayi",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Januzaj",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-belgica-2018-januzaj",
+    "team": "Bélgica",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Alisson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-alisson",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ederson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-ederson",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cássio",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-cassio",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Thiago Silva",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-thiago-silva",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Marcelo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-marcelo",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Marquinhos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-marquinhos",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Miranda",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-miranda",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Filipe Luís",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-filipe-luis",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Danilo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-danilo",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fagner",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-fagner",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Geromel",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-geromel",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Coutinho",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-coutinho",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Casemiro",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-casemiro",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Paulinho",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-paulinho",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fernandinho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-fernandinho",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Augusto",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-r-augusto",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Neymar",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-neymar",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gabriel Jesus",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-gabriel-jesus",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Firmino",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-firmino",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Costa",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-d-costa",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Willian",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-willian",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Taison",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-brasil-2018-taison",
+    "team": "Brasil",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ospina",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-ospina",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Vargas",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-vargas",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jo. Cuadrado",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-jo-cuadrado",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Sánchez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-d-sanchez",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mina",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-mina",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Arias",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-arias",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Zapata",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-zapata",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Murillo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-murillo",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mojica",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-mojica",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "F. Díaz",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-f-diaz",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "James",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-james",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Barrios",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-barrios",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Sánchez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-c-sanchez",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Quintero",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-quintero",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lerma",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-lerma",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Aguilar",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-aguilar",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Uribe",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-uribe",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Falcao",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-falcao",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ju. Cuadrado",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-ju-cuadrado",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bacca",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-bacca",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Muriel",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-muriel",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Borja",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-borja",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Izquierdo",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-colombia-2018-izquierdo",
+    "team": "Colômbia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "El-Shenawy",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-el-shenawy",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "El-Hadary",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-el-hadary",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ekramy",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-ekramy",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hegazi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-hegazi",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Elmohamady",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-elmohamady",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fathy",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-fathy",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gabr",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-gabr",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gaber",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-gaber",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Abdel Shafy",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-abdel-shafy",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ashraf",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-ashraf",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hamdy",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-hamdy",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Samir",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-samir",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Elneny",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-elneny",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hamed",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-hamed",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "El-Said",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-el-said",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Morsy",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-morsy",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Shikabala",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-shikabala",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Salah",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-salah",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Trézéguet",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-trezeguet",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sobhi",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-sobhi",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kahraba",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-kahraba",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mohsen",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-mohsen",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Warda",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-egito-2018-warda",
+    "team": "Egito",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Pickford",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-pickford",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Butland",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-butland",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Pope",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-pope",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Walker",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-walker",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Trippier",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-trippier",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Stones",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-stones",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Maguire",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-maguire",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Alexander-Arnold",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-alexander-arnold",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rose",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-rose",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cahill",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-cahill",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ashley Young",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-ashley-young",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jones",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-jones",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dele Alli",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-dele-alli",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "J. Henderson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-j-henderson",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lingard",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-lingard",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dier",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-dier",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Delph",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-delph",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Loftus-Cheek",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-loftus-cheek",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kane",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-kane",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sterling",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-sterling",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rashford",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-rashford",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Vardy",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-vardy",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Welbeck",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-inglaterra-2018-welbeck",
+    "team": "Inglaterra",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "De Gea",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-de-gea",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kepa",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-kepa",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Rico",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-s-rico",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ramos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-ramos",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Piqué",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-pique",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jordi Alba",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-jordi-alba",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Carvajal",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-carvajal",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Azpilicueta",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-azpilicueta",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Nacho",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-nacho",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Monreal",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-monreal",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Iniesta",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-iniesta",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Busquets",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-busquets",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Silva",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-d-silva",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Isco",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-isco",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Thiago",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-thiago",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Koke",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-koke",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Saúl",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-saul",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "D. Costa",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-d-costa",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Asensio",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-asensio",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Aspas",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-aspas",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rodrigo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-rodrigo",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "L. Vázquez",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-espanha-2018-l-vazquez",
+    "team": "Espanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Neuer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-neuer",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "ter Stegen",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-ter-stegen",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Trapp",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-trapp",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hummels",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-hummels",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kimmich",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-kimmich",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Boateng",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-boateng",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Süle",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-sule",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rüdiger",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-rudiger",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hector",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-hector",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ginter",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-ginter",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Plattenhardt",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-plattenhardt",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kroos",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-kroos",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Özil",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-ozil",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "T. Müller",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-t-muller",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Reus",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-reus",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gündogan",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-gundogan",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Khedira",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-khedira",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Draxler",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-draxler",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Goretzka",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-goretzka",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Brandt",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-brandt",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rudy",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-rudy",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Werner",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-werner",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gómez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-alemanha-2018-gomez",
+    "team": "Alemanha",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kawashima",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-kawashima",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Higashiguchi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-higashiguchi",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Nakamura",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-nakamura",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Nagatomo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-nagatomo",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Yoshida",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-yoshida",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sakai H.",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-sakai-h",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Shoji",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-shoji",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sakai G.",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-sakai-g",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Makino",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-makino",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ueda",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-ueda",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Honda",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-honda",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kagawa",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-kagawa",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hasebe",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-hasebe",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Shibasaki",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-shibasaki",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Haraguchi",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-haraguchi",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Yamaguchi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-yamaguchi",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Endō",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-endo",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Oshima",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-oshima",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Okazaki",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-okazaki",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Inui",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-inui",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Osako",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-osako",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Muto",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-muto",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Usami",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-japao-2018-usami",
+    "team": "Japão",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jo Hyeon-woo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-jo-hyeon-woo",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Seung-gyu",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-kim-seung-gyu",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Jin-hyeon",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-kim-jin-hyeon",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Young-gwon",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-kim-young-gwon",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jang Hyun-soo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-jang-hyun-soo",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Park Joo-ho",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-park-joo-ho",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Yong",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-lee-yong",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Min-woo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-kim-min-woo",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Go Yo-han",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-go-yo-han",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hong Chul",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-hong-chul",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jung Seung-hyun",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-jung-seung-hyun",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Yun Young-sun",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-yun-young-sun",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Oh Ban-suk",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-oh-ban-suk",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ki Sung-yueng",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-ki-sung-yueng",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Koo Ja-cheol",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-koo-ja-cheol",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Jae-sung",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-lee-jae-sung",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jung Woo-young",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-jung-woo-young",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ju Se-jong",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-ju-se-jong",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lee Seung-woo",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-lee-seung-woo",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Son Heung-min",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-son-heung-min",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kim Shin-wook",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-kim-shin-wook",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hwang Hee-chan",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-hwang-hee-chan",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Moon Seon-min",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-coreia-do-sul-2018-moon-seon-min",
+    "team": "Coreia do Sul",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bono",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-bono",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Munir Mohamedi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-munir-mohamedi",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Tagnaouti",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-tagnaouti",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Benatia",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-benatia",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hakimi",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-hakimi",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Saïss",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-saiss",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Da Costa",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-m-da-costa",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mendyl",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-mendyl",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Benoun",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-benoun",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Baaha",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-baaha",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Boussoufa",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-boussoufa",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fajr",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-fajr",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Belhanda",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-belhanda",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "El Ahmadi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-el-ahmadi",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Amrabat",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-s-amrabat",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "A. Harit",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-a-harit",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ziyech",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-ziyech",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dirar",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-dirar",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "N. Amrabat",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-n-amrabat",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Carcela",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-carcela",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "El Kaabi",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-el-kaabi",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Boutaib",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-boutaib",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bouhaddouz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-marrocos-2018-bouhaddouz",
+    "team": "Marrocos",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Pedro Gallese",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-pedro-gallese",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Carlos Cáceda",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-carlos-caceda",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "José Carvallo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-jose-carvallo",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Luis Advíncula",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-luis-advincula",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Alberto Rodríguez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-alberto-rodriguez",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Miguel Trauco",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-miguel-trauco",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Aldo Corzo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-aldo-corzo",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Christian Ramos",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-christian-ramos",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Anderson Santamaría",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-anderson-santamaria",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Miguel Araujo",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-miguel-araujo",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Nilson Loyola",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-nilson-loyola",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Christian Cueva",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-christian-cueva",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Renato Tapia",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-renato-tapia",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Yoshimar Yotún",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-yoshimar-yotun",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Pedro Aquino",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-pedro-aquino",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Paolo Hurtado",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-paolo-hurtado",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Andy Polo",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-andy-polo",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Wilder Cartagena",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-wilder-cartagena",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Paolo Guerrero",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-paolo-guerrero",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jefferson Farfán",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-jefferson-farfan",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "André Carrillo",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-andre-carrillo",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Raúl Ruidíaz",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-raul-ruidiaz",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Edison Flores",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-peru-2018-edison-flores",
+    "team": "Peru",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Szczęsny",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-szczesny",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fabiański",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-fabianski",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Glik",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-glik",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Piszczek",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-piszczek",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bednarek",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-bednarek",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Pazdan",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-pazdan",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rybus",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-rybus",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jędrzejczyk",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-jedrzejczyk",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bereszyński",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-bereszynski",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cionek",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-cionek",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Zieliński",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-zielinski",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Krychowiak",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-krychowiak",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Linetty",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-linetty",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Góralski",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-goralski",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kurzawa",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-kurzawa",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lewandowski",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-lewandowski",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Milik",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-milik",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Błaszczykowski",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-b-aszczykowski",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Grosicki",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-grosicki",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Teodorczyk",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-teodorczyk",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Peszko",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-peszko",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kownacki",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-polonia-2018-kownacki",
+    "team": "Polônia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rui Patrício",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-rui-patricio",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Anthony Lopes",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-anthony-lopes",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Beto",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-beto",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Pepe",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-pepe",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Guerreiro",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-guerreiro",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rúben Dias",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-ruben-dias",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ricardo Pereira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-ricardo-pereira",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bruno Alves",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-bruno-alves",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "José Fonte",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-jose-fonte",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cédric",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-cedric",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mário Rui",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-mario-rui",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bernardo Silva",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-bernardo-silva",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Moutinho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-moutinho",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "William Carvalho",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-william-carvalho",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-bruno-fernandes",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "João Mário",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-joao-mario",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Adrien Silva",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-adrien-silva",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Manuel Fernandes",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-manuel-fernandes",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-cristiano-ronaldo",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Quaresma",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-quaresma",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "André Silva",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-andre-silva",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gonçalo Guedes",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-goncalo-guedes",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gelson Martins",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-portugal-2018-gelson-martins",
+    "team": "Portugal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Akinfeev",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-akinfeev",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lunyov",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-lunyov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gabulov",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-gabulov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Fernandes",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-fernandes",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Zhirkov",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-zhirkov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ignashevich",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-ignashevich",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kutepov",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-kutepov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kudryashov",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-kudryashov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Smolnikov",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-smolnikov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Granat",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-granat",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Semyonov",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-semyonov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Golovin",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-golovin",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cheryshev",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-cheryshev",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dzagoev",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-dzagoev",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kuzyayev",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-kuzyayev",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Zobnin",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-zobnin",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Al. Miranchuk",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-al-miranchuk",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gazinsky",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-gazinsky",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Yerokhin",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-yerokhin",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "An. Miranchuk",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-an-miranchuk",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Dzyuba",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-dzyuba",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Smolov",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-smolov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Samedov",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-russia-2018-samedov",
+    "team": "Rússia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Diallo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-diallo",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "K. N'Diaye",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-k-n-diaye",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gomis",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-gomis",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Koulibaly",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-koulibaly",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mbodji",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-mbodji",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Sané",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-s-sane",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sabaly",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-sabaly",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gassama",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-gassama",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Wagué",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-wague",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mbengué",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-mbengue",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gana Gueye",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-gana-gueye",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kouyaté",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-kouyate",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "B. N'Diaye",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-b-n-diaye",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "A. N'Diaye",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-a-n-diaye",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "N'Doye",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-n-doye",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mané",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-mane",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Baldé",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-balde",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "M. B. Diouf",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-m-b-diouf",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "I. Sarr",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-i-sarr",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Niang",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-niang",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sow",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-sow",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Konaté",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-konate",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sakho",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-senegal-2018-sakho",
+    "team": "Senegal",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sommer",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-sommer",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bürki",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-burki",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Mvogo",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-mvogo",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "R. Rodríguez",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-r-rodriguez",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lichtsteiner",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-lichtsteiner",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Akanji",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-akanji",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Schär",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-schar",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Elvedi",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-elvedi",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lang",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-lang",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Djourou",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-djourou",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Moubandje",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-moubandje",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Xhaka",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-xhaka",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Freuler",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-freuler",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Zakaria",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-zakaria",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Behrami",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-behrami",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Zuber",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-zuber",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Džemaili",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-dzemaili",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Fernandes",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-g-fernandes",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Shaqiri",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-shaqiri",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Seferović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-seferovic",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Embolo",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-embolo",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Gavranović",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-gavranovic",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Drmić",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suica-2018-drmic",
+    "team": "Suíça",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Olsen",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-olsen",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Nordfeldt",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-nordfeldt",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Johnsson",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-johnsson",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lindelöf",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-lindelof",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Granqvist",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-granqvist",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Jansson",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-jansson",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Augustinsson",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-augustinsson",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Lustig",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-lustig",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Olsson",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-m-olsson",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Helander",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-helander",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Krafth",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-krafth",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Ekdal",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-ekdal",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "S. Larsson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-s-larsson",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Durmaz",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-durmaz",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Svensson",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-g-svensson",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Rohden",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-rohden",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Hiljemark",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-hiljemark",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Forsberg",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-forsberg",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Berg",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-berg",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Claesson",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-claesson",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Toivonen",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-toivonen",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Guidetti",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-guidetti",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Kiese Thelin",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-suecia-2018-kiese-thelin",
+    "team": "Suécia",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Muslera",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-muslera",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Silva",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-m-silva",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Campaña",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76,
+      "ref": 78,
+      "han": 76,
+      "pos": 76,
+      "div": 77,
+      "kic": 68,
+      "one": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-campana",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Godín",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-godin",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Giménez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-gimenez",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cáceres",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-caceres",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Maxi Pereira",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-maxi-pereira",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Laxalt",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-laxalt",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Coates",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-coates",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Varela",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-varela",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "G. Silva",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 79,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-g-silva",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Bentancur",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-bentancur",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Torreira",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-torreira",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Vecino",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-vecino",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "De Arrascaeta",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-de-arrascaeta",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Sánchez",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 77,
+    "attrs": {
+      "vel": 74,
+      "fin": 62,
+      "pas": 77,
+      "dri": 77,
+      "def": 80,
+      "fis": 77
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-sanchez",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Nández",
+    "positions": [
+      "MD"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-nandez",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "C. Rodríguez",
+    "positions": [
+      "ME"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-c-rodriguez",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Suárez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-suarez",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Cavani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-cavani",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Stuani",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-stuani",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "M. Gómez",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 73,
+      "fin": 79,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-m-gomez",
+    "team": "Uruguai",
+    "year": 2018,
+    "comp": "wc"
+  },
+  {
+    "name": "Urretaviscaya",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 76,
+    "attrs": {
+      "vel": 79,
+      "fin": 61,
+      "pas": 76,
+      "dri": 76,
+      "def": 46,
+      "fis": 76
+    },
+    "ratingRevision": 6,
+    "provisionalRating": true,
+    "id": "wc-uruguai-2018-urretaviscaya",
+    "team": "Uruguai",
     "year": 2018,
     "comp": "wc"
   }

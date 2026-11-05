@@ -41,5 +41,33 @@
       "ucl-ajax-1995-peter-van-vossen",
       "ucl-ajax-1995-fred-grim"
     ]
+  },
+  {
+    "name": "Milan",
+    "year": 1995,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1995_UEFA_Champions_League_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-milan-1995-sebastiano-rossi",
+      "ucl-milan-1995-christian-panucci",
+      "ucl-milan-1995-alessandro-costacurta",
+      "ucl-milan-1995-franco-baresi",
+      "ucl-milan-1995-paolo-maldini",
+      "ucl-milan-1995-demetrio-albertini",
+      "ucl-milan-1995-marcel-desailly",
+      "ucl-milan-1995-roberto-donadoni",
+      "ucl-milan-1995-zvonimir-boban",
+      "ucl-milan-1995-marco-simone",
+      "ucl-milan-1995-daniele-massaro",
+      "ucl-milan-1995-mario-ielpo",
+      "ucl-milan-1995-filippo-galli",
+      "ucl-milan-1995-stefano-eranio",
+      "ucl-milan-1995-gianluigi-lentini",
+      "ucl-milan-1995-giovanni-stroppa"
+    ]
   }
 ]

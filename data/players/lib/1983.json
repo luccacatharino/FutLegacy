@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 41,
+      "vel": 42,
       "fin": 16,
-      "pas": 56,
-      "dri": 23,
-      "def": 21,
-      "fis": 74,
-      "ref": 83,
-      "han": 79,
-      "pos": 81,
-      "div": 82,
-      "kic": 70,
-      "one": 81
+      "pas": 57,
+      "dri": 24,
+      "def": 22,
+      "fis": 76,
+      "ref": 85,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 72,
+      "one": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-gremio-1983-mazaropi",
     "team": "Grêmio",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 71,
-      "fin": 37,
-      "pas": 67,
-      "dri": 66,
-      "def": 68,
-      "fis": 69
+      "vel": 73,
+      "fin": 38,
+      "pas": 69,
+      "dri": 68,
+      "def": 70,
+      "fis": 71
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-gremio-1983-paulo-roberto",
     "team": "Grêmio",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 53,
-      "fin": 25,
-      "pas": 54,
-      "dri": 39,
-      "def": 75,
-      "fis": 79
+      "vel": 54,
+      "fin": 26,
+      "pas": 55,
+      "dri": 40,
+      "def": 77,
+      "fis": 81
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-gremio-1983-baidek",
     "team": "Grêmio",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 64,
-      "fin": 34,
-      "pas": 64,
-      "dri": 48,
-      "def": 88,
-      "fis": 85
+      "vel": 66,
+      "fin": 35,
+      "pas": 66,
+      "dri": 49,
+      "def": 90,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-gremio-1983-hugo-de-leon",
     "team": "Grêmio",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 70,
+      "vel": 71,
       "fin": 34,
-      "pas": 65,
-      "dri": 65,
-      "def": 68,
-      "fis": 63
+      "pas": 66,
+      "dri": 66,
+      "def": 69,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-gremio-1983-casemiro",
     "team": "Grêmio",
@@ -115,16 +115,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 62,
-      "fin": 45,
-      "pas": 75,
-      "dri": 65,
-      "def": 74,
-      "fis": 73
+      "vel": 64,
+      "fin": 46,
+      "pas": 77,
+      "dri": 67,
+      "def": 76,
+      "fis": 75
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-gremio-1983-china",
     "team": "Grêmio",
@@ -136,16 +136,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 65,
-      "fin": 60,
-      "pas": 80,
-      "dri": 75,
-      "def": 61,
-      "fis": 70
+      "vel": 67,
+      "fin": 62,
+      "pas": 82,
+      "dri": 77,
+      "def": 63,
+      "fis": 72
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-gremio-1983-osvaldo",
     "team": "Grêmio",
@@ -157,16 +157,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 71,
-      "fin": 75,
-      "pas": 84,
-      "dri": 85,
-      "def": 38,
-      "fis": 66
+      "vel": 73,
+      "fin": 77,
+      "pas": 86,
+      "dri": 87,
+      "def": 39,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-gremio-1983-tita",
     "team": "Grêmio",
@@ -178,16 +178,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 86,
+    "ovr": 88,
     "attrs": {
-      "vel": 87,
-      "fin": 81,
-      "pas": 78,
-      "dri": 88,
-      "def": 40,
-      "fis": 68
+      "vel": 89,
+      "fin": 83,
+      "pas": 80,
+      "dri": 90,
+      "def": 41,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 93,
     "id": "lib-gremio-1983-renato-gaucho",
     "team": "Grêmio",
@@ -199,16 +199,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 71,
-      "fin": 82,
-      "pas": 59,
-      "dri": 67,
-      "def": 26,
-      "fis": 74
+      "vel": 73,
+      "fin": 84,
+      "pas": 61,
+      "dri": 69,
+      "def": 27,
+      "fis": 76
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-gremio-1983-caio",
     "team": "Grêmio",
@@ -220,16 +220,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 81,
-      "fin": 73,
-      "pas": 72,
-      "dri": 82,
-      "def": 32,
-      "fis": 63
+      "vel": 83,
+      "fin": 75,
+      "pas": 74,
+      "dri": 84,
+      "def": 33,
+      "fis": 65
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-gremio-1983-tarciso",
     "team": "Grêmio",
@@ -241,19 +241,265 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 75,
+    "ovr": 77,
     "attrs": {
-      "vel": 69,
-      "fin": 78,
-      "pas": 57,
-      "dri": 67,
-      "def": 26,
-      "fis": 72
+      "vel": 71,
+      "fin": 80,
+      "pas": 59,
+      "dri": 69,
+      "def": 27,
+      "fis": 74
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 81,
     "id": "lib-gremio-1983-cesar",
     "team": "Grêmio",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Gustavo Fernández",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-gustavo-fernandez",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Néstor Montelongo",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-nestor-montelongo",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Walter Olivera",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-walter-olivera",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Nelson Gutiérrez",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-nelson-gutierrez",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Víctor Diogo",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-victor-diogo",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Mario Saralegui",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-mario-saralegui",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Bossio",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-miguel-bossio",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "José Zalazar",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-jose-zalazar",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Venancio Ramos",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-venancio-ramos",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Fernando Morena",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 87,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-fernando-morena",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "Walkir Silva",
+    "positions": [
+      "PE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-walkir-silva",
+    "team": "Peñarol",
+    "year": 1983,
+    "comp": "lib"
+  },
+  {
+    "name": "José Villarreal",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 75,
+      "fin": 62,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 78
+    },
+    "ratingRevision": 6,
+    "id": "lib-penarol-1983-jose-villarreal",
+    "team": "Peñarol",
     "year": 1983,
     "comp": "lib"
   }

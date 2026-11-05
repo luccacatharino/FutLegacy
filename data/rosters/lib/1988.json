@@ -42,5 +42,30 @@
       "lib-nacional-1988-daniel-carreno",
       "lib-nacional-1988-hector-moran"
     ]
+  },
+  {
+    "name": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1988_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-newell-s-old-boys-1988-norberto-scoponi",
+      "lib-newell-s-old-boys-1988-dario-franco",
+      "lib-newell-s-old-boys-1988-jorge-theiler",
+      "lib-newell-s-old-boys-1988-jorge-pautasso",
+      "lib-newell-s-old-boys-1988-roberto-sensini",
+      "lib-newell-s-old-boys-1988-juan-j-rossi",
+      "lib-newell-s-old-boys-1988-juan-manuel-llop",
+      "lib-newell-s-old-boys-1988-gerardo-martino",
+      "lib-newell-s-old-boys-1988-roque-alfaro",
+      "lib-newell-s-old-boys-1988-sergio-almiron",
+      "lib-newell-s-old-boys-1988-gabriel-batistuta",
+      "lib-newell-s-old-boys-1988-jorge-gabrich",
+      "lib-newell-s-old-boys-1988-miguel-fullana"
+    ]
   }
 ]

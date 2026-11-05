@@ -4,22 +4,22 @@
     "positions": [
       "GOL"
     ],
-    "ovr": 81,
+    "ovr": 83,
     "attrs": {
-      "vel": 44,
+      "vel": 45,
       "fin": 16,
-      "pas": 54,
-      "dri": 22,
-      "def": 22,
-      "fis": 74,
-      "ref": 83,
-      "han": 79,
-      "pos": 81,
-      "div": 82,
-      "kic": 70,
-      "one": 81
+      "pas": 55,
+      "dri": 23,
+      "def": 23,
+      "fis": 76,
+      "ref": 85,
+      "han": 81,
+      "pos": 83,
+      "div": 84,
+      "kic": 72,
+      "one": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 87,
     "id": "lib-nacional-1988-jorge-sere",
     "team": "Nacional",
@@ -31,16 +31,16 @@
     "positions": [
       "LD"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 70,
+      "vel": 71,
       "fin": 34,
-      "pas": 65,
-      "dri": 60,
-      "def": 68,
-      "fis": 67
+      "pas": 66,
+      "dri": 61,
+      "def": 69,
+      "fis": 68
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-nacional-1988-jose-pintos-saldanha",
     "team": "Nacional",
@@ -52,16 +52,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 85,
+    "ovr": 87,
     "attrs": {
-      "vel": 64,
-      "fin": 34,
-      "pas": 64,
-      "dri": 48,
-      "def": 88,
-      "fis": 85
+      "vel": 66,
+      "fin": 35,
+      "pas": 66,
+      "dri": 49,
+      "def": 90,
+      "fis": 87
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 91,
     "id": "lib-nacional-1988-hugo-de-leon",
     "team": "Nacional",
@@ -73,16 +73,16 @@
     "positions": [
       "ZAG"
     ],
-    "ovr": 79,
+    "ovr": 81,
     "attrs": {
-      "vel": 56,
-      "fin": 28,
-      "pas": 58,
-      "dri": 45,
-      "def": 78,
-      "fis": 81
+      "vel": 57,
+      "fin": 29,
+      "pas": 59,
+      "dri": 46,
+      "def": 80,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 85,
     "id": "lib-nacional-1988-felipe-revelez",
     "team": "Nacional",
@@ -94,16 +94,16 @@
     "positions": [
       "LE"
     ],
-    "ovr": 74,
+    "ovr": 75,
     "attrs": {
-      "vel": 69,
-      "fin": 37,
-      "pas": 64,
-      "dri": 65,
-      "def": 68,
-      "fis": 63
+      "vel": 70,
+      "fin": 38,
+      "pas": 65,
+      "dri": 66,
+      "def": 69,
+      "fis": 64
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 80,
     "id": "lib-nacional-1988-carlos-soca",
     "team": "Nacional",
@@ -115,16 +115,16 @@
     "positions": [
       "VOL"
     ],
-    "ovr": 83,
+    "ovr": 85,
     "attrs": {
-      "vel": 64,
-      "fin": 49,
-      "pas": 78,
-      "dri": 70,
-      "def": 80,
-      "fis": 81
+      "vel": 66,
+      "fin": 50,
+      "pas": 80,
+      "dri": 72,
+      "def": 82,
+      "fis": 83
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 89,
     "id": "lib-nacional-1988-santiago-ostolaza",
     "team": "Nacional",
@@ -136,16 +136,16 @@
     "positions": [
       "MC"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 65,
-      "fin": 59,
-      "pas": 80,
-      "dri": 76,
-      "def": 60,
-      "fis": 68
+      "vel": 67,
+      "fin": 61,
+      "pas": 82,
+      "dri": 78,
+      "def": 62,
+      "fis": 70
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-nacional-1988-jorge-cardaccio",
     "team": "Nacional",
@@ -157,16 +157,16 @@
     "positions": [
       "MEI"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 68,
-      "fin": 68,
-      "pas": 80,
-      "dri": 81,
-      "def": 35,
-      "fis": 60
+      "vel": 70,
+      "fin": 70,
+      "pas": 82,
+      "dri": 83,
+      "def": 36,
+      "fis": 62
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-nacional-1988-yubert-lemos",
     "team": "Nacional",
@@ -178,16 +178,16 @@
     "positions": [
       "PE"
     ],
-    "ovr": 77,
+    "ovr": 79,
     "attrs": {
-      "vel": 80,
-      "fin": 71,
-      "pas": 71,
-      "dri": 79,
-      "def": 31,
-      "fis": 59
+      "vel": 82,
+      "fin": 73,
+      "pas": 73,
+      "dri": 81,
+      "def": 32,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 83,
     "id": "lib-nacional-1988-william-castro",
     "team": "Nacional",
@@ -199,16 +199,16 @@
     "positions": [
       "PD"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 78,
-      "fin": 72,
-      "pas": 69,
-      "dri": 79,
-      "def": 31,
-      "fis": 59
+      "vel": 80,
+      "fin": 74,
+      "pas": 71,
+      "dri": 81,
+      "def": 32,
+      "fis": 61
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-nacional-1988-ernesto-vargas",
     "team": "Nacional",
@@ -220,16 +220,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 80,
+    "ovr": 82,
     "attrs": {
-      "vel": 73,
-      "fin": 84,
-      "pas": 60,
-      "dri": 73,
-      "def": 28,
-      "fis": 78
+      "vel": 75,
+      "fin": 86,
+      "pas": 62,
+      "dri": 75,
+      "def": 29,
+      "fis": 80
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 86,
     "id": "lib-nacional-1988-juan-carlos-de-lima",
     "team": "Nacional",
@@ -241,16 +241,16 @@
     "positions": [
       "ATA"
     ],
-    "ovr": 78,
+    "ovr": 80,
     "attrs": {
-      "vel": 72,
-      "fin": 81,
-      "pas": 60,
-      "dri": 70,
-      "def": 29,
-      "fis": 75
+      "vel": 74,
+      "fin": 83,
+      "pas": 62,
+      "dri": 72,
+      "def": 30,
+      "fis": 77
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 84,
     "id": "lib-nacional-1988-daniel-carreno",
     "team": "Nacional",
@@ -262,19 +262,285 @@
     "positions": [
       "MC"
     ],
-    "ovr": 76,
+    "ovr": 78,
     "attrs": {
-      "vel": 65,
-      "fin": 58,
-      "pas": 77,
-      "dri": 71,
-      "def": 59,
-      "fis": 67
+      "vel": 67,
+      "fin": 60,
+      "pas": 79,
+      "dri": 73,
+      "def": 61,
+      "fis": 69
     },
-    "ratingRevision": 4,
+    "ratingRevision": 6,
     "previousOvr": 82,
     "id": "lib-nacional-1988-hector-moran",
     "team": "Nacional",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Norberto Scoponi",
+    "positions": [
+      "GOL"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82,
+      "ref": 86,
+      "han": 84,
+      "pos": 84,
+      "div": 85,
+      "kic": 76,
+      "one": 84
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-norberto-scoponi",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Darío Franco",
+    "positions": [
+      "LD"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-dario-franco",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Theiler",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-jorge-theiler",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Pautasso",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 86,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-jorge-pautasso",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Roberto Sensini",
+    "positions": [
+      "LE"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-roberto-sensini",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan J. Rossi",
+    "positions": [
+      "VOL"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 85,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-juan-j-rossi",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Juan Manuel Llop",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-juan-manuel-llop",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Gerardo Martino",
+    "positions": [
+      "MEI"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-gerardo-martino",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Roque Alfaro",
+    "positions": [
+      "MC"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 65,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-roque-alfaro",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Sergio Almirón",
+    "positions": [
+      "PD"
+    ],
+    "ovr": 84,
+    "attrs": {
+      "vel": 79,
+      "fin": 66,
+      "pas": 84,
+      "dri": 81,
+      "def": 51,
+      "fis": 82
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-sergio-almiron",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Gabriel Batistuta",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 83,
+    "attrs": {
+      "vel": 78,
+      "fin": 86,
+      "pas": 83,
+      "dri": 80,
+      "def": 50,
+      "fis": 81
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-gabriel-batistuta",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Jorge Gabrich",
+    "positions": [
+      "ATA"
+    ],
+    "ovr": 80,
+    "attrs": {
+      "vel": 75,
+      "fin": 83,
+      "pas": 80,
+      "dri": 77,
+      "def": 47,
+      "fis": 78
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-jorge-gabrich",
+    "team": "Newell’s Old Boys",
+    "year": 1988,
+    "comp": "lib"
+  },
+  {
+    "name": "Miguel Fullana",
+    "positions": [
+      "ZAG"
+    ],
+    "ovr": 81,
+    "attrs": {
+      "vel": 76,
+      "fin": 63,
+      "pas": 81,
+      "dri": 78,
+      "def": 83,
+      "fis": 79
+    },
+    "ratingRevision": 6,
+    "id": "lib-newell-s-old-boys-1988-miguel-fullana",
+    "team": "Newell’s Old Boys",
     "year": 1988,
     "comp": "lib"
   }

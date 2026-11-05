@@ -41,5 +41,33 @@
       "ucl-porto-1987-festas",
       "ucl-porto-1987-ze-beto"
     ]
+  },
+  {
+    "name": "Bayern",
+    "year": 1987,
+    "comp": "ucl",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1987_European_Cup_final",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "ucl-bayern-1987-jean-marie-pfaff",
+      "ucl-bayern-1987-norbert-nachtweih",
+      "ucl-bayern-1987-helmut-winklhofer",
+      "ucl-bayern-1987-norbert-eder",
+      "ucl-bayern-1987-hans-pflugler",
+      "ucl-bayern-1987-hansi-flick",
+      "ucl-bayern-1987-lothar-matthaus",
+      "ucl-bayern-1987-andreas-brehme",
+      "ucl-bayern-1987-michael-rummenigge",
+      "ucl-bayern-1987-dieter-hoene",
+      "ucl-bayern-1987-ludwig-kogl",
+      "ucl-bayern-1987-raimond-aumann",
+      "ucl-bayern-1987-uli-bayerschmidt",
+      "ucl-bayern-1987-alexander-kutschera",
+      "ucl-bayern-1987-holger-willmer",
+      "ucl-bayern-1987-lars-lunde"
+    ]
   }
 ]

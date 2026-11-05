@@ -42,5 +42,28 @@
       "lib-cruzeiro-1976-valdo",
       "lib-cruzeiro-1976-ronaldo"
     ]
+  },
+  {
+    "name": "River Plate",
+    "year": 1976,
+    "comp": "lib",
+    "tier": 0,
+    "champion": false,
+    "source": "https://en.wikipedia.org/wiki/1976_Copa_Libertadores_finals",
+    "scope": "Recorte da ficha da final, vice-campeão. Funções genéricas antigas exigem revisão individual mais fina.",
+    "ratingMethod": "Estimativas editoriais conservadoras por função; não são notas oficiais.",
+    "playerIds": [
+      "lib-river-plate-1976-ubaldo-fillol",
+      "lib-river-plate-1976-pablo-comelles",
+      "lib-river-plate-1976-roberto-perfumo",
+      "lib-river-plate-1976-daniel-lonardi",
+      "lib-river-plate-1976-hector-lopez",
+      "lib-river-plate-1976-juan-jose-lopez",
+      "lib-river-plate-1976-reinaldo-merlo",
+      "lib-river-plate-1976-alejandro-sabella",
+      "lib-river-plate-1976-pedro-alexis-gonzalez",
+      "lib-river-plate-1976-leopoldo-luque",
+      "lib-river-plate-1976-oscar-mas"
+    ]
   }
 ]
