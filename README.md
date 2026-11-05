@@ -1,4 +1,7 @@
-# FutLegacy — Beta 0.7
+# FutLegacy — Beta 0.7.1
+
+Faixas da página inicial: CR7, Lamine Yamal, Désiré Doué e Dembélé; Messi, Neymar, Riquelme e Arrascaeta. Duas montagens de fotos reais (aproximadamente 380 KB no total), alternadas sem abas. Créditos e contextos em `docs/PHOTO-CREDITS.html`. As três competições continuam disponíveis.
+
 
 Draft de futebol histórico para navegador. HTML, CSS e JavaScript puro, sem instalação ou APIs para jogar.
 
@@ -8,11 +11,11 @@ Draft de futebol histórico para navegador. HTML, CSS e JavaScript puro, sem ins
 
 ## Beta 0.7
 
-Faixas com fotos reais recortadas e jogadores de 1990 em diante. A Europa mostra Cristiano Ronaldo, Mbappé, Haaland, Lamine Yamal e Vitinha. Os contextos e as licenças estão em docs/PHOTO-CREDITS.html; as montagens não representam uma partida conjunta.
+Faixas com fotos reais recortadas e jogadores de 1990 em diante. Na versão 0.7.1, a Europa mostra Cristiano Ronaldo, Lamine Yamal, Désiré Doué e Dembélé. Os contextos e as licenças estão em docs/PHOTO-CREDITS.html; as montagens não representam uma partida conjunta.
 
 O motor permite gols de falta e movimenta apoio, cobertura e avanço por função. Gols, cobranças e estatísticas vêm dos mesmos eventos, com resultado idêntico ao acelerar ou pular a animação. Normal e Rápida (3x) continuam disponíveis.
 
-A página Beta mostra a linha do tempo das versões 0.5, 0.6 e 0.7.
+A página Beta mostra a linha do tempo das versões 0.5, 0.6, 0.7 e 0.7.1.
 
 ## Desafios com código
 
@@ -72,7 +75,7 @@ Desafios por código compartilham o mesmo sorteio inicial. Cada participante faz
 
 ## Visual e recursos
 
-Logo próprio em SVG, identidade em azul, violeta, âmbar e ciano. A galeria alterna 15 fotos licenciadas, entre Europa, Copas e América do Sul: [licenças e autores](docs/PHOTO-CREDITS.html).
+Logo próprio em SVG, identidade em azul, violeta, âmbar e ciano. A faixa inicial alterna duas montagens de oito jogadores, entre Europa e América do Sul: [licenças e autores](docs/PHOTO-CREDITS.html).
 
 Escudos e fotos são locais. Alguns clubes e seleções novos usam emblemas tipográficos próprios, sem reproduzir o escudo oficial: [lista](docs/beta-badge-fallbacks.json).
 
