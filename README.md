@@ -1,16 +1,26 @@
-# FutLegacy — Beta 0.6
+# FutLegacy — Beta 0.7
 
 Draft de futebol histórico para navegador. HTML, CSS e JavaScript puro, sem instalação ou APIs para jogar.
 
 - [Jogar](https://luccacatharino.github.io/FutLegacy/)
 - [Acervo e auditoria](https://luccacatharino.github.io/FutLegacy/docs/AUDITORIA.html)
-- [Alterações e limites](docs/BETA-06.md)
+- [Alterações e limites](docs/BETA-07.md)
 
-## Interface 0.6
+## Beta 0.7
 
-Formações visíveis, troca de posição pelo campo, sorteio manual com animação no painel de jogadores e navegação Voltar. A eliminação mostra o grupo ou o caminho do mata-mata com agregados. O link “Fotos da galeria” foi removido do rodapé; as fotos permanecem no início.
+Faixas com fotos reais recortadas e jogadores de 1990 em diante. A Europa mostra Cristiano Ronaldo, Mbappé, Haaland, Lamine Yamal e Vitinha. Os contextos e as licenças estão em docs/PHOTO-CREDITS.html; as montagens não representam uma partida conjunta.
 
-As fotos foram renovadas e seus contextos estão identificados. Ainda faltam imagens licenciadas de ação na competição exata para Zidane, Ronaldo, Riquelme, Paredes e Ronaldinho. Maradona aparece pelo Boca: ele nunca disputou a Libertadores. Créditos em docs/PHOTO-CREDITS.html.
+O motor permite gols de falta e movimenta apoio, cobertura e avanço por função. Gols, cobranças e estatísticas vêm dos mesmos eventos, com resultado idêntico ao acelerar ou pular a animação. Normal e Rápida (3x) continuam disponíveis.
+
+A página Beta mostra a linha do tempo das versões 0.5, 0.6 e 0.7.
+
+## Desafios com código
+
+1. Na página inicial, escolha a competição e clique em **Criar desafio**.
+2. Use **Copiar** para compartilhar o código.
+3. Tanto o criador quanto o amigo colam o código no campo e clicam em **Tenho um código**.
+
+O código reproduz o primeiro elenco. Escolhas, formação e rerolls podem mudar os sorteios seguintes. Não é multijogador online: campanhas e resultados ficam no navegador de cada pessoa. Os códigos FL5 existentes continuam aceitos.
 
 ## Conteúdo
 
@@ -25,7 +35,7 @@ Inclui 86 versões vice-campeãs de clubes, além das campeãs. A cobertura de c
 
 As competições jogáveis são históricas fictícias, misturando temporadas. Os elencos são recortes reais, não necessariamente listas integrais dos inscritos. As notas e atributos são editoriais, não oficiais.
 
-**As novas fichas da Copa usam avaliações provisórias, identificadas no draft.** Fatos de participação, nomes e posições foram consultados no arquivo público do 7a0; notas, atributos, imagens e código daquele jogo não foram importados. Irlanda 2002, Sérvia 2022 e Brasil 2026 dessa referência aguardam desambiguação de nomes. Veja o [relatório](docs/cup-import-report.json).
+**991 OVR individuais da Copa foram revistos em 43 seleções/edições. Restam 4.376 notas provisórias, identificadas no draft. Os atributos derivados das cartas revistas também continuam provisórios.** Fatos de participação, nomes e posições foram consultados no arquivo público do 7a0; notas, atributos, imagens e código daquele jogo não foram importados. Irlanda 2002, Sérvia 2022 e Brasil 2026 dessa referência aguardam desambiguação de nomes. Veja o [relatório](docs/cup-import-report.json).
 
 ## Como jogar
 

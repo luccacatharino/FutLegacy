@@ -9,7 +9,7 @@
 ## Dados que ainda precisam de expansão ou revisão
 
 - Nenhum recorte é anunciado como lista integral de inscritos. 165 elencos têm menos de 16 atletas; todos têm ao menos onze e permitem draft funcional. Os demais também podem ter reservas de campanha fora do recorte.
-- Copa: 299 seleções/edições, 55 seleções e 20 Copas entre 1950 e 2026. Três fichas do acervo referenciado aguardam desambiguação de nomes; veja cup-import-report.json. Novas notas individuais são provisórias.
+- Copa: 299 seleções/edições, 55 seleções e 20 Copas entre 1950 e 2026. Três fichas do acervo referenciado aguardam desambiguação de nomes; veja cup-import-report.json. 991 OVR foram revistos em 43 seleções/edições; restam 4376 notas provisórias. Atributos derivados das cartas revistas ainda aguardam revisão.
 - Os OVR são notas editoriais por temporada/competição, não dados oficiais. Os atributos da maioria das seleções da Copa usam perfis posicionais estimados; a revisão individual ainda não está completa.
 - Identificadores normalizados por nome ainda precisam de reconciliação integral de apelidos e homônimos. A contagem de nomes únicos não equivale a um censo definitivo de pessoas.
 - Escudos podem usar a identidade atual; não reproduzem necessariamente a variante histórica da temporada.

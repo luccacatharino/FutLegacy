@@ -1,0 +1,56 @@
+{
+  "squadsReviewed": 43,
+  "cardsReviewed": 991,
+  "provisionalRemaining": 4376,
+  "attributes": "Atributos derivados das cartas revistas ainda provisórios; revisão de OVR não equivale a validação de cada atributo.",
+  "sources": [
+    "https://inside.fifa.com/en/tournaments/mens/worldcup/2010south-africa/news/when-forlan-stole-the-show-in-south-africa",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/russia-2018/awards?country=DE&wtw-filter=ALL",
+    "https://inside.fifa.com/en/tournaments/mens/worldcup/2018russia/news/will-world-cup-stars-shine-at-the-best",
+    "https://www.figc.it/it/nazionali/news/ufficializzati-i-numeri-di-maglia-dei-23-azzurri-per-il-mondiale-fl44rbfz",
+    "https://rfef.es/es/sevilla-recibe-lo-grande-seleccion-espanola",
+    "https://www.fifa.com/es/tournaments/mens/worldcup/canadamexicousa2026/articles/seleccion-argentina-copa-mundial-planteles-entrenadores-resultados"
+  ],
+  "pendingByEdition": {
+    "1950": 214,
+    "1954": 242,
+    "1958": 213,
+    "1962": 198,
+    "1966": 176,
+    "1970": 154,
+    "1974": 154,
+    "1978": 198,
+    "1982": 220,
+    "1986": 285,
+    "1990": 154,
+    "1994": 155,
+    "1998": 220,
+    "2002": 159,
+    "2006": 206,
+    "2010": 205,
+    "2014": 204,
+    "2018": 252,
+    "2022": 274,
+    "2026": 493
+  },
+  "factualCorrections": [
+    {
+      "team": "Itália",
+      "year": 2014,
+      "from": "Astori",
+      "to": "Alberto Aquilani"
+    },
+    {
+      "team": "Espanha",
+      "year": 2018,
+      "from": "S. Rico",
+      "to": "Pepe Reina"
+    },
+    {
+      "team": "Argentina",
+      "year": 2010,
+      "from": "Jonás Gutiérrez",
+      "to": "Jonás Gutiérrez"
+    }
+  ]
+}

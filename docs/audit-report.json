@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T03:28:46.014Z",
+  "generatedAt": "2026-11-05T05:21:11.637Z",
   "competitions": {
     "lib": {
       "name": "Libertadores",
@@ -170,8 +170,8 @@
     "wc": {
       "name": "Copa do Mundo",
       "ratingDistribution": {
-        "mean": 76.95713107996703,
-        "atLeast90": 49,
+        "mean": 77.95713107996703,
+        "atLeast90": 116,
         "atLeast95": 3
       },
       "clubs": 55,
@@ -241,6 +241,6 @@
   ],
   "totalSquads": 488,
   "totalCards": 8894,
-  "uniquePlayers": 6624,
+  "uniquePlayers": 6623,
   "incomplete": 0
 }

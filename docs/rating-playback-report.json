@@ -1,5 +1,5 @@
 {
-  "cards": 8983,
+  "cards": 8894,
   "ceilings": "pass",
   "average": "arithmetic",
   "eventMs": [
@@ -12,7 +12,7 @@
   ],
   "speedDoesNotChangeResult": true,
   "balancedMatchGoalsPerSide": [
-    1.8733333333333333,
-    2.0116666666666667
+    1.7983333333333333,
+    1.9366666666666668
   ]
 }
