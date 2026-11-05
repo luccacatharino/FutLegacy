@@ -214,7 +214,7 @@ Recortes de jogadores reais das campanhas. Não são todos os inscritos. OVR ind
 - Suíça 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/sui).
 - Suécia 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/swe).
 - Ucrânia 2006: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2006/ukr).
-- Argentina 2010: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/arg).
+- Argentina 2010: 22 atletas. [Fonte](https://www.fifa.com/es/tournaments/mens/worldcup/canadamexicousa2026/articles/seleccion-argentina-copa-mundial-planteles-entrenadores-resultados).
 - Brasil 2010: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/bra).
 - Chile 2010: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/chi).
 - Costa do Marfim 2010: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2010/civ).
@@ -238,7 +238,7 @@ Recortes de jogadores reais das campanhas. Não são todos os inscritos. OVR ind
 - França 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/fra).
 - Gana 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/gha).
 - Grécia 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/gre).
-- Itália 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/ita).
+- Itália 2014: 23 atletas. [Fonte](https://www.figc.it/it/nazionali/news/ufficializzati-i-numeri-di-maglia-dei-23-azzurri-per-il-mondiale-fl44rbfz).
 - México 2014: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/mex).
 - Países Baixos 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/ned).
 - Nigéria 2014: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2014/nga).
@@ -252,7 +252,7 @@ Recortes de jogadores reais das campanhas. Não são todos os inscritos. OVR ind
 - Colômbia 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/col).
 - Egito 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/egy).
 - Inglaterra 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/eng).
-- Espanha 2018: 22 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/esp).
+- Espanha 2018: 22 atletas. [Fonte](https://rfef.es/es/sevilla-recibe-lo-grande-seleccion-espanola).
 - Alemanha 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/ger).
 - Japão 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/jpn).
 - Coreia do Sul 2018: 23 atletas. [Fonte](https://www.7a0.com.br/en/copas/2018/kor).

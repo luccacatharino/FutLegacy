@@ -53,7 +53,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2018/arg",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-argentina-2018-armani",
       "wc-argentina-2018-guzman",
@@ -87,7 +87,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2018/bel",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-belgica-2018-courtois",
       "wc-belgica-2018-mignolet",
@@ -122,7 +122,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2018/bra",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-brasil-2018-alisson",
       "wc-brasil-2018-ederson",
@@ -226,7 +226,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2018/eng",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-inglaterra-2018-pickford",
       "wc-inglaterra-2018-butland",
@@ -259,13 +259,13 @@
     "comp": "wc",
     "tier": 0,
     "champion": false,
-    "source": "https://www.7a0.com.br/en/copas/2018/esp",
+    "source": "https://rfef.es/es/sevilla-recibe-lo-grande-seleccion-espanola",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-espanha-2018-de-gea",
       "wc-espanha-2018-kepa",
-      "wc-espanha-2018-s-rico",
+      "wc-espanha-2018-pepe-reina",
       "wc-espanha-2018-ramos",
       "wc-espanha-2018-pique",
       "wc-espanha-2018-jordi-alba",
@@ -295,7 +295,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2018/ger",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-alemanha-2018-neuer",
       "wc-alemanha-2018-ter-stegen",
@@ -504,7 +504,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2018/por",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-portugal-2018-rui-patricio",
       "wc-portugal-2018-anthony-lopes",
@@ -679,7 +679,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2018/uru",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual 7 por Copa: rendimento, função, protagonismo, regularidade e participação. Notas próprias, não oficiais. Atributos derivados ainda provisórios.",
     "playerIds": [
       "wc-uruguai-2018-muslera",
       "wc-uruguai-2018-m-silva",

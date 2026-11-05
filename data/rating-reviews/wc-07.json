@@ -1,0 +1,5261 @@
+{
+  "method": "Editorial individual; não são notas da FIFA. Atletas com poucos minutos mantêm peso técnico, mas recebem notas conservadoras. Atributos derivados continuam provisórios.",
+  "squads": [
+    {
+      "name": "Brasil",
+      "year": 1990,
+      "source": "https://www.7a0.com.br/en/copas/1990/bra",
+      "players": [
+        {
+          "name": "Taffarel",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Acácio",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Zé Carlos",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Branco",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Aldair",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Jorginho",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Mozer",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Ricardo Gomes",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Mazinho",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Mauro Galvão",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Ricardo Rocha",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Alemão",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Valdo",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Dunga",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Paulo Silas",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Bismarck",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Careca",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Romário",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Bebeto",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Müller",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Renato Gaúcho",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Tita",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "year": 2006,
+      "source": "https://www.7a0.com.br/en/copas/2006/bra",
+      "players": [
+        {
+          "name": "Dida",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Júlio César",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Rogério Ceni",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Lúcio",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Roberto Carlos",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Cafu",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Juan",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Luisão",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Cicinho",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Cris",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Gilberto",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Ronaldinho",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Kaká",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Gilberto Silva",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Juninho",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Zé Roberto",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Emerson",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Mineiro",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Ricardinho",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Ronaldo",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Adriano",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Robinho",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Fred",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "year": 2010,
+      "source": "https://www.7a0.com.br/en/copas/2010/bra",
+      "players": [
+        {
+          "name": "Júlio César",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Gomes",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Doni",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Maicon",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Lúcio",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Dani Alves",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Thiago Silva",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Juan",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Michel Bastos",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Luisão",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Gilberto",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Kaká",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Elano",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Felipe Melo",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Ramires",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Gilberto Silva",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Josué",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Kléberson",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Robinho",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Luís Fabiano",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Júlio Baptista",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Nilmar",
+          "previous": 76,
+          "ovr": 80
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/bra",
+      "players": [
+        {
+          "name": "Júlio César",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Jefferson",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Victor",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Thiago Silva",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "D. Alves",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Marcelo",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "David Luiz",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Dante",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Maicon",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Maxwell",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Henrique",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Oscar",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "L. Gustavo",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Fernandinho",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Hernanes",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Paulinho",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Ramires",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Neymar",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Hulk",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Willian",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Bernard",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Fred",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Jô",
+          "previous": 76,
+          "ovr": 73
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "year": 2018,
+      "source": "https://www.7a0.com.br/en/copas/2018/bra",
+      "players": [
+        {
+          "name": "Alisson",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Ederson",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Cássio",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Thiago Silva",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Marcelo",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Marquinhos",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Miranda",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Filipe Luís",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Danilo",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Fagner",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Geromel",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Coutinho",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Casemiro",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Paulinho",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Fernandinho",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "R. Augusto",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Neymar",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Gabriel Jesus",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Firmino",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "D. Costa",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Willian",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Taison",
+          "previous": 76,
+          "ovr": 78
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "year": 2022,
+      "source": "https://www.7a0.com.br/en/copas/2022/bra",
+      "players": [
+        {
+          "name": "Alisson",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Ederson",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Weverton",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Marquinhos",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Thiago Silva",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Éder Militão",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Danilo",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Bremer",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Alex Sandro",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Alex Telles",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Dani Alves",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Neymar",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Casemiro",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Lucas Paquetá",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Fabinho",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Bruno Guimarães",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Fred",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Evertom R.",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Vinícius Júnior",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Richarlison",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Raphinha",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Gabriel Jesus",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Rodrygo",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Gabriel Martinelli",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Antony",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Pedro",
+          "previous": 76,
+          "ovr": 78
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "year": 1994,
+      "source": "https://www.7a0.com.br/en/copas/1994/arg",
+      "players": [
+        {
+          "name": "Goycochea",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Islas",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Scoponi",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Sensini",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Ruggeri",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Chamot",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Cáceres",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "H. Díaz",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Vázquez",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Borelli",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Maradona",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Redondo",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Simeone",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Ortega",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "L. Rodríguez",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Basualdo",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Hugo Pérez",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Mancuso",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Batistuta",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Caniggia",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Balbo",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Medina Bello",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "year": 1998,
+      "source": "https://www.7a0.com.br/en/copas/1998/arg",
+      "players": [
+        {
+          "name": "Roa",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Burgos",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Cavallero",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Zanetti",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Ayala",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Chamot",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Sensini",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Vivas",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Pineda",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Paz",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Verón",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Ortega",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Simeone",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Almeyda",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Gallardo",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Astrada",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Batistuta",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Crespo",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "C. López",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Balbo",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Delgado",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Berti",
+          "previous": 76,
+          "ovr": 78
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "year": 2002,
+      "source": "https://www.7a0.com.br/en/copas/2002/arg",
+      "players": [
+        {
+          "name": "Cavallero",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Burgos",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Bonano",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Zanetti",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Ayala",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Samuel",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Sorín",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Pochettino",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Chamot",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Placente",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Verón",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Simeone",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Aimar",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Ortega",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Gallardo",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Kily",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Almeyda",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "G. López",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Husaín",
+          "previous": 77,
+          "ovr": 75
+        },
+        {
+          "name": "Batistuta",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Crespo",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Caniggia",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "C. López",
+          "previous": 76,
+          "ovr": 82
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "year": 2006,
+      "source": "https://www.7a0.com.br/en/copas/2006/arg",
+      "players": [
+        {
+          "name": "Abbondanzieri",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "L. Franco",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Ayala",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Heinze",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Sorín",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "G. Milito",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Burdisso",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Coloccini",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Scaloni",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Cufré",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Riquelme",
+          "previous": 77,
+          "ovr": 92
+        },
+        {
+          "name": "Cambiasso",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Mascherano",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Maxi Rodríguez",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Aimar",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "L. González",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Tevez",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Messi",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Crespo",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Saviola",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "J. Cruz",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Palacio",
+          "previous": 76,
+          "ovr": 78
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "year": 2010,
+      "source": "https://www.fifa.com/es/tournaments/mens/worldcup/canadamexicousa2026/articles/seleccion-argentina-copa-mundial-planteles-entrenadores-resultados",
+      "players": [
+        {
+          "name": "Romero",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Andújar",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Pozo",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Heinze",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Demichelis",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Samuel",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Burdisso",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Otamendi",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Jonás Gutiérrez",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "C. Rodríguez",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Garcé",
+          "previous": 76,
+          "ovr": 74
+        },
+        {
+          "name": "Mascherano",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Verón",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Maxi Rodríguez",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Pastore",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Messi",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Tevez",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Higuaín",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Agüero",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Milito",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Di María",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Palermo",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "year": 2018,
+      "source": "https://www.7a0.com.br/en/copas/2018/arg",
+      "players": [
+        {
+          "name": "Armani",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Guzmán",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Caballero",
+          "previous": 76,
+          "ovr": 73
+        },
+        {
+          "name": "Otamendi",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Mascherano",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Tagliafico",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Mercado",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Rojo",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Ansaldi",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Fazio",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Banega",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Biglia",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Lo Celso",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Enzo Pérez",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Messi",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Agüero",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Di María",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Higuaín",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Dybala",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Pavón",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Salvio",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Meza",
+          "previous": 76,
+          "ovr": 76
+        }
+      ]
+    },
+    {
+      "name": "Bélgica",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/bel",
+      "players": [
+        {
+          "name": "Courtois",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Mignolet",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Bossut",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Kompany",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Alderweireld",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Vertonghen",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Vermaelen",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Van Buyten",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Lombaerts",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Vanden Borre",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Ciman",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Witsel",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "De Bruyne",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Fellaini",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Dembélé",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Defour",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "E. Hazard",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Lukaku",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Mertens",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Mirallas",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Chadli",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Januzaj",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Origi",
+          "previous": 76,
+          "ovr": 85
+        }
+      ]
+    },
+    {
+      "name": "Bélgica",
+      "year": 2018,
+      "source": "https://www.7a0.com.br/en/copas/2018/bel",
+      "players": [
+        {
+          "name": "Courtois",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Mignolet",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Casteels",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Kompany",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Alderweireld",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Vertonghen",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Meunier",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Vermaelen",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Boyata",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Dendoncker",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "De Bruyne",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Witsel",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Carrasco",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Dembélé",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Fellaini",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "T. Hazard",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Tielemans",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Chadli",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "E. Hazard",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Lukaku",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Mertens",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Batshuayi",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Januzaj",
+          "previous": 76,
+          "ovr": 78
+        }
+      ]
+    },
+    {
+      "name": "Bélgica",
+      "year": 2022,
+      "source": "https://www.7a0.com.br/en/copas/2022/bel",
+      "players": [
+        {
+          "name": "Courtois",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Mignolet",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Casteels",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Alderweireld",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Vertonghen",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Meunier",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Castagne",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Theate",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Faes",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Debast",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "De Bruyne",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Tielemans",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Onana",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Witsel",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Mertens",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "T. Hazard",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "De Ketelaere",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Dendoncker",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Vanaken",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Lukaku",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Carrasco",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "E. Hazard",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Trossard",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Doku",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Batshuayi",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Openda",
+          "previous": 76,
+          "ovr": 78
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "year": 2006,
+      "source": "https://www.7a0.com.br/en/copas/2006/ger",
+      "players": [
+        {
+          "name": "Kahn",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Lehmann",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Hildebrand",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Lahm",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Metzelder",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Mertesacker",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Friedrich",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Huth",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Nowotny",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Jansen",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Ballack",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Schweinsteiger",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Frings",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Kehl",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Hitzlsperger",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Borowski",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Klose",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Podolski",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Schneider",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Neuville",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Odonkor",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Hanke",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "year": 2010,
+      "source": "https://www.7a0.com.br/en/copas/2010/ger",
+      "players": [
+        {
+          "name": "Neuer",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Wiese",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Butt",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Lahm",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Mertesacker",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Friedrich",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Boateng",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Badstuber",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Jansen",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Aogo",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Tasci",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Schweinsteiger",
+          "previous": 77,
+          "ovr": 92
+        },
+        {
+          "name": "Özil",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Khedira",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Kroos",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Trochowski",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Marin",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Klose",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "T. Müller",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Podolski",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Gómez",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Cacau",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Kießling",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "year": 2018,
+      "source": "https://www.7a0.com.br/en/copas/2018/ger",
+      "players": [
+        {
+          "name": "Neuer",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "ter Stegen",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Trapp",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Hummels",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Kimmich",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Boateng",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Süle",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Rüdiger",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Hector",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Ginter",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Plattenhardt",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Kroos",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Özil",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "T. Müller",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Reus",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Gündogan",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Khedira",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Draxler",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Goretzka",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Brandt",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Rudy",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Werner",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Gómez",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "year": 2022,
+      "source": "https://www.7a0.com.br/en/copas/2022/ger",
+      "players": [
+        {
+          "name": "Neuer",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "ter Stegen",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Trapp",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Rüdiger",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Süle",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Ginter",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Raum",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Schlotterbeck",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Kehrer",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Klostermann",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Günter",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Bella-Kotchap",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Kimmich",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Musiala",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Gündogan",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "T. Müller",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Goretzka",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Brandt",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Götze",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Sané",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Havertz",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Gnabry",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Füllkrug",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Hofmann",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Adeyemi",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Moukoko",
+          "previous": 76,
+          "ovr": 75
+        }
+      ]
+    },
+    {
+      "name": "França",
+      "year": 2002,
+      "source": "https://www.7a0.com.br/en/copas/2002/fra",
+      "players": [
+        {
+          "name": "Barthez",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Ramé",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Thuram",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Desailly",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Lizarazu",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Silvestre",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Leboeuf",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Sagnol",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Candela",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Christanval",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Zidane",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Vieira",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Makélélé",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Petit",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Micoud",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Boghossian",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Henry",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Trezeguet",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Wiltord",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Djorkaeff",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Dugarry",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Cissé",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "França",
+      "year": 2010,
+      "source": "https://www.7a0.com.br/en/copas/2010/fra",
+      "players": [
+        {
+          "name": "Lloris",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Mandanda",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Carrasso",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Abidal",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Evra",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Gallas",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Sagna",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Clichy",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Squillaci",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Réveillère",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Planus",
+          "previous": 76,
+          "ovr": 74
+        },
+        {
+          "name": "Malouda",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Gourcuff",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Toulalan",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "A. Diarra",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Diaby",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Valbuena",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Ribéry",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Henry",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Anelka",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Govou",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Cissé",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Gignac",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "França",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/fra",
+      "players": [
+        {
+          "name": "Lloris",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Ruffier",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Landreau",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Varane",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Evra",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Koscielny",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Sakho",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Sagna",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Debuchy",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Mangala",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Digne",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Pogba",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Matuidi",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Cabaye",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Valbuena",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Sissoko",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Schneiderlin",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Mavuba",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Benzema",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Giroud",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Griezmann",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Rémy",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "year": 2002,
+      "source": "https://www.7a0.com.br/en/copas/2002/por",
+      "players": [
+        {
+          "name": "Vítor Baía",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Ricardo Pereira",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Nélson",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Fernando Couto",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Jorge Costa",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Abel Xavier",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Jorge Andrade",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Rui Jorge",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Caneira",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Frechaut",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Rui Costa",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Sérgio Conceição",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Paulo Sousa",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "João Pinto",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Paulo Bento",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Petit",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Pedro Barbosa",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Hugo Viana",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Beto",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Figo",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Pauleta",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Nuno Gomes",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Capucho",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "year": 2010,
+      "source": "https://www.7a0.com.br/en/copas/2010/por",
+      "players": [
+        {
+          "name": "Eduardo",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Beto",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Daniel Fernandes",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Ricardo Carvalho",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Pepe",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Bruno Alves",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Coentrão",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Paulo Ferreira",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Rolando",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Miguel",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Duda",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Ricardo Costa",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Deco",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Meireles",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Tiago",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Danny",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Miguel Veloso",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Pedro Mendes",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Amorim",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Simão",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Hugo Almeida",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Liédson",
+          "previous": 76,
+          "ovr": 82
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/por",
+      "players": [
+        {
+          "name": "Rui Patrício",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Eduardo",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Beto",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Pepe",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Coentrão",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Bruno Alves",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "João Pereira",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Ricardo Costa",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Luís Neto",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "André Almeida",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Moutinho",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "William Carvalho",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Meireles",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Miguel Veloso",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Rafa Silva",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Amorim",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Vieirinha",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Nani",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Hugo Almeida",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Postiga",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Varela",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Éder",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "year": 2018,
+      "source": "https://www.7a0.com.br/en/copas/2018/por",
+      "players": [
+        {
+          "name": "Rui Patrício",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Anthony Lopes",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Beto",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Pepe",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Guerreiro",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Rúben Dias",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Ricardo Pereira",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Bruno Alves",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "José Fonte",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Cédric",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Mário Rui",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Bernardo Silva",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Moutinho",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "William Carvalho",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Bruno Fernandes",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "João Mário",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Adrien Silva",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Manuel Fernandes",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Quaresma",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "André Silva",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Gonçalo Guedes",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Gelson Martins",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "year": 2022,
+      "source": "https://www.7a0.com.br/en/copas/2022/por",
+      "players": [
+        {
+          "name": "Rui Patrício",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Diogo Costa",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "José Sá",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Rúben Dias",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Cancelo",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Pepe",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Guerreiro",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Nuno Mendes",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Dalot",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "António Silva",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Bernardo Silva",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Bruno Fernandes",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Palhinha",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Vitinha",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Rúben Neves",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "William Carvalho",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Danilo Pereira",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Matheus Nunes",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "João Mário",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Otávio",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Rafael Leão",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "João Félix",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "André Silva",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Gonçalo Ramos",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Ricardo Horta",
+          "previous": 76,
+          "ovr": 81
+        }
+      ]
+    },
+    {
+      "name": "Espanha",
+      "year": 2002,
+      "source": "https://www.7a0.com.br/en/copas/2002/esp",
+      "players": [
+        {
+          "name": "Casillas",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Ricardo",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Contreras",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Hierro",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Puyol",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Helguera",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Nadal",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Curro Torres",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Juanfran",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Romero",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Mendieta",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Valerón",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Luis Enrique",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Baraja",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Xavi",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Albelda",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "De Pedro",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Sergio",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Raúl",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Morientes",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Joaquín",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Tristán",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Luque",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Espanha",
+      "year": 2006,
+      "source": "https://www.7a0.com.br/en/copas/2006/esp",
+      "players": [
+        {
+          "name": "Casillas",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Cañizares",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Reina",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Puyol",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Ramos",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Salgado",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Marchena",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Pernía",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Antonio López",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Juanito",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Ibáñez",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Xavi",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Xabi Alonso",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Iniesta",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Fàbregas",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Albelda",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Luis García",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Senna",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Raúl",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Torres",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Villa",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Reyes",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Joaquín",
+          "previous": 76,
+          "ovr": 84
+        }
+      ]
+    },
+    {
+      "name": "Espanha",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/esp",
+      "players": [
+        {
+          "name": "Casillas",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "De Gea",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Reina",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Ramos",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Piqué",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Jordi Alba",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Azpilicueta",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Albiol",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Juanfran",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Iniesta",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "D. Silva",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Xabi Alonso",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Busquets",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Xavi",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Fàbregas",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Mata",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Javi Martínez",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Cazorla",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Koke",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "D. Costa",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Villa",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Pedro",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Torres",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Espanha",
+      "year": 2018,
+      "source": "https://rfef.es/es/sevilla-recibe-lo-grande-seleccion-espanola",
+      "players": [
+        {
+          "name": "De Gea",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Kepa",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Pepe Reina",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Ramos",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Piqué",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Jordi Alba",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Carvajal",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Azpilicueta",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Nacho",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Monreal",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Iniesta",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Busquets",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "D. Silva",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Isco",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Thiago",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Koke",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Saúl",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "D. Costa",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Asensio",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Aspas",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Rodrigo",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "L. Vázquez",
+          "previous": 76,
+          "ovr": 80
+        }
+      ]
+    },
+    {
+      "name": "Espanha",
+      "year": 2022,
+      "source": "https://www.7a0.com.br/en/copas/2022/esp",
+      "players": [
+        {
+          "name": "Simón",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Robert Sánchez",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Raya",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Laporte",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Jordi Alba",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Carvajal",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Pau Torres",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Azpilicueta",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Eric García",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Balde",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Guillamón",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Rodri",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Pedri",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Busquets",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Gavi",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Olmo",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Asensio",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Llorente",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Koke",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Sarabia",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Soler",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Morata",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Ferran",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Nico Williams",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Ansu Fati",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Yeremy",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Uruguai",
+      "year": 2010,
+      "source": "https://www.7a0.com.br/en/copas/2010/uru",
+      "players": [
+        {
+          "name": "Muslera",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "M. Silva",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Castillo",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Godín",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Lugano",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Maxi Pereira",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Á. Pereira",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Fucile",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Cáceres",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Victorino",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Scotti",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Gargano",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "D. Pérez",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Arévalo Ríos",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Eguren",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Lodeiro",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "I. González",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Á. Fernández",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Forlán",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Suárez",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Cavani",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Abreu",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "S. Fernández",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Uruguai",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/uru",
+      "players": [
+        {
+          "name": "Muslera",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "R. Muñoz",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Godín",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Lugano",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Maxi Pereira",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Cáceres",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Á. Pereira",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Fucile",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Giménez",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Coates",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Arévalo Ríos",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "C. Rodríguez",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "D. Pérez",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "G. Ramírez",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Gargano",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Lodeiro",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "A. González",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Suárez",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Cavani",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Forlán",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "A. Hernández",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Stuani",
+          "previous": 76,
+          "ovr": 81
+        }
+      ]
+    },
+    {
+      "name": "Uruguai",
+      "year": 2018,
+      "source": "https://www.7a0.com.br/en/copas/2018/uru",
+      "players": [
+        {
+          "name": "Muslera",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "M. Silva",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Campaña",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Godín",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Giménez",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Cáceres",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Maxi Pereira",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Laxalt",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Coates",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Varela",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "G. Silva",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Bentancur",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Torreira",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Vecino",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "De Arrascaeta",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Sánchez",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Nández",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "C. Rodríguez",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Suárez",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Cavani",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Stuani",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "M. Gómez",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Urretaviscaya",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Croácia",
+      "year": 1998,
+      "source": "https://www.7a0.com.br/en/copas/1998/cro",
+      "players": [
+        {
+          "name": "Ladić",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Mrmić",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Vasilj",
+          "previous": 76,
+          "ovr": 73
+        },
+        {
+          "name": "Jarni",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Štimac",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Bilić",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Šimić",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Tudor",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Jurić",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Mamić",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Šerić",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Boban",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Prosinečki",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Asanović",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Stanić",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Soldo",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Marić",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Jurčić",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Šuker",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Vlaović",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Kozniku",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Krpan",
+          "previous": 76,
+          "ovr": 75
+        }
+      ]
+    },
+    {
+      "name": "Itália",
+      "year": 1990,
+      "source": "https://www.7a0.com.br/en/copas/1990/ita",
+      "players": [
+        {
+          "name": "Zenga",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Tacconi",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Pagliuca",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Baresi",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Maldini",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Bergomi",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Vierchowod",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "De Agostini",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Ferri",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Ferrara",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Donadoni",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Giannini",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Ancelotti",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Berti",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "De Napoli",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Marocchi",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "R. Baggio",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Schillaci",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Vialli",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Mancini",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Serena",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Carnevale",
+          "previous": 76,
+          "ovr": 80
+        }
+      ]
+    },
+    {
+      "name": "Itália",
+      "year": 1998,
+      "source": "https://www.7a0.com.br/en/copas/1998/ita",
+      "players": [
+        {
+          "name": "Pagliuca",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Toldo",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Buffon",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Maldini",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Nesta",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Cannavaro",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Costacurta",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Bergomi",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Torricelli",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Pessotto",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Albertini",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "D. Baggio",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Di Livio",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Di Matteo",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Di Biagio",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Cois",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Del Piero",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "R. Baggio",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Vieri",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Inzaghi",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Chiesa",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Moriero",
+          "previous": 76,
+          "ovr": 87
+        }
+      ]
+    },
+    {
+      "name": "Itália",
+      "year": 2002,
+      "source": "https://www.7a0.com.br/en/copas/2002/ita",
+      "players": [
+        {
+          "name": "Buffon",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Toldo",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Abbiati",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Maldini",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Nesta",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Cannavaro",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Zambrotta",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Panucci",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Coco",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Materazzi",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Iuliano",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Totti",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Del Piero",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Gattuso",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Tommasi",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "C. Zanetti",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Di Biagio",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Di Livio",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Doni",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Vieri",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Inzaghi",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Montella",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Delvecchio",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Itália",
+      "year": 2010,
+      "source": "https://www.7a0.com.br/en/copas/2010/ita",
+      "players": [
+        {
+          "name": "Buffon",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Marchetti",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "De Sanctis",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Chiellini",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Cannavaro",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Zambrotta",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Maggio",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Criscito",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Bonucci",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Bocchetti",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Pirlo",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "De Rossi",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Gattuso",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Marchisio",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Camoranesi",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Montolivo",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Simone Pepe",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Palombo",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Di Natale",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Iaquinta",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Gilardino",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Quagliarella",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Pazzini",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Itália",
+      "year": 2014,
+      "source": "https://www.figc.it/it/nazionali/news/ufficializzati-i-numeri-di-maglia-dei-23-azzurri-per-il-mondiale-fl44rbfz",
+      "players": [
+        {
+          "name": "Buffon",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Sirigu",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Perin",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Chiellini",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Barzagli",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Bonucci",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "De Sciglio",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Abate",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Darmian",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Alberto Aquilani",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Paletta",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Pirlo",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Marchisio",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "De Rossi",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Verratti",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "T. Motta",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Cassano",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Candreva",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Parolo",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Balotelli",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Insigne",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Cerci",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Immobile",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Inglaterra",
+      "year": 2018,
+      "source": "https://www.7a0.com.br/en/copas/2018/eng",
+      "players": [
+        {
+          "name": "Pickford",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Butland",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Pope",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Walker",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Trippier",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Stones",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Maguire",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Alexander-Arnold",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Rose",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Cahill",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Ashley Young",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Jones",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Dele Alli",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "J. Henderson",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Lingard",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Dier",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Delph",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Loftus-Cheek",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Kane",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Sterling",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Rashford",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Vardy",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Welbeck",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Inglaterra",
+      "year": 2022,
+      "source": "https://www.7a0.com.br/en/copas/2022/eng",
+      "players": [
+        {
+          "name": "Pickford",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Pope",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Ramsdale",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Walker",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Stones",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Shaw",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Maguire",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Alexander-Arnold",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Trippier",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Dier",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "White",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Coady",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Rice",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Bellingham",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Foden",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Mount",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "J. Henderson",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Phillips",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Maddison",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Gallagher",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Kane",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Saka",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Sterling",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Grealish",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Rashford",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Wilson",
+          "previous": 76,
+          "ovr": 80
+        }
+      ]
+    }
+  ]
+}
