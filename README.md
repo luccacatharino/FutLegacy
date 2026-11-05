@@ -1,10 +1,16 @@
-# FutLegacy — Beta 0.5
+# FutLegacy — Beta 0.6
 
 Draft de futebol histórico para navegador. HTML, CSS e JavaScript puro, sem instalação ou APIs para jogar.
 
 - [Jogar](https://luccacatharino.github.io/FutLegacy/)
 - [Acervo e auditoria](https://luccacatharino.github.io/FutLegacy/docs/AUDITORIA.html)
-- [Alterações e limites](docs/BETA-05.md)
+- [Alterações e limites](docs/BETA-06.md)
+
+## Interface 0.6
+
+Formações visíveis, troca de posição pelo campo, sorteio manual com animação no painel de jogadores e navegação Voltar. A eliminação mostra o grupo ou o caminho do mata-mata com agregados. O link “Fotos da galeria” foi removido do rodapé; as fotos permanecem no início.
+
+As fotos foram renovadas e seus contextos estão identificados. Ainda faltam imagens licenciadas de ação na competição exata para Zidane, Ronaldo, Riquelme, Paredes e Ronaldinho. Maradona aparece pelo Boca: ele nunca disputou a Libertadores. Créditos em docs/PHOTO-CREDITS.html.
 
 ## Conteúdo
 
