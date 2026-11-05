@@ -1,5 +1,6 @@
 'use strict';
 FL.betaHistory=[
+ {version:'0.7.4',date:'2026-11-05',title:'Página inicial reorganizada',changes:['Título e fotos centralizados, com as competições logo abaixo.','Campanha e desafios lado a lado no computador e empilhados no celular.','Mesmas fotos, cores, textos, controles e funções do jogo.']},
  {version:'0.7.3',date:'2026-11-05',title:'Grupos sem times repetidos',changes:['Temporadas do mesmo clube ou seleção ficam em grupos diferentes.','Sorteio mantém adversários aleatórios e três jogos por equipe na fase de grupos.','Regra aplicada às novas campanhas da Libertadores, Champions e Copa do Mundo.']},
  {version:'0.7.2',date:'2026-11-05',title:'Fotos de partidas',changes:['Suárez pelo Grêmio no lugar de Riquelme.','Arrascaeta pelo Flamengo na final da Libertadores de 2021.','Nova foto de CR7, com o contorno do rosto e a orelha preservados.','Doué com uniforme de jogo; oito fotos de partidas revisadas.']},
  {version:'0.7.1',date:'2026-11-05',title:'Novas faixas de jogadores',changes:['Duas montagens com quatro jogadores: Europa e América do Sul.','Recortes refeitos a partir das fotos reais, enquadramento fixo e transição suave.','Remoção das abas de fotos e dos arquivos de imagem antigos.']},
