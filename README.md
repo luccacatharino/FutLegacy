@@ -1,4 +1,4 @@
-# FutLegacy — Beta 0.7.2
+# FutLegacy — Beta 0.7.3
 
 Faixas da página inicial: CR7, Lamine Yamal, Désiré Doué e Dembélé; Messi, Neymar, Luis Suárez e Arrascaeta. Duas montagens de fotos reais (aproximadamente 452 KB no total), alternadas sem abas. Créditos e contextos em `docs/PHOTO-CREDITS.html`. As três competições continuam disponíveis. Todas as fotos são de partidas: Suárez pelo Grêmio, Arrascaeta pelo Flamengo, CR7 com recorte integral e Doué com uniforme de jogo.
 
@@ -92,3 +92,9 @@ O compilador gera os pacotes offline a partir de `data/lib.json`, `data/ucl.json
 Os testes cobrem integridade, campeões, 100 mil sorteios por modo, drafts e campeonatos completos, agregado, pênaltis, estatísticas, velocidade, desafios e conquistas. A auditoria estrutural não substitui a revisão histórica humana.
 
 O repositório mantém seu histórico original e publica a raiz de `main` no GitHub Pages. Não há build ou dependências de runtime.
+
+## Grupos sem repetição de time
+
+Nas novas campanhas, duas temporadas do mesmo clube ou seleção nunca ficam no mesmo grupo. Diferentes versões continuam elegíveis no campeonato, em grupos distintos. A seleção limita cada time a oito temporadas por torneio para garantir a distribuição em oito grupos de quatro. Campanhas já sorteadas mantêm seus grupos e resultados.
+
+Teste específico: `node tests/group-draw-test.cjs` (3.000 sorteios com os três acervos reais, 90 calendários completos de grupos, salvamento e casos extremos).

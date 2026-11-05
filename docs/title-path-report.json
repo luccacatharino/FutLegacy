@@ -1,20 +1,20 @@
 {
   "lib": {
-    "attempt": 22,
+    "attempt": 2,
     "ownMatches": 10,
     "champion": "me",
-    "goals": 24
+    "goals": 14
   },
   "ucl": {
     "attempt": 2,
     "ownMatches": 10,
     "champion": "me",
-    "goals": 27
+    "goals": 23
   },
   "wc": {
-    "attempt": 2,
+    "attempt": 3,
     "ownMatches": 7,
     "champion": "me",
-    "goals": 20
+    "goals": 24
   }
 }
