@@ -1,0 +1,26 @@
+{
+  "version": "0.11",
+  "date": "2026-11-06",
+  "automated": {
+    "interfaceDrafts": 24,
+    "unifiedStatisticRows": 12,
+    "achievementRules": 14,
+    "achievementBoundaryChecks": "passed",
+    "legacyCampaignGrouping": "passed",
+    "aggregateAndGoalAudit": "passed",
+    "scoreOrientation": "passed",
+    "finalAndThirdPlaceLabels": "passed",
+    "worldCupGroupDraws": 300,
+    "worldCupMatches": 104,
+    "paginatedEventsVerified": 1789
+  },
+  "browserReview": {
+    "desktop": "1280x720",
+    "mobile": "375x812",
+    "horizontalOverflowOnMobile": false,
+    "mobileChartHeight": 120,
+    "consoleWarningsOrErrors": 0,
+    "homeLayout": "central",
+    "campaignReview": "three actual completed campaigns, no audit discrepancies"
+  }
+}

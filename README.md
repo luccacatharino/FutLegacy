@@ -1,4 +1,4 @@
-# FutLegacy — Beta 0.10
+# FutLegacy — Beta 0.11
 
 Faixas da página inicial: CR7, Lamine Yamal, Désiré Doué e Dembélé; Messi, Neymar, Luis Suárez e Arrascaeta. Duas montagens de fotos reais (aproximadamente 452 KB no total), alternadas sem abas. Créditos e contextos em `docs/PHOTO-CREDITS.html`. As três competições continuam disponíveis. Todas as fotos são de partidas: Suárez pelo Grêmio, Arrascaeta pelo Flamengo, CR7 com recorte integral e Doué com uniforme de jogo.
 
@@ -128,3 +128,13 @@ Somente seu grupo aparece inicialmente; botão abre os demais. Sua letra é sort
 A estrutura de 48 segue a [referência da FIFA](https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28784798873117-10-What-is-the-format-for-the-FIFA-World-Cup-2026-tournament). O jogo continua uma competição histórica fictícia: não reproduz os participantes ou a grade oficial de cruzamentos de 2026. Os confrontos da fase de 32 são sorteados, sem reencontro do grupo; os oito melhores terceiros usam pontos, saldo, gols marcados e sorteio em empate total. Os grupos mantêm os desempates do jogo (pontos, vitórias, saldo e gols).
 
 Página inicial, campos, calendários e painéis usam menos espaço; calendário, demais grupos, mata-mata, resultados e líderes continuam acessíveis pelos controles. Testes específicos: `node tests/format-010-test.cjs`; relatório `docs/format-010-report.json`.
+
+## Beta 0.11 — estatísticas e conquistas
+
+As 12 estatísticas do pós-jogo ficam juntas, sempre abertas, mantendo os valores reais da simulação. O gráfico fica maior e a linha do tempo exibe seis eventos por página. A organização central escolhida da página inicial está definida explicitamente, com título e fotos, competições, depois campanha e desafios. Arquivos da interface usam a versão 24 para evitar misturar folhas de estilo antigas.
+
+Conquistas passam de cinco para 14: títulos por competição, três títulos no total, dez campanhas, campeão com até cinco gols sofridos, campanha só com vitórias, saldo de +15 e vitória por quatro gols de diferença. Objetivos usam somente registros existentes; conquistas antigas mantêm os identificadores e as datas. A lista consulta as últimas 50 campanhas guardadas, mas desbloqueios já registrados não expiram.
+
+Histórico do Beta mostra apenas novidades de cada etapa. Versões antigas ficam recolhidas; limites atuais aparecem uma única vez. Teste de interface verifica estatísticas reunidas, limites das conquistas e organização das telas.
+
+Revisão de coerência: a campanha mostra o placar do FutLegacy XI à esquerda, fases padronizadas e um resumo por confronto; ida e volta ficam dentro do agregado correspondente. Pênaltis são separados dos gols e um empate decidido nas cobranças permanece empate nas estatísticas. O cabeçalho de campeão usa a mesma ordem da campanha. Rótulos de campeão e terceiro colocado e a seleção ativa do menu foram corrigidos.
