@@ -1,0 +1,43 @@
+{
+  "samplesPerGap": 800,
+  "gaps": {
+    "0": {
+      "wins": 353,
+      "draws": 146,
+      "losses": 301,
+      "goals": 2764,
+      "largeMargins": 14,
+      "averageGoals": 3.455,
+      "winRate": 0.44125
+    },
+    "5": {
+      "wins": 428,
+      "draws": 166,
+      "losses": 206,
+      "goals": 2735,
+      "largeMargins": 12,
+      "averageGoals": 3.41875,
+      "winRate": 0.535
+    },
+    "10": {
+      "wins": 508,
+      "draws": 156,
+      "losses": 136,
+      "goals": 2697,
+      "largeMargins": 33,
+      "averageGoals": 3.37125,
+      "winRate": 0.635
+    },
+    "15": {
+      "wins": 600,
+      "draws": 118,
+      "losses": 82,
+      "goals": 2827,
+      "largeMargins": 76,
+      "averageGoals": 3.53375,
+      "winRate": 0.75
+    }
+  },
+  "meanGoals": 3.4446875,
+  "matches": 3200
+}

@@ -1,33 +1,33 @@
 {
   "Equilibrado": {
-    "wins": 151,
-    "draws": 96,
-    "averageGoals": 3.3275
+    "wins": 166,
+    "draws": 87,
+    "averageGoals": 3.1425
   },
   "Posse de bola": {
-    "wins": 151,
-    "draws": 96,
-    "averageGoals": 3.3275
+    "wins": 166,
+    "draws": 87,
+    "averageGoals": 3.1425
   },
   "Contra-ataque": {
-    "wins": 151,
-    "draws": 96,
-    "averageGoals": 3.3275
+    "wins": 166,
+    "draws": 87,
+    "averageGoals": 3.1425
   },
   "Pressão alta": {
-    "wins": 151,
-    "draws": 96,
-    "averageGoals": 3.3275
+    "wins": 166,
+    "draws": 87,
+    "averageGoals": 3.1425
   },
   "Defensivo": {
-    "wins": 151,
-    "draws": 96,
-    "averageGoals": 3.3275
+    "wins": 166,
+    "draws": 87,
+    "averageGoals": 3.1425
   },
   "quality": {
-    "favouriteWins": 476,
-    "upsets": 46,
-    "draws": 78,
+    "favouriteWins": 448,
+    "upsets": 57,
+    "draws": 95,
     "samples": 600
   },
   "penalties": {

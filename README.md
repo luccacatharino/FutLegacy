@@ -1,4 +1,4 @@
-# FutLegacy — Beta 0.7.4
+# FutLegacy — Beta 0.8
 
 Faixas da página inicial: CR7, Lamine Yamal, Désiré Doué e Dembélé; Messi, Neymar, Luis Suárez e Arrascaeta. Duas montagens de fotos reais (aproximadamente 452 KB no total), alternadas sem abas. Créditos e contextos em `docs/PHOTO-CREDITS.html`. As três competições continuam disponíveis. Todas as fotos são de partidas: Suárez pelo Grêmio, Arrascaeta pelo Flamengo, CR7 com recorte integral e Doué com uniforme de jogo.
 
@@ -98,3 +98,11 @@ O repositório mantém seu histórico original e publica a raiz de `main` no Git
 Nas novas campanhas, duas temporadas do mesmo clube ou seleção nunca ficam no mesmo grupo. Diferentes versões continuam elegíveis no campeonato, em grupos distintos. A seleção limita cada time a oito temporadas por torneio para garantir a distribuição em oito grupos de quatro. Campanhas já sorteadas mantêm seus grupos e resultados.
 
 Teste específico: `node tests/group-draw-test.cjs` (3.000 sorteios com os três acervos reais, 90 calendários completos de grupos, salvamento e casos extremos).
+
+## Beta 0.8 — refinamentos
+
+Mais 292 cartas da Copa receberam revisão editorial individual em 13 seleções/edições (1958–2022). As fontes confirmam elenco e contexto; as notas são avaliações próprias do jogo. Ainda restam **4.084 notas provisórias**, e os atributos derivados continuam provisórios. Relatório: `docs/wc-rating-review-08.json`. As cartas das campanhas salvas não são reavaliadas retroativamente.
+
+Trocas de posição mostram uma prévia antes da confirmação. A página inicial mantém a organização escolhida, com menos altura no celular. O resumo da campanha reúne resultados, agregados, formação, OVR, artilheiro, assistências e destaque. É possível baixar uma imagem PNG ou compartilhar/copiar um texto; tudo é gerado localmente, sem conta ou API. Registros antigos continuam funcionando, com aviso se não houver placares guardados. Novos registros salvam somente os jogos do usuário, sem animações, e respeitam o limite de 50 campanhas.
+
+A simulação usa quem tem a bola para finalizar e favorece passes entre companheiros próximos. Apoios, coberturas, corridas sem bola e espaçamento coletivo foram refinados. Velocidades e pular partida continuam sem alterar os resultados. Balanceamento verificado com confrontos espelhados por diferença de atributos: `docs/calibration-08-report.json`.
