@@ -1,0 +1,13 @@
+{
+  "groupDraws": 300,
+  "groupLetters": 12,
+  "completedWorldCups": 1,
+  "matchesPerWorldCup": 104,
+  "thirdPlacePath": true,
+  "penalties": {
+    "scored": 52,
+    "missed": 11,
+    "saved": 18
+  },
+  "paginatedEventsChecked": 1789
+}

@@ -1,4 +1,4 @@
-# FutLegacy — Beta 0.9
+# FutLegacy — Beta 0.10
 
 Faixas da página inicial: CR7, Lamine Yamal, Désiré Doué e Dembélé; Messi, Neymar, Luis Suárez e Arrascaeta. Duas montagens de fotos reais (aproximadamente 452 KB no total), alternadas sem abas. Créditos e contextos em `docs/PHOTO-CREDITS.html`. As três competições continuam disponíveis. Todas as fotos são de partidas: Suárez pelo Grêmio, Arrascaeta pelo Flamengo, CR7 com recorte integral e Doué com uniforme de jogo.
 
@@ -57,7 +57,7 @@ Posições compatíveis mantêm a eficiência e o OVR. Pontas podem atuar de ME 
 - Três jogos na fase de grupos dos três modos.
 - Oitavas sorteadas entre primeiros e segundos de grupos diferentes.
 - Libertadores e Champions com ida e volta nas oitavas, quartas e semifinais; final única. Dez partidas para um finalista.
-- Copa com mata-mata em jogo único; sete partidas para um finalista.
+- Novas Copas: 48 participantes, 12 grupos, dois primeiros e oito melhores terceiros classificados; fase de 32, oitavas, quartas, semifinal, terceiro lugar e final. Oito partidas para um finalista.
 - Sem gol fora de casa; empate agregado leva aos pênaltis após a volta. Não há prorrogação.
 - Motor com passes, dribles, cruzamentos, finalizações, defesas, escanteios, faltas, pênaltis e amarelos. Gols e estatísticas vêm dos eventos.
 - Campo Canvas com 22 peças, movimentação coletiva, bola visível e interpolação suave.
@@ -116,3 +116,15 @@ Tempo normal: dois tempos de 45 minutos, cada um com 0–8 minutos adicionais so
 A linha do tempo separa os eventos dos dois times; gols, cartões, pênaltis, escanteios e intervalos ficam em destaque. Outros lances podem ser expandidos. O gráfico de volume ofensivo mede ações em território de ataque, cruzamentos, escanteios e finalizações por minuto; não é posse nem previsão de gol. Inclui acréscimos e prorrogação. Timeline e volume compactos são salvos, sem os quadros da animação.
 
 Referências de regras: [IFAB — disciplina](https://www.theifab.com/laws/latest/fouls-and-misconduct/), [IFAB — decisões e pênaltis](https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/). O limite sorteado dos acréscimos é regra própria do jogo. Testes: `node tests/match-rules-test.cjs`; relatório em `docs/match-rules-report.json`.
+
+## Beta 0.10 — organização compacta e Copa de 48
+
+Pós-jogo: fluxo e linha do tempo ficam no painel principal, com quatro eventos por página. Todos os eventos permanecem acessíveis; estatísticas extras e assistências ficam recolhidas. Pênaltis indicam o cobrador e se acertou ou errou (defendido ou para fora), sem contar a disputa final como gols da partida. Tela de campeão dedicada à campanha. Sem feed ou faixa de lances durante a transmissão.
+
+Relógio cerca de 10% mais rápido (144 ms por evento no Normal; 48 ms na Rápida 3x). A interpolação coletiva é mais lenta que a bola, com expulsos imediatamente fora do campo. Velocidade continua sem alterar resultados.
+
+Somente seu grupo aparece inicialmente; botão abre os demais. Sua letra é sorteada entre A–H nos clubes e A–L na Copa. Novas Copas têm 48 participantes (seu XI e 47 seleções distintas), 72 partidas de grupos e 32 de mata-mata, incluindo terceiro lugar: 104 ao todo. Draft mantém todas as 299 seleções/edições do acervo. Campanhas antigas de 32 preservam seu formato.
+
+A estrutura de 48 segue a [referência da FIFA](https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28784798873117-10-What-is-the-format-for-the-FIFA-World-Cup-2026-tournament). O jogo continua uma competição histórica fictícia: não reproduz os participantes ou a grade oficial de cruzamentos de 2026. Os confrontos da fase de 32 são sorteados, sem reencontro do grupo; os oito melhores terceiros usam pontos, saldo, gols marcados e sorteio em empate total. Os grupos mantêm os desempates do jogo (pontos, vitórias, saldo e gols).
+
+Página inicial, campos, calendários e painéis usam menos espaço; calendário, demais grupos, mata-mata, resultados e líderes continuam acessíveis pelos controles. Testes específicos: `node tests/format-010-test.cjs`; relatório `docs/format-010-report.json`.

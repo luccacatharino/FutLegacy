@@ -17,4 +17,4 @@ FL.openSlots=(cards,formation,p)=>FL.formations[formation].flatMap((pos,i)=>!car
 FL.compName=comp=>FL.comps[comp]?.name||(comp==='bra'?'Brasileirão (modo removido)':comp);
 
 FL.averageOvr=cards=>{const chosen=cards.filter(Boolean);return chosen.length?chosen.reduce((sum,p)=>sum+p.ovr,0)/chosen.length:0};
-FL.playback={eventMs:160,duration(speed=1){return this.eventMs/([1,3].includes(speed)?speed:1)}};
+FL.playback={eventMs:144,duration(speed=1){return this.eventMs/([1,3].includes(speed)?speed:1)}};
