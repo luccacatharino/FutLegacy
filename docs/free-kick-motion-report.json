@@ -1,8 +1,8 @@
 {
   "matches": 500,
-  "freeKickAttempts": 1360,
-  "freeKickGoals": 118,
-  "conversion": 0.08676470588235294,
-  "exampleSeed": 13,
+  "freeKickAttempts": 1495,
+  "freeKickGoals": 125,
+  "conversion": 0.08361204013377926,
+  "exampleSeed": 24,
   "playbackInvariance": true
 }

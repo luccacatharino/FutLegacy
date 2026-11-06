@@ -1,4 +1,4 @@
-# FutLegacy — Beta 0.8
+# FutLegacy — Beta 0.9
 
 Faixas da página inicial: CR7, Lamine Yamal, Désiré Doué e Dembélé; Messi, Neymar, Luis Suárez e Arrascaeta. Duas montagens de fotos reais (aproximadamente 452 KB no total), alternadas sem abas. Créditos e contextos em `docs/PHOTO-CREDITS.html`. As três competições continuam disponíveis. Todas as fotos são de partidas: Suárez pelo Grêmio, Arrascaeta pelo Flamengo, CR7 com recorte integral e Doué com uniforme de jogo.
 
@@ -106,3 +106,13 @@ Mais 292 cartas da Copa receberam revisão editorial individual em 13 seleções
 Trocas de posição mostram uma prévia antes da confirmação. A página inicial mantém a organização escolhida, com menos altura no celular. O resumo da campanha reúne resultados, agregados, formação, OVR, artilheiro, assistências e destaque. É possível baixar uma imagem PNG ou compartilhar/copiar um texto; tudo é gerado localmente, sem conta ou API. Registros antigos continuam funcionando, com aviso se não houver placares guardados. Novos registros salvam somente os jogos do usuário, sem animações, e respeitam o limite de 50 campanhas.
 
 A simulação usa quem tem a bola para finalizar e favorece passes entre companheiros próximos. Apoios, coberturas, corridas sem bola e espaçamento coletivo foram refinados. Velocidades e pular partida continuam sem alterar os resultados. Balanceamento verificado com confrontos espelhados por diferença de atributos: `docs/calibration-08-report.json`.
+
+## Beta 0.9 — decisões e disciplina
+
+Tela de campeão, cartões persistentes sobre os jogadores durante a partida, segundo amarelo e vermelho direto, exclusão de expulsos das ações e das cobranças de desempate. O time desfalcado recua e perde moderadamente eficiência de ataque, defesa e passe, sem mudar o OVR das cartas. Os cartões são mantidos entre os tempos e a prorrogação; não há suspensões entre partidas. A simulação limita expulsões para conservar sete jogadores: abandono de partida não é implementado.
+
+Tempo normal: dois tempos de 45 minutos, cada um com 0–8 minutos adicionais sorteados pelo gerador da partida. Decisões de mata-mata empatadas (pelo agregado, nas séries de ida e volta) têm dois tempos de 15 minutos, com 0–3 de acréscimos cada; pênaltis apenas se o empate persistir. A ida e a fase de grupos não têm prorrogação. Uma cobrança de pênalti pendente no fim do tempo é concluída no relógio daquele período.
+
+A linha do tempo separa os eventos dos dois times; gols, cartões, pênaltis, escanteios e intervalos ficam em destaque. Outros lances podem ser expandidos. O gráfico de volume ofensivo mede ações em território de ataque, cruzamentos, escanteios e finalizações por minuto; não é posse nem previsão de gol. Inclui acréscimos e prorrogação. Timeline e volume compactos são salvos, sem os quadros da animação.
+
+Referências de regras: [IFAB — disciplina](https://www.theifab.com/laws/latest/fouls-and-misconduct/), [IFAB — decisões e pênaltis](https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/). O limite sorteado dos acréscimos é regra própria do jogo. Testes: `node tests/match-rules-test.cjs`; relatório em `docs/match-rules-report.json`.

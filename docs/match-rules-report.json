@@ -1,0 +1,16 @@
+{
+  "matches": 300,
+  "reds": 58,
+  "secondYellows": 42,
+  "extraTime": 64,
+  "extraTimeGoals": 98,
+  "extraTimeCards": 84,
+  "extraTimePenalties": 21,
+  "stoppageGoals": 106,
+  "shootouts": 11,
+  "examples": {
+    "extraTime": 1,
+    "red": 24,
+    "shootout": 71
+  }
+}

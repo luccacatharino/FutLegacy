@@ -3,18 +3,18 @@
     "attempt": 6,
     "ownMatches": 10,
     "champion": "me",
-    "goals": 21
+    "goals": 19
   },
   "ucl": {
-    "attempt": 1,
+    "attempt": 7,
     "ownMatches": 10,
     "champion": "me",
-    "goals": 18
+    "goals": 25
   },
   "wc": {
     "attempt": 1,
     "ownMatches": 7,
     "champion": "me",
-    "goals": 11
+    "goals": 20
   }
 }
