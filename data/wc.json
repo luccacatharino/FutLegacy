@@ -22542,246 +22542,272 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1958/fra",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Remetter",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 74,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 47,
+          "fis": 77,
+          "ref": 79,
+          "han": 77,
+          "pos": 77,
+          "div": 78,
+          "kic": 69,
+          "one": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Abbès",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 78,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 49,
+          "fis": 81,
+          "ref": 83,
+          "han": 81,
+          "pos": 81,
+          "div": 82,
+          "kic": 72,
+          "one": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Colonna",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75,
+          "ref": 77,
+          "han": 75,
+          "pos": 75,
+          "div": 76,
+          "kic": 67,
+          "one": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Marche",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Kaelbel",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 78,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lerond",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Mouynet",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 78,
+          "fis": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Kopa",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 93,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 89,
+          "fin": 75,
+          "pas": 97,
+          "dri": 93,
+          "def": 57,
+          "fis": 93
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Jonquet",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 84,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 81,
+          "fin": 68,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Piantoni",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Marcel",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 76,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Penverne",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 83,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Vincent",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Oliver",
@@ -22797,127 +22823,143 @@
           "def": 47,
           "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Chiarelli",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lafont",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 76,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 73,
+          "fin": 61,
+          "pas": 76,
+          "dri": 76,
+          "def": 79,
+          "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Hnatow",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 76,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 73,
+          "fin": 61,
+          "pas": 76,
+          "dri": 76,
+          "def": 79,
+          "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bellot",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Fontaine",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 93,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 89,
+          "fin": 97,
+          "pas": 93,
+          "dri": 93,
+          "def": 56,
+          "fis": 93
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Douis",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 81,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Wisnieski",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bruey",
@@ -22933,8 +22975,10 @@
           "def": 46,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -33693,263 +33737,291 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1970/ger",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Maier",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88,
+          "ref": 90,
+          "han": 88,
+          "pos": 88,
+          "div": 89,
+          "kic": 79,
+          "one": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Manglitz",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78,
+          "ref": 80,
+          "han": 78,
+          "pos": 78,
+          "div": 79,
+          "kic": 70,
+          "one": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Wolter",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75,
+          "ref": 77,
+          "han": 75,
+          "pos": 75,
+          "div": 76,
+          "kic": 67,
+          "one": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Beckenbauer",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 93,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 75,
+          "pas": 93,
+          "dri": 93,
+          "def": 97,
+          "fis": 93
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Vogts",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Schnellinger",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Schulz",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 83,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Höttges",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 84,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Fichtel",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Sieloff",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Patzke",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
-        "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
-        },
-        "ratingRevision": 6,
-        "provisionalRating": true
-      },
-      {
-        "name": "Overath",
-        "positions": [
-          "MEI"
-        ],
         "ovr": 77,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
-        },
-        "ratingRevision": 6,
-        "provisionalRating": true
-      },
-      {
-        "name": "Haller",
-        "positions": [
-          "MEI"
-        ],
-        "ovr": 77,
-        "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
-        },
-        "ratingRevision": 6,
-        "provisionalRating": true
-      },
-      {
-        "name": "Weber",
-        "positions": [
-          "VOL"
-        ],
-        "ovr": 77,
-        "attrs": {
-          "vel": 74,
+          "vel": 80,
           "fin": 62,
           "pas": 77,
           "dri": 77,
           "def": 80,
           "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
+      },
+      {
+        "name": "Overath",
+        "positions": [
+          "MEI"
+        ],
+        "ovr": 88,
+        "attrs": {
+          "vel": 85,
+          "fin": 71,
+          "pas": 91,
+          "dri": 88,
+          "def": 54,
+          "fis": 88
+        },
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
+      },
+      {
+        "name": "Haller",
+        "positions": [
+          "MEI"
+        ],
+        "ovr": 82,
+        "attrs": {
+          "vel": 79,
+          "fin": 66,
+          "pas": 85,
+          "dri": 82,
+          "def": 50,
+          "fis": 82
+        },
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
+      },
+      {
+        "name": "Weber",
+        "positions": [
+          "VOL"
+        ],
+        "ovr": 84,
+        "attrs": {
+          "vel": 81,
+          "fin": 68,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
+        },
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lorenz",
@@ -33965,127 +34037,143 @@
           "def": 80,
           "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Dietrich",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 76,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 73,
+          "fin": 61,
+          "pas": 76,
+          "dri": 76,
+          "def": 79,
+          "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Müller",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 93,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 89,
+          "fin": 97,
+          "pas": 93,
+          "dri": 93,
+          "def": 56,
+          "fis": 93
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Seeler",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 86,
+          "fin": 94,
+          "pas": 90,
+          "dri": 90,
+          "def": 54,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Grabowski",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Libuda",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Held",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 80,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 77,
+          "fin": 83,
+          "pas": 80,
+          "dri": 80,
+          "def": 48,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Löhr",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -35713,382 +35801,424 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1974/bra",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Leão",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 51,
+          "fis": 85,
+          "ref": 87,
+          "han": 85,
+          "pos": 85,
+          "div": 86,
+          "kic": 76,
+          "one": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Waldir Peres",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78,
+          "ref": 80,
+          "han": 78,
+          "pos": 78,
+          "div": 79,
+          "kic": 70,
+          "one": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Renato",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75,
+          "ref": 77,
+          "han": 75,
+          "pos": 75,
+          "div": 76,
+          "kic": 67,
+          "one": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Luís Pereira",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 91,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Marinho Chagas",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Zé Maria",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Marinho Peres",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Nelinho",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 86,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Marco Antônio",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Mostarda",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 78,
+          "fis": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Rivelino",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 90,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 86,
+          "fin": 72,
+          "pas": 94,
+          "dri": 90,
+          "def": 55,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Ademir da Guia",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 83,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 80,
+          "fin": 67,
+          "pas": 86,
+          "dri": 83,
+          "def": 51,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Piazza",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 84,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 81,
+          "fin": 68,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Paulo César Caju",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 51,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Dirceu",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 84,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 81,
+          "fin": 68,
+          "pas": 87,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Leivinha",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 80,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 77,
+          "fin": 64,
+          "pas": 83,
+          "dri": 80,
+          "def": 49,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Carpegiani",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 83,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 80,
+          "fin": 67,
+          "pas": 86,
+          "dri": 83,
+          "def": 51,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Jairzinho",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Edu",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "César Maluco",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 74,
+          "fin": 80,
+          "pas": 77,
+          "dri": 77,
+          "def": 47,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Valdomiro",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 84,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 49,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Mirandinha",
@@ -36104,8 +36234,10 @@
           "def": 46,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -44191,30 +44323,32 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1982/fra",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Ettori",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78,
+          "ref": 80,
+          "han": 78,
+          "pos": 78,
+          "div": 79,
+          "kic": 70,
+          "one": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Baratelli",
@@ -44236,354 +44370,396 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Castaneda",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75,
+          "ref": 77,
+          "han": 75,
+          "pos": 75,
+          "div": 76,
+          "kic": 67,
+          "one": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Trésor",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 87,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 84,
+          "fin": 70,
+          "pas": 87,
+          "dri": 87,
+          "def": 90,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bossis",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 83,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Amoros",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 88,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Battiston",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lopez",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Janvion",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Mahut",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 80,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 80,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Platini",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 93,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 89,
+          "fin": 75,
+          "pas": 97,
+          "dri": 93,
+          "def": 57,
+          "fis": 93
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Giresse",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 91,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 87,
+          "fin": 73,
+          "pas": 95,
+          "dri": 91,
+          "def": 56,
+          "fis": 91
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Tigana",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 89,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 86,
+          "fin": 72,
+          "pas": 89,
+          "dri": 89,
+          "def": 92,
+          "fis": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Genghini",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 83,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Girard",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 79,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 76,
+          "fin": 64,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Rocheteau",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Six",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lacombe",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 78,
+          "fin": 84,
+          "pas": 81,
+          "dri": 81,
+          "def": 49,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bellone",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 81,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Larios",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Soler",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Couriol",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 80,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 47,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -47013,53 +47189,57 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1986/eng",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Shilton",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88,
+          "ref": 90,
+          "han": 88,
+          "pos": 88,
+          "div": 89,
+          "kic": 79,
+          "one": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Woods",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78,
+          "ref": 80,
+          "han": 78,
+          "pos": 78,
+          "div": 79,
+          "kic": 70,
+          "one": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bailey",
@@ -47081,314 +47261,352 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Butcher",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 83,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Sansom",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "G. Stevens",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 88,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Anderson",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Martin",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Fenwick",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 79,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "G.A. Stevens",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 80,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 80,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Hoddle",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 88,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 85,
+          "fin": 71,
+          "pas": 91,
+          "dri": 88,
+          "def": 54,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Robson",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 84,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 81,
+          "fin": 68,
+          "pas": 87,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Wilkins",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 82,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 79,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Reid",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 83,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Hodge",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 50,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lineker",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 92,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 88,
+          "fin": 96,
+          "pas": 92,
+          "dri": 92,
+          "def": 56,
+          "fis": 92
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Beardsley",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 87,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 84,
+          "fin": 90,
+          "pas": 87,
+          "dri": 87,
+          "def": 53,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Waddle",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Barnes",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 50,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "T. Steven",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 86,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 50,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Hateley",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 80,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 77,
+          "fin": 83,
+          "pas": 80,
+          "dri": 80,
+          "def": 48,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Dixon",
@@ -47404,8 +47622,10 @@
           "def": 46,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -52280,53 +52500,57 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1990/eng",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Shilton",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 51,
+          "fis": 85,
+          "ref": 87,
+          "han": 85,
+          "pos": 85,
+          "div": 86,
+          "kic": 76,
+          "one": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Woods",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78,
+          "ref": 80,
+          "han": 78,
+          "pos": 78,
+          "div": 79,
+          "kic": 70,
+          "one": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Beasant",
@@ -52348,331 +52572,371 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Pearce",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Des Walker",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 91,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Butcher",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Parker",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Wright",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 83,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "G. Stevens",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Dorigo",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 81,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Gascoigne",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 92,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 88,
+          "fin": 74,
+          "pas": 96,
+          "dri": 92,
+          "def": 56,
+          "fis": 92
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Beardsley",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 86,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 83,
+          "fin": 69,
+          "pas": 89,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Robson",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 83,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Platt",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 90,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 86,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 94,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "McMahon",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 80,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Webb",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 79,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 76,
+          "fin": 64,
+          "pas": 82,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Hodge",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lineker",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 91,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 95,
+          "pas": 91,
+          "dri": 91,
+          "def": 55,
+          "fis": 91
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Waddle",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 91,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Barnes",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 86,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 50,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "T. Steven",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 84,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 49,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bull",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 74,
+          "fin": 80,
+          "pas": 77,
+          "dri": 77,
+          "def": 47,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -56835,382 +57099,424 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1994/nga",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Rufai",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 79,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 50,
+          "fis": 82,
+          "ref": 84,
+          "han": 82,
+          "pos": 82,
+          "div": 83,
+          "kic": 73,
+          "one": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Agu",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 72,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75,
+          "ref": 77,
+          "han": 75,
+          "pos": 75,
+          "div": 76,
+          "kic": 67,
+          "one": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Agbonavbare",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 74,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 71,
+          "fin": 59,
+          "pas": 74,
+          "dri": 74,
+          "def": 45,
+          "fis": 74,
+          "ref": 76,
+          "han": 74,
+          "pos": 74,
+          "div": 75,
+          "kic": 66,
+          "one": 74
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Keshi",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 76,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Eguavoen",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Okechukwu",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Iroha",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 84,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Nwanu",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Okafor",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 74,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 80,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Emenalo",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 84,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Okocha",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Oliseh",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 51,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Oliha",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Adepoju",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 82,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 79,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Siasia",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 84,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 81,
+          "fin": 68,
+          "pas": 87,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Ezeugo",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 78,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Finidi",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 87,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 90,
+          "fin": 70,
+          "pas": 87,
+          "dri": 87,
+          "def": 53,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Yekini",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 83,
+          "fin": 89,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Amunike",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Amokachi",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 91,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Ikpeba",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 76,
+          "fin": 82,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Ekoku",
@@ -57226,8 +57532,10 @@
           "def": 46,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -59751,53 +60059,57 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/1998/den",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Peter Schmeichel",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 86,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 54,
+          "fis": 90,
+          "ref": 92,
+          "han": 90,
+          "pos": 90,
+          "div": 91,
+          "kic": 81,
+          "one": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Mogens Krogh",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 74,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 47,
+          "fis": 77,
+          "ref": 79,
+          "han": 77,
+          "pos": 77,
+          "div": 78,
+          "kic": 69,
+          "one": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Peter Kjær",
@@ -59819,297 +60131,333 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Thomas Helveg",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Marc Rieper",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "René Henriksen",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 80,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Michael Schjønberg",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 84,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Jacob Laursen",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Jes Høgh",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 88,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Jan Heintze",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 86,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Søren Colding",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Michael Laudrup",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 92,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 88,
+          "fin": 74,
+          "pas": 96,
+          "dri": 92,
+          "def": 56,
+          "fis": 92
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Brian Laudrup",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 91,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 73,
+          "pas": 91,
+          "dri": 91,
+          "def": 55,
+          "fis": 91
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Martin Jørgensen",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 51,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Stig Tøfting",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 82,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 79,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bjarne Goldbæk",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Allan Nielsen",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 83,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Per Frandsen",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 80,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Morten Wieghorst",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 80,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Ebbe Sand",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Miklos Molnar",
@@ -60125,25 +60473,29 @@
           "def": 46,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Peter Møller",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -64734,53 +65086,57 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2002/eng",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Seaman",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84,
+          "ref": 86,
+          "han": 84,
+          "pos": 84,
+          "div": 85,
+          "kic": 75,
+          "one": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Martyn",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78,
+          "ref": 80,
+          "han": 78,
+          "pos": 78,
+          "div": 79,
+          "kic": 70,
+          "one": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "D. James",
@@ -64802,348 +65158,390 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Campbell",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 91,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 87,
+          "fin": 73,
+          "pas": 91,
+          "dri": 91,
+          "def": 95,
+          "fis": 91
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "R. Ferdinand",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 86,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 94,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "A. Cole",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 89,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 89,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Southgate",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 76,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Keown",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 74,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 80,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Mills",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 85,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Brown",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 74,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 80,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bridge",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 81,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Beckham",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Scholes",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 86,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 83,
+          "fin": 69,
+          "pas": 89,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Butt",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 88,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 91,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Hargreaves",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 79,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 76,
+          "fin": 64,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "J. Cole",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 78,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 75,
+          "fin": 63,
+          "pas": 81,
+          "dri": 78,
+          "def": 48,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Dyer",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 78,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 75,
+          "fin": 63,
+          "pas": 81,
+          "dri": 78,
+          "def": 48,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Owen",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 89,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 93,
+          "pas": 89,
+          "dri": 89,
+          "def": 54,
+          "fis": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Fowler",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 81,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Heskey",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 79,
+          "fin": 85,
+          "pas": 82,
+          "dri": 82,
+          "def": 50,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Sheringham",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 80,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 77,
+          "fin": 83,
+          "pas": 80,
+          "dri": 80,
+          "def": 48,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Sinclair",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 86,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 50,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Vassell",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 76,
+          "fin": 82,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -71239,399 +71637,443 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2006/eng",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Robinson",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84,
+          "ref": 86,
+          "han": 84,
+          "pos": 84,
+          "div": 85,
+          "kic": 75,
+          "one": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "D. James",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78,
+          "ref": 80,
+          "han": 78,
+          "pos": 78,
+          "div": 79,
+          "kic": 70,
+          "one": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Carson",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 74,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 71,
+          "fin": 59,
+          "pas": 74,
+          "dri": 74,
+          "def": 45,
+          "fis": 74,
+          "ref": 76,
+          "han": 74,
+          "pos": 74,
+          "div": 75,
+          "kic": 66,
+          "one": 74
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Terry",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 89,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 89,
+          "dri": 89,
+          "def": 93,
+          "fis": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "A. Cole",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 94,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 94,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "R. Ferdinand",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 91,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 87,
+          "fin": 73,
+          "pas": 91,
+          "dri": 91,
+          "def": 95,
+          "fis": 91
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Campbell",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 80,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "G. Neville",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 88,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Carragher",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 86,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bridge",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 81,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Gerrard",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 89,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 89,
+          "dri": 89,
+          "def": 54,
+          "fis": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Beckham",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 88,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 91,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lampard",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 85,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 82,
+          "fin": 68,
+          "pas": 88,
+          "dri": 85,
+          "def": 52,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Hargreaves",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 86,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 54,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Carrick",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 81,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 78,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Jenas",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 76,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 73,
+          "fin": 61,
+          "pas": 79,
+          "dri": 76,
+          "def": 46,
+          "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Rooney",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 88,
+          "pas": 85,
+          "dri": 85,
+          "def": 51,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Owen",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 80,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 77,
+          "fin": 83,
+          "pas": 80,
+          "dri": 80,
+          "def": 48,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "J. Cole",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 91,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 53,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lennon",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 82,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 85,
+          "fin": 66,
+          "pas": 82,
+          "dri": 82,
+          "def": 50,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Crouch",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 81,
+          "fin": 87,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Walcott",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 72,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 58,
+          "pas": 72,
+          "dri": 72,
+          "def": 44,
+          "fis": 72
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -82159,30 +82601,32 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2014/chi",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Bravo",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 89,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 89,
+          "dri": 89,
+          "def": 54,
+          "fis": 89,
+          "ref": 91,
+          "han": 89,
+          "pos": 89,
+          "div": 90,
+          "kic": 80,
+          "one": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Herrera",
@@ -82204,257 +82648,325 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Toselli",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 74,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 71,
+          "fin": 59,
+          "pas": 74,
+          "dri": 74,
+          "def": 45,
+          "fis": 74,
+          "ref": 76,
+          "han": 74,
+          "pos": 74,
+          "div": 75,
+          "kic": 66,
+          "one": 74
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Medel",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 87,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 84,
+          "fin": 70,
+          "pas": 87,
+          "dri": 87,
+          "def": 90,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Isla",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 87,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 90,
+          "fin": 70,
+          "pas": 87,
+          "dri": 87,
+          "def": 90,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Mena",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Jara",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Rojas",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 74,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 80,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Albornoz",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 80,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 80,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Vidal",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 88,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 91,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Aránguiz",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 90,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 86,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 94,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Valdivia",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 86,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 83,
+          "fin": 69,
+          "pas": 89,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "M. Díaz",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 87,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 84,
+          "fin": 70,
+          "pas": 87,
+          "dri": 87,
+          "def": 90,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Beausejour",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 80,
+          "fin": 67,
+          "pas": 83,
+          "dri": 83,
+          "def": 50,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Carmona",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 78,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Orellana",
         "positions": [
           "ME"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "F. Silva",
         "positions": [
           "VOL"
+        ],
+        "ovr": 80,
+        "attrs": {
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
+        },
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
+      },
+      {
+        "name": "F. Gutiérrez",
+        "positions": [
+          "MC"
+        ],
+        "ovr": 79,
+        "attrs": {
+          "vel": 76,
+          "fin": 64,
+          "pas": 82,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
+        },
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
+      },
+      {
+        "name": "Fuenzalida",
+        "positions": [
+          "MD"
         ],
         "ovr": 77,
         "attrs": {
@@ -82462,96 +82974,70 @@
           "fin": 62,
           "pas": 77,
           "dri": 77,
-          "def": 80,
-          "fis": 77
-        },
-        "ratingRevision": 6,
-        "provisionalRating": true
-      },
-      {
-        "name": "F. Gutiérrez",
-        "positions": [
-          "MC"
-        ],
-        "ovr": 77,
-        "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
           "def": 47,
           "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
-      },
-      {
-        "name": "Fuenzalida",
-        "positions": [
-          "MD"
-        ],
-        "ovr": 76,
-        "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
-        },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Alexis",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 91,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 95,
+          "fin": 73,
+          "pas": 91,
+          "dri": 91,
+          "def": 55,
+          "fis": 91
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Vargas",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 83,
+          "fin": 89,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Pinilla",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 78,
+          "fin": 84,
+          "pas": 81,
+          "dri": 81,
+          "def": 49,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Paredes",
@@ -82567,8 +83053,10 @@
           "def": 46,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -85630,161 +86118,177 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2014/ned",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Cillessen",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 83,
+          "fin": 69,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86,
+          "ref": 88,
+          "han": 86,
+          "pos": 86,
+          "div": 87,
+          "kic": 77,
+          "one": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Krul",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84,
+          "ref": 86,
+          "han": 84,
+          "pos": 84,
+          "div": 85,
+          "kic": 75,
+          "one": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Vorm",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 74,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 47,
+          "fis": 77,
+          "ref": 79,
+          "han": 77,
+          "pos": 77,
+          "div": 78,
+          "kic": 69,
+          "one": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "De Vrij",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 91,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Blind",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 89,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 93,
+          "fin": 71,
+          "pas": 89,
+          "dri": 89,
+          "def": 93,
+          "fis": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Vlaar",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 86,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 94,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Janmaat",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 84,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Martins Indi",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Veltman",
@@ -85800,229 +86304,257 @@
           "def": 79,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Verhaegh",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 81,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 81,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Sneijder",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 86,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 83,
+          "fin": 69,
+          "pas": 89,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "De Jong",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 87,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 84,
+          "fin": 70,
+          "pas": 87,
+          "dri": 87,
+          "def": 90,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Wijnaldum",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 85,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Kuyt",
         "positions": [
           "MD"
         ],
-        "ovr": 76,
+        "ovr": 87,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 84,
+          "fin": 70,
+          "pas": 87,
+          "dri": 87,
+          "def": 53,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "De Guzman",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 82,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 79,
+          "fin": 66,
+          "pas": 85,
+          "dri": 82,
+          "def": 50,
+          "fis": 82
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Fer",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 80,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Clasie",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 80,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 77,
+          "fin": 64,
+          "pas": 80,
+          "dri": 80,
+          "def": 83,
+          "fis": 80
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Robben",
         "positions": [
           "PD"
         ],
-        "ovr": 76,
+        "ovr": 93,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 97,
+          "fin": 75,
+          "pas": 93,
+          "dri": 93,
+          "def": 56,
+          "fis": 93
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Van Persie",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 86,
+          "fin": 94,
+          "pas": 90,
+          "dri": 90,
+          "def": 54,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Huntelaar",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 83,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 80,
+          "fin": 86,
+          "pas": 83,
+          "dri": 83,
+          "def": 50,
+          "fis": 83
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Depay",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 88,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 51,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lens",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 81,
+          "fin": 63,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },
@@ -102327,7 +102859,7 @@
     "champion": false,
     "source": "https://www.7a0.com.br/en/copas/2022/ned",
     "scope": "Elenco factual do arquivo público referenciado. Nomes podem usar apelidos; avaliações próprias provisórias, não importadas do 7a0.",
-    "ratingMethod": "Perfil posicional conservador próprio; notas individuais provisórias para revisão futura.",
+    "ratingMethod": "Revisão editorial individual de OVR 0.8; atributos derivados provisórios.",
     "players": [
       {
         "name": "Pasveer",
@@ -102349,8 +102881,10 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bijlow",
@@ -102372,150 +102906,168 @@
           "kic": 68,
           "one": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Noppert",
         "positions": [
           "GOL"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76,
-          "ref": 78,
-          "han": 76,
-          "pos": 76,
-          "div": 77,
-          "kic": 68,
-          "one": 76
+          "vel": 81,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 51,
+          "fis": 84,
+          "ref": 86,
+          "han": 84,
+          "pos": 84,
+          "div": 85,
+          "kic": 75,
+          "one": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Van Dijk",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 89,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 89,
+          "dri": 89,
+          "def": 93,
+          "fis": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "De Ligt",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 81,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 78,
+          "fin": 65,
+          "pas": 81,
+          "dri": 81,
+          "def": 84,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Aké",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 89,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 85,
+          "fin": 71,
+          "pas": 89,
+          "dri": 89,
+          "def": 93,
+          "fis": 89
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "De Vrij",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 76,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 82,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Dumfries",
         "positions": [
           "LD"
         ],
-        "ovr": 76,
+        "ovr": 88,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 91,
+          "fin": 71,
+          "pas": 88,
+          "dri": 88,
+          "def": 91,
+          "fis": 88
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Timber",
         "positions": [
           "ZAG"
         ],
-        "ovr": 76,
+        "ovr": 85,
         "attrs": {
-          "vel": 73,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 82,
+          "fin": 68,
+          "pas": 85,
+          "dri": 85,
+          "def": 88,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Blind",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 84,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 87,
+          "fin": 67,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Frimpong",
@@ -102531,263 +103083,295 @@
           "def": 79,
           "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Malacia",
         "positions": [
           "LE"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 79,
-          "fis": 76
+          "vel": 78,
+          "fin": 60,
+          "pas": 75,
+          "dri": 75,
+          "def": 78,
+          "fis": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "F. de Jong",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 90,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 86,
+          "fin": 72,
+          "pas": 94,
+          "dri": 90,
+          "def": 55,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Koopmeiners",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 84,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 81,
+          "fin": 68,
+          "pas": 87,
+          "dri": 84,
+          "def": 51,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Berghuis",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 81,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 78,
+          "fin": 65,
+          "pas": 84,
+          "dri": 81,
+          "def": 49,
+          "fis": 81
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "De Roon",
         "positions": [
           "VOL"
         ],
-        "ovr": 77,
+        "ovr": 84,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 77,
-          "dri": 77,
-          "def": 80,
-          "fis": 77
+          "vel": 81,
+          "fin": 68,
+          "pas": 84,
+          "dri": 84,
+          "def": 87,
+          "fis": 84
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Klaassen",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 85,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 82,
+          "fin": 68,
+          "pas": 88,
+          "dri": 85,
+          "def": 52,
+          "fis": 85
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Xavi Simons",
         "positions": [
           "MEI"
         ],
-        "ovr": 77,
+        "ovr": 76,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 73,
+          "fin": 61,
+          "pas": 79,
+          "dri": 76,
+          "def": 46,
+          "fis": 76
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Taylor",
         "positions": [
           "MC"
         ],
-        "ovr": 77,
+        "ovr": 74,
         "attrs": {
-          "vel": 74,
-          "fin": 62,
-          "pas": 80,
-          "dri": 77,
-          "def": 47,
-          "fis": 77
+          "vel": 71,
+          "fin": 60,
+          "pas": 77,
+          "dri": 74,
+          "def": 45,
+          "fis": 74
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 77,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Depay",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 86,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 83,
+          "fin": 89,
+          "pas": 86,
+          "dri": 86,
+          "def": 52,
+          "fis": 86
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Gakpo",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 90,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 94,
+          "fin": 72,
+          "pas": 90,
+          "dri": 90,
+          "def": 54,
+          "fis": 90
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Bergwijn",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 79,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 82,
+          "fin": 63,
+          "pas": 79,
+          "dri": 79,
+          "def": 48,
+          "fis": 79
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Weghorst",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 87,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 84,
+          "fin": 90,
+          "pas": 87,
+          "dri": 87,
+          "def": 53,
+          "fis": 87
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "L. de Jong",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 78,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 75,
+          "fin": 81,
+          "pas": 78,
+          "dri": 78,
+          "def": 47,
+          "fis": 78
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Lang",
         "positions": [
           "PE"
         ],
-        "ovr": 76,
+        "ovr": 77,
         "attrs": {
-          "vel": 79,
-          "fin": 61,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 80,
+          "fin": 62,
+          "pas": 77,
+          "dri": 77,
+          "def": 47,
+          "fis": 77
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       },
       {
         "name": "Janssen",
         "positions": [
           "ATA"
         ],
-        "ovr": 76,
+        "ovr": 75,
         "attrs": {
-          "vel": 73,
-          "fin": 79,
-          "pas": 76,
-          "dri": 76,
-          "def": 46,
-          "fis": 76
+          "vel": 72,
+          "fin": 78,
+          "pas": 75,
+          "dri": 75,
+          "def": 45,
+          "fis": 75
         },
-        "ratingRevision": 6,
-        "provisionalRating": true
+        "ratingRevision": 8,
+        "previousOvr": 76,
+        "ratingReview": "wc-08",
+        "provisionalAttributes": true
       }
     ]
   },

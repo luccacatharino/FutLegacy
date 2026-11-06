@@ -1,0 +1,1562 @@
+{
+  "method": "Revisão editorial individual de OVR. Fontes de elenco e campanha confirmam o contexto; não fornecem nem endossam estas notas. Reservas com pouca participação recebem avaliações conservadoras. Atributos derivados continuam provisórios. Notas de campanhas já salvas são preservadas.",
+  "sources": [
+    "https://www.fff.fr/article/8495-1958-l-annee-des-records.html",
+    "https://www.fifa.com/en/articles/just-fontaine-thirteen-goals-1958",
+    "https://www.uefa.com/news/0252-0d0418e3fa11-c4f53326f582-1000--netherlands-take-third-place-at-brazil-s-expense/",
+    "https://www.fifa.com/en/news/articles/jay-jay-okocha-usa-1994-nigeria-italy"
+  ],
+  "squads": [
+    {
+      "name": "França",
+      "year": 1958,
+      "source": "https://www.7a0.com.br/en/copas/1958/fra",
+      "players": [
+        {
+          "name": "Remetter",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Abbès",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Colonna",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Marche",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Kaelbel",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Lerond",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Mouynet",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Kopa",
+          "previous": 77,
+          "ovr": 93
+        },
+        {
+          "name": "Jonquet",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Piantoni",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Marcel",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Penverne",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Vincent",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Oliver",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Chiarelli",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Lafont",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Hnatow",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Bellot",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Fontaine",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Douis",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Wisnieski",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Bruey",
+          "previous": 76,
+          "ovr": 76
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "year": 1970,
+      "source": "https://www.7a0.com.br/en/copas/1970/ger",
+      "players": [
+        {
+          "name": "Maier",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Manglitz",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Wolter",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Beckenbauer",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Vogts",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Schnellinger",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Schulz",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Höttges",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Fichtel",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Sieloff",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Patzke",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Overath",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Haller",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Weber",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Lorenz",
+          "previous": 77,
+          "ovr": 77
+        },
+        {
+          "name": "Dietrich",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Müller",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Seeler",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Grabowski",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Libuda",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Held",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Löhr",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "year": 1974,
+      "source": "https://www.7a0.com.br/en/copas/1974/bra",
+      "players": [
+        {
+          "name": "Leão",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Waldir Peres",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Renato",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Luís Pereira",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Marinho Chagas",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Zé Maria",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Marinho Peres",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Nelinho",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Marco Antônio",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Mostarda",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Rivelino",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Ademir da Guia",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Piazza",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Paulo César Caju",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Dirceu",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Leivinha",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Carpegiani",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Jairzinho",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Edu",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "César Maluco",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Valdomiro",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Mirandinha",
+          "previous": 76,
+          "ovr": 76
+        }
+      ]
+    },
+    {
+      "name": "França",
+      "year": 1982,
+      "source": "https://www.7a0.com.br/en/copas/1982/fra",
+      "players": [
+        {
+          "name": "Ettori",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Baratelli",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Castaneda",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Trésor",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Bossis",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Amoros",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Battiston",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Lopez",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Janvion",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Mahut",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Platini",
+          "previous": 77,
+          "ovr": 93
+        },
+        {
+          "name": "Giresse",
+          "previous": 77,
+          "ovr": 91
+        },
+        {
+          "name": "Tigana",
+          "previous": 77,
+          "ovr": 89
+        },
+        {
+          "name": "Genghini",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Girard",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Rocheteau",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Six",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Lacombe",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Bellone",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Larios",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Soler",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Couriol",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Inglaterra",
+      "year": 1986,
+      "source": "https://www.7a0.com.br/en/copas/1986/eng",
+      "players": [
+        {
+          "name": "Shilton",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Woods",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Bailey",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Butcher",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Sansom",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "G. Stevens",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Anderson",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Martin",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Fenwick",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "G.A. Stevens",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Hoddle",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Robson",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Wilkins",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Reid",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Hodge",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Lineker",
+          "previous": 76,
+          "ovr": 92
+        },
+        {
+          "name": "Beardsley",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Waddle",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Barnes",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "T. Steven",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Hateley",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Dixon",
+          "previous": 76,
+          "ovr": 76
+        }
+      ]
+    },
+    {
+      "name": "Inglaterra",
+      "year": 1990,
+      "source": "https://www.7a0.com.br/en/copas/1990/eng",
+      "players": [
+        {
+          "name": "Shilton",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Woods",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Beasant",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Pearce",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Des Walker",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Butcher",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Parker",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Wright",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "G. Stevens",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Dorigo",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Gascoigne",
+          "previous": 77,
+          "ovr": 92
+        },
+        {
+          "name": "Beardsley",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Robson",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Platt",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "McMahon",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Webb",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Hodge",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Lineker",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Waddle",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Barnes",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "T. Steven",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Bull",
+          "previous": 76,
+          "ovr": 77
+        }
+      ]
+    },
+    {
+      "name": "Nigéria",
+      "year": 1994,
+      "source": "https://www.7a0.com.br/en/copas/1994/nga",
+      "players": [
+        {
+          "name": "Rufai",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Agu",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "Agbonavbare",
+          "previous": 76,
+          "ovr": 74
+        },
+        {
+          "name": "Keshi",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Eguavoen",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Okechukwu",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Iroha",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Nwanu",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Okafor",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Emenalo",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Okocha",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Oliseh",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Oliha",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Adepoju",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Siasia",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Ezeugo",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Finidi",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Yekini",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Amunike",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Amokachi",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Ikpeba",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Ekoku",
+          "previous": 76,
+          "ovr": 76
+        }
+      ]
+    },
+    {
+      "name": "Dinamarca",
+      "year": 1998,
+      "source": "https://www.7a0.com.br/en/copas/1998/den",
+      "players": [
+        {
+          "name": "Peter Schmeichel",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Mogens Krogh",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Peter Kjær",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Thomas Helveg",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Marc Rieper",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "René Henriksen",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Michael Schjønberg",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Jacob Laursen",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Jes Høgh",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Jan Heintze",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Søren Colding",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Michael Laudrup",
+          "previous": 77,
+          "ovr": 92
+        },
+        {
+          "name": "Brian Laudrup",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Martin Jørgensen",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Stig Tøfting",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Bjarne Goldbæk",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Allan Nielsen",
+          "previous": 77,
+          "ovr": 83
+        },
+        {
+          "name": "Per Frandsen",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Morten Wieghorst",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Ebbe Sand",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Miklos Molnar",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Peter Møller",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Inglaterra",
+      "year": 2002,
+      "source": "https://www.7a0.com.br/en/copas/2002/eng",
+      "players": [
+        {
+          "name": "Seaman",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Martyn",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "D. James",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Campbell",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "R. Ferdinand",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "A. Cole",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Southgate",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Keown",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Mills",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Brown",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Bridge",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Beckham",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Scholes",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "Butt",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Hargreaves",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "J. Cole",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Dyer",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Owen",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Fowler",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Heskey",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Sheringham",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "Sinclair",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Vassell",
+          "previous": 76,
+          "ovr": 79
+        }
+      ]
+    },
+    {
+      "name": "Inglaterra",
+      "year": 2006,
+      "source": "https://www.7a0.com.br/en/copas/2006/eng",
+      "players": [
+        {
+          "name": "Robinson",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "D. James",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Carson",
+          "previous": 76,
+          "ovr": 74
+        },
+        {
+          "name": "Terry",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "A. Cole",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "R. Ferdinand",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Campbell",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "G. Neville",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Carragher",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Bridge",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Gerrard",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Beckham",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Lampard",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Hargreaves",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Carrick",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "Jenas",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Rooney",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Owen",
+          "previous": 76,
+          "ovr": 80
+        },
+        {
+          "name": "J. Cole",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Lennon",
+          "previous": 76,
+          "ovr": 82
+        },
+        {
+          "name": "Crouch",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Walcott",
+          "previous": 76,
+          "ovr": 72
+        }
+      ]
+    },
+    {
+      "name": "Países Baixos",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/ned",
+      "players": [
+        {
+          "name": "Cillessen",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Krul",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Vorm",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "De Vrij",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Blind",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Vlaar",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Janmaat",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Martins Indi",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Veltman",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Verhaegh",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Sneijder",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "De Jong",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Wijnaldum",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Kuyt",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "De Guzman",
+          "previous": 77,
+          "ovr": 82
+        },
+        {
+          "name": "Fer",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Clasie",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "Robben",
+          "previous": 76,
+          "ovr": 93
+        },
+        {
+          "name": "Van Persie",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Huntelaar",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Depay",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Lens",
+          "previous": 76,
+          "ovr": 78
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "year": 2014,
+      "source": "https://www.7a0.com.br/en/copas/2014/chi",
+      "players": [
+        {
+          "name": "Bravo",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "Herrera",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Toselli",
+          "previous": 76,
+          "ovr": 74
+        },
+        {
+          "name": "Medel",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Isla",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "Mena",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Jara",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Rojas",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Albornoz",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Vidal",
+          "previous": 77,
+          "ovr": 88
+        },
+        {
+          "name": "Aránguiz",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Valdivia",
+          "previous": 77,
+          "ovr": 86
+        },
+        {
+          "name": "M. Díaz",
+          "previous": 77,
+          "ovr": 87
+        },
+        {
+          "name": "Beausejour",
+          "previous": 76,
+          "ovr": 83
+        },
+        {
+          "name": "Carmona",
+          "previous": 77,
+          "ovr": 78
+        },
+        {
+          "name": "Orellana",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "F. Silva",
+          "previous": 77,
+          "ovr": 80
+        },
+        {
+          "name": "F. Gutiérrez",
+          "previous": 77,
+          "ovr": 79
+        },
+        {
+          "name": "Fuenzalida",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Alexis",
+          "previous": 76,
+          "ovr": 91
+        },
+        {
+          "name": "Vargas",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Pinilla",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Paredes",
+          "previous": 76,
+          "ovr": 76
+        }
+      ]
+    },
+    {
+      "name": "Países Baixos",
+      "year": 2022,
+      "source": "https://www.7a0.com.br/en/copas/2022/ned",
+      "players": [
+        {
+          "name": "Pasveer",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Bijlow",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Noppert",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Van Dijk",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "De Ligt",
+          "previous": 76,
+          "ovr": 81
+        },
+        {
+          "name": "Aké",
+          "previous": 76,
+          "ovr": 89
+        },
+        {
+          "name": "De Vrij",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Dumfries",
+          "previous": 76,
+          "ovr": 88
+        },
+        {
+          "name": "Timber",
+          "previous": 76,
+          "ovr": 85
+        },
+        {
+          "name": "Blind",
+          "previous": 76,
+          "ovr": 84
+        },
+        {
+          "name": "Frimpong",
+          "previous": 76,
+          "ovr": 76
+        },
+        {
+          "name": "Malacia",
+          "previous": 76,
+          "ovr": 75
+        },
+        {
+          "name": "F. de Jong",
+          "previous": 77,
+          "ovr": 90
+        },
+        {
+          "name": "Koopmeiners",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Berghuis",
+          "previous": 77,
+          "ovr": 81
+        },
+        {
+          "name": "De Roon",
+          "previous": 77,
+          "ovr": 84
+        },
+        {
+          "name": "Klaassen",
+          "previous": 77,
+          "ovr": 85
+        },
+        {
+          "name": "Xavi Simons",
+          "previous": 77,
+          "ovr": 76
+        },
+        {
+          "name": "Taylor",
+          "previous": 77,
+          "ovr": 74
+        },
+        {
+          "name": "Depay",
+          "previous": 76,
+          "ovr": 86
+        },
+        {
+          "name": "Gakpo",
+          "previous": 76,
+          "ovr": 90
+        },
+        {
+          "name": "Bergwijn",
+          "previous": 76,
+          "ovr": 79
+        },
+        {
+          "name": "Weghorst",
+          "previous": 76,
+          "ovr": 87
+        },
+        {
+          "name": "L. de Jong",
+          "previous": 76,
+          "ovr": 78
+        },
+        {
+          "name": "Lang",
+          "previous": 76,
+          "ovr": 77
+        },
+        {
+          "name": "Janssen",
+          "previous": 76,
+          "ovr": 75
+        }
+      ]
+    }
+  ]
+}

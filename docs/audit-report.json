@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T05:21:11.637Z",
+  "generatedAt": "2026-11-06T01:57:16.910Z",
   "competitions": {
     "lib": {
       "name": "Libertadores",
@@ -170,8 +170,8 @@
     "wc": {
       "name": "Copa do Mundo",
       "ratingDistribution": {
-        "mean": 77.95713107996703,
-        "atLeast90": 116,
+        "mean": 78.25375103050288,
+        "atLeast90": 143,
         "atLeast95": 3
       },
       "clubs": 55,
